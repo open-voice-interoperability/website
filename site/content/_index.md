@@ -1,7 +1,7 @@
 ---
 title: Open Voice Network
 subtitle: Voice for everyone
-image: /img/home-jumbotron.jpg
+image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
 blurb:
   heading: Why Open Voice Network?
   text: >-
