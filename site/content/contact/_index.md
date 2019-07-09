@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Email
+    text: hello@openvoicenetwork.org
+  - heading: Other
+    text: >-
+      We also have a Slack organization we can add you to. In person visits can
+      be arranged depending on the subject matter and type of meeting needed.
+      Reach out and let us know.
 ---
-
 We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+questions. Ideas, questions, and feedback are valuable to us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Below are the ways you can reach us.
