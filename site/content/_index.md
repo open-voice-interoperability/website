@@ -5,10 +5,7 @@ image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
 blurb:
   heading: Why Open Voice Network?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    The Open Voice Network (OVN) seeks to share voice with everyone by creating a future for artificial intelligence-enabled voice (AI-voice) search, communication, and commerce that is open: standards-based, interoperable, and data-protected.
 intro:
   heading: What we offer
   text: >-
