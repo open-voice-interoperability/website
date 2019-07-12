@@ -1,7 +1,6 @@
 ---
-title: Our Coffee
-type: join
-image: /img/join-jumbotron.jpg
+title: Join us
+image: /img/aaron-huber-lnr-kngyj9g-unsplash.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
