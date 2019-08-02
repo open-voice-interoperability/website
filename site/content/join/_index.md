@@ -43,7 +43,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Value in Membership
   description: >-
     Open Voice Network members will help shape the future of AI-voice in
     consumer-facing industries in areas of technology, value propositions,
