@@ -57,7 +57,7 @@ main:
     image: /img/join-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/join-grid1.jpg
+    image: /img/about-shade-grown.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
