@@ -69,11 +69,8 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/join-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Open Voice Network Membership
+  description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy.  Open Voice Network (OVN) membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
