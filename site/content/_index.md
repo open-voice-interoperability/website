@@ -30,6 +30,8 @@ join:
       proprietary AI-voice platforms now dominate the Europe-North America voice
       markets that are not interoperable and they claim the data in
       platform-based interactions.
+  - image: /img/illustrations-tutorials.svg
+    text: Another join
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
