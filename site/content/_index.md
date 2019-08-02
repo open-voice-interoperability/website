@@ -25,7 +25,9 @@ join:
       grows, proprietary AI-voice platforms will extract ever-greater value from
       commerce brands, in data collection, SEO, and access tolls.
   - image: /img/illustrations-coffee-gear.svg
-    text: 'AI-voice '
+    text: >-
+      AI-voice currently gives brands a window into users' emotion and health –
+      with positive and negative implications.
   - image: /img/illustrations-tutorials.svg
     text: >-
       To participate with the proprietary AI-voice platforms, consumer-facing
