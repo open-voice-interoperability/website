@@ -3,20 +3,21 @@ title: Open Voice Network
 subtitle: Voice for everyone
 image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
 blurb:
-  heading: Why Open Voice Network?
-  text: >-
-    The Open Voice Network (OVN) seeks to share voice with everyone by creating
-    a future for artificial intelligence-enabled voice (AI-voice) search,
-    communication, and commerce that is open: standards-based, interoperable,
-    accessible, and data-protected. 
-intro:
   heading: The Importance of "Open" Voice
   text: >-
     Artificial Intelligence-enables Voice Assistance – such as Amazon's Alex,
     Apple's Siri, Samsung's Bixby, or Google Home – will soon be a primary
     interface for all digital devices, from smart speakers and smartphones to
     automobiles and appliances. We are moving rapidly into a post-type and
-    -touch world.
+    -touch world. 
+intro:
+  heading: Why Open Voice Network?
+  text: >-
+    The Open Voice Network (OVN) seeks to share voice with everyone by creating
+    a future for artificial intelligence-enabled voice (AI-voice) search,
+    communication, and commerce that is open: standards-based, interoperable,
+    accessible, and data-protected. It will create open AI-voice value in three
+    ways:
 join:
   - image: img/illustrations-coffee.svg
     text: >-
