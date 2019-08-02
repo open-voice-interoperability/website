@@ -8,7 +8,7 @@ blurb:
     The Open Voice Network (OVN) seeks to share voice with everyone by creating
     a future for artificial intelligence-enabled voice (AI-voice) search,
     communication, and commerce that is open: standards-based, interoperable,
-    accessible, and data-protected.
+    accessible, and data-protected. 
 intro:
   heading: The Importance of "Open" Voice
   text: >-
@@ -20,18 +20,17 @@ intro:
 join:
   - image: img/illustrations-coffee.svg
     text: >-
-      AI-voice interactions are data-rich. Voice expands the whole notion of
-      available personal information. It is a delivery mechanism and window into
-      emotion and health, and eavesdropping.
+      The AI-voice market leaders have created proprietary, soloed, and gated
+      AI-voice platforms and ecosystems. As AI-voice availability and adoption
+      grows, proprietary AI-voice platforms will extract ever-greater value from
+      commerce brands, in data collection, SEO, and access tolls.
   - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      Voice will be importance in commerce. In the future, shoppers will connect
-      to brands – and brands to shoppers – through AI-voice. A small number of
-      proprietary AI-voice platforms now dominate the Europe-North America voice
-      markets that are not interoperable and they claim the data in
-      platform-based interactions.
+    text: 'AI-voice '
   - image: /img/illustrations-tutorials.svg
-    text: Another join
+    text: >-
+      To participate with the proprietary AI-voice platforms, consumer-facing
+      brands must now give up control, direct contact, and customer data –
+      unless we act now.
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
