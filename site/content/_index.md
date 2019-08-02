@@ -20,19 +20,20 @@ intro:
 join:
   - image: img/illustrations-coffee.svg
     text: >-
-      The AI-voice market leaders have created proprietary, soloed, and gated
-      AI-voice platforms and ecosystems. As AI-voice availability and adoption
-      grows, proprietary AI-voice platforms will extract ever-greater value from
-      commerce brands, in data collection, SEO, and access tolls.
+      Standards development: through third-party research and recommendations
+      toward the global standards that will enable interoperable, accessible and
+      data-protected AI-voice assistant search, communication, and commerce.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      AI-voice currently gives brands a window into users' emotion and health –
-      with positive and negative implications.
+      Industry value and awareness: identification and sharing of voice-centric
+      value propositions and best practices across consumer-facing industries;
+      serving as the source of insight and interpretation for AI-voice in
+      consumer-facing industries.
   - image: /img/illustrations-tutorials.svg
     text: >-
-      To participate with the proprietary AI-voice platforms, consumer-facing
-      brands must now give up control, direct contact, and customer data –
-      unless we act now.
+      Advocacy: working with and through existing industry associations on
+      relevant regulatory and legislative issues, including those of data
+      privacy and antitrust.
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
