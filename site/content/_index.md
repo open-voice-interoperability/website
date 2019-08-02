@@ -10,28 +10,34 @@ blurb:
     communication, and commerce that is open: standards-based, interoperable,
     accessible, and data-protected.
 intro:
-  heading: The Importance of Voice and "Open" Voice
+  heading: The Importance of "Open" Voice
   text: >-
     Artificial Intelligence-enables Voice Assistance – such as Amazon's Alex,
     Apple's Siri, Samsung's Bixby, or Google Home – will soon be a primary
     interface for all digital devices, from smart speakers and smartphones to
-    automobiles and appliances. 
+    automobiles and appliances. We are moving rapidly into a post-type and
+    -touch world.
 join:
   - image: img/illustrations-coffee.svg
-    text: We
+    text: >-
+      AI-voice interactions are data-rich. Voice expands the whole notion of
+      available personal information. It is a delivery mechanism and window into
+      emotion and health, and eavesdropping.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Voice will be importance in commerce. In the future, shoppers will connect
+      to brands – and brands to shoppers – through AI-voice. A small number of
+      proprietary AI-voice platforms now dominate the Europe-North America voice
+      markets that are not interoperable and they claim the data in
+      platform-based interactions.
 about:
-  heading: Mission of The Open Voice Network (OVN)
+  heading: Why the Need for The Open Voice Network (OVN)
   text: >-
-    As a Directed Fund project of The Linux Foundation, The Open Voice Network
-    is global in scope and inclusive of consumer-facing entities, both private
-    and public. The OVN will deliver its vision through research that leads to
-    the proposal and adoption of global standards, the raising of industry
-    awareness, and public advocacy.
+    Open Voice Network members will help shape the future of commerce – in
+    increasingly critical issues of technology, competition, and commercial and
+    personal information privacy. The Open Voice Network is a directed fund
+    project of The Linux Foundation, and as such, also supports the Foundation's
+    broader mission of helping establish, build, and sustain some of the most
+    critical open source technologies.
 ---
 
