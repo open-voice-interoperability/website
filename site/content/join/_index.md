@@ -44,11 +44,11 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: >-
+    Open Voice Network members will help shape the future of AI-voice in
+    consumer-facing industries in areas of technology, value propositions,
+    provider ecosystems, competition, and commercial and personal information
+    privacy.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/join-grid3.jpg
@@ -72,26 +72,46 @@ pricing:
   heading: Open Voice Network Membership
   description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy.  Open Voice Network (OVN) membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: "To support the OVN’s mission of research, awareness, and advocacy. \_OVN Platinum Sponsors serve on the OVN Steering Committee, will serve on and guide other OVN decision-making bodies, and will advise and guide Open Voice standards-centric research."
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - List
+        - list
+        - list
+      plan: >-
+        OVN PLATINUM SPONSORS Contribute a sum of $100,000 USD per annum across
+        a three-year
+      price: '100,000 USD per annum'
+    - description: "enterprises that pledge and contribute a sum of $50,000 USD per annum across a three-year OVN commitment (total commitment:  $150,000 USD) to support the OVN’s mission of research, awareness, and advocacy. \_OVN Gold Sponsors are represented on the OVN Steering Committee, and may participate in other OVN committees."
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - List
+        - list
+        - list
+      plan: OVN GOLD SPONSORS
+      price: '50,000 USD per annum'
+    - description: >-
+        Voice-centric and/or relevant early-stage technology firms that pledge
+        and contribute a sum of $7,500 USD per annum across a three-year OVN
+        commitment (total commitment: $22,500) to support the OVN’s mission of
+        research, awareness, and advocacy.  OVN Advocates are represented on the
+        OVN Steering Committee, and may participate in other OVN committees.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - List
+        - list
+        - list
+      plan: 'OVN ADVOCATES '
+      price: '7,500 USD per annum'
+    - description: >-
+        Industry associations, consumer-facing media and marketing firms, and
+        academic institutions that are associate members of The Linux
+        Foundation, and annually contribute tangible in-kind value in support of
+        the Open Voice Network’s mission of awareness, standards development,
+        and advocacy.  OVN Associates are represented on the OVN Steering
+        Committee, and may participate in other OVN committees.
+      items:
+        - List
+        - list
+        - list
+      plan: 'OVN ASSOCIATES '
+      price: '0'
 ---
 
