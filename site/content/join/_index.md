@@ -1,12 +1,12 @@
 ---
 title: Join us
 image: /img/aaron-huber-lnr-kngyj9g-unsplash.jpg
-heading: What we offer
+heading: Why Join The Open Voice Network?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Open Voice Network members will help shape the future of AI-voice in
+  consumer-facing industries in areas of technology, value propositions,
+  provider ecosystems, competition, and commercial and personal information
+  privacy.  
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
