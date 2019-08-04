@@ -8,7 +8,7 @@ contact_entries:
       industries. Contact us to discuss your opportunities.
   - heading: Media
     text: >-
-      The news is out. Open voice is needed – and now. OVN will happily provide
+      The news is out. Open voice is needed – and now. OVN is happy to provide
       information, quotes and resources to media journalists and bloggers.
 ---
 Ready to get involved? Your ideas, questions, and feedback are valuable to us.
