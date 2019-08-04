@@ -19,7 +19,7 @@ intro:
       text: >-
         A small number of proprietary AI-voice platforms now dominate the
         Europe-North America voice markets that are not interoperable and claim
-        data in platform-based interactions. In an era of increasing AI-voic
+        data in platform-based interactions. In an era of increasing AI-voice
         adoption, this situation threatens consumers and all consumer-facing
         companies.
     - image: /img/illustrations-tutorials.svg
