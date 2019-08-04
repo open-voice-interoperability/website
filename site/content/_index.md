@@ -41,9 +41,6 @@ about:
   text: >-
     Open Voice Network members will help shape the future of commerce – in
     increasingly critical issues of technology, competition, and commercial and
-    personal information privacy. The Open Voice Network is a directed fund
-    project of The Linux Foundation, and as such, also supports the Foundation's
-    broader mission of helping establish, build, and sustain some of the most
-    critical open source technologies.
+    personal information privacy.
 ---
 
