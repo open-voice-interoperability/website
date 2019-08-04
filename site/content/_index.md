@@ -9,7 +9,8 @@ blurb:
     Apple's Siri, Samsung's Bixby, or Google Home – will soon be a primary
     interface for all digital devices, from smart speakers and smartphones to
     automobiles and appliances. We are moving rapidly into a post-type and
-    -touch world. 
+    -touch world. Currently, a few major market leaders are the gatekeepers and
+    have access to data-rich communication from users to commerce brands.
 intro:
   heading: Why Open Voice Network?
   text: >-
