@@ -49,7 +49,7 @@ main:
     privacy.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/join-grid3.jpg
+    image: /img/blog-index.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/join-grid2.jpg
@@ -65,7 +65,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/join-full-width.jpg
+full_image: /img/open-voice-network-join-connect.jpg
 pricing:
   heading: Open Voice Network Membership
   description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy.  Open Voice Network (OVN) membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
