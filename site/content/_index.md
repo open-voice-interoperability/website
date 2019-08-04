@@ -21,21 +21,19 @@ intro:
 join:
   - image: img/illustrations-coffee.svg
     text: >-
-      The AI-voice market leaders have created proprietary, soloed, and gated
-      AI-voice platforms and ecosystems. These platforms claim broad data
-      rights. As AI-voice grows, proprietary platforms will extract ever greater
-      value and data from commerce brands.
+      A small number of proprietary AI-voice market leaders have created
+      proprietary, soloed, and gated AI-voice platforms and ecosystems. These
+      platforms claim broad data rights.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      A small number of proprietary AI-voice platforms now dominate the
-      Europe-North America voice markets. These platforms are not interoperable
-      and claim data in interactions. In an era of increasing AI-voice adoption,
-      this threatens consumers and all consumer-facing companies.
+      As AI-voice grows, proprietary platforms will extract ever greater value
+      and data from commerce brands, threatening consumers and all
+      consumer-facing companies.
   - image: /img/illustrations-tutorials.svg
     text: >-
-      Working with and through existing industry associations on relevant
-      regulatory and legislative issues, including those of data privacy and
-      antitrust, The Open Voice Network 
+      Commerce brands will see value from The Open Voice Network through
+      research that leads to global standards, advocacy of privacy issues and a
+      level playing field that is essential for consumers and brands.
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
