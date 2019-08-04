@@ -10,33 +10,32 @@ blurb:
     interface for all digital devices, from smart speakers and smartphones to
     automobiles and appliances. We are moving rapidly into a post-type and
     -touch world. Currently, a few major market leaders are the gatekeepers and
-    have access to data-rich communication from users to commerce brands.
+    hold access to data-rich communication from users to commerce brands.
 intro:
   heading: Why Open Voice Network?
   text: >-
     The Open Voice Network (OVN) seeks to share voice with everyone by creating
     a future for artificial intelligence-enabled voice (AI-voice) search,
     communication, and commerce that is open: standards-based, interoperable,
-    accessible, and data-protected. It will create open AI-voice value in three
-    ways:
+    accessible, and data-protected.
 join:
   - image: img/illustrations-coffee.svg
     text: >-
-      Standards Development. Third-party research and recommendations toward the
-      global standards have already begun that will enable interoperable,
-      accessible and data-protected AI-voice assistant search, communication and
-      commerce.
+      The AI-voice market leaders have created proprietary, soloed, and gated
+      AI-voice platforms and ecosystems. These platforms claim broad data
+      rights. As AI-voice grows, proprietary platforms will extract ever greater
+      value and data from commerce brands.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      Industry Value and Awareness. identification and sharing of voice-centric
-      value propositions and best practices across consumer-facing industries;
-      serving as the source of insight and interpretation for AI-voice in
-      consumer-facing industries.
+      A small number of proprietary AI-voice platforms now dominate the
+      Europe-North America voice markets. These platforms are not interoperable
+      and claim data in interactions. In an era of increasing AI-voice adoption,
+      this threatens consumers and all consumer-facing companies.
   - image: /img/illustrations-tutorials.svg
     text: >-
-      Advocacy: working with and through existing industry associations on
-      relevant regulatory and legislative issues, including those of data
-      privacy and antitrust.
+      Working with and through existing industry associations on relevant
+      regulatory and legislative issues, including those of data privacy and
+      antitrust, The Open Voice Network 
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
