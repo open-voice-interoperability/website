@@ -2,14 +2,14 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Email
-    text: hello@openvoicenetwork.org
-  - heading: Chat / In Person
-    text: >-
-      We also have a Slack organization we can add you to. In person visits can
-      be arranged depending on the subject matter and type of meeting needed.
-      Reach out and let us know.
+  - heading: Membership
+    text: Contact us to discuss membership and requirements.
+  - heading: Media
+    text: |2
+       Media outlets and bloggers.
 ---
-We’d love to get in touch with you. Your ideas, questions, and feedback are valuable to us.
+Interested in getting involved or learning more? Your ideas, questions, and feedback are valuable to us.
 
-Below are the ways you can reach us.
+
+
+Follow us on social media or reach out at hello@openvoicenetwork.org.
