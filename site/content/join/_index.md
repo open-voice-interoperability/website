@@ -16,11 +16,11 @@ intro:
         rights. As AI-voice grows, proprietary platforms will extract ever
         greater value and data from commerce brands.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        OVN will drive industry awareness and advocacy of the opportunity,
+        challenges and impact of AI-voice in consumer-facing industries. We will
+        sponsor research that will explore, develop and assert standards and
+        technologies of open voice.
     - image: /img/illustrations-tutorials.svg
       text: >-
         A small number of proprietary AI-voice platforms now dominate the
