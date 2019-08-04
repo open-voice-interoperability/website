@@ -17,17 +17,17 @@ intro:
         greater value and data from commerce brands.
     - image: /img/illustrations-coffee-gear.svg
       text: >-
-        OVN will drive industry awareness and advocacy of the opportunity,
-        challenges and impact of AI-voice in consumer-facing industries. We will
-        sponsor research that will explore, develop and assert standards and
-        technologies of open voice.
-    - image: /img/illustrations-tutorials.svg
-      text: >-
         A small number of proprietary AI-voice platforms now dominate the
         Europe-North America voice markets that are not interoperable and claim
         data in platform-based interactions. In an era of increasing AI-voic
         adoption, this situation threatens consumers and all consumer-facing
         companies.
+    - image: /img/illustrations-tutorials.svg
+      text: >-
+        OVN will drive industry awareness and advocacy of the opportunity,
+        challenges and impact of AI-voice in consumer-facing industries. We will
+        sponsor research that will explore, develop and assert standards and
+        technologies of open voice.
     - image: /img/illustrations-meeting-space.svg
       text: >-
         We will work to create a "Voice Name System (VNS)" for voice, similar to
