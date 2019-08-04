@@ -22,12 +22,13 @@ intro:
 join:
   - image: img/illustrations-coffee.svg
     text: >-
-      Standards development: through third-party research and recommendations
-      toward the global standards that will enable interoperable, accessible and
-      data-protected AI-voice assistant search, communication, and commerce.
+      Standards Development. Third-party research and recommendations toward the
+      global standards have already begun that will enable interoperable,
+      accessible and data-protected AI-voice assistant search, communication and
+      commerce.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
-      Industry value and awareness: identification and sharing of voice-centric
+      Industry Value and Awareness. identification and sharing of voice-centric
       value propositions and best practices across consumer-facing industries;
       serving as the source of insight and interpretation for AI-voice in
       consumer-facing industries.
