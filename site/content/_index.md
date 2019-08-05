@@ -5,7 +5,7 @@ subtitle: >-
   future for artificial intelligence-enabled voice (AI-voice) search,
   communication, and commerce that is open: standards-based, interoperable,
   accessible, and data-protected.
-image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
+image: /img/open-voice-network-cover-2.png
 blurb:
   heading: The Importance of "Open" Voice
   text: >-
