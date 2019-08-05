@@ -9,19 +9,6 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >-
-        The AI-voice market leaders have created proprietary, siloed, and gated
-        AI-voice platforms and ecosystems. These platforms claim broad data
-        rights. As AI-voice grows, proprietary platforms will extract ever
-        greater value and data from commerce brands.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >-
-        A small number of proprietary AI-voice platforms now dominate the
-        Europe-North America voice markets that are not interoperable and claim
-        data in platform-based interactions. In an era of increasing AI-voice
-        adoption, this situation threatens consumers and all consumer-facing
-        companies.
     - image: /img/illustrations-tutorials.svg
       text: >-
         OVN will drive industry awareness and advocacy of the opportunity,
