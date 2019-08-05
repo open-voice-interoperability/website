@@ -31,9 +31,9 @@ join:
       consumer-facing companies.
   - image: /img/illustrations-tutorials.svg
     text: >-
-      Commerce brands will see value from The Open Voice Network through
-      research that leads to global standards, advocacy of privacy issues and a
-      level playing field that is essential for consumers and brands.
+      Commerce brands will see value from OVN through research that leads to
+      global standards, advocacy of data and privacy issues, and
+      interoperability that is essential for consumers and brands.
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
