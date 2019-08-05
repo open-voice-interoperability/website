@@ -5,12 +5,12 @@ image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
 blurb:
   heading: The Importance of "Open" Voice
   text: >-
-    Artificial Intelligence-enables Voice Assistance – such as Amazon's Alex,
-    Apple's Siri, Samsung's Bixby, or Google Home – will soon be a primary
-    interface for all digital devices, from smart speakers and smartphones to
-    automobiles and appliances. We are moving rapidly into a post-type and
-    -touch world. Currently, a few major market leaders are the gatekeepers and
-    hold access to data-rich communication from users to commerce brands.
+    We are moving rapidly into a post-type and -touch world. Currently, a few
+    major market leaders are the gatekeepers and hold access to data-rich
+    communication from users to commerce brands. Artificial Intelligence-enables
+    Voice Assistance – such as Amazon's Alex, Apple's Siri, Samsung's Bixby or
+    Google Home – will soon be a primary interface for all digital devices, from
+    smart speakers and smartphones to automobiles and appliances.
 intro:
   heading: Why Open Voice Network?
   text: >-
