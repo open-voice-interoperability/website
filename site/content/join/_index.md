@@ -17,10 +17,9 @@ intro:
         technologies of open voice.
     - image: /img/illustrations-meeting-space.svg
       text: >-
-        OVN will drive industry awareness and advocacy of the opportunity,
-        challenges, and impact of AI-voice in consumer-facing industries. This
-        Network will sponsor research that will explore, develop, and assert
-        standards and technologies of open voice.
+        OVN members will enjoy first access to the Open Voice standards
+        development and use case research by eating academic institutions and
+        consultancies.
   heading: Why Join The Open Voice Network?
   description: >-
     Open Voice Network members will help shape the future of AI-voice in
