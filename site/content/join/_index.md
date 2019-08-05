@@ -95,7 +95,7 @@ pricing:
     - description: Annually contribute tangible in-kind value in support
       items:
         - >-
-          Industry associations; consumer-facing media and marketing firms; and
+          Industry associations + consumer-facing media and marketing firms +
           academic institutions that are associate members of The Linux
           Foundation
         - Represented on the OVN Steering Committee
