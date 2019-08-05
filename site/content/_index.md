@@ -1,7 +1,11 @@
 ---
-title: Open Voice Network
-subtitle: Voice for everyone
-image: /img/robby-mccullough-nsj7ypvlpnk-unsplash.jpg
+title: Voice for everyone.
+subtitle: >-
+  The Open Voice Network (OVN) seeks to share voice with everyone by creating a
+  future for artificial intelligence-enabled voice (AI-voice) search,
+  communication, and commerce that is open: standards-based, interoperable,
+  accessible, and data-protected.
+image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 blurb:
   heading: The Importance of "Open" Voice
   text: >-
