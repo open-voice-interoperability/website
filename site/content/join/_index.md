@@ -35,13 +35,13 @@ main:
     privacy.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/blog-index.jpg
+    image: /img/josh-hild-mo1lxrlelfs-unsplash-.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/join-grid2.jpg
+    image: /img/open-voice-network-branding.jpg
   image3:
     alt: Coffee beans
-    image: /img/about-shade-grown.jpg
+    image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 testimonials:
   - author: >-
       Massimo Volpe | Chairman, FIRAE Managing Director; POPAI, Retail Institute
