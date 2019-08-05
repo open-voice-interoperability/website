@@ -90,9 +90,7 @@ pricing:
         - May participate in other OVN committees
       plan: 'OVN ADVOCATES '
       price: '7,500'
-    - description: >-
-        Annually contribute tangible in-kind value in support of the Open Voice
-        Network’s mission
+    - description: Annually contribute tangible in-kind value in support
       items:
         - >-
           Industry associations; consumer-facing media and marketing firms; and
