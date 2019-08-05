@@ -19,17 +19,17 @@ intro:
     communication, and commerce that is open: standards-based, interoperable,
     accessible, and data-protected.
 join:
-  - image: img/illustrations-coffee.svg
+  - image: /img/noun_security-gate_created_by_john_melven_2723299.png
     text: >-
       A small number of proprietary AI-voice market leaders have created
-      proprietary, soloed, and gated AI-voice platforms and ecosystems. These
+      proprietary, siloed, and gated AI-voice platforms and ecosystems. These
       platforms claim broad data rights.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/noun_research_created_by_graphic_tigers_1680127.png
     text: >-
       As AI-voice grows, proprietary platforms will extract ever greater value
       and data from commerce brands, threatening consumers and all
       consumer-facing companies.
-  - image: /img/illustrations-tutorials.svg
+  - image: /img/noun_global_created_by_wardehpillai_2468543.png
     text: >-
       Commerce brands will see value from OVN through research that leads to
       global standards, advocacy of data and privacy issues, and
