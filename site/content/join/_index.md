@@ -30,11 +30,10 @@ intro:
         technologies of open voice.
     - image: /img/illustrations-meeting-space.svg
       text: >-
-        Our funding of research and legislation will work to create a "Voice
-        Name System (VNS)" for voice, similar to the DNS of the internet. A
-        global, standards-based repository for AI-voice wake words. An open,
-        standards-based reference architecture that enables every brand to find
-        its voice.
+        OVN will drive industry awareness and advocacy of the opportunity,
+        challenges, and impact of AI-voice in consumer-facing industries. This
+        Network will sponsor research that will explore, develop, and assert
+        standards and technologies of open voice.
   heading: Why Join The Open Voice Network?
   description: >-
     Open Voice Network members will help shape the future of AI-voice in
@@ -71,45 +70,36 @@ pricing:
   heading: Open Voice Network Membership
   description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy.  Open Voice Network (OVN) membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
   plans:
-    - description: "To support the OVN’s mission of research, awareness, and advocacy. \_OVN Platinum Sponsors serve on the OVN Steering Committee, will serve on and guide other OVN decision-making bodies, and will advise and guide Open Voice standards-centric research."
+    - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
-        - List
-        - list
-        - list
-      plan: >-
-        OVN PLATINUM SPONSORS Contribute a sum of $100,000 USD per annum across
-        a three-year
-      price: '100,000 USD per annum'
-    - description: "enterprises that pledge and contribute a sum of $50,000 USD per annum across a three-year OVN commitment (total commitment:  $150,000 USD) to support the OVN’s mission of research, awareness, and advocacy. \_OVN Gold Sponsors are represented on the OVN Steering Committee, and may participate in other OVN committees."
+        - OVN Platinum Sponsors serve on the OVN Steering Committee
+        - Serve on and guide other OVN decision-making bodies
+        - Advise and guide Open Voice standards-centric research
+      plan: OVN PLATINUM SPONSORS
+      price: '100,000'
+    - description: ' USD per annum | Total of $150,000 USD across a three-year commitment'
       items:
-        - List
-        - list
-        - list
+        - Represented on the OVN Steering Committee
+        - May participate in other OVN committees
       plan: OVN GOLD SPONSORS
-      price: '50,000 USD per annum'
-    - description: >-
-        Voice-centric and/or relevant early-stage technology firms that pledge
-        and contribute a sum of $7,500 USD per annum across a three-year OVN
-        commitment (total commitment: $22,500) to support the OVN’s mission of
-        research, awareness, and advocacy.  OVN Advocates are represented on the
-        OVN Steering Committee, and may participate in other OVN committees.
+      price: '50,000'
+    - description: ' USD per annum | Total of $22,500 USD across a three-year commitment'
       items:
-        - List
-        - list
-        - list
+        - Voice-centric and/or relevant early-stage technology firms
+        - Represented on the OVN Steering Committee
+        - May participate in other OVN committees
       plan: 'OVN ADVOCATES '
-      price: '7,500 USD per annum'
+      price: '7,500'
     - description: >-
-        Industry associations, consumer-facing media and marketing firms, and
-        academic institutions that are associate members of The Linux
-        Foundation, and annually contribute tangible in-kind value in support of
-        the Open Voice Network’s mission of awareness, standards development,
-        and advocacy.  OVN Associates are represented on the OVN Steering
-        Committee, and may participate in other OVN committees.
+        Annually contribute tangible in-kind value in support of the Open Voice
+        Network’s mission
       items:
-        - List
-        - list
-        - list
+        - >-
+          Industry associations; consumer-facing media and marketing firms; and
+          academic institutions that are associate members of The Linux
+          Foundation
+        - Represented on the OVN Steering Committee
+        - May participate in other OVN committees
       plan: 'OVN ASSOCIATES '
       price: '0'
 ---
