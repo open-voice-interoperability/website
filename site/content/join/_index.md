@@ -70,7 +70,7 @@ testimonials:
 full_image: /img/open-voice-network-join-connect.jpg
 pricing:
   heading: Open Voice Network Membership
-  description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy.  Open Voice Network (OVN) membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
+  description: "Open Voice Network members will help shape the future of AI-voice in consumer-facing industries in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy. Open Voice Network (OVN) members are members of The Linux Foundation. Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
   plans:
     - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
