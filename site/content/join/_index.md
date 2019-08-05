@@ -9,13 +9,13 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/noun_work_created_by_sophia_bai_1923532.png
       text: >-
         OVN will drive industry awareness and advocacy of the opportunity,
         challenges and impact of AI-voice in consumer-facing industries. We will
         sponsor research that will explore, develop and assert standards and
         technologies of open voice.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/noun_research_created_by_youmena_1628459-1-.png
       text: >-
         OVN members will enjoy first access to the Open Voice standards
         development and use case research by leading academic institutions and
