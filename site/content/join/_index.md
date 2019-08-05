@@ -11,7 +11,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >-
-        The AI-voice market leaders have created proprietary, soloed, and gated
+        The AI-voice market leaders have created proprietary, siloed, and gated
         AI-voice platforms and ecosystems. These platforms claim broad data
         rights. As AI-voice grows, proprietary platforms will extract ever
         greater value and data from commerce brands.
