@@ -3,11 +3,9 @@ title: Announcing the Open Voice Initiative
 date: 2019-08-01T16:01:00.000Z
 description: >-
   Toward voice assistance that is open: standards-based, interoperable,
-  accessible, and data-protected
+  accessible, and data-protected.
 image: /img/open-voice-network-announcement.jpg
 ---
-Toward voice assistance that is open: standards-based, interoperable, accessible, and data-protected
-
 An enterprise-supported initiative that aims to bring standards-based interoperability, data protection, and accessibility to the world of voice assistance is expected to formally launch this fall.
 
 This effort – known as the Open Voice Initiative – is now winning executive and financial support from leading US and Europe commerce enterprises, major tech firms, marketing agencies, voice technology specialists, and industry associations. It emerged from 2016-2017 research on the impact of  voice assistance on commerce (retail, consumer goods, and marketing) industries by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation.  
