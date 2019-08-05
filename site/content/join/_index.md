@@ -18,7 +18,7 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >-
         OVN members will enjoy first access to the Open Voice standards
-        development and use case research by eating academic institutions and
+        development and use case research by leading academic institutions and
         consultancies.
   heading: Why Join The Open Voice Network?
   description: >-
