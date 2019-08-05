@@ -13,4 +13,4 @@ contact_entries:
 ---
 Ready to get involved? Your ideas, questions, and feedback are valuable to us.
 
-Follow us on social media or reach out at hello@openvoicenetwork.org.
+Follow us on social media or reach out below!
