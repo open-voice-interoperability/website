@@ -1,6 +1,6 @@
 ---
 title: Announcing the Open Voice Initiative
-date: 2019-08-06T13:00:00.000Z
+date: 2019-08-01T13:00:00.000Z
 description: >-
   Toward voice assistance that is open: standards-based, interoperable,
   accessible, and data-protected
