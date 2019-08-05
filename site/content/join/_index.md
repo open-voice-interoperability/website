@@ -30,10 +30,11 @@ intro:
         technologies of open voice.
     - image: /img/illustrations-meeting-space.svg
       text: >-
-        We will work to create a "Voice Name System (VNS)" for voice, similar to
-        the DNS of the internet. A global, standards-based repository for
-        AI-voice wake words. An open, standards-based reference architecture
-        that enables every brand to find its voice.
+        Our funding of research and legislation will work to create a "Voice
+        Name System (VNS)" for voice, similar to the DNS of the internet. A
+        global, standards-based repository for AI-voice wake words. An open,
+        standards-based reference architecture that enables every brand to find
+        its voice.
   heading: Why Join The Open Voice Network?
   description: >-
     Open Voice Network members will help shape the future of AI-voice in
