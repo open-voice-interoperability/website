@@ -2,6 +2,8 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
+googleAnalytics = "UA-145111620-1"
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
