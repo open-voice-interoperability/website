@@ -27,7 +27,8 @@
 	<meta property="og:title" content="Open Voice Network | Voice for everyone">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
-
+  {{ template "_internal/google_analytics.html" . }}
+  
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
