@@ -31,15 +31,17 @@ main:
     Open Voice Network members will help shape the future of AI-voice in
     consumer-facing industries in areas of technology, value propositions,
     provider ecosystems, competition, and commercial and personal information
-    privacy.
+    privacy. Members will be invited to participate in industry symposia that
+    will speak to OVN-sponsored research and best practices in AI-voice
+    commerce.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Open Voice
     image: /img/josh-hild-mo1lxrlelfs-unsplash-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Open Voice
     image: /img/open-voice-network-branding.jpg
   image3:
-    alt: Coffee beans
+    alt: Open Voice
     image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 testimonials:
   - author: >-
