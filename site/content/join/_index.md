@@ -43,13 +43,20 @@ main:
     image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 testimonials:
   - author: >-
-      Massimo Volpe | Chairman, FIRAE;  Managing Director, Retail Institute
-      Italy
+      Kees Jacobs | Vice-President for Global Consumer Products & Retail,
+      Capgemini Consulting
     quote: >-
-      Our Industry is facing an era where digital and physical are switching
-      roles, for selling and for marketing and communication. Because of this
-      blurring situation, we must push to create more cooperation across
-      technologies and providers in order to build up our future together.
+      Our recent research is clearly indicating that both consumers and
+      organizations are rapidly adopting conversational interfaces.
+      Conversational assistants are becoming the trusted companions of
+      consumers, who increasingly prefer voice assistants as they allow for
+      multi-tasking at their convenience. The research indicates that three
+      years from now, consumers will prefer using voice to other mediums for all
+      interactions in the consumer products and retail sector, whether it is in
+      store, in their cars or in their homes. But it is also clear that
+      organizations should focus on gaining consumer trust. The Open Voice
+      Network is the right initiative to help companies doing the right things,
+      serving consumers in the right way.
 full_image: /img/open-voice-network-join-connect.jpg
 pricing:
   heading: Open Voice Network Membership
