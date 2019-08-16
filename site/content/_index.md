@@ -7,10 +7,9 @@ blurb:
   text: >-
     We are moving rapidly into a post-type and -touch world. Currently, a few
     major market leaders are the gatekeepers and hold access to data-rich
-    communication from users to commerce brands. Artificial Intelligence-enables
-    Voice Assistance – such as Amazon's Alexa, Apple's Siri, Samsung's Bixby or
-    Google Home – will soon be a primary interface for all digital devices, from
-    smart speakers and smartphones to automobiles and appliances.
+    communication from users to commerce brands. Artificial intelligence-enabled
+    voice assistance will soon be a primary interface for all digital devices,
+    from smart speakers and smartphones to automobiles and appliances.
 intro:
   heading: Why Open Voice Network?
   text: >-
