@@ -5,17 +5,17 @@ image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 blurb:
   heading: The Importance of "Open" Voice
   text: >-
-    Artificial intelligence-enabled voice assistance will soon be a primary
-    interface for all digital devices, from smart speakers and smartphones to
-    automobiles and appliances. Currently, a few major market leaders are the
-    gatekeepers and hold access to data-rich communication from users to
-    commerce brands. 
+    AI-voice assistance will soon be a primary interface for all digital
+    devices, from smart speakers and smartphones to automobiles and appliances.
+    It will have an impact across every phase of the shopper decision journey.
+    Currently, a few major market leaders are the gatekeepers and hold access to
+    data-rich communication from users to commerce brands.
 intro:
   heading: Why Open Voice Network?
   text: >-
-    The Open Voice Network seeks to share voice with everyone by creating a
-    future for AI-voice search, communication, and commerce that is open:
-    standards-based, interoperable, accessible, and data-protected.
+    The OVN seeks to share voice with everyone by creating a future for AI-voice
+    search, communication, and commerce that is open: standards-based,
+    interoperable, accessible, and data-protected.
 join:
   - image: /img/noun_security-gate_created_by_john_melven_2723299.png
     text: >-
@@ -33,7 +33,7 @@ join:
       global standards, advocacy of data and privacy issues, and
       interoperability that is essential for consumers and brands.
 about:
-  heading: Why the Need for The Open Voice Network (OVN)
+  heading: Why Become a Member
   text: >-
     OVN members will help shape the future of commerce – in increasingly
     critical issues of technology, competition, and commercial and personal
