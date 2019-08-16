@@ -33,10 +33,10 @@ join:
       global standards, advocacy of data and privacy issues, and
       interoperability that is essential for consumers and brands.
 about:
-  heading: Why Become a Member
+  heading: For the Benefit of the Many
   text: >-
     OVN members will help shape the future of commerce – in increasingly
     critical issues of technology, competition, and commercial and personal
-    information privacy.
+    information privacy – for the benefit of consumers and brands.
 ---
 
