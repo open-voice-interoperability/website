@@ -35,8 +35,8 @@ join:
 about:
   heading: Why the Need for The Open Voice Network (OVN)
   text: >-
-    Open Voice Network members will help shape the future of commerce – in
-    increasingly critical issues of technology, competition, and commercial and
-    personal information privacy.
+    OVN members will help shape the future of commerce – in increasingly
+    critical issues of technology, competition, and commercial and personal
+    information privacy.
 ---
 
