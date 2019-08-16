@@ -43,15 +43,13 @@ main:
     image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
 testimonials:
   - author: >-
-      Massimo Volpe | Chairman, FIRAE Managing Director; POPAI, Retail Institute
+      Massimo Volpe | Chairman, FIRAE;  Managing Director, Retail Institute
       Italy
     quote: >-
       Our Industry is facing an era where digital and physical are switching
       roles, for selling and for marketing and communication. Because of this
       blurring situation, we must push to create more cooperation across
       technologies and providers in order to build up our future together.
-  - author: 'Gwen Morrison | CEO, The Americas at The Store/WPP Global Retail '
-    quote: "Voice has the potential to deliver the ultimate convenience and ease for consumers.\_Brands will have the ability to engage with a more intimate and advisory consumer relationships. But as voice-commerce begins to replace today’s point and click purchasing, retailers and brands face significant challenges for leveraging voice-first devices."
 full_image: /img/open-voice-network-join-connect.jpg
 pricing:
   heading: Open Voice Network Membership
