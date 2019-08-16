@@ -22,10 +22,9 @@ intro:
         consultancies.
   heading: Why Join The Open Voice Network?
   description: >-
-    Open Voice Network members will help shape the future of AI-voice in
-    consumer-facing industries in areas of technology, value propositions,
-    provider ecosystems, competition, and commercial and personal information
-    privacy. 
+    OVN members will help shape the future of AI-voice in consumer-facing
+    industries in areas of technology, value propositions, provider ecosystems,
+    competition, and commercial and personal information privacy. 
 main:
   heading: Value in Membership
   description: >-
