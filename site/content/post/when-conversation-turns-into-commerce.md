@@ -5,8 +5,9 @@ description: >-
   The question of AI-voice in commerce is not whether, but when. And we're
   sharing an accurate prediction as to when conversation turns into commerce.
   AI-voice is heating up, and its heat is being felt in commerce.
+image: /img/1x1-white-pixel.png
 ---
-The question of AI-voice in commerce is not whether, but _**when**_.
+The question of AI-voice in commerce is not whether, but **_when_**.
 
 This is a conversation that's increasing in volume and urgency between retail and CPG industry leaders.  
 
@@ -24,21 +25,21 @@ At that point, you’re going to find fire.
 
 Let’s look at the three.
 
-## Availability: Is AI-voice out there, and accessible to the broad public?  
+## Availability: Is AI-voice out there, and accessible to the broad public?
 
-**YES.** [Voicebot.ai](https://voicebot.ai)’s Bret Kinsella argued conclusively earlier this month that AI-voice has now reached a point of pervasive presence. AI-voice assistance is now normal. And that’s before the visionary stuff from CES 2019 comes to market. The data speaks loudly: 
+**YES.** [Voicebot.ai](https://voicebot.ai)’s Bret Kinsella argued conclusively earlier this month that AI-voice has now reached a point of pervasive presence. AI-voice assistance is now normal. And that’s before the visionary stuff from CES 2019 comes to market. The data speaks loudly: 
 
 * As of mid-January 2019, more than 1 billion devices worldwide were equipped with Google Assistant. More than 500 million devices accessed Apple’s Siri. And another 100 million devices spoke with Amazon’s Alexa. None of which counted the devices equipped with voice assistants from Microsoft, Samsung, or the rapidly-expanding China ecosystem.
 * The global market for voice assistants is now forecast by Juniper to grow at a 25.4 percent CAGR over the next five years. Their research predicts 3.25 billion voice assistants worldwide by year-end 2019 (up from 2.6 billion in 2018), and roughly 8 billion voice assistants by 2023.
 * Vision-and-voice smart display adoption grew in the US at more than a 5X rate in 2018, albeit from a small base, according to a January 2019 voicebot.ai study. Statista reminds us that there were 95 million smart TV users in the US last year – which, according to eMarketer, translates into more than 37 percent of all US households. 
 
-Look forward, say two years. 2021. You’re in a world with 5.1 billion voice assistants. The voice assistant is central to your smartphone, your car, the settings on that new eco-smart clothes washer and dryer. You’re living in a densely populated, saltwater-city environment, and you’re increasingly comfortable with the quality of fresh vegetables and fruits delivered by your online grocer. And when it’s time to reorder the basics, it’s so easy to say yes.
+Look forward, say two years. 2021. You’re in a world with 5.1 billion voice assistants. The voice assistant is central to your smartphone, your car, the settings on that new eco-smart clothes washer and dryer. You’re living in a densely populated, saltwater-city environment, and you’re increasingly comfortable with the quality of fresh vegetables and fruits delivered by your online grocer. And when it’s time to reorder the basics, it’s so easy to say yes.
 
 Heat.  Smoke.  Fire.  Voice.
 
 ## Adoption: It may be out there, but is anyone using it?  And, using it for shopping?
 
-**YES, and YES.** And it’s growing and growing. But limited by today’s command-and-response functionality. And measured with the understanding that shopping stretches the length of the decision journey.   Again, the data speaks loudly. 
+**YES, and YES.** And it’s growing and growing. But limited by today’s command-and-response functionality. And measured with the understanding that shopping stretches the length of the decision journey.   Again, the data speaks loudly. 
 
 * Roughly 13 percent of all 2018 Google internet searches (about 450 million) were conducted via voice through smartphones and smart speakers, according to eConsultancy research.
 * Voicebot’s detailed 2018 study estimated that some 146 million US adults (roughly 58 percent of the US adult population) had tried a voice assistant on a smartphone.  The same study found that some 90.1 million US adults (36 percent) were active, monthly users of smartphone voice assistants.
@@ -53,13 +54,16 @@ And commerce? Well, it’s now impacting the early and late stages of the shoppi
 
 Look forward three years to 2022. _(It generally takes a major retail or CPG enterprise three years to bring a technology idea to full production and scale, which means if you’re not at the white board now, you’ll miss this.)_    Now you’re in a world of 6.4 billion voice assistants. And the voice capability innovation shown in 2018 by Google with Duplex is now a normative usage for Gen Z – soon to be the largest demographic group. The entirety of appointment setting, from business 1:1’s to concert tickets, is now handled by your voice-directed and highly conversational avatar.        
 
-Fire.  Spreading Flame.  Voice. 
+Fire.  Spreading Flame.  Voice. 
 
 ## Accelerants: Are there any industry market transitions that will further fuel the fire of AI-voice in commerce?
 
 **YES.** Goodness yes. Keep your eye on seven market-shaping transitions. Each one will accelerate AI-voice for commerce in its own way. When they intersect and overlap, watch out. In order of importance:
 
-* **Convenience and ease as the differentiating retail value proposition.** It’s about the saving of time and frustration, especially among higher-income cohorts. It’s about the physical world behaving like the digital world, not the other way around. It’s about those who provide convenience and ease creating lasting bonds with shoppers. This is now, for those paying attention. Voice is the easiest way to say yes.
+* 
+
+**Convenience and ease as the differentiating retail value proposition.** It’s about the saving of time and frustration, especially among higher-income cohorts. It’s about the physical world behaving like the digital world, not the other way around. It’s about those who provide convenience and ease creating lasting bonds with shoppers. This is now, for those paying attention. Voice is the easiest way to say yes.
+
 * **AI-voice for customer service.** It’s already a reality, and offers the most immediate value case for voice in commerce. Especially in a unified commerce environment. Envision the provision of product availability by store, of shipment and delivery status. As noted above, shoppers prefer bots. Just make sure you think about your brand’s voice. This is now, and definitely tomorrow. What does your brand sound like?
 * **Voice combined with vision.** With today’s command-and-response voice functionality, second-level search becomes frustrating, if not impossible. But add a screen – or, better yet, add voice to an existing, search-able visual, such as a mobile shopping app. Now voice confirms what the eye can see. This is now, and even more so tomorrow in mobile apps and vision-voice devices.
 * **Online grocery shopping.** This is one I’m watching very closely. According to Nielsen, US online grocery shopping grew at a 32.4% CAGR from 2016 to 2018 – and, with a 2018 revenue of more than $46 billion, represented roughly five percent of the US FMCG total. By department, the CAGR has been double-digit or better in the weekly replenishment items – baby products (14.6 percent), grocery items (38.4 percent), health and beauty (27.7 percent), household care (34.2 percent) and pet care (a stunning 59.9 percent). This is a transition driven by the repetitive, replenishment nature of regular grocery shopping – and accelerated now by time-saving click-and-collect capabilities in car-centric areas (BOPUS is now some 48 percent of online grocery sales) and delivery services (either from store or DC) in dense, urban environments. This is a transition of enormous impact to the industry, and it’s unfolding as you read this. 
@@ -67,4 +71,6 @@ Look forward three years to 2022. _(It generally takes a major retail or CPG ent
 * **Next-generation voice functionality.** Today’s command-and-response reality will not be the functionality reality of 2022-23. Think Google Duplex, and multiply. Draw the exponential curve. Think not voice, but conversation. You won’t have to listen hard to hear it coming. 
 * **Data Privacy Regulation.** And here, a potential pause. 
 
-Again, the question is not whether, but when. And the answer is this: it’s already started. And it’s going to grow – in some places faster than others.   If you’re in FMCG, and haven’t started planning, you’re already behind. If you’re in upper price points or in complex products, you’ve got some time. The bottom line is this: the AI-voice flame for commerce has been lit by pervasive availability and ever-growing adoption. A bonfire awaits. Fueled, soon, by industry-shaping market transitions. AI-voice in commerce. Listen, and you’ll hear it coming.
+Again, the question is not whether, but when. And the answer is this: it’s already started. And it’s going to grow – in some places faster than others.   If you’re in FMCG, and haven’t started planning, you’re already behind. If you’re in upper price points or in complex products, you’ve got some time.
+
+ The bottom line is this: the AI-voice flame for commerce has been lit by pervasive availability and ever-growing adoption. A bonfire awaits. Fueled, soon, by industry-shaping market transitions. AI-voice in commerce. Listen, and you’ll hear it coming.
