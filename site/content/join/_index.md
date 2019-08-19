@@ -9,7 +9,7 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/noun_voice_message_2757037-01.png
+    - image: /img/noun_group_2391984-01.png
       text: >-
         Senior executives of members will enjoy access to other AI-voice leaders
         and innovators with consumer-facing industries, along with best
