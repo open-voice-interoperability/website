@@ -35,8 +35,9 @@ join:
 about:
   heading: For the Benefit of the Many
   text: >-
-    OVN members will help shape the future of commerce – in increasingly
-    critical issues of technology, competition, and commercial and personal
-    information privacy – for the benefit of consumers and brands.
+    Become an Open Voice Network member. Advocate for the mission and
+    financially support the Open Voice Network. Members will help shape the
+    future of commerce – in increasingly critical issues of technology,
+    competition, and commercial and personal information privacy.
 ---
 
