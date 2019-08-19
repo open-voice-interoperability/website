@@ -1,6 +1,8 @@
 ---
 title: Voice for everyone.
-subtitle: "The Open Voice Network (OVN) seeks to create a future of artificial intelligence-enabled voice (AI-voice) that is open: standards-based, interoperable, accessible, and data-protected.\_"
+subtitle: >-
+  The Open Voice Network (OVN) seeks to create a future of AI-voice that is
+  open: standards-based, interoperable, accessible, and data-protected. 
 image: /img/open-voice-network-branding.jpg
 blurb:
   heading: The Importance of "Open" Voice
@@ -19,19 +21,22 @@ intro:
 join:
   - image: /img/noun_security_gate_2723299-01.png
     text: >-
-      Broad data rights are claimed by a small number of proprietary AI-voice
-      market leaders who have created proprietary, siloed, and gated AI-voice
-      platforms and ecosystems.
+      One-third of US residents regularly use AI-voice assistants.  AI-voice
+      assistants are increasingly used for retail search, purchase, and
+      post-sale support. 
+
+      [Are you ready?]
   - image: /img/noun_voice_message_2757037-01.png
     text: >-
-      As AI-voice grows, proprietary platforms will extract even greater value
-      and data from commerce brands, threatening consumers and all
-      consumer-facing companies.
+      As AI-voice and adoption grows, so will the value of voice data, voice
+      search, and voice access. [Who will capture that value?]
   - image: /img/noun_global_2468543-01.png
     text: >-
-      Commerce brands will see value from OVN through research that leads to
-      global standards, advocacy of data and privacy issues, and
-      interoperability that is essential for consumers and brands.
+      Voice is in its earliest days. Like the days of the internet browser
+      wars. 
+
+      [Think about the economic dividends of open, standards-based voice.
+      Especially for your brand.]
 about:
   heading: For the Benefit of the Many
   text: >-
