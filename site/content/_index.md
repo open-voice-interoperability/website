@@ -19,9 +19,9 @@ intro:
 join:
   - image: /img/noun_security_gate_2723299-01.png
     text: >-
-      A small number of proprietary AI-voice market leaders have created
-      proprietary, siloed, and gated AI-voice platforms and ecosystems. These
-      platforms claim broad data rights.
+      Broad data rights are claimed by a small number of proprietary AI-voice
+      market leaders who have created proprietary, siloed, and gated AI-voice
+      platforms and ecosystems.
   - image: /img/noun_search_2801993-01.png
     text: >-
       As AI-voice grows, proprietary platforms will extract even greater value
