@@ -14,7 +14,7 @@ about:
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network is will deliver its vision of open voice through
+      The Open Voice Network will deliver its vision of open voice through
       technology and usage research that leads to proposal and adoption of
       global standards, best-practice sharing, and industry advocacy.
   - heading: History and Affiliations
