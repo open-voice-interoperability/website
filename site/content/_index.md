@@ -24,7 +24,7 @@ join:
       platforms claim broad data rights.
   - image: /img/noun_research_created_by_graphic_tigers_1680127.png
     text: >-
-      As AI-voice grows, proprietary platforms will extract ever greater value
+      As AI-voice grows, proprietary platforms will extract even greater value
       and data from commerce brands, threatening consumers and all
       consumer-facing companies.
   - image: /img/noun_global_created_by_wardehpillai_2468543.png
