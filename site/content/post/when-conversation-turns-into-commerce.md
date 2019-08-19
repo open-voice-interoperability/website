@@ -1,5 +1,5 @@
 ---
-title: 'When conversation turns into commerce. '
+title: When Conversation turns into Commerce
 date: 2019-08-19T12:31:37.433Z
 description: >-
   The question of AI-voice in commerce is not whether, but when. And we're
