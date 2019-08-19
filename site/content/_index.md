@@ -22,7 +22,7 @@ join:
       Broad data rights are claimed by a small number of proprietary AI-voice
       market leaders who have created proprietary, siloed, and gated AI-voice
       platforms and ecosystems.
-  - image: /img/noun_research_1628459-01.png
+  - image: /img/noun_voice_message_2757037-01.png
     text: >-
       As AI-voice grows, proprietary platforms will extract even greater value
       and data from commerce brands, threatening consumers and all
