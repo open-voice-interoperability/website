@@ -9,20 +9,23 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/noun_work_created_by_sophia_bai_1923532.png
+    - image: /img/noun_voice_message_2757037-01.png
       text: >-
-        OVN will sponsor research that will explore, develop and assert
-        standards and technologies of open voice.
-    - image: /img/noun_research_created_by_youmena_1628459-1-.png
+        Senior executives of members will enjoy access to other AI-voice leaders
+        and innovators with consumer-facing industries, along with best
+        practices.
+    - image: /img/noun_search_2801993-01.png
       text: >-
-        OVN members will enjoy first access to the Open Voice standards
-        development and use case research by leading academic institutions and
+        Members will enjoy first access to the Open Voice standards development
+        and use case research by leading academic institutions and
         consultancies.
   heading: Why Join The Open Voice Network?
   description: >-
-    OVN members will help shape the future of AI-voice in consumer-facing
-    industries in areas of technology, value propositions, provider ecosystems,
-    competition, and commercial and personal information privacy. 
+    OVN will sponsor research that will explore, develop and assert standards
+    and technologies of open voice. Members will help shape the future of
+    AI-voice in consumer-facing industries in areas of technology, value
+    propositions, provider ecosystems, competition, and commercial and personal
+    information privacy. 
 main:
   heading: Value in Membership
   description: >-
