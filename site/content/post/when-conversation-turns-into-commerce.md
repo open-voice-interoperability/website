@@ -5,7 +5,7 @@ description: >-
   The question of AI-voice in commerce is not whether, but when. And we're
   sharing an accurate prediction as to when conversation turns into commerce.
   AI-voice is heating up, and its heat is being felt in commerce.
-image: /img/1x1-white-pixel.png
+image: /img/josh-hild-mo1lxrlelfs-unsplash.jpg
 ---
 The question of AI-voice in commerce is not whether, but **_when_**.
 
