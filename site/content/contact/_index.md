@@ -8,8 +8,9 @@ contact_entries:
       industries. Contact us to learn more.
   - heading: Media
     text: >-
-      The news is out. Open voice is needed – and now. OVN is happy to provide
-      information, quotes and resources to media journalists and bloggers.
+      The news is out. Open voice is needed – and now. The Open Voice Network
+      welcomes requests from media journalists and bloggers for information,
+      quotes and resources.
 ---
 Ready to get involved? Your ideas, questions, and feedback are valuable to us. Contact us at hello@openvoicenetwork.org or reach out via the form below.
 
