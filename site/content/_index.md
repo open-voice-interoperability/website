@@ -9,7 +9,7 @@ blurb:
     devices, from smart speakers and smartphones to automobiles and appliances.
     It will have an impact across every phase of the shopper decision journey.
     Currently, a few major market leaders are the gatekeepers and hold access to
-    data-rich communication from users to commerce brands.
+    data-rich AI-voice communication.
 intro:
   heading: Why Open Voice Network?
   text: >-
