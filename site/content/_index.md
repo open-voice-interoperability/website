@@ -35,9 +35,9 @@ join:
 about:
   heading: For the Benefit of the Many
   text: >-
-    Become an Open Voice Network member. Advocate for the mission and
-    financially support the Open Voice Network. Members will help shape the
-    future of commerce – in increasingly critical issues of technology,
-    competition, and commercial and personal information privacy.
+    Become an OVN member. Advocate for the mission and financially support the
+    Open Voice Network. Members will help shape the future of commerce – in
+    increasingly critical issues of technology, competition, and commercial and
+    personal information privacy.
 ---
 
