@@ -30,7 +30,7 @@ join:
       search, and voice access. [Who will capture that value?]
   - image: /img/noun_global_2468543-01.png
     text: >-
-      Voice is in its earliest days. Like the days of the internet browser
+      Voice is in its earliest days, like the days of the internet browser
       wars. 
 
       [Think about the economic dividends of open, standards-based voice.
