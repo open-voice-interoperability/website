@@ -5,9 +5,7 @@ repository. If there is a duplicate, please close your issue and add a comment
 to the existing issue instead.
 
 If you suspect your issue is a bug, please edit your issue description to
-include the BUG REPORT INFORMATION shown below. If you fail to provide this
-information within 7 days, we cannot debug your issue and will close it. We
-will, however, reopen it if you later provide the information.
+include the BUG REPORT INFORMATION shown below.
 
 ---------------------------------------------------
 BUG REPORT INFORMATION
