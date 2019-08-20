@@ -20,14 +20,14 @@ intro:
     search, communication, and commerce that is open: standards-based,
     interoperable, accessible, and data-protected.
 join:
-  - image: /img/noun_security_gate_2723299-01.png
+  - image: /img/noun_voice_message_2757037-01.png
     text: >-
       One-third of US residents regularly use AI-voice assistants.  AI-voice
       assistants are increasingly used for retail search, purchase, and
       post-sale support. 
 
       [Are you ready?]
-  - image: /img/noun_voice_message_2757037-01.png
+  - image: /img/noun_group_2391984-01.png
     text: >-
       As AI-voice and adoption grows, so will the value of voice data, voice
       search, and voice access. [Who will capture that value?]
