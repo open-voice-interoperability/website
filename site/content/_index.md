@@ -15,10 +15,7 @@ blurb:
     communication.
 intro:
   heading: Why Open Voice Network?
-  text: >-
-    The OVN seeks to share voice with everyone by creating a future for AI-voice
-    search, communication, and commerce that is open: standards-based,
-    interoperable, accessible, and data-protected.
+  text: 'The question of AI-voice in commerce is not whether, but when.'
 join:
   - image: /img/noun_voice_message_2757037-01.png
     text: >-
