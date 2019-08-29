@@ -62,7 +62,7 @@ testimonials:
 full_image: /img/open-voice-network-join-connect.jpg
 pricing:
   heading: Open Voice Network Membership
-  description: "OVN members are members of The Linux Foundation. Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
+  description: "Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
   plans:
     - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
@@ -88,8 +88,7 @@ pricing:
       items:
         - >-
           Industry associations + consumer-facing media and marketing firms +
-          academic institutions that are associate members of The Linux
-          Foundation
+          academic institutions
         - Represented on the OVN Steering Committee
         - May participate in other OVN committees
       plan: 'OVN ASSOCIATES '
