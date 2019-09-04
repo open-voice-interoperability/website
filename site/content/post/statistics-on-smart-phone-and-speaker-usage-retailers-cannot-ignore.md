@@ -8,7 +8,7 @@ description: >-
 image: >-
   /img/open-voice-network-ovn-artificial-intelligence-voice-voicebot-smart-speakers-smart-phone.jpg
 ---
-The question of [AI-voice](https://openvoicenetwork.org/post/announcing-the-open-voice-initiative/) in commerce is not whether, but **when**. The latest data shows that the answer to the _when_ question is increasingly apparent.
+The question of [AI-voice](https://openvoicenetwork.org/post/announcing-the-open-voice-initiative/) in commerce is not whether, but **when**. The latest data shows that the answer to the _when_ question is increasingly apparent.
 
 When 70% of smartphone users talk, will you be ready to listen?
 
@@ -16,10 +16,13 @@ When 70% of smartphone users talk, will you be ready to listen?
 
 ## Put your ear to the ground in voice assistance adoption
 
-* 66.4 million US adults now own smart speakers. That’s more than 26% of the US adult population and a year-on-year increase of 40.3%.
+* 
+
+66.4 million US adults now own smart speakers. That’s more than 26% of the US adult population and a year-on-year increase of 40.3%.
+
 * 70.2% of all US smartphone users – that’s roughly 153 million people – used a voice assistant in 2018. It’s estimated that more than 30 million did so for first time. Year-on-year growth: 23%.
 
-## And while you’re there, listen to the growing sound of commerce
+## And while you’re there, listen to the growing sound of commerce
 
 * In the smart speaker space, monthly shopping usage using AI-voice – in activities ranging from search to transaction – grew from 13.6% of owners to 19% overall.
 * 28% of owners – a nice cohort of some 18.6 million highly digital, higher income Americans – searched for products via voice on a monthly basis.
