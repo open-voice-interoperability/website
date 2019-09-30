@@ -5,6 +5,7 @@ description: >-
   One of the most important questions for enterprise users is that of
   voice-based search. For the topic of SEO, we look to findings from
   voicebot.ai’s recent study “Voice Assistant SEO Report for Brands.”
+image: /img/seo-brands-search-engine-optimization-open-voice-network-ovn.jpg
 ---
 AI-voice will soon be a primary interface to the internet. We’re on that path now. 
 
