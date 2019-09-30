@@ -2,18 +2,21 @@
 title: SEO for Brands in Voice
 date: 2019-09-23T15:49:51.433Z
 description: >-
-  One of the most important questions for enterprise users is that of
-  voice-based search. For the topic of SEO, we look to findings from
-  voicebot.ai’s recent study “Voice Assistant SEO Report for Brands.”
+  Voice is in its early days and similar to the early browser-war days of the
+  internet, access is limited, lacking interoperability and open usage. One of
+  the most important questions for enterprise users is that of voice-based
+  search.
 image: /img/seo-brands-search-engine-optimization-open-voice-network-ovn.jpg
 ---
-AI-voice will soon be a primary interface to the internet. We’re on that path now. 
+AI-voice will soon be a primary interface to the internet. We’re on that path now.
 
 We talk to the internet, and it talks back. In time, talk will evolve to dialogue and dialogue will evolve to the give and take of human-like conversation.  
 
-Voice is now in its early days. Similar to the early, browser-war days of the internet. Access is limited. Interoperability, nil. Usage is cramped and constrained in walled gardens. And some very big questions wait for answers. 
+Voice is now in its early days. Similar to the early, browser-war days of the internet. Access is limited. Interoperability, nil. Usage is cramped and constrained in walled gardens. 
 
-## One of the most important questions for enterprise users is that of voice-based search. 
+And some very big questions wait for answers. 
+
+_One of the most important questions for enterprise users is that of **voice-based search**._ 
 
 The Open Voice Network has found [voicebot.ai](https://voicebot.ai) to be a good source of informative articles and reports. For the topic of SEO, we look to findings from voicebot.ai’s recent study “[Voice Assistant SEO Report for Brands](https://voicebot.ai/2019/07/09/new-data-on-voice-assistant-seo-is-a-wake-up-call-for-brands/).”
 
@@ -31,6 +34,6 @@ Voicebot’s summary: “as voice assistant optimized content increases, the tra
 
 What did we learn? Three big things. Voice search is big, and getting bigger. It’s being used for a queries that directly impact commerce industries – from getting directions to researching products to getting recipes. And proprietary voice platforms may have their own rules for search – ones a bit different from those on the touch-and-tap internet.
 
-This is but one of the issues being explored by the Open Voice Network, an industry association dedicated to artificial intelligence-enabled voice that is open: standards-based, interoperable, accessible (to all and through all), and secure.
+This is but one of the issues being explored by the [Open Voice Network](https://openvoicenetwork.org/post/announcing-the-open-voice-initiative/), an industry association dedicated to artificial intelligence-enabled voice that is open: standards-based, interoperable, accessible (to all and through all), and secure.
 
 For more information, follow us on [Twitter](https://twitter.com/openvoicenet), [LinkedIn](https://www.linkedin.com/company/40808157) and [Facebook](https://www.facebook.com/Open-Voice-Network-103375474336837/).
