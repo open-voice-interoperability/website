@@ -6,7 +6,8 @@ date: 2019-10-18T19:46:00.000Z
 description: >-
   For brands diving into AI-voice enabled branding, tone and architecture may be
   more important than the language used to reach consumers.
-image: /img/istock-620972986.jpg
+image: >-
+  /img/open-voice-network-landors-jasmine-tanasy-on-ai-voice-for-brands-its-a-new-and-very-rich-part-of-a-brand-development.png
 ---
 As we've said before, the question of AI-voice in commerce is not whether, but **when**.   
 
