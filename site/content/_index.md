@@ -42,5 +42,12 @@ about:
     support the mission of the Open Voice Network. Members will help shape the
     future of commerce – in increasingly critical issues of technology,
     competition, and commercial and personal information privacy.
+resources:
+  heading: Hello
+  text: >-
+    Become an OVN member. Doing so allows you to advocate for and financially
+    support the mission of the Open Voice Network. Members will help shape the
+    future of commerce – in increasingly critical issues of technology,
+    competition, and commercial and personal information privacy.
 ---
 
