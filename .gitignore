@@ -4,3 +4,8 @@ dist/
 yarn-error.log
 .DS_Store
 site/data/webpack.json
+public/
+
+# Local Netlify folder
+.netlify
+
