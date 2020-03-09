@@ -5,17 +5,16 @@ about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network (OVN) seeks to share voice with everyone by
-      creating a future for artificial intelligence-enabled voice (AI-voice)
-      search, communication, and commerce that is open: standards-based,
-      interoperable, and data-protected. It is global in scope, and inclusive of
-      consumer-facing entities, both private and public.
+      The Open Voice Network (OVN) is dedicated to making voice assistance
+      worthy of user trust – especially for a future of voice assistance that
+      will be multi-platform, multi-device, multi-modal, and multi-use.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network will deliver its vision of open voice through
-      technology and usage research that leads to proposal and adoption of
-      global standards, best-practice sharing, and industry advocacy.
+      The Open Voice Network will achieve its vision through the development and
+      proposal of standards to the global voice industry. We envision standards
+      that enable trust-worthy accessibility, identification and authentication,
+      data privacy, and interoperability.
   - heading: History and Affiliations
     imageUrl: /img/1x1-white-pixel.png
     text: >-
