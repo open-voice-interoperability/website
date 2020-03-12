@@ -6,8 +6,8 @@ about:
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       The Open Voice Network (OVN) is dedicated to making voice assistance
-      worthy of user trust – especially for a future of voice assistance that
-      will be multi-platform, multi-device, multi-modal, and multi-use.
+      worthy of user trust—especially for a future of voice assistance that will
+      be multi-platform, multi-device, multi-modal, and multi-use.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
@@ -17,7 +17,7 @@ about:
       data privacy, and interoperability.
   - heading: Principles
     imageUrl: /img/1x1-white-pixel.png
-    text: "The Open Voice Network is guided by four principles. It is:  (1) user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;  (2)\_pragmatic, based in today’s realities and tomorrow’s feasibilities; \n (3) committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;  (4) focused on results."
+    text: "The Open Voice Network is guided by four principles. It is:  \n(1) user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;  \n(2)\_pragmatic, based in today’s realities and tomorrow’s feasibilities; \n(3) committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;  \n(4) focused on results."
   - heading: History and Affiliations
     imageUrl: /img/1x1-white-pixel.png
     text: >-
