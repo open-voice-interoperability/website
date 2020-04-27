@@ -5,6 +5,8 @@ description: >-
   AI-voice enabled devices and technology will soon be the new norm. How will
   the play out in a world that lacks standards and proper safeguards related to
   voice?
+image: >-
+  /img/why-standards-are-critical-to-the-future-of-voice-open-voice-network-ovn-jon-stine-blog.jpg
 ---
 It's clear that artificial intelligence-enabled voice assistance is one of today’s most transformative technologies.
 
