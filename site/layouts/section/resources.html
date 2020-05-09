@@ -1,17 +1,6 @@
 {{ define "main" }} 
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
-<div class="mw8 center ph3 pt4">
-
-{{ range $index, $element := .Params.resources }}
-
-{{ partial "image-and-text" $element }}
- 
-
-{{ end }}
-
-</div>
-
+{{ partial "4-up-button" .Params.intro }}
 
 {{ end }}

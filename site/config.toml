@@ -3,6 +3,8 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Open Voice Network"
 googleAnalytics = "UA-145111620-1"
+[wordCount]
+other = "{{ .WordCount }} words"
 
 
 # RSS, categories and tags disabled for an easy start

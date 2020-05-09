@@ -1,0 +1,39 @@
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .group1 }}
+				<div class="ph2-ns w-50-ns mb4">
+					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 500px; height: 300px">
+					<div class="tc">
+					<p>{{ .text }}</p>
+						<a href="{{.buttonLink}}" target="_blank"  rel= "noopener" class="btn raise">{{.buttonText}}</a>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+		
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .group2 }}
+			<div class="ph2-ns w-50-ns mb4">
+				<img src="{{ .image }}" alt="" class="center db mb3" style="width: 500px; height: 300px">
+				<p>{{ .text }}</p>
+				<div class="tc">
+					<a href="{{.buttonLink}}" target="_blank" rel="noopener" class="btn raise">{{.buttonText}}</a>
+				</div>
+			</div>
+			{{ end }}
+			</div>
+			<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .group3 }}
+			<div class="ph2-ns w-50-ns mb4">
+				<img src="{{ .image }}" alt="" class="center db mb3" style="width: 500px; height: 300px">
+				<p>{{ .text }}</p>
+				<div class="tc">
+					<a href="{{.buttonLink}}" target="_blank" rel="noopener" class="btn raise">{{.buttonText}}</a>
+				</div>
+			</div>
+			{{ end }}
+			</div>
+		</div>
+	</div>
+</div>
