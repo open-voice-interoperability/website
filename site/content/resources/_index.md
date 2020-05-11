@@ -1,6 +1,6 @@
 ---
 title: Related Resources
-image: /img/aaron-huber-lnr-kngyj9g-unsplash.jpg
+image: /img/artificial-intelligence-voice-open-voice-network-related-resources.jpg
 intro:
   group1:
     - image: /img/time-to-talk-capgemini-intel-mit-ovn-open-voice-network.jpg
