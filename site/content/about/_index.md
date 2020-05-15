@@ -5,25 +5,27 @@ about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network (OVN) seeks to share voice with everyone by
-      creating a future for artificial intelligence-enabled voice (AI-voice)
-      search, communication, and commerce that is open: standards-based,
-      interoperable, and data-protected. It is global in scope, and inclusive of
-      consumer-facing entities, both private and public.
+      The Open Voice Network (OVN) is dedicated to making voice assistance
+      worthy of user trust—especially for a future of voice assistance that will
+      be multi-platform, multi-device, multi-modal, and multi-use.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network will deliver its vision of open voice through
-      technology and usage research that leads to proposal and adoption of
-      global standards, best-practice sharing, and industry advocacy.
+      The Open Voice Network will achieve its vision through the development and
+      proposal of standards to the global voice industry. We envision standards
+      that enable trust-worthy accessibility, identification and authentication,
+      data privacy, and interoperability.
+  - heading: Principles
+    imageUrl: /img/1x1-white-pixel.png
+    text: "The Open Voice Network is guided by four principles. It is:\n(1) user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;  \n(2)\_pragmatic, based in today’s realities and tomorrow’s feasibilities; \n(3) committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;  \n(4) focused on results."
   - heading: History and Affiliations
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       The Open Voice Network emerged from 2016-2018 research on the potential of
-      AI-voice in commerce conducted by the Massachusetts Institute of
+      AI-enabled voice assistance conducted by the Massachusetts Institute of
       Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel
-      Corporation. In late 2018, seed funding was provided to initiate academic
-      research into AI-voice technologies and standards, and to develop the Open
-      Voice Network.
+      Corporation.   In late 2018, seed funding was provided to initiate
+      research into voice assistance technologies and potential standards, and
+      to develop The Open Voice Network.
 ---
 

@@ -1,40 +1,44 @@
 ---
-title: Voice for everyone.
+title: Voice assistance worthy of user trust.
 subtitle: >-
-  The Open Voice Network (OVN) seeks to create a future of AI-voice that is
-  open: standards-based, interoperable, accessible, and data-protected. 
+  The Open Voice Network (OVN): bringing the value of standards to the
+  multi-platform, multi-device, multi-use world of voice assistance.
 image: /img/open-voice-network-branding.jpg
 blurb:
-  heading: The Importance of "Open" Voice
+  heading: The importance of standards-based voice assistance.
   text: >-
-    AI-voice assistance will soon be a primary interface for all digital
-    devices, from smart speakers and smartphones to automobiles and appliances.
-    It will have an impact across every phase of the shopper decision journey.
-    Currently, a few major market leaders are the gatekeepers and hold access to
-    data-rich artificial intelligence-enabled voice assistance (AI-voice)
-    communication.
+    Artificial intelligence-enabled voice assistance will soon be a primary
+    interface to the internet, mobile apps, smart home and factories, and
+    enterprise applications. Voice assistance is the fastest-adopted consumer
+    technology ever. Yet today's consumers are showing increased hesitation to
+    venture into new usage – especially outside of today's proprietary
+    platforms. As we enter a multi-platform voice world, this raises critical
+    questions of open connection, equal access, and data privacy for today's
+    consumers and enterprises.
 intro:
-  heading: Why Open Voice Network?
-  text: 'The question of AI-voice in commerce is not whether, but when.'
+  heading: Introducing the Open Voice Network.
+  text: >-
+    Dedicated to bringing the value of standards to the multi-platform,
+    multi-device, multi-use world of voice assistance. The Open Voice Network
+    is:
 join:
   - image: /img/noun_voice_message_2757037-01.png
     text: >-
-      One-third of US residents regularly use AI-voice assistants.  AI-voice
-      assistants are increasingly used for retail search, purchase, and
-      post-sale support. 
-
-      [Are you ready?]
+      Comprised of experienced, practicing experts. Which means proposed
+      standards and practices will be based in today's realities and tomorrow's
+      feasibilities, and tested with an eye toward value-creating
+      implementation.
   - image: /img/noun_group_2391984-01.png
     text: >-
-      As AI-voice and adoption grows, so will the value of voice data, voice
-      search, and voice access. [Who will capture that value?]
+      Open, objective, and ethical. The OVN is a non-profit organization that
+      will seek – in open, rigorous exploration – to develop standards that
+      bring the most to the many. Where no one entity unfairly benefits from any
+      proposed standards or recommended guidelines.
   - image: /img/noun_global_2468543-01.png
     text: >-
-      Voice is in its earliest days, like the days of the internet browser
-      wars. 
-
-      [Think about the economic dividends of open, standards-based voice.
-      Especially for your brand.]
+      Results focused. We are milestone-driven and outcome-based. And we know
+      that standards development and governing body approval has merit only if
+      it is followed by broad industry adoption and implementation.
 about:
   heading: For the Benefit of the Many
   text: >-
