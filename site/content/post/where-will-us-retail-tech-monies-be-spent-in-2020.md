@@ -1,7 +1,9 @@
 ---
 title: Where will US retail tech monies be spent in 2020?
 date: 2020-05-27T23:13:18.210Z
-description: You might be surprised...
+description: >-
+  Total Retail's analysis of US retail technology trends offers some
+  suggestions. You might be surprised...
 image: >-
   /img/open-voice-network-ovn-where-will-us-retail-tech-monies-be-spent-in-2020.jpeg
 ---
