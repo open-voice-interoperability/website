@@ -18,7 +18,7 @@ Not so fast, my friends. More a signal of what we, as an industry, must do. (And
 
 Two important takeaways:
 
-1. If you delve into the details, you'll find that that purchase activity via smart speakers is **_actually growing,_** and will pass an important milestone in 2020: more than 10 percent of all digital buyers will make a purchase using a smart speaker.
+1. If you delve into the details, you'll find that that purchase activity via smart speakers is _**actually growing,**_ and will pass an important milestone in 2020: more than 10 percent of all digital buyers will make a purchase using a smart speaker.
 2. What's slowing growth? In the eyes of the experts, it's all about a **lack of consumer trust.**
 
 Let's quote eMarketer:
@@ -29,4 +29,4 @@ Hmmm.
 
 This echoes the good thoughts from Edison Research's David Webster at January's Voice@CES, that a lack of consumer trust will inhibit more advanced voice usage.
 
-It also gives additional credence to [the plans](https://openvoicenetwork.org/about/) of Open Voice Network, which is working to bring the consumer confidence brought by standards to the world of voice assistance.
+It also gives additional credence to [the plans](https://openvoicenetwork.org/about/) of the Open Voice Network, which is working to bring the consumer confidence brought by standards to the world of voice assistance.
