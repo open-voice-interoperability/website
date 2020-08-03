@@ -42,7 +42,7 @@ main:
     image: /img/open-voice-network-branding.jpg
   image3:
     alt: Open Voice
-    image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
+    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy.jpg
 testimonials:
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
