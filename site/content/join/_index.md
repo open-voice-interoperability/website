@@ -1,6 +1,6 @@
 ---
 title: Join us
-image: /img/aaron-huber-lnr-kngyj9g-unsplash.jpg
+image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
 heading: Join The Open Voice Network?
 description: >-
   Open Voice Network members will help shape the future of AI-voice in
