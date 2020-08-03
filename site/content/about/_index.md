@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/henning-witzel-ukvgqriuogo-unsplash.jpg
+image: /img/ovn-open-voice-network-about-ai-voice-assistance.jpg
 about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
