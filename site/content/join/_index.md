@@ -36,10 +36,10 @@ main:
     research and best practices in AI-voice commerce.
   image1:
     alt: Open Voice
-    image: /img/josh-hild-mo1lxrlelfs-unsplash-.jpg
+    image: /img/ovn-open-voice-network-ai-voice-commerce-retail.jpg
   image2:
     alt: Open Voice
-    image: /img/open-voice-network-branding.jpg
+    image: /img/ovn-open-voice-network-join-assistance.jpg
   image3:
     alt: Open Voice
     image: /img/open-voice-network-the-importance-of-voice-and-data-privacy.jpg
