@@ -60,7 +60,7 @@ testimonials:
       organizations should focus on gaining consumer trust. The Open Voice
       Network is the right initiative to help companies doing the right things,
       serving consumers in the right way.
-full_image: /img/open-voice-network-join-connect.jpg
+full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance.jpg
 pricing:
   heading: Open Voice Network Membership
   description: "Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
