@@ -36,7 +36,8 @@ main:
     research and best practices in AI-voice commerce.
   image1:
     alt: Open Voice
-    image: /img/ovn-open-voice-network-ai-voice-commerce-retail.jpg
+    image: >-
+      /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence.jpg
   image2:
     alt: Open Voice
     image: /img/ovn-open-voice-network-join-assistance.jpg
