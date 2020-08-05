@@ -2,7 +2,7 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Communities + Membership
+  - heading: Membership + Communities
     text: >-
       OVN Communities are open to everyone in the conversational AI community –
       developers, designers, strategists, linguists, researchers, marketers, and
