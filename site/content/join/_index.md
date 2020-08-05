@@ -3,12 +3,7 @@ title: Join us
 image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
 heading: Why Join The Open Voice Network?
 description: >-
-  Opportunities to get involved within OVN Committees and Communities.are open
-  to those willing to give of their time, network, industry knowledge, and
-  resources through collaboration, advocacy, and development of standards.
-  Corporations and enterprises are invited to join OVN as Members through a
-  financial sponsorship, as well as through representation on a leadership
-  level. Open Voice Network members will help shape the future of AI-voice in
+  Open Voice Network members will help shape the future of AI-voice in
   consumer-facing industries in areas of technology, value propositions,
   provider ecosystems, competition, and commercial and personal information
   privacy.  
@@ -24,21 +19,23 @@ intro:
         Members will enjoy first access to the Open Voice standards development
         and use case research by leading academic institutions and
         consultancies.
-  heading: Why Join The Open Voice Network?
+  heading: Why Join The Open Voice Network
+  description: >-
+    Opportunities to get involved within OVN Committees and Communities are open
+    to those willing to give of their time, network, industry knowledge, and
+    resources through collaboration, advocacy, and development of standards.
+    Corporations and enterprises are invited to join OVN as Members through a
+    financial sponsorship, as well as through representation on a leadership
+    level.
+main:
+  heading: Why Become a Member of OVN?
   description: >-
     OVN will sponsor research that will explore, develop and assert standards
     and technologies of open voice. Members will help shape the future of
     AI-voice in consumer-facing industries in areas of technology, value
     propositions, provider ecosystems, competition, and commercial and personal
-    information privacy. 
-main:
-  heading: Value in Membership
-  description: >-
-    Open Voice Network members will help shape the future of AI-voice in
-    consumer-facing industries in areas of technology, value propositions,
-    provider ecosystems, competition, and commercial and personal information
-    privacy. Members will be invited to participate in industry symposia on
-    research and best practices in AI-voice commerce.
+    information privacy. Members will be invited to participate in industry
+    symposia on research and best practices in AI-voice commerce.
   image1:
     alt: Open Voice
     image: >-
