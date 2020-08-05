@@ -1,9 +1,14 @@
 ---
 title: Join us
 image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
-heading: Join The Open Voice Network?
+heading: Why Join The Open Voice Network?
 description: >-
-  Open Voice Network members will help shape the future of AI-voice in
+  Opportunities to get involved within OVN Committees and Communities.are open
+  to those willing to give of their time, network, industry knowledge, and
+  resources through collaboration, advocacy, and development of standards.
+  Corporations and enterprises are invited to join OVN as Members through a
+  financial sponsorship, as well as through representation on a leadership
+  level. Open Voice Network members will help shape the future of AI-voice in
   consumer-facing industries in areas of technology, value propositions,
   provider ecosystems, competition, and commercial and personal information
   privacy.  
@@ -49,17 +54,12 @@ testimonials:
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
       Capgemini Consulting
     quote: >-
-      Our recent research is clearly indicating that both consumers and
-      organizations are rapidly adopting conversational interfaces.
-      Conversational assistants are becoming the trusted companions of
-      consumers, who increasingly prefer voice assistants as they allow for
-      multi-tasking at their convenience. The research indicates that three
-      years from now, consumers will prefer using voice to other mediums for all
-      interactions in the consumer products and retail sector, whether it is in
-      store, in their cars or in their homes. But it is also clear that
-      organizations should focus on gaining consumer trust. The Open Voice
-      Network is the right initiative to help companies doing the right things,
-      serving consumers in the right way.
+      Research indicates that three years from now, consumers will prefer using
+      voice to other mediums for all interactions in the consumer products and
+      retail sector, whether it is in store, in their cars or in their homes.
+      But it is also clear that organizations should focus on gaining consumer
+      trust. The Open Voice Network is the right initiative to help companies
+      doing the right things, serving consumers in the right way.
 full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance.jpg
 pricing:
   heading: Open Voice Network Membership
