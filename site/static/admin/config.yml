@@ -99,4 +99,19 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
               - {label: ButtonText, name: buttonText, widget: object}
               - {label: ButtonLink, name: buttonLink, widget: object}
-
+      - file: "site/content/communities/_index.md"
+        label: "Communities Page"
+        name: "communities"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - label: Communities
+            name: communities
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+ 
