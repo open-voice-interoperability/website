@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/ovn-open-voice-network-about-ai-voice-assistance.jpg
+image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
 about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png

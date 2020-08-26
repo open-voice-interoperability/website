@@ -3,7 +3,7 @@ title: Voice assistance worthy of user trust.
 subtitle: >-
   The Open Voice Network (OVN): bringing the value of standards to the
   multi-platform, multi-device, multi-use world of voice assistance.
-image: /img/open-voice-network-branding.jpg
+image: /img/open-voice-network-branding_optimized.jpg
 blurb:
   heading: The importance of standards-based voice assistance.
   text: >-
@@ -22,19 +22,19 @@ intro:
     multi-device, multi-use world of voice assistance. The Open Voice Network
     is:
 join:
-  - image: /img/noun_voice_message_2757037-01.png
+  - image: /img/ovn-open-voice-network-voice-assistance.png
     text: >-
       Comprised of experienced, practicing experts. Which means proposed
       standards and practices will be based in today's realities and tomorrow's
       feasibilities, and tested with an eye toward value-creating
       implementation.
-  - image: /img/noun_group_2391984-01.png
+  - image: /img/ovn-open-voice-network-consumer-trust.png
     text: >-
       Open, objective, and ethical. The OVN is a non-profit organization that
       will seek – in open, rigorous exploration – to develop standards that
       bring the most to the many. Where no one entity unfairly benefits from any
       proposed standards or recommended guidelines.
-  - image: /img/noun_global_2468543-01.png
+  - image: /img/ovn-open-voice-network-global-standards.png
     text: >-
       Results focused. We are milestone-driven and outcome-based. And we know
       that standards development and governing body approval has merit only if

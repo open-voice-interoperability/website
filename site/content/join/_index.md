@@ -1,6 +1,6 @@
 ---
 title: Join us
-image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
+image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 heading: Why Join The Open Voice Network?
 description: >-
   Open Voice Network members will help shape the future of AI-voice in
@@ -39,13 +39,13 @@ main:
   image1:
     alt: Open Voice
     image: >-
-      /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence.jpg
+      /img/OVN-open-voice-network-artificial-intelligence-aivoice-global-standards_optimized.jpg
   image2:
     alt: Open Voice
-    image: /img/ovn-open-voice-network-join-assistance.jpg
+    image: /img/ovn-open-voice-network-join-assistance_optimized.jpg
   image3:
     alt: Open Voice
-    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy.jpg
+    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy_optimized.jpg
 testimonials:
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
@@ -57,7 +57,7 @@ testimonials:
       But it is also clear that organizations should focus on gaining consumer
       trust. The Open Voice Network is the right initiative to help companies
       doing the right things, serving consumers in the right way.
-full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance.jpg
+full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
 pricing:
   heading: Open Voice Network Membership
   description: "Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"

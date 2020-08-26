@@ -1,6 +1,6 @@
 ---
 title: Resources
-image: /img/artificial-intelligence-voice-open-voice-network-related-resources.jpg
+image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro:
   group1:
     - image: /img/our-talk-on-the-laws-of-voice-voh-summit-2019-bianca-phillips-ovn-open-voice-network.png

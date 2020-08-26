@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.communities }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block" $element }}
+    {{ end }}
+  {{ end }}
+
+</div>
+
+<!-- Full-width image -->
+<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+
+<div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.contact_us }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block" $element }}
+    {{ end }}
+  {{ end }}
+
+</div>
+
+<div class="center mw6 pv3"></div>
+{{ partial "contact-form" . }}
+</div>
+
+{{ end }}
