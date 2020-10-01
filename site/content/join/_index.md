@@ -9,12 +9,12 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/noun_group_2391984-01.png
+    - image: /img/ovn-open-voice-network-consumer-trust.png
       text: >-
         Senior executives of members will enjoy access to other AI-voice leaders
         and innovators with consumer-facing industries, along with best
         practices.
-    - image: /img/noun_search_2801993-01.png
+    - image: /img/ovn-open-voice-network-global-standards.png
       text: >-
         Members will enjoy first access to the Open Voice standards development
         and use case research by leading academic institutions and
@@ -45,7 +45,8 @@ main:
     image: /img/ovn-open-voice-network-join-assistance_optimized.jpg
   image3:
     alt: Open Voice
-    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy_optimized.jpg
+    image: >-
+      /img/open-voice-network-the-importance-of-voice-and-data-privacy_optimized.jpg
 testimonials:
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
