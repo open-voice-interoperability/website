@@ -34,4 +34,5 @@
 	/* Miscelaneous */
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
+	--breakpoint-smallish: screen and (min-width: 20em);
 }
