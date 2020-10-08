@@ -1,13 +1,26 @@
 ---
 title: Join us
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
-heading: Why Join The Open Voice Network?
-description: >-
-  Open Voice Network members will help shape the future of AI-voice in
-  consumer-facing industries in areas of technology, value propositions,
-  provider ecosystems, competition, and commercial and personal information
-  privacy.  
+hardsell:
+  - heading: Why Join The Open Voice Network
+    description: >-
+      Opportunities to get involved within OVN Committees and Communities are open to those willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. 
+      
+      Enterprises are invited to join OVN as Sponsoring Members by providing financial sponsorship as well as executive leadership.
+  - heading: Open Voice Network Sponsoring Members
+    description: >-
+      Sponsoring Members are enterprises that provide financial support and executive leadership to the Open Voice Network.
+      
+      Sponsorship is open worldwide to enterprises and public entities, as well as those that advise or represent such enterprises and entities.
 intro:
+  heading: Why Become a Member of OVN?
+  description: >-
+    OVN will sponsor research that will explore, develop and assert standards
+    and technologies of open voice. Members will help shape the future of
+    AI-voice in consumer-facing industries in areas of technology, value
+    propositions, provider ecosystems, competition, and commercial and personal
+    information privacy. Members will be invited to participate in industry
+    symposia on research and best practices in AI-voice commerce.
   blurbs:
     - image: /img/ovn-open-voice-network-consumer-trust.png
       text: >-
@@ -19,35 +32,11 @@ intro:
         Members will enjoy first access to the Open Voice standards development
         and use case research by leading academic institutions and
         consultancies.
-  heading: Why Join The Open Voice Network
-  description: >-
-    Opportunities to get involved within OVN Committees and Communities are open
-    to those willing to give of their time, network, industry knowledge, and
-    resources through collaboration, advocacy, and development of standards.
-    Corporations and enterprises are invited to join OVN as Members through a
-    financial sponsorship, as well as through representation on a leadership
-    level.
-main:
-  heading: Why Become a Member of OVN?
-  description: >-
-    OVN will sponsor research that will explore, develop and assert standards
-    and technologies of open voice. Members will help shape the future of
-    AI-voice in consumer-facing industries in areas of technology, value
-    propositions, provider ecosystems, competition, and commercial and personal
-    information privacy. Members will be invited to participate in industry
-    symposia on research and best practices in AI-voice commerce.
-  image1:
-    alt: Open Voice
-    image: >-
-      /img/OVN-open-voice-network-artificial-intelligence-aivoice-global-standards_optimized.jpg
-  image2:
-    alt: Open Voice
-    image: /img/ovn-open-voice-network-join-assistance_optimized.jpg
-  image3:
-    alt: Open Voice
-    image: >-
-      /img/open-voice-network-the-importance-of-voice-and-data-privacy_optimized.jpg
 testimonials:
+  - author: >-
+      Jon Stine | Executive Director of Open Voice Network
+    quote: >-
+      Enterprises that are active in standards development drive efficiencies, gain market access, and create competitive differentiation faster than those that don’t. From a market-share point of view, the question is whether you or your competitors will guide the future of the technology.
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
       Capgemini Consulting
@@ -93,4 +82,3 @@ pricing:
       plan: 'OVN ASSOCIATES '
       price: '0'
 ---
-

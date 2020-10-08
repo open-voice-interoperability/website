@@ -44,3 +44,30 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+## Add an Image
+
+Save image to `/site/static/img/`
+Reference image like `/img/name_of_image.jpg`
+
+## Add a New Page
+
+```Copy and rename About:
+X /site/content
+X /site/layout/section
+X /src/js/cms-preview-templates/
+
+X site/static/admin/config.yml (added new section for communities, do we need to update homepage section?)
+X src/js/cms.js
+X site/layouts/partials/nav.html
+```
+
+## Edit Existing Page
+
+For example Communities
+
+```
+/site/content/communities.html
+/site/layout/section/communities
+/src/js/cms-preview-templates/communities
+```

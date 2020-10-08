@@ -23,6 +23,8 @@
 .w-two-thirds { width: calc(100% / 1.5); }
 .w-auto { width: auto; }
 
+
+
 @media (--breakpoint-not-small) {
   .w1-ns {  width: var(--spacing-medium); }
   .w2-ns {  width: 2rem; }
