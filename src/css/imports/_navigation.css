@@ -1,6 +1,7 @@
-.navbar{
+.navbar, .navbar li ul{
   color: var(--grey-3);
   font-weight: var(--bold-font-weight);
+  background-color: var(--white);
 }
 nav .navbar{
   display: none;
@@ -45,6 +46,9 @@ nav .navbar{
 .mobile .navbar{
   box-shadow: inset 0 -4px 0 var(--grey-1);
 }
+.mobile .navbar li ul{
+ margin-left: var(--spacing-medium);
+}
 
 @media (--breakpoint-medium) {
   nav .navbar{
@@ -55,6 +59,15 @@ nav .navbar{
   }
   .collapse-btn {
     display: none;
+  }
+  .navbar li ul{
+    display: none;
+    position: relative;
+  }
+  .navbar li:hover ul{
+    display: block;
+    position: absolute;
+    z-index: 1;
   }
 }
 
