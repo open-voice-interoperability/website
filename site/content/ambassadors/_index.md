@@ -1,6 +1,6 @@
 ---
 title: Ambassadors
-image: /img/OVN-open-voice-network-ambassadors.png
+image: /img/open-voice-network-aivoice-voice-ovn-communities_optimized.jpg
 about:
   - heading: Ambassadors of the Open Voice Network
     imageUrl: /img/1x1-white-pixel.png
