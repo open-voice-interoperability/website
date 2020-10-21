@@ -51,6 +51,12 @@ ambassadors:
       with speech technology. Also founder of the Voice Commons: national,
       private by design, and open smart assistants for all. More at
       lens-fitzgerald.com.
+  - heading: 'Gwen Morrison, Partner at Candezent Advisory'
+    imageUrl: /img/ovn_gwen-morrison.png
+    text: >-
+      A partner with Candezent Advisory, Gwen is the past Co-CEO of The Store,
+      WPP’s global retail practice and serves as a board member of several
+      retail tech start-ups.
   - heading: 'Nick Myers, Founder & CEO of RedFox AI'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Nick-Myers.png
     text: >-
