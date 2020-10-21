@@ -1,6 +1,7 @@
 ---
 title: Ambassadors
-image: /img/open-voice-network-aivoice-voice-ovn-communities_optimized.jpg
+image: >-
+  /img/open-voice-network-250-billion-and-counting-the-new-rules-of-search-by-voice-ovn-blog.jpg
 about:
   - heading: Ambassadors of the Open Voice Network
     imageUrl: /img/1x1-white-pixel.png
