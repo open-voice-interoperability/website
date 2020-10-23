@@ -7,7 +7,7 @@ image: >-
 ---
 ## We're funded, chartered, and up and running
 
-The Open Voice Network is now up and at work, exploring the technical standards and ethical frameworks that will make conversational AI worthy of user trust—and reach its remarkable potential in our digital world.
+The Open Voice Network is exploring the technical standards and ethical frameworks that will make conversational AI worthy of user trust—and reach its remarkable potential in our digital world.
 
 ## What are we working toward?
 
