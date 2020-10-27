@@ -2,7 +2,8 @@
 
   <div class="ph3-m w-100-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    {{ if .text }}<p>{{.text | markdownify }}</p>{{ end }}
+    {{ if .textHTML }}<p>{{.textHTML | safeHTML | markdownify }}</p>{{ end }}
   </div>
 
 </div>

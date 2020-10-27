@@ -17,7 +17,14 @@ about:
       data privacy, and interoperability.
   - heading: Principles
     imageUrl: /img/1x1-white-pixel.png
-    text: "The Open Voice Network is guided by four principles. It is:\n(1) user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;  \n(2)\_pragmatic, based in today’s realities and tomorrow’s feasibilities; \n(3) committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;  \n(4) focused on results."
+    textHTML: >-
+      The Open Voice Network is guided by four principles. It is:
+      <ol>
+        <li>user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;</li>
+        <li>pragmatic, based in today’s realities and tomorrow’s feasibilities;</li>
+        <li>committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;</li>
+        <li>focused on results.</li>
+      </ol>
   - heading: History and Affiliations
     imageUrl: /img/1x1-white-pixel.png
     text: >-
@@ -28,4 +35,3 @@ about:
       research into voice assistance technologies and potential standards, and
       to develop The Open Voice Network.
 ---
-
