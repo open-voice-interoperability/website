@@ -1,5 +1,5 @@
 ---
-title: Can you hear another consequence of COVID-19?
+title: Can You Hear Another Consequence of COVID-19?
 date: 2020-09-24T20:42:39.715Z
 description: >-
   Much has changed during the course of the pandemic, including the growth of
