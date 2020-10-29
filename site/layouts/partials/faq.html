@@ -1,0 +1,15 @@
+<div class="flex-m mhn3-m mb4 faq_container">
+
+  <div class="ph3-m w-100-m">
+    <a class="toggle_faq no-underline" href="#">
+      <h3 class="f3 b lh-title mb1 faq_question" data->{{.heading}}
+        <div class="fr">
+        <span class="expand no-underline">&plus;</span>
+        <span class="collapse no-underline dn">&minus;</span>
+        </div>
+      </h3>
+    </a>
+    <div class="faq_answer dn">{{.answer | safeHTML | markdownify }}</div>
+  </div>
+
+</div>

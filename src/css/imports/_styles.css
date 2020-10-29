@@ -18,10 +18,17 @@ ol{
   list-style: decimal;
   margin-left: 1.25em;
 }
+ul.bullets{
+  list-style: disc;
+  margin-left: 1.25em;
+}
 
 sub{
   font-weight: normal;
 }
+
+/** FAQ **/
+
 
 /* home page jumbo */
 .pv5.pv6-l.ph3.bg-center.cover.home-img {

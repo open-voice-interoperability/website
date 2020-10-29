@@ -10,6 +10,7 @@ import JoinPreview from "./cms-preview-templates/join";
 import AboutPreview from "./cms-preview-templates/about";
 import AmbassadorsPreview from "./cms-preview-templates/ambassadors";
 import CommunitiesPreview from "./cms-preview-templates/communities";
+import FAQPreview from "./cms-preview-templates/faq";
 import ResourcesPreview from "./cms-preview-templates/resources";
 import ContactPreview from "./cms-preview-templates/contact";
 
@@ -20,6 +21,7 @@ CMS.registerPreviewTemplate("join", JoinPreview);
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("ambassadors", AmbassadorsPreview);
 CMS.registerPreviewTemplate("communities", CommunitiesPreview);
+CMS.registerPreviewTemplate("faq", FAQPreview);
 CMS.registerPreviewTemplate("resources", ResourcesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
