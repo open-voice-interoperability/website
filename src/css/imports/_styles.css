@@ -19,6 +19,10 @@ ol{
   margin-left: 1.25em;
 }
 
+sub{
+  font-weight: normal;
+}
+
 /* home page jumbo */
 .pv5.pv6-l.ph3.bg-center.cover.home-img {
     padding-top: 11rem;
