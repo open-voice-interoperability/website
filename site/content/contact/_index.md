@@ -2,20 +2,19 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Membership + Communities
+  - heading: Join our Communities
     text: >-
       OVN Communities are open to everyone in the conversational AI community –
       developers, designers, strategists, linguists, researchers, marketers, and
-      students. Membership opportunities are available to the retail and
-      consumer goods industries. Contact us to learn more.
-  - heading: Media
+      students. Fill out the form to express your interest, and join the
+      discussion on LinkedIn, Facebook, Instagram and GitHub channels.
+  - heading: Sponsoring Members
     text: >-
-      The news is out. Open voice is needed – and now. We are dedicated to
-      bringing the value of standards to the multi-platform, multi-device,
-      multi-use world of voice assistance. The Open Voice Network welcomes
-      requests from media journalists and bloggers for information, quotes, and
-      resources.
+      Sponsorship is open worldwide to enterprises and public entities, as well
+      as those that advise or represent such enterprises and entities. Members
+      will help shape the future of AI-voice in consumer-facing industries in
+      areas of technology, value propositions, provider ecosystems, competition,
+      and commercial and personal information privacy. Contact us for a
+      discussion.
 ---
 Ready to get involved? Your ideas, questions, and feedback are valuable to us. Contact us at hello@openvoicenetwork.org or reach out via the form below.
-
-Follow OVN news and updates on social media!
