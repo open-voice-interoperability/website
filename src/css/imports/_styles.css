@@ -13,3 +13,30 @@
     box-shadow: inset 0 -4px 0 var(--primary);
   }
 }
+
+ol{
+  list-style: decimal;
+  margin-left: 1.25em;
+}
+ul.bullets{
+  list-style: disc;
+  margin-left: 1.25em;
+}
+
+sub{
+  font-weight: normal;
+}
+
+/** FAQ **/
+
+
+/* home page jumbo */
+.pv5.pv6-l.ph3.bg-center.cover.home-img {
+    padding-top: 11rem;
+    padding-bottom: 5rem;
+}
+@media only screen and (max-width: 690px) {
+  .pv5.pv6-l.ph3.bg-center.cover.home-img {
+    background-position: 70%;  
+  }
+}

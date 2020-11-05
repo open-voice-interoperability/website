@@ -5,13 +5,24 @@
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.about }}
-    {{ if modBool $index 2 }}
+    {{ if $element.steeringcommittee}}
       {{ partial "media-block" $element }}
+      {{ range $index, $sc := $element.steeringcommittee }}
+        {{ partial "left-image-and-text" $sc }}
+      {{ end }}
     {{ else }}
-      {{ partial "media-block" $element }}
+      {{ if modBool $index 2 }}
+        {{ partial "media-block" $element }}
+      {{ else }}
+        {{ partial "media-block" $element }}
+      {{ end }}
     {{ end }}
   {{ end }}
 
+</div>
+
+<div class="tc mb5">
+<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
 </div>
 
 {{ end }}

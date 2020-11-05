@@ -80,6 +80,16 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
+              - {label: TextHTML, name: textHTML, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: SteeringCommittee
+            name: steeringcommittee
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: SubHeading, name: subHeading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: TextHTML, name: textHTML, widget: text}
               - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/ambassadors/_index.md"
         label: "Ambassadors Page"
@@ -132,4 +142,18 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/faq/_index.md"
+        label: "FAQ Page"
+        name: "faq"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - label: FAQs
+            name: faqs
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Answer, name: answer, widget: text}
  

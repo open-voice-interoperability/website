@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.about }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block" $element }}
+    {{ end }}
+  {{ end }}
+
+</div>
+<div class="mw7 center ph3">
+<form method="get" action="" id="faq_form">
+<div class="flex flex-row">
+  <input class="flex-auto" type="search" name="faq_query" id="faq_query" value="" placeholder="Search FAQ" />
+  <button class="btn" type="submit" name="search_faq" id="search_faq">Search</button>
+</div>
+</form>
+</div>
+<div class="mw7 center ph3 pt4 faqs" id="faqs_list">
+  {{ range $index, $sc := .Params.faqs }}
+    {{ partial "faq" $sc }}
+  {{ end }}
+
+</div>
+
+{{ end }}

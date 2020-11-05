@@ -1,8 +1,11 @@
 <div class="flex-m mhn3-m mb4">
 
   <div class="ph3-m w-100-m">
-    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    <h3 class="f3 b lh-title mb1">{{.heading}}
+     {{ if .subHeading}}<sub>{{.subHeading}}</sub>{{ end }}
+    </h3>
+    {{ if .text }}<p>{{.text | markdownify }}</p>{{ end }}
+    {{ if .textHTML }}<div>{{.textHTML | safeHTML | markdownify }}</div>{{ end }}
   </div>
 
 </div>
