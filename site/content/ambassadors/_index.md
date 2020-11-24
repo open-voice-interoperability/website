@@ -56,7 +56,7 @@ ambassadors:
     text: >-
       A partner with Candezent Advisory, Gwen is the past Co-CEO of The Store,
       WPP’s global retail practice and serves as a board member of several
-      retail tech start-ups.
+      retail tech start-ups. 
   - heading: 'Nick Myers, Founder & CEO of RedFox AI'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Nick-Myers.png
     text: >-
