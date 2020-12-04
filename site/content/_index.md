@@ -1,23 +1,18 @@
 ---
-title: "The Open Voice Network (OVN):"
+title: "The Open Voice Network"
 subtitle: >-
-  bringing the value of standards to the multi-platform, 
-  multi-device, multi-use world of voice assistance.
+  Voice worthy of user trust.
 image: /img/home/OVN_Mission_Homepage_AI_Voice_Assistance_fade.jpg
 jumboClass: "home-img"
 blurb:
   heading: The importance of standards-based voice assistance.
   text: >-
-    Artificial intelligence-enabled voice assistance will soon be a primary
-    interface to the internet, mobile apps, smart home and factories, and
-    enterprise applications. Voice assistance is the fastest-adopted consumer
-    technology ever. Yet today's consumers are showing increased hesitation to
-    venture into new usage – especially outside of today's proprietary
-    platforms. As we enter a multi-platform voice world, this raises critical
-    questions of open connection, equal access, and data privacy for today's
-    consumers and enterprises.
+    Voice will soon become a common interface for every digital device.  And soon, an everyday way to connect to virtual assistants, as well as the internet, smart homes and factories, and enterprise applications. For consumer-facing industries, voice will significant re-shape customer relationships and could lift corporate productivity, accessibility, and inclusion. But what started as the world’s fastest adopted consumer technology may fall well short of its potential for acceptance and value. Consumers and enterprises are showing increased hesitation to venture into new usage. **Research points to a “trust gap” that raises critical questions of privacy, data security, ease of use, dependable connection, interoperability, and equal and unbiased access.**
+    <br><br>
+    For voice, the communal development and adoption of standards offers a proven path to accelerated and ever-greater enterprise value.   Why?  Standards are the product of multiple minds and diverse perspectives.  They create component interoperability; they codify best practices, and reduce the risk of R&D investment; they encourage products and services to cross platform and national borders.  Thanks to standards, commercial firms can focus on innovation and key features – and enterprise IT leaders can build once and use many. 
+
 intro:
-  heading: Introducing the Open Voice Network.
+  heading: Introducing the Open Voice Network
   text: >-
     Dedicated to bringing the value of standards to the multi-platform,
     multi-device, multi-use world of voice assistance. The Open Voice Network
@@ -41,18 +36,12 @@ join:
       that standards development and governing body approval has merit only if
       it is followed by broad industry adoption and implementation.
 about:
-  heading: For the Benefit of the Many
+  heading: For the Future of Voice Assistance
   text: >-
-    Become an OVN member. Doing so allows you to advocate for and financially
-    support the mission of the Open Voice Network. Members will help shape the
-    future of commerce – in increasingly critical issues of technology,
-    competition, and commercial and personal information privacy.
-resources:
-  heading: Hello
+    Become an OVN sponsoring member.  Doing so allows you to advocate for and finally support the mission of the Open Voice Network.  Sponsoring members will guide and shape the future of voice assistance – in increasingly critical issues of technology, competition, and commercial and personal data privacy – to the benefit of global users and providers.
+social:
+  heading: The Open Voice Network in Social Media
   text: >-
-    Become an OVN member. Doing so allows you to advocate for and financially
-    support the mission of the Open Voice Network. Members will help shape the
-    future of commerce – in increasingly critical issues of technology,
-    competition, and commercial and personal information privacy.
+    social
 ---
 
