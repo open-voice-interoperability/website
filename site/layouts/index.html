@@ -8,6 +8,15 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.about.heading "text" .Params.about.text "buttonText" "Read more" "buttonLink" "/about") }}
 
-{{ partial "blog" . }}
+{{/* {{ partial "blog" . }} */}}
+
+<div class="bg-grey-1 pv4">
+  <div class="mhn1-l ph3 center mw7">
+    <h2 class="f2 b lh-title mb2">{{.Params.social.heading}}</h2>
+    <div class="" style="margin:0 auto; width: 260px;">
+    {{ partial "social-links" . }}
+    </div>
+  </div>
+</div>
 
 {{ end }}
