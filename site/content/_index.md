@@ -14,27 +14,30 @@ blurb:
 intro:
   heading: Introducing the Open Voice Network
   text: >-
-    Dedicated to bringing the value of standards to the multi-platform,
-    multi-device, multi-use world of voice assistance. The Open Voice Network
-    is:
-join:
-  - image: /img/ovn-open-voice-network-voice-assistance.png
+    The Open Voice Network is a neutral, non-profit industry association dedicated to the development of the standards and ethical use guidelines that will make voice worthy of user trust. It operates as a directed fund of The Linux Foundation, and is independently funded and governed.
+    <br><br>
+    The Open Voice Network is guided by these values:
+values:
+  - heading: Trust.
     text: >-
-      Comprised of experienced, practicing experts. Which means proposed
-      standards and practices will be based in today's realities and tomorrow's
-      feasibilities, and tested with an eye toward value-creating
-      implementation.
-  - image: /img/ovn-open-voice-network-consumer-trust.png
+      Voice worthy of user trust. Individuals. Enterprise and entity decision-makers. Developers, designers, strategists, makers.
+      <br>
+      This is about privacy, security, dependability, and ease of use. Thanks to communally-developed standards and governance.
+  - heading: Choice.
     text: >-
-      Open, objective, and ethical. The OVN is a non-profit organization that
-      will seek – in open, rigorous exploration – to develop standards that
-      bring the most to the many. Where no one entity unfairly benefits from any
-      proposed standards or recommended guidelines.
-  - image: /img/ovn-open-voice-network-global-standards.png
+      User choice. User data ownership and data control; the choice of assistants, providers, and devices. 
+      <br>
+      Ecosystem choice. For enterprise users, developers, designers and strategists.
+      <br>
+      Architectural choice. Local host or global cloud.
+  - heading: Inclusivity.
     text: >-
-      Results focused. We are milestone-driven and outcome-based. And we know
-      that standards development and governing body approval has merit only if
-      it is followed by broad industry adoption and implementation.
+      Voice for everyone and every situation. Inclusivity and accessibility.
+  - heading: Openness.
+    text: >-
+      Standards-based building blocks. In open, proprietary, or hybrid implementations. A foundation for commercial differentiation and value.   
+      <br>
+      Software and hardware.
 about:
   heading: For the Future of Voice Assistance
   text: >-
