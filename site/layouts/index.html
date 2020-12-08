@@ -4,7 +4,15 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+
+<div class="bg-off-white pv4">
+{{ partial "simple-text" (dict "heading" .Params.intro.heading "text" .Params.intro.text "fontSize" "f2") }}
+<div class="mt4">
+{{ range .Params.values }}
+{{ partial "simple-text" (dict "heading" .heading "text" .text "fontSize" "f3") }}
+{{ end }}
+</div>
+</div>
 
 {{ partial "text-and-image" (dict "heading" .Params.about.heading "text" .Params.about.text "buttonText" "Join" "buttonLink" "/join") }}
 
