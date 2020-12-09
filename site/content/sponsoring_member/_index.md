@@ -2,22 +2,17 @@
 title: Sponsoring Member
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 hardsell:
-  - heading: Why Join The Open Voice Network
+  - heading: 
     description: >-
-      The industry surrounding voice technology is at an inflection point. Innovation by voice tech experience strategists, designers, and developers has demonstrated tremendous potential to include and serve society at large, inclusive of many levels of literacy or physical and cognitive abilities. It has also raised questions about interoperability, ethical use, and standards to ensure voice tech is a trustworthy interface developed for the benefit of the many, as opposed to the few. Supporting the Open Voice Network’s work to recommend standards for interoperability and effective, ethical use of voice AI is vital  to growing the industry in a way that can offer society the full benefits of using speech to engage with the digital world.    
+      Is your enterprise or organization interested in contributing to OVN’s mission? We encourage you to become a Sponsoring Member of the Open Voice Network.
       <br><br>
-      Opportunities to get involved within OVN are open to individuals willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. Enterprises are invited to join OVN as Sponsoring Members by providing financial sponsorship as well as executive leadership. Contact us to learn more.
-    
-  - description: >-
-      Sponsoring Members are enterprises that provide financial support and
-      executive leadership to the Open Voice Network.
-
-      Sponsorship is open worldwide to enterprises and public entities, as well
-      as those that advise or represent such enterprises and entities.
-    heading: Open Voice Network Sponsoring Members
+      Sponsoring Members are enterprises that provide financial support and executive leadership to the Open Voice Network. Sponsorship is open worldwide to enterprises and public entities, as well as those that advise or represent such enterprises and entities.
+      <br><br>
+      The sponsorship tier breakdown for OVN Sponsoring Membership is as follows:
 pricing:
-  description: "Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
-  heading: Open Voice Network Membership
+  description: ""
+  heading: ""
+  footnote: "* Sponsoring Memberships are for enterprises only. If you would like to become an individual supporter of the Open Voice Network, please visit our Supporters page."
   plans:
     - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
@@ -39,15 +34,6 @@ pricing:
         - May participate in other OVN committees
       plan: 'OVN ADVOCATES '
       price: '7,500'
-    - description: Annually contribute tangible in-kind value in support
-      items:
-        - >-
-          Industry associations + consumer-facing media and marketing firms +
-          academic institutions
-        - Represented on the OVN Steering Committee
-        - May participate in other OVN committees
-      plan: 'OVN ASSOCIATES '
-      price: '0'
 testimonials:
   - author: Jon Stine | Executive Director of Open Voice Network
     quote: >-
@@ -55,16 +41,6 @@ testimonials:
       gain market access, and create competitive differentiation faster than
       those that don’t. From a market-share point of view, the question is
       whether you or your competitors will guide the future of the technology.
-  - author: >-
-      Kees Jacobs | Vice-President for Global Consumer Products & Retail,
-      Capgemini Consulting
-    quote: >-
-      Research indicates that three years from now, consumers will prefer using
-      voice to other mediums for all interactions in the consumer products and
-      retail sector, whether it is in store, in their cars or in their homes.
-      But it is also clear that organizations should focus on gaining consumer
-      trust. The Open Voice Network is the right initiative to help companies
-      doing the right things, serving consumers in the right way.
 full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
 intro:
   blurbs:
@@ -79,12 +55,9 @@ intro:
         and use case research by leading academic institutions and
         consultancies.
   description: >-
-    OVN will sponsor research that will explore, develop and assert standards
-    and technologies of open voice. Members will help shape the future of
-    AI-voice in consumer-facing industries in areas of technology, value
-    propositions, provider ecosystems, competition, and commercial and personal
-    information privacy. Members will be invited to participate in industry
-    symposia on research and best practices in AI-voice commerce.
-  heading: Why Become a Member of OVN?
+    OVN will sponsor research that will explore, develop, and assert standards and technologies of open voice. Contributions from Sponsoring Members will help shape the future of voice AI in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy. 
+    <br><br>
+    A Sponsoring Membership with OVN will also allow senior executives from your enterprise or organization to participate in industry symposia on research and best practices in voice-AI commerce, as well as gain first access to the Open Voice Network standards development, use case research by leading academic institutions and consultancies, and networking with voice-AI leaders and innovators within consumer-facing industries. 
+  heading: Why Become a Member of Open Voice Network?
 ---
 

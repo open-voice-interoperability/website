@@ -11,22 +11,19 @@
   {{ end }}
 </div>
 
-<div class="pt4 pb4">
-{{ partial "blockquote" (index .Params.testimonials 1) }}
-</div>
-
 {{ partial "table" .Params.pricing }}
 
-<div class="tc">
+<div class="tc mb4">
 <a href="/contact" class="btn w-100 w-auto-ns raise" >Contact Us To Join</a>
-</div>
-
-<div class="pt4 pb4">
-  {{ partial "blockquote" (index .Params.testimonials 0) }}
 </div>
 
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
+
+
+<div class="pt4 pb4">
+{{ partial "blockquote" (index .Params.testimonials 0) }}
+</div>
 
 {{ partial "4-up" .Params.intro }}
 
