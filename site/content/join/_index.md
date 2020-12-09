@@ -1,5 +1,5 @@
 ---
-title: Join + Participate
+title: Join and Participate
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 hardsell:
   - description: >-
