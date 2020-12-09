@@ -7,10 +7,11 @@ jumboClass: "home-img"
 blurb:
   heading: The importance of standards-based voice assistance.
   text: >-
-    Voice will soon become a common interface for every digital device.  And soon, an everyday way to connect to virtual assistants, as well as the internet, smart homes and factories, and enterprise applications. For consumer-facing industries, voice will significant re-shape customer relationships and could lift corporate productivity, accessibility, and inclusion. But what started as the world’s fastest adopted consumer technology may fall well short of its potential for acceptance and value. Consumers and enterprises are showing increased hesitation to venture into new usage. **Research points to a “trust gap” that raises critical questions of privacy, data security, ease of use, dependable connection, interoperability, and equal and unbiased access.**
+    Voice will soon become a common interface for every digital device. For consumer-facing industries, voice will significantly re-shape customer relationships and lift corporate productivity, accessibility, and inclusion. But what started as the world’s fastest adopted consumer technology may fall well short of its potential for acceptance and enterprise value. **Research points to a "trust gap" that raises critical questions of privacy, data security, ease of use, brand protection, interoperability, and equal and unbiased access for individual and organizational users alike.**
     <br><br>
-    For voice, the communal development and adoption of standards offers a proven path to accelerated and ever-greater enterprise value.   Why?  Standards are the product of multiple minds and diverse perspectives.  They create component interoperability; they codify best practices, and reduce the risk of R&D investment; they encourage products and services to cross platform and national borders.  Thanks to standards, commercial firms can focus on innovation and key features – and enterprise IT leaders can build once and use many. 
-
+    A proven way to close the trust gap – one pursued in the early days of other technologies – is through the communal development and adoption of standards and usage guidelines.
+    <br><br>
+    Welcome to the Open Voice Network.  Voice worthy of user trust.
 intro:
   heading: Introducing the Open Voice Network
   text: >-
