@@ -11,19 +11,27 @@
   {{ end }}
 </div>
 
-<div>
-<table class="center">
-	<tr><td class="tl pv2 ph5"><a href="/sponsoring_member">SPONSORING MEMBER</a></td><td class="tr pv2 ph5"><a href="/supporters">SUPPORTERS</a></td><tr>
-	<tr><td class="tl pv2 ph5"><a href="/communities">COMMUNITIES</a></td><td class="tr pv2 ph5"><a href="/ambassadors">AMBASSADORS</a></td></tr>
-</table>
+<div class="pt4 pb4">
+{{ partial "blockquote" (index .Params.testimonials 1) }}
 </div>
 
-<div class="pt4 pb4">
-{{ partial "blockquote" (index .Params.testimonials 0) }}
-</div>
+{{ partial "table" .Params.pricing }}
 
 <div class="tc">
 <a href="/contact" class="btn w-100 w-auto-ns raise" >Contact Us To Join</a>
 </div>
-<br /><br />
+
+<div class="pt4 pb4">
+  {{ partial "blockquote" (index .Params.testimonials 0) }}
+</div>
+
+<!-- Full-width image -->
+<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+
+{{ partial "4-up" .Params.intro }}
+
+<div class="tc mb3">
+<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
+</div>
+
 {{ end }}
