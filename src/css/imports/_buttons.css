@@ -12,3 +12,15 @@
   box-shadow: inset 0 0 0 2px var(--primary);
   transition: var(--hover-transition);
 }
+
+/** join link buttons **/
+.btn-link{
+  display: block;
+  margin: 20px;
+  background-color: #0151FF;
+  padding: 20px;
+  color: var(--white);
+  text-align: center;
+  border-radius: var(--border-radius);
+  text-decoration: none;
+}
