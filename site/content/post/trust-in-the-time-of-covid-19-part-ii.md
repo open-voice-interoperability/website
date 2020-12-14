@@ -3,7 +3,7 @@ title: 'Trust in the Time of COVID-19: Part II'
 date: 2020-10-24T16:21:33.016Z
 description: >-
   During these troubling times, can we trust the information our voice assistant
-  is feeding us? We find that voice is uniquely challenged in overcoming this
+  is providing us? We find that voice is uniquely challenged in overcoming this
   obstacle.
 image: /img/ovn-open-voice-network-blog-trust-in-the-time-of-covid-19-part-ii.png
 ---
