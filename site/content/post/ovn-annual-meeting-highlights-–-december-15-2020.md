@@ -5,8 +5,8 @@ description: >-
   On December 15, the Open Voice Network (OVN) held its 2020 Annual Meeting with
   over 80 global voice-AI enthusiasts in attendance. Along with organizational
   milestones and community reports, the annual meeting also highlighted thoughts
-  from Steering Committee members Mike McNamara from Target Corporation, Scott
-  Nicholas from The Linux Foundation, and Ali Dalloul of Microsoft.
+  from Steering Committee members representing Target Corporation, The Linux
+  Foundation and Microsoft.
 image: /img/ovn_blog_2020_annual_meeting_highlights.png
 ---
 Executive Director of the Open Voice Network Jon Stine addressed attendees with an in-depth look at the mission of the Open Voice Network. Stine reinforced the inclusive definition of “users” as those who seek to use voice for the creation of value. Individuals. Enterprises. Marketers. Designers. Developers. Strategists. Any and all who desire to utilize voice as a means to create value. The core message revolved around key concepts of user trust and the necessity of industry buy-in. With a registered mailing list of nearly 500, OVN is seeing the voice community come together to establish a combined effort for standardization. 
