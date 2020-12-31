@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="bg-off-white pt4">
+  {{ range .Params.hardsell }}
+	<div class="mw7 center">
+		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+		<p class="mb4 mw6">{{.description | markdownify}}</p>
+	</div>
+  {{ end }}
+</div>
+
+{{ partial "table" .Params.pricing }}
+
+<div class="tc mb4">
+<a href="/contact" class="btn w-100 w-auto-ns raise" >Contact Us To Join</a>
+</div>
+
+<!-- Full-width image -->
+<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+
+
+<div class="pt4 pb4">
+{{ partial "blockquote" (index .Params.testimonials 0) }}
+</div>
+
+{{ partial "4-up" .Params.intro }}
+
+<div class="tc mb3">
+<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
+</div>
+
+{{ end }}

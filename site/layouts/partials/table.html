@@ -2,14 +2,16 @@
 
 	<div class="mw7 center">
 
-		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
-		<p class="mw6">{{.description}}</p>
+		{{ if .heading }}<h2 class="f2 b lh-title mb3">{{.heading}}</h2>{{ end }}
+		{{ if .description }}<p class="mw6">{{.description}}</p>{{ end }}
 
 		<div class="flex-ns mhn2-ns mw7">
 			{{ range .plans }}
 			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
 			{{ end }}
 		</div>
+
+		{{ if .footnote }} <p class="mw6"><em>{{.footnote}}</em></p>{{ end }}
 
 	</div>
 

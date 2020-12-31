@@ -6,6 +6,8 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 
 import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
+import SponsoringMemberPreview from "./cms-preview-templates/sponsoring_member";
+import SupportersPreview from "./cms-preview-templates/supporters";
 import JoinPreview from "./cms-preview-templates/join";
 import AboutPreview from "./cms-preview-templates/about";
 import AmbassadorsPreview from "./cms-preview-templates/ambassadors";
@@ -17,6 +19,8 @@ import ContactPreview from "./cms-preview-templates/contact";
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
+CMS.registerPreviewTemplate("sponsoring_member", SponsoringMemberPreview);
+CMS.registerPreviewTemplate("supporters", SupportersPreview);
 CMS.registerPreviewTemplate("join", JoinPreview);
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("ambassadors", AmbassadorsPreview);

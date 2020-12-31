@@ -6,32 +6,34 @@
   {{ range .Params.hardsell }}
 	<div class="mw7 center">
 		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-		<p class="mb4 mw6">{{.description}}</p>
+		<p class="mb4 mw-100">{{.description | markdownify}}</p>
 	</div>
   {{ end }}
 </div>
 
-<div class="pt4 pb4">
-{{ partial "blockquote" (index .Params.testimonials 1) }}
+<div class="bg-off-white pt4">
+	<div class="mw7 center flex flex-row flex-wrap mb4">
+		<div class="w-100 w-50-ns">
+			<a class="btn-link" href="/sponsoring_member">SPONSORING MEMBER</a>
+		</div>
+		<div class="w-100 w-50-ns">
+			<a class="btn-link" href="/supporters">SUPPORTERS</a>
+		</div>
+		<div class="w-100 w-50-ns">
+			<a class="btn-link" href="/communities">COMMUNITIES</a>
+		</div>
+		<div class="w-100 w-50-ns">
+			<a class="btn-link" href="/ambassadors">AMBASSADORS</a>
+		</div>
+	</div>
 </div>
 
-{{ partial "table" .Params.pricing }}
+<div class="pt4 pb4">
+{{ partial "blockquote" (index .Params.testimonials 0) }}
+</div>
 
 <div class="tc">
 <a href="/contact" class="btn w-100 w-auto-ns raise" >Contact Us To Join</a>
 </div>
-
-<div class="pt4 pb4">
-  {{ partial "blockquote" (index .Params.testimonials 0) }}
-</div>
-
-<!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
-
-{{ partial "4-up" .Params.intro }}
-
-<div class="tc mb3">
-<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
-</div>
-
+<br /><br />
 {{ end }}
