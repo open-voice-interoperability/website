@@ -15,8 +15,9 @@ Other important topics included the ideas of interoperability (the standardizati
 
 As the Open Voice Network looks ahead to 2021, a collaboration of OVN Communities and Ambassadors are working towards establishing OVN as an authority on  standards for voice assistance and user trust policies and methodologies. During the meeting milestone reports were provided by representatives of several OVN Communities.
 
-* **Designer-Strategists:** _"In January, we will be formulating the work groups that contribute and also review the work that’s being created. This is an open call to come and join us and to help us shape \[OVN]— we need to continually push to make sure we have a global perspective.”_ - Susan Westwater, Designer-Strategists Community Co-Moderator\
-  <br>
+* **Designer-Strategists:** _"In January, we will be formulating the work groups that contribute and also review the work that’s being created. This is an open call to come and join us and to help us shape \[OVN]— we need to continually push to make sure we have a global perspective.”_ - Susan Westwater, Designer-Strategists Community Co-Moderator
+  \
+    <br>
 * **Ethical Use:** _"Toward the end of this year, we conducted a poll of our Ethical Use Community plus contributors and volunteers that we’ve interacted with throughout the year to determine priority areas for Quarter 1 of 2021...We’ve prioritized two key ethical use initiatives—those specifically being around privacy and inclusivity.”_ - Brooke Hawkins, Ethical Use Community Co-Moderator\
   <br>
 * **Education:** _"The \[resources] that we have currently completed or just about completed are our lesson plans that will introduce children and teachers (for that matter, it can be parents as well] into the concept of voice assistance and how voice works. We have 6-8 lesson plans to introduce \[voice] at a young age for that development and understanding.”_ - Julie Davis, Education Community Moderator\
@@ -33,7 +34,7 @@ As the Open Voice Network works towards gaining a rubberstamp-level of trust and
 * Privacy and security guidelines
 * Guidelines in design from use cases
 
-In closing, two important rhetorical questions were presented by Jon to the global audience, along with a final call to action: 
+In closing, two important rhetorical questions were presented by Jon Stine to the global audience, along with a final call to action: 
 
 1. What future do you want for voice?
 2. Would you prefer to shape the future of voice or passively be shaped by it?
