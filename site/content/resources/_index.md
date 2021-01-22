@@ -3,7 +3,7 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro:
   group1:
-    - image: /img/resources-white-paper-do-you-hear-what-i-hear.png
+    - image: /img/OVN-open-voice-network-do-you-hear-what-i-hear-white-paper.png
       buttonText: Read Now
       buttonLink: /documents/2021.01.14-WPP-White-Paper-Do-You-Hear-What-I-Hear.pdf
       text: >-
