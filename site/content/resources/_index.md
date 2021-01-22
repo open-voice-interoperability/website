@@ -3,6 +3,13 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro:
   group1:
+    - image: /img/resources-white-paper-do-you-hear-what-i-hear.png
+      buttonText: Read Now
+      buttonLink: /documents/2021.01.14-WPP-White-Paper-Do-You-Hear-What-I-Hear.pdf
+      text: >-
+        White paper by David Roth, WPP and Jon Stine, Open Voice Network
+      title: >-
+        White Paper: Do You Hear What I Hear
     - image: /img/our-talk-on-the-laws-of-voice-voh-summit-2019-bianca-phillips-ovn-open-voice-network.png
       buttonText: Learn More
       buttonLink: https://www.e-healthconsultants.com/single-post/2019/08/25/Our-Talk-on-the-Laws-of-Voice-at-the-VOH-Summit---A-Recap
