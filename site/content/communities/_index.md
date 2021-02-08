@@ -63,7 +63,7 @@ communities:
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       For European voice practitioners and industry associations. Primary
-      responsibility: to ensure that the entirety of The Open Voice Network
+      responsibility: to ensure that the entirety of the Open Voice Network
       hears clearly the voice of European conversational AI, and specifically on
       topics of regulation, requirements, inclusivity, value propositions, and
       ethical use.
