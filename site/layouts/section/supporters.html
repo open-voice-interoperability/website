@@ -11,7 +11,11 @@
     {{ if .logos }}
     <div class="mw7 center flex flex-row flex-wrap mb4">
       {{ range .logos }}
-      <div class="w-100 w-33-ns ph1-ns"><img src="{{ .image }}" alt="{{ .alt }}" /></div>
+      <div class="w-100 w-33-ns ph1-ns">
+        <a href="{{ .link }}" target="_blank">
+        <img src="{{ .image }}" alt="{{ .alt }}" />
+        </a>
+      </div>
       {{ end }}
     </div>
     {{ end }}
