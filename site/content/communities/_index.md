@@ -67,13 +67,5 @@ communities:
       hears clearly the voice of European conversational AI, and specifically on
       topics of regulation, requirements, inclusivity, value propositions, and
       ethical use.
-  - heading: China Community.
-    imageUrl: /img/1x1-white-pixel.png
-    text: >-
-      A collaborative Community created in partnership with the Voice  Committee
-      of the China Netcasting Services Association. Dedicated to the sharing of
-      information and innovation regarding conversational AI standards
-      development and conversational AI value propositions, especially those
-      with a potential global reach.
 ---
 
