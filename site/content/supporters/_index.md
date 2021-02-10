@@ -8,9 +8,9 @@ hardsell:
       <br><br>
       Supporter status requires both volunteer participation in the work of the Open Voice Network and the signing of a no-fee Open Voice Network Supporter Charter.  You’ll find their logos here on this page.
     logos:
-      - image: img/supporter_logos/Supporter_Logos_WhetStone.jpg
-        link: "https://www.whetstonetechnologies.io/"
-        alt: "WhetStone"
+      - image: img/supporter_logos/Supporter_Logos_Redfox.jpg
+        link: "https://redfox-ai.com/"
+        alt: "Redfox"
       - image: img/supporter_logos/Supporter_Logos_BrandDot.jpg
         link: "https://branddot.digital/"
         alt: "BrandDot"
@@ -20,9 +20,9 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_Pragmatic.jpg
         link: "https://www.pragmatic.digital/"
         alt: "Pragmatic"
-      - image: img/supporter_logos/Supporter_Logos_Redfox.jpg
-        link: "https://redfox.ai/"
-        alt: "Redfox"
+      - image: img/supporter_logos/Supporter_Logos_WhetStone.jpg
+        link: "https://www.whetstonetechnologies.io/"
+        alt: "WhetStone"
       - image: img/supporter_logos/Supporter_Logos_Speak2Web.jpg
         link: "https://speak2web.com/"
         alt: "Speak2Web"
