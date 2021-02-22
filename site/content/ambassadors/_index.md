@@ -130,5 +130,14 @@ ambassadors:
       Conversational AI pioneer, Audrey was CoFounder/CEO of Convrg, a voice and
       messaging platform working with brands such as Estee Lauder, Gallo Wines
       and Sephora. She exited to Reliance Jio Haptik July 2019.
+  - heading: 'Janice Mandel, Freelance Communications Consultant + Storyteller'
+    imageUrl: /img/janice-mandel.jpg
+    text: >-
+      In many writer-communicator roles, Janice is deeply committed to
+      inclusivity and appropriate use of data in voice. She provided years of
+      writing for global consulting firm PriceWaterhouseCoopers, led a health
+      care start-up, and managed content for VOICE Summit 2018 and 2019. She
+      continues to advise start-ups and early-stage firms and take on freelance
+      projects.
 ---
 
