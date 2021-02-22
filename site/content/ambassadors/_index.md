@@ -18,6 +18,9 @@ ambassadors:
       Bentsen is driven to enable AI for Healthcare & Life sciences, in
       particular, to enable scale efficiencies, free up frontline resources to
       focus on patient-centric, outcomes-based healthcare.
+  - heading: "Dr.\_Ahmed Bouzid, Founder and CEO of Witlingo"
+    imageUrl: /img/ovn_bouzid.jpg
+    text: "Dr. Ahmed Bouzid is Founder and CEO of Witlingo, a company that builds tools for publishing Voice First experiences, such as Alexa skills, Google actions, Bixby Capsules, Microcasts, and Audio streams. Prior to Witlingo, Dr. Bouzid was Head of Product at Amazon Alexa and VP of Product at Genesys. \_Dr. Bouzid is also an Editor at The Social Epistemology Review and Reply Collective and a contributing author at Opus Research. \_He holds 12 patents in Human Language Technology and was recognized as a “Speech Luminary” by Speech Technology Magazine and among the Top 11 Speech Technologists by Voicebot.ai."
   - heading: 'Vicki Cantrell, Chief Executive Officer of Vendors in Partnership'
     imageUrl: /img/ovn_vicki_cantrell.png
     text: >-
