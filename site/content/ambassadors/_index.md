@@ -90,6 +90,14 @@ ambassadors:
       Intelligence is transforming the retail conversation” and has been
       featured on BBC, CCTV China, Phoenix TV China, CNBC, Yale, CKGSB and
       Cambridge Universities and The World Economic Forum, Davos.
+  - heading: 'Nicholas E. Sawka, Voice Spark Live Host and Voice First Influencer'
+    imageUrl: /img/ovn_sawka.png
+    text: >-
+      Nicholas is a retired veteran of the U.S. Coast Guard. Over the past 12
+      years he worked on communication analysis within the Search & Rescue
+      field. He found his passion for Voice in 2015 when Alexa was released. In
+      2017 he began to develop for voice and currently hosts the Podcast Voice
+      Spark Live which focuses on voice.
   - heading: 'Joe Skorupa, Editor of Large at RIS News'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Joe-Skorupa.png
     text: >-
@@ -130,14 +138,5 @@ ambassadors:
       Conversational AI pioneer, Audrey was CoFounder/CEO of Convrg, a voice and
       messaging platform working with brands such as Estee Lauder, Gallo Wines
       and Sephora. She exited to Reliance Jio Haptik July 2019.
-  - heading: 'Janice Mandel, Freelance Communications Consultant + Storyteller'
-    imageUrl: /img/janice-mandel.jpg
-    text: >-
-      In many writer-communicator roles, Janice is deeply committed to
-      inclusivity and appropriate use of data in voice. She provided years of
-      writing for global consulting firm PriceWaterhouseCoopers, led a health
-      care start-up, and managed content for VOICE Summit 2018 and 2019. She
-      continues to advise start-ups and early-stage firms and take on freelance
-      projects.
 ---
 
