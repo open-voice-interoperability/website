@@ -44,6 +44,13 @@ ambassadors:
       Shopping: the future of retail in an always connected world’ and highly
       sought-after keynote speaker alongside his work at the Dutch e-commerce
       association Thuiswinkel.org and Ecommerce Europe.
+  - heading: 'Roger Kibbe, Voice and Conversational AI Technology and Strategy Leader'
+    imageUrl: /img/roger-kibbe.jpg
+    text: >-
+      Roger Kibbe is a leader in voice and conversational AI technology and a
+      business strategy leader. He has a successful history of working with
+      companies from early-stage startups to Fortune 500. Currently, Roger is
+      Senior Developer Evangelist at Viv Labs and Principal at Voice Craft.
   - heading: >-
       Maarten Lens-FitzGerald, Conversational AI Evangelist & Executive
       Consultant
