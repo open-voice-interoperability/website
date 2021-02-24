@@ -21,6 +21,14 @@ ambassadors:
   - heading: "Dr.\_Ahmed Bouzid, Founder and CEO of Witlingo"
     imageUrl: /img/ovn_bouzid.jpg
     text: "Dr. Ahmed Bouzid is Founder and CEO of Witlingo, a company that builds tools for publishing Voice First experiences, such as Alexa skills, Google actions, Bixby Capsules, Microcasts, and Audio streams. Prior to Witlingo, Dr. Bouzid was Head of Product at Amazon Alexa and VP of Product at Genesys. \_Dr. Bouzid is also an Editor at The Social Epistemology Review and Reply Collective and a contributing author at Opus Research. \_He holds 12 patents in Human Language Technology and was recognized as a “Speech Luminary” by Speech Technology Magazine and among the Top 11 Speech Technologists by Voicebot.ai."
+  - heading: >-
+      Donald Buckley, Emerging Voice Tech in Entertainment I SVOD AVOD CTV PVOD
+      OTT
+    imageUrl: /img/ovn_donaldbuckley.png
+    text: >-
+      Donald Buckley is an award-winning creative executive who has spent his
+      career in marketing and executive roles in the Entertainment and Digital
+      industries with some of the most iconic brands in entertainment. 
   - heading: 'Vicki Cantrell, Chief Executive Officer of Vendors in Partnership'
     imageUrl: /img/ovn_vicki_cantrell.png
     text: >-
@@ -37,6 +45,19 @@ ambassadors:
       professionals on the power of Voice as a channel and as a user interface.
       He is driven to always communicate what's possible today, what's the
       long-term vision, and leading with creative leadership.
+  - heading: 'Benjamin Falvo, CIO Howl & Co-Host of Voice Spark Live'
+    imageUrl: /img/ben-falvo.jpg
+    text: >-
+      Intrapreneurial and strategic CIO / CTO with 20 years of leadership
+      experience across agency, startup, corporate and nonprofit environments,
+      including numerous high-profile global projects for Fortune 500 clients.
+      He leverages a unique blend of skills at the intersection of technical
+      leadership, creative direction, product management, and operations
+      management. Ben has a history of ideating, designing, building and
+      deploying highly engaging, user friendly digital products and experiences
+      across web, mobile, voice, and event platforms. Ben is a weekly co-host
+      for the Voice Spark Live Podcast covering thought leadership in AI and
+      Voice First topics.
   - heading: 'Wijnand Jongen, CEO of Thuiswinkel.org, President of Ecommerce Europe'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Wijnand-Jongen.png
     text: >-
@@ -148,18 +169,5 @@ ambassadors:
       Conversational AI pioneer, Audrey was CoFounder/CEO of Convrg, a voice and
       messaging platform working with brands such as Estee Lauder, Gallo Wines
       and Sephora. She exited to Reliance Jio Haptik July 2019.
-  - heading: 'Benjamin Falvo, CIO Howl & Co-Host of Voice Spark Live'
-    imageUrl: /img/ben-falvo.jpg
-    text: >-
-      Currently making things for Howl. Intrapreneurial and strategic CIO / CTO
-      with 20 years of diversified leadership experience across agency, startup,
-      corporate and nonprofit environments, including numerous high-profile
-      global projects for Fortune 500 clients. He leverages a unique blend of
-      skills at the intersection of technical leadership, creative direction,
-      product management, and operations management. Ben has a history of
-      ideating, designing, building and deploying highly engaging, user friendly
-      digital products and experiences across web, mobile, voice, and event
-      platforms. Ben is a weekly co-host for the Voice Spark Live Podcast
-      covering thought leadership in AI and Voice First topics.
 ---
 
