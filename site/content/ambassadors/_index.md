@@ -28,7 +28,11 @@ ambassadors:
     text: >-
       Donald Buckley is an award-winning creative executive who has spent his
       career in marketing and executive roles in the Entertainment and Digital
-      industries with some of the most iconic brands in entertainment. 
+      industries with some of the most iconic brands in entertainment. Batman.
+      Harry Potter. Homeland. Ray Donovan. Shameless. City on a Hill. Twin
+      Peaks. Billions. Donald is passionate about emerging voice tech in
+      entertainment and is an advisor and consultant to startups and media
+      companies.
   - heading: 'Vicki Cantrell, Chief Executive Officer of Vendors in Partnership'
     imageUrl: /img/ovn_vicki_cantrell.png
     text: >-
