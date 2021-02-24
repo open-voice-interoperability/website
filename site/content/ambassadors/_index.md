@@ -148,5 +148,18 @@ ambassadors:
       Conversational AI pioneer, Audrey was CoFounder/CEO of Convrg, a voice and
       messaging platform working with brands such as Estee Lauder, Gallo Wines
       and Sephora. She exited to Reliance Jio Haptik July 2019.
+  - heading: 'Benjamin Falvo, CIO Howl & Co-Host of Voice Spark Live'
+    imageUrl: /img/ben-falvo.jpg
+    text: >-
+      Currently making things for Howl. Intrapreneurial and strategic CIO / CTO
+      with 20 years of diversified leadership experience across agency, startup,
+      corporate and nonprofit environments, including numerous high-profile
+      global projects for Fortune 500 clients. He leverages a unique blend of
+      skills at the intersection of technical leadership, creative direction,
+      product management, and operations management. Ben has a history of
+      ideating, designing, building and deploying highly engaging, user friendly
+      digital products and experiences across web, mobile, voice, and event
+      platforms. Ben is a weekly co-host for the Voice Spark Live Podcast
+      covering thought leadership in AI and Voice First topics.
 ---
 
