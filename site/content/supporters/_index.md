@@ -32,6 +32,9 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_VocalyticsAI.jpg
         link: "https://vocalytics.ai/"
         alt: "VocalyticsAI"
+      - image: img/suporter_logos/Supporter_Logos_VuxWorld.jpg
+        link: "https://vux.world/"
+        alt: "VUX World"
       - image: img/supporter_logos/Supporter_Logos_VoiceMetrics.jpg
         link: "https://www.voicemetrics.io/"
         alt: "VoiceMetrics"
