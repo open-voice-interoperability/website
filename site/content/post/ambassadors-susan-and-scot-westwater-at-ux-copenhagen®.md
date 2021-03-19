@@ -10,9 +10,7 @@ image: /img/scot_susan_westwater.png
 ---
 Open Voice Network Ambassadors Susan Westwater and Scot Westwater will talk at the upcoming [UX Copenhagen](https://uxcopenhagen.com/speakers2021/susan-and-scot-westwater/)®!
 
-Experience their talk “Creating Useful and Usable Voice Experiences” and join their round table discussion – diving deeper into the issues that UX professionals care about - accessibility, inclusion, privacy, ethics and more. 
-
-These important issues are top priorities for all of us at the Open Voice Network, and we are proud of the work and knowledge shared from Scot and Susan.
+These important issues of accessibility, inclusion, privacy and ethics are top priorities for all of us at the Open Voice Network, and we are proud of the work and knowledge shared from Scot and Susan.
 
 ## About the talk “Creating Useful and Usable Voice Experiences”
 
