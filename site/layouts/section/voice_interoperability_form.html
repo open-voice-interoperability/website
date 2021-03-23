@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+
+{{/* <form name="voice_interoperability_form" method="POST" data-netlify="true" action=""> */}}
+<form action="" name="voice_interoperability_form" netlify>
+  <input type="hidden" name="form-name" value="voice_interoperability_form" />
+  <div class="flex-l mhn1-l">
+    
+    <div>Workshop on Voice Application Interoperability Submission Form</div>
+    <div>Full name <input type="text" name="Full_name" value="" placeholder="Full name" class="" /></div>
+    <div>Affiliation <input type="text" name="Affiliation" value="" placeholder="Affiliation" class="" /></div>
+    <div>E-mail address <input type="text" name="E-mail_Address" value="" placeholder="E-mail address" class="" /></div>
+    <div>Mail address:  </div>
+    <div>Street <input type="text" name="Street" value="" placeholder="Street" cStreetlass="" /></div>
+    <div>City <input type="text" name="City" value="" placeholder="City" class="" /></div>
+    <div>State/Province <input type="text" name="State_Province" value="" placeholder="State/Province" class="" /></div>
+    <div>Country <input type="text" name="Country" value="" placeholder="Country" cCountrylass="" /></div>
+    <div>Zip Code <input type="text" name="Zip_Code" value="" placeholder="Zip Code" class="" /></div>
+    <div>Phone number (with country code) <input type="text" name="Phone number (with country code)" value="" placeholder="Phone number (with country code)" class="" /></div>
+    <div>Short bio (< 50 words) <input type="text" name="Short_bio" value="" placeholder="Short bio (< 50 words)" class="" /></div>
+    <div>Proposed Presentation abstract (<150 words)<input type="text" name="Proposed_Presentation_abstract" value="" placeholder="Proposed Presentation abstract (<150 words)" class="" /></div>
+    <div>Proposed Topic for panel discussion <input type="text" name="Proposed_Topic_for_panel_discussion" value="" placeholder="Proposed Topic for panel discussion" class="" /></div>
+    <div>Submit by April Something or Other</div>
+    
+    <!-- Button -->
+    <div class="tc">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+    </div>
+
+  </div>
+</form>  
+
+</div>
+
+
+{{ end }}

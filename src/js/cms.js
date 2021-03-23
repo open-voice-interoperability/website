@@ -15,6 +15,7 @@ import CommunitiesPreview from "./cms-preview-templates/communities";
 import FAQPreview from "./cms-preview-templates/faq";
 import ResourcesPreview from "./cms-preview-templates/resources";
 import ContactPreview from "./cms-preview-templates/contact";
+import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interoperability_form";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -28,4 +29,5 @@ CMS.registerPreviewTemplate("communities", CommunitiesPreview);
 CMS.registerPreviewTemplate("faq", FAQPreview);
 CMS.registerPreviewTemplate("resources", ResourcesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("voice_interoperability_form", VoiceInteroperabilityPreview);
 CMS.init();
