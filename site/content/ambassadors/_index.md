@@ -24,7 +24,7 @@ ambassadors:
   - heading: >-
       Donald Buckley, Emerging Voice Tech in Entertainment I SVOD AVOD CTV PVOD
       OTT
-    imageUrl: /img/open-voice-network-ovn-ambassador-donald-buckley.jpg
+    imageUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-portrait.jpg
     text: >-
       As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led
       marketing for powerhouse programming Homeland, Billions, Shameless, Ray
