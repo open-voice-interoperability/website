@@ -1,8 +1,10 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <div class="mw7 center ph3 pt4">
+
+{{ partial "simple-text" (dict "text" .Params.description ) }}
 
 {{/* <form name="voice_interoperability_form" method="POST" data-netlify="true" action=""> */}}
 <form action="" name="voice_interoperability_form" netlify>
@@ -19,14 +21,17 @@
     <div class="mv2">State/Province <input type="text" name="State_Province" value="" placeholder="State/Province" class="" /></div>
     <div class="mv2">Country <input type="text" name="Country" value="" placeholder="Country" cCountrylass="" /></div>
     <div class="mv2">Zip Code <input type="text" name="Zip_Code" value="" placeholder="Zip Code" class="" /></div>
-    <div class="mv2">Phone number (with country code) <input type="text" name="Phone number (with country code)" value="" placeholder="Phone number (with country code)" class="" /></div>
+    <div class="mv2">Phone number (with country code) <input type="text" name="Phone number" value="" placeholder="Phone number" class="" /></div>
     <div class="mv2">Short bio (< 50 words) <br />
       <textarea name="Short_bio" class=""></textarea>
     </div>
     <div class="mv2">Proposed Presentation abstract (&lt; 150 words)<br />
       <textarea name="Proposed_Presentation_abstract" class=""></textarea>
       </div>
-    <div class="mv2">Proposed Topic for panel discussion <input type="file" name="Proposed_Topic_for_panel_discussion" accept=".pdf,.doc,.docx,.txt" /></div>
+    <div class="mv2">Proposed Topic for panel discussion <br />
+     <!-- <input type="file" name="Proposed_Topic_for_panel_discussion" accept=".pdf,.doc,.docx,.txt" /> -->
+     <textarea name="Proposed_Topic_for_panel_discussion" class=""></textarea>
+    </div>
     <div class="mv2">Submit by 30 April 2021.</div>
     
     <!-- Button -->
