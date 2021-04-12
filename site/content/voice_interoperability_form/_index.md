@@ -25,6 +25,7 @@ description: >-
   <strong>30 April 2021:</strong>   Proposal submittal deadline<br>
   <strong>21 May 2021:</strong>    Presenters are announced, and workshop agenda published.<br>
   <strong>15-17 June 2021:</strong>   Virtual workshop using video conferencing technology.<br>
+  No attendance fee.<br>
   Two hours per day (7:00 - 9:00 a.m. Pacific time). The conference will be
   recorded and available for access by the public.<br>
   <br><br>
