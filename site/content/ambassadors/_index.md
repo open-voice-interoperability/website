@@ -27,21 +27,16 @@ ambassadors:
     imageUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-portrait.jpg
     text: >-
       As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led
-      marketing for powerhouse programming Homeland, Billions, Shameless, Ray
-      Donovan, The Chi, Escape at Dannemora, City on a Hill, and dozens of other
-      series, limited series and films. Buckley also oversaw marketing for
-      Showtime Sports and Showtime Documentary Films. He built and led the
-      cross-disciplinary marketing organization that launched Showtime's
-      Streaming OTT service in 2015, designed its strategic positioning and
-      helped drive its subscriber growth well beyond launch projections.
-      Previously, as Warner Bros. Pictures' Senior Vice President, Interactive
-      Marketing, Buckley founded its Interactive Marketing department, and
-      co-founded Warner Bros. Online. Among the hundreds of movies released
-      during Buckley's tenure were the Oceans 11, The Matrix, Harry Potter and
-      The Dark Knight franchises. Buckley is a member of the Academy of Motion
-      Picture Arts and Sciences and the Television Academy of Arts and Sciences.
-      He is currently advisor to a number of voice-tech, gaming, content,
-      social, data security, app development and research startups.
+      marketing for series including Homeland, Billions and Shameless, Showtime
+      Sports and Showtime Documentary Films. He created and led the marketing
+      organization that launched Showtime's Streaming OTT service in 2015.
+      Previously, as Warner Bros.' SVP, Interactive Marketing, Buckley founded
+      its Interactive Marketing department. Among the hundreds of movies
+      released during Buckley's tenure were the Harry Potter and The Dark Knight
+      franchises. He is a member of the Academy of Motion Picture Arts and
+      Sciences and the Television Academy of Arts and Sciences and currently
+      advisor to a number of media companies and startups in voice-tech, gaming,
+      TV, content, social, data security, app development and research.
   - heading: 'Vicki Cantrell, Chief Executive Officer of Vendors in Partnership'
     imageUrl: /img/ovn_vicki_cantrell.png
     text: >-
