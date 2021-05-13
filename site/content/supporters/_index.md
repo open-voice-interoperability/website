@@ -19,7 +19,7 @@ hardsell:
       in a highly competitive environment. <br><br> OVN supporters today bring
       invaluable leadership and expertise to our Work Groups and Communities. 
       We welcome your participation, and this public demonstration of support.
-    heading: Why Become a Supporter of the Open Voice Network
+    heading: Why Become a Friend of the Open Voice Network
 pricing:
   description: ' '
   heading: ' '
