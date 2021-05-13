@@ -2,8 +2,8 @@
 title: Voice Agent Interoperability Workshop
 image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
 subtitle: >-
-  The Open Voice Network (OVN) solicits presentation proposals for an online
-  workshop on the interoperability of voice applications.
+  The Open Voice Network (OVN) will host an online workshop for chosen
+  presenters to discuss the interoperability of voice applications.
 description: >-
   <strong>Perceived problem:</strong> voice applications on different platforms
   cannot easily communicate and share data.  For example, a shopping application
@@ -12,13 +12,13 @@ description: >-
   before continuing with fulfilment processing.   <br><br> <strong>Workshop
   goal:</strong>  to explore various approaches for implementing
   interoperability of voice applications within and across platforms. <br><br>
-  Specifically, we solicit descriptions for <br><br>
+  Specifically, presentations will cover: <br><br>
    • How one voice application invokes another voice application<br>
    • How control is passed among cooperating voice applications<br>
    • How data and context is shared among cooperating voice applications<br>
    • Other topics related to interoperating voice applications<br>
   <br><br> The Open Voice Network will use knowledge from this workshop to
-  assist it in designing a standards-based approach to voice application
+  assist in designing a standards-based approach to voice application
   interoperability. <br><br> Tentative schedule: <br><br> <strong>30 April
   2021:</strong>   Proposal submittal deadline (<strong>Submissions are now
   closed</strong>)<br> <strong>21 May 2021:</strong>    Presenters are
