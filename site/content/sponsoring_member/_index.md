@@ -12,7 +12,7 @@ hardsell:
 pricing:
   description: ""
   heading: ""
-  footnote: "* Sponsoring Memberships are for enterprises only. If you would like to become an individual supporter of the Open Voice Network, please visit our Supporters page."
+  footnote: "* Sponsoring Memberships are for enterprises only. If you would like to become individually involved with the Open Voice Network, please visit our Friends of OVN page."
   plans:
     - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
