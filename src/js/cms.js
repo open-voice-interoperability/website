@@ -21,7 +21,7 @@ CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("sponsoring_member", SponsoringMemberPreview);
-CMS.registerPreviewTemplate("supporters", SupportersPreview);
+CMS.registerPreviewTemplate("friends-of-the-open-voice-network", SupportersPreview);
 CMS.registerPreviewTemplate("join", JoinPreview);
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("ambassadors", AmbassadorsPreview);
