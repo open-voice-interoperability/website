@@ -21,7 +21,7 @@ import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interope
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
-CMS.registerPreviewTemplate("docs", DocumentPreview);
+CMS.registerPreviewTemplate("papers", DocumentPreview);
 CMS.registerPreviewTemplate("sponsoring_member", SponsoringMemberPreview);
 CMS.registerPreviewTemplate("supporters", SupportersPreview);
 CMS.registerPreviewTemplate("join", JoinPreview);
