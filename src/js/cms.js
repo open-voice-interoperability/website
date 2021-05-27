@@ -14,6 +14,7 @@ import AmbassadorsPreview from "./cms-preview-templates/ambassadors";
 import CommunitiesPreview from "./cms-preview-templates/communities";
 import FAQPreview from "./cms-preview-templates/faq";
 import ResourcesPreview from "./cms-preview-templates/resources";
+import IndustryAdvisorCouncilPreview from "./cms-preview-templates/industry-advisor-council";
 import ContactPreview from "./cms-preview-templates/contact";
 import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interoperability_form";
 
@@ -22,6 +23,7 @@ CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("sponsoring_member", SponsoringMemberPreview);
 CMS.registerPreviewTemplate("friends-of-the-open-voice-network", SupportersPreview);
+CMS.registerPreviewTemplate("industry-advisor-council", IndustryAdvisorCouncilPreview);
 CMS.registerPreviewTemplate("join", JoinPreview);
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("ambassadors", AmbassadorsPreview);

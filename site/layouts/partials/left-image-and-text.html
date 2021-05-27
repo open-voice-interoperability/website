@@ -9,7 +9,7 @@
 				<h3 class="f3 b lh-title mb1">{{.heading}}
 				{{ if .subHeading}}<sub>{{.subHeading}}</sub>{{ end }}
 				</h3>
-				<p>{{.text}}</p>
+				<p>{{.text | safeHTML | markdownify}}</p>
 			</div>
 		</div>
 
