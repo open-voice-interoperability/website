@@ -1,7 +1,7 @@
 ---
 title: Industry Advisor Council
 image: >-
-  /img/open-voice-network-250-billion-and-counting-the-new-rules-of-search-by-voice-ovn-blog.jpg
+  /img/ovn-open-voice-network-join-assistance_optimized.jpg
 about:
   - heading: Industry Advisor Council of the Open Voice Network
     imageUrl: /img/1x1-white-pixel.png
