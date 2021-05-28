@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 pt4">
 
-
+{{ partial "simple-text" (dict "text" .Params.description ) }} 
 
 {{ if true }}
   <div class="tc">
@@ -14,7 +14,6 @@
   </div>
 {{ else }}
 
-{{ partial "simple-text" (dict "text" .Params.description ) }} 
 <form action="" name="voice_interoperability_form" netlify>
   <input type="hidden" name="form-name" value="voice_interoperability_form" />
   <div class="">
