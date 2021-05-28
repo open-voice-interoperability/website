@@ -4,9 +4,17 @@
 
 <div class="mw7 center ph3 pt4">
 
-{{ partial "simple-text" (dict "text" .Params.description ) }}
 
-{{/* <form name="voice_interoperability_form" method="POST" data-netlify="true" action=""> */}}
+
+{{ if true }}
+  <div class="tc">
+    
+    <h2 class="f3 b lh-title mb1">Workshop Agenda Coming Soon</h2>
+    <br /><br />
+  </div>
+{{ else }}
+
+{{ partial "simple-text" (dict "text" .Params.description ) }} 
 <form action="" name="voice_interoperability_form" netlify>
   <input type="hidden" name="form-name" value="voice_interoperability_form" />
   <div class="">
@@ -41,7 +49,7 @@
 
   </div>
 </form>  
-
+{{ end }}
 </div>
 
 
