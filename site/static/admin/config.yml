@@ -183,4 +183,24 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Description, name: description, widget: text}
+      - file: "site/content/industry-advisor-council/_index.md"
+        label: "Industry Advisor Council Page"
+        name: "industry-advisor-council"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: About
+            name: about
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: Advisors
+            name: advisors
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
  
