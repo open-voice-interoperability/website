@@ -40,3 +40,21 @@ sub{
     background-position: 70%;  
   }
 }
+
+
+/*** AGENDA TABLE ***/
+table.agenda {
+
+}
+
+table.agenda th{
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-bottom: var(--spacing-extra-small);
+  padding-top: var(--spacing-medium);
+  text-align: left;
+}
+
+table.agenda td{
+  font-size: var(--font-size);
+}

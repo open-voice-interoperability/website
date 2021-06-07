@@ -20,8 +20,8 @@ description: >-
   <br>
   Thank you to our selected presenters and moderators. Each talk will be 15 minutes + 5 minutes for Q&A. Recordings will be available following the workshop.
 agenda: >-
-  <table>
-  <tr><th colspan="3">JUNE 15 | THEME: UNDERSTAND THE PROBLEM | Host: James A. Larson, Speech Technology Conference, USA	</th><tr>
+  <table class="agenda">
+  <tr><th colspan="3"><h3 class="">JUNE 15 | THEME: UNDERSTAND THE PROBLEM | Host: James A. Larson, Speech Technology Conference, US</h3></th><tr>
   <tr><td width="101">7:00 PST</td><td>Welcome and workshop challenge</td><td>Jon Stine, Open Voice Network, USA</td><tr>
   <tr><td>7:10 PST</td><td>Conversational interoperability: the need and approaches</td><td>Shyamala Prayaga, Ford Motor Company, USA and James A Larson, SpeechTEK Conference, USA</td><tr>
   <tr><td>7:35 PST</td><td>The future of interoperable conversational agents -- and why this is so important</td><td>Ian Utile, CEO, Attn.live; Susan Bearden, Director of Digital Programs at InnovateEDU; Bradley Metrock, CEO, Score Publishing; Moderated by Jon Stine, Open Voice Network</td><tr>
@@ -29,7 +29,7 @@ agenda: >-
   <tr><td>8:40 PST</td><td>breakout reports & peaking points for The Voice Agent Interoperability Manefesto</td><td>Maarten Lens-FitzGerald, Project Zilver, Holland</td><tr>
   <tr><td>9:00 PST</td><td colspan="2">optional break out rooms for Special Interest Groups	</td><tr>
   <tr><td>  </td><tr>
-  <tr><th colspan="3">JUNE 16 | THEME: IDENTIFY CANDIDATE SOLUTIONS | Host: Shyamala Prayaga, Ford Motor Company, USA	</th><tr>
+  <tr><th colspan="3"><h3 class="">JUNE 16 | THEME: IDENTIFY CANDIDATE SOLUTIONS | Host: Shyamala Prayaga, Ford Motor Company, US</h3></th><tr>
   <tr><td>7:00 PST</td><td>Interactive Conversational agents at the BBC</td><td>Chris Dix, Head of Architecture at BBC, UK</td><tr>
   <tr><td>7:20 PST</td><td>Key Issues</td><td>David Attwater, Talkmap Inc., UK</td><tr>
   <tr><td>7:40 PST</td><td>ISO compatable standard for voice agents</td><td>Tobias Martens, Whoelse.ai, Germany</td><tr>
@@ -37,7 +37,7 @@ agenda: >-
   <tr><td>8:40 PST</td><td>Breakout reports and update wording of voice agent manafesto</td><td>Maarten Lens-FitzGerald, Project Zilver, Holland</td><tr>
   <tr><td>9:00 PST</td><td colspan="2">Optional breakout rooms for special interest groups	</td><tr>
   <tr><td>  </td><tr>
-  <tr><th colspan="3">JUNE 17 | THEME: MOVE FORWARD | Host: David Attwater of Talkmap Inc.,	</th><tr>
+  <tr><th colspan="3"><h3 class="">JUNE 17 | THEME: MOVE FORWARD | Host: David Attwater of Talkmap Inc.</h3></th><tr>
   <tr><td>7:00 PST</td><td>What we can learn from Amazon Vii</td><td>Michael McTear, Ulster University, Northern Ireland</td><tr>
   <tr><td>7:20 PST</td><td>Magenta: our journey, and the future of voice assistance</td><td>Yaser Martinez Palenzuela, Deutsche Telekom, Germany</td><tr>
   <tr><td>7:40 PST</td><td>Areas of IPA standardization</td><td>Dirk Schnelle-Walka, Modality.ai, Germany</td><tr>
