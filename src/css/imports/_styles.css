@@ -47,14 +47,24 @@ table.agenda {
 
 }
 
-table.agenda th{
+table.agenda th{  
   text-transform: uppercase;
   font-weight: bold;
-  padding-bottom: var(--spacing-extra-small);
+  padding-bottom: var(--spacing-medium);
   padding-top: var(--spacing-medium);
+  padding-right: var(--spacing-extra-large);
   text-align: left;
+}
+
+table.agenda th h3{
+  background-color: #1058FB;
+  color: #FFF;
+  padding-left: var(--spacing-medium);
 }
 
 table.agenda td{
   font-size: var(--font-size);
+}
+table.agenda td:first-child{
+  padding-left: var(--spacing-medium);
 }
