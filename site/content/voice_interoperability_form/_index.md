@@ -16,9 +16,9 @@ description: >-
   assist in designing a standards-based approach to voice application
   interoperability.
   <br><br>
-  <strong><center>Workshop Program | June 15-17, 2021 | 7:00-9:00 AM PST</center></strong>
-  <br>
   Thank you to our selected presenters and moderators. Each talk will be 15 minutes + 5 minutes for Q&A. Recordings will be available following the workshop.
+agenda_image: /img/workshop/ovn-interoperability-workshop-agenda.png
+agenda_image_alt: "Workshop Program | June 15-17, 2021 | 7:00-9:00 AM PST"
 agenda: >-
   <table class="agenda">
   <tr><th colspan="3"><h3 class="">JUNE 15 | THEME: UNDERSTAND THE PROBLEM | Host: James A. Larson, Speech Technology Conference, US</h3></th><tr>

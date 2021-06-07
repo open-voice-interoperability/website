@@ -6,12 +6,15 @@
 {{ .Params.description | markdownify}}
 </div>
 
-<div class="ph4">
+<div class="w-100 mt4 mb2"><img class="w-100" src="{{ .Params.agenda_image }}" alt="{{ .Params.agenda_image_alt}}" /></div>
+
+<div class="">
+
 {{ .Params.agenda | markdownify }}
 </div>
 
-<div class="mw7 center ph3 pt4">
-{{ partial "simple-text" (dict "text" .Params.committee ) }} 
+<div class="mw100 center ph3 pt4">
+{{ .Params.committee | markdownify }}
 {{ if true }}
   <!-- <div class="tc">  
     <h2 class="f3 b lh-title mb1">Workshop Agenda Coming Soon</h2>
