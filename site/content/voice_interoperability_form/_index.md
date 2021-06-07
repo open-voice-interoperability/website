@@ -26,11 +26,11 @@ agenda: >-
   <tr><td>7:10 PST</td><td>Conversational interoperability: the need and approaches</td><td>Shyamala Prayaga, Ford Motor Company, USA and James A Larson, SpeechTEK Conference, USA</td><tr>
   <tr><td>7:35 PST</td><td>The future of interoperable conversational agents -- and why this is so important</td><td>Ian Utile, CEO, Attn.live; Susan Bearden, Director of Digital Programs at InnovateEDU; Bradley Metrock, CEO, Score Publishing; Moderated by Jon Stine, Open Voice Network</td><tr>
   <tr><td>8:00 PST</td><td>Breakout rooms (40 min) What are the opportunities?</td><td>Breakout Room 1 Moderator: Shyamala Prayaga, Ford Motor Company, USA<br>Breakout Room 2 Moderator: Chris Parker, ebullient.com, NL<br>Breakout Room 3 Moderator: David Attwater, Talkmap Inc., UK</td><tr>
-  <tr><td>8:40 PST</td><td>breakout reports & peaking points for The Voice Agent Interoperability Manefesto</td><td>Maarten Lens-FitzGerald, Project Zilver, Holland</td><tr>
-  <tr><td>9:00 PST</td><td colspan="2">optional break out rooms for Special Interest Groups	</td><tr>
+  <tr><td>8:40 PST</td><td>Breakout reports & peaking points for The Voice Agent Interoperability Manefesto</td><td>Maarten Lens-FitzGerald, Project Zilver, Holland</td><tr>
+  <tr><td>9:00 PST</td><td colspan="2">Optional break out rooms for Special Interest Groups	</td><tr>
   <tr><td>  </td><tr>
   <tr><th colspan="3"><h3 class="">JUNE 16 | THEME: IDENTIFY CANDIDATE SOLUTIONS | Host: Shyamala Prayaga, Ford Motor Company, US</h3></th><tr>
-  <tr><td>7:00 PST</td><td>Interactive Conversational agents at the BBC</td><td>Chris Dix, Head of Architecture at BBC, UK</td><tr>
+  <tr><td>7:00 PST</td><td>Voice user interfaces for interoperable voice agents</td><td>Michael McTear, Ulster University, Northern Ireland</td><tr>
   <tr><td>7:20 PST</td><td>Key Issues</td><td>David Attwater, Talkmap Inc., UK</td><tr>
   <tr><td>7:40 PST</td><td>ISO compatable standard for voice agents</td><td>Tobias Martens, Whoelse.ai, Germany</td><tr>
   <tr><td>8:00 PST</td><td>Breakout rooms (40 min) What are the technical and standards challenges?</td><td>Breakout Room 1 Moderator: Shyamala Prayaga, Ford Motor Company, USA<br>Breakout Room 2 Moderator: Deborah Dahl, Conversational Technologies, USA<br>Breakout Room 3 Moderator: James A Larson, Speech Technologies Conference, USA</td><tr>
@@ -42,7 +42,7 @@ agenda: >-
   <tr><td>7:20 PST</td><td>Magenta: our journey, and the future of voice assistance</td><td>Yaser Martinez Palenzuela, Deutsche Telekom, Germany</td><tr>
   <tr><td>7:40 PST</td><td>Areas of IPA standardization</td><td>Dirk Schnelle-Walka, Modality.ai, Germany</td><tr>
   <tr><td>8:00 PST</td><td>The danger of digital 'Chinese whispers': Understanding the dimensions of trust in interoperable voice agents</td><td>Leigh Clark, Swansea University, UK</td><tr>
-  <tr><td>8:20 PST</td><td>Voice user interfaces for interoperable voice agents</td><td>Michael McTear, Ulster University, Northern Ireland</td><tr>
+  <tr><td>8:20 PST</td><td>Interactive Conversational agents at the BBC</td><td>Chris Dix, Head of Architecture at BBC, UK</td><tr>
   <tr><td>8:40 PST</td><td>Accept manifesto, next steps, and review of workshop challenge</td><td>Jon Stine, Open Voice Network, USA</td><tr>
   </table>
 committee: >-
