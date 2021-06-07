@@ -3,15 +3,20 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <div class="mw7 center ph3 pt4">
-
 {{ partial "simple-text" (dict "text" .Params.description ) }} 
+</div>
 
+<div class="ph4">
+{{ .Params.agenda | markdownify }}
+</div>
+
+<div class="mw7 center ph3 pt4">
+{{ partial "simple-text" (dict "text" .Params.committee ) }} 
 {{ if true }}
-  <div class="tc">
-    
+  <!-- <div class="tc">  
     <h2 class="f3 b lh-title mb1">Workshop Agenda Coming Soon</h2>
     <br /><br />
-  </div>
+  </div> -->
 {{ else }}
 
 <form action="" name="voice_interoperability_form" netlify>
