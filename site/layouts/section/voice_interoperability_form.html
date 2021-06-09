@@ -2,16 +2,24 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-<div class="mw7 center ph3 pt4">
+<div class="mw100 center ph3 pt4">
+{{ .Params.description | markdownify}}
+</div>
 
-{{ partial "simple-text" (dict "text" .Params.description ) }} 
+<div class="w-100 mt4 mb2"><img class="w-100" src="{{ .Params.agenda_image }}" alt="{{ .Params.agenda_image_alt}}" /></div>
 
+<div class="">
+
+{{ .Params.agenda | markdownify }}
+</div>
+
+<div class="mw100 center ph3 pt4">
+{{ .Params.committee | markdownify }}
 {{ if true }}
-  <div class="tc">
-    
+  <!-- <div class="tc">  
     <h2 class="f3 b lh-title mb1">Workshop Agenda Coming Soon</h2>
     <br /><br />
-  </div>
+  </div> -->
 {{ else }}
 
 <form action="" name="voice_interoperability_form" netlify>
