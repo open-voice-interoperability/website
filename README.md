@@ -21,9 +21,9 @@ Now you're all set, and you can start editing content!
 
 ## Local Development
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
+Clone this repository, and run `npm install` from the new folder to install all required dependencies.
 
-Then start the development server with `yarn start` or `npm start`.
+Then start the development server with `npm start`.
 
 ## Layouts
 
