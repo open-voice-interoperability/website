@@ -43,6 +43,9 @@ sub{
 
 
 /*** AGENDA TABLE ***/
+.red{
+  color: red;
+}
 table.agenda {
 
 }

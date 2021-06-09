@@ -4,6 +4,7 @@ image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
 subtitle: >-
   An online workshop by invitation to discuss the interoperability of voice applications.
 description: >-
+  <strong class="red"><center>SOLD OUT. Review session video recordings on this page available June 18.</center></strong>
   <strong>Perceived problem:</strong> voice applications on different platforms
   cannot easily communicate and share data.  For example, a shopping application
   on platform A cannot invoke a payment application on platform B, provide it
@@ -39,7 +40,7 @@ agenda: >-
   <tr><td>  </td><tr>
   <tr><th colspan="3"><h3 class="">JUNE 17 | THEME: MOVE FORWARD | Host: David Attwater of Talkmap Inc.</h3></th><tr>
   <tr><td>7:00 PST</td><td>What we can learn from Amazon Vii</td><td>Michael McTear, Ulster University, Northern Ireland</td><tr>
-  <tr><td>7:20 PST</td><td>Magenta: our journey, and the future of voice assistance</td><td>Yaser Martinez Palenzuela, Deutsche Telekom, Germany</td><tr>
+  <tr><td>7:20 PST</td><td>Magenta: our journey, and the future of voice assistance</td><td>Bernhard Hochstätter, Deutsche Telekom, Germany</td><tr>
   <tr><td>7:40 PST</td><td>Areas of IPA standardization</td><td>Dirk Schnelle-Walka, Modality.ai, Germany</td><tr>
   <tr><td>8:00 PST</td><td>The danger of digital 'Chinese whispers': Understanding the dimensions of trust in interoperable voice agents</td><td>Leigh Clark, Swansea University, UK</td><tr>
   <tr><td>8:20 PST</td><td>Interactive Conversational agents at the BBC</td><td>Chris Dix, Head of Architecture at BBC, UK</td><tr>
