@@ -24,15 +24,19 @@ ambassadors:
   - heading: >-
       Donald Buckley, Emerging Voice Tech in Entertainment I SVOD AVOD CTV PVOD
       OTT
-    imageUrl: /img/ovn_donaldbuckley.png
+    imageUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-portrait.jpg
     text: >-
-      Donald Buckley is an award-winning creative executive who has spent his
-      career in marketing and executive roles in the Entertainment and Digital
-      industries with some of the most iconic brands in entertainment. Batman.
-      Harry Potter. Homeland. Ray Donovan. Shameless. City on a Hill. Twin
-      Peaks. Billions. Donald is passionate about emerging voice tech in
-      entertainment and is an advisor and consultant to startups and media
-      companies.
+      As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led
+      marketing for series including Homeland, Billions and Shameless, Showtime
+      Sports and Showtime Documentary Films. He created and led the marketing
+      organization that launched Showtime's Streaming OTT service in 2015.
+      Previously, as Warner Bros.' SVP, Interactive Marketing, Buckley founded
+      its Interactive Marketing department. Among the hundreds of movies
+      released during Buckley's tenure were the Harry Potter and The Dark Knight
+      franchises. He is a member of the Academy of Motion Picture Arts and
+      Sciences and the Television Academy of Arts and Sciences and currently
+      advisor to a number of media companies and startups in voice-tech, gaming,
+      TV, content, social, data security, app development and research.
   - heading: 'Vicki Cantrell, Chief Executive Officer of Vendors in Partnership'
     imageUrl: /img/ovn_vicki_cantrell.png
     text: >-

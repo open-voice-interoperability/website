@@ -1,0 +1,63 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="mw100 center ph3 pt4">
+{{ .Params.description | markdownify}}
+</div>
+
+<div class="w-100 mt4 mb2"><img class="w-100" src="{{ .Params.agenda_image }}" alt="{{ .Params.agenda_image_alt}}" /></div>
+
+<div class="">
+
+{{ .Params.agenda | markdownify }}
+</div>
+
+<div class="mw100 center ph3 pt4">
+{{ .Params.committee | markdownify }}
+{{ if true }}
+  <!-- <div class="tc">  
+    <h2 class="f3 b lh-title mb1">Workshop Agenda Coming Soon</h2>
+    <br /><br />
+  </div> -->
+{{ else }}
+
+<form action="" name="voice_interoperability_form" netlify>
+  <input type="hidden" name="form-name" value="voice_interoperability_form" />
+  <div class="">
+    
+    <div class="mv2">Voice Agent Interoperability Workshop Submission Form</div>
+    <div class="mv2">Full name <input type="text" name="Full_name" value="" placeholder="Full name" class="" /></div>
+    <div class="mv2">Affiliation <input type="text" name="Affiliation" value="" placeholder="Affiliation" class="" /></div>
+    <div class="mv2">E-mail address <input type="text" name="E-mail_Address" value="" placeholder="E-mail address" class="" /></div>
+    <div class="mv2">Mail address:  </div>
+    <div class="mv2">Street <input type="text" name="Street" value="" placeholder="Street" cStreetlass="" /></div>
+    <div class="mv2">City <input type="text" name="City" value="" placeholder="City" class="" /></div>
+    <div class="mv2">State/Province <input type="text" name="State_Province" value="" placeholder="State/Province" class="" /></div>
+    <div class="mv2">Country <input type="text" name="Country" value="" placeholder="Country" cCountrylass="" /></div>
+    <div class="mv2">Zip Code <input type="text" name="Zip_Code" value="" placeholder="Zip Code" class="" /></div>
+    <div class="mv2">Phone number (with country code) <input type="text" name="Phone number" value="" placeholder="Phone number" class="" /></div>
+    <div class="mv2">Short bio (< 50 words) <br />
+      <textarea name="Short_bio" class=""></textarea>
+    </div>
+    <div class="mv2">Proposed Presentation abstract (&lt; 150 words)<br />
+      <textarea name="Proposed_Presentation_abstract" class=""></textarea>
+      </div>
+    <div class="mv2">Proposed Topic for panel discussion <br />
+     <!-- <input type="file" name="Proposed_Topic_for_panel_discussion" accept=".pdf,.doc,.docx,.txt" /> -->
+     <textarea name="Proposed_Topic_for_panel_discussion" class=""></textarea>
+    </div>
+    <div class="mv2">Submit by 30 April 2021.</div>
+    
+    <!-- Button -->
+    <div class="tc mb6">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+    </div>
+
+  </div>
+</form>  
+{{ end }}
+</div>
+
+
+{{ end }}

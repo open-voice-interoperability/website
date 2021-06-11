@@ -15,6 +15,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "paper" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Paper" # Used in the UI, ie.: "New Document"
+    folder: "site/content/paper" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Link to PDF", name: "link_to_document", widget: "string"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -165,8 +176,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Full_image, name: full_image, widget: image}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "site/content/supporters/_index.md"
-        label: "Supporters"
-        name: "supporters"
+        label: "Friends of OVN"
+        name: "friends-of-the-open-voice-network"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
@@ -175,4 +186,36 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
           - {label: Full_image, name: full_image, widget: image}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+      - file: "site/content/voice_interoperability_form/_index.md"
+        label: "Voice Interoperability Form"
+        name: "Voice nteroperability Form"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Description, name: description, widget: markdown}
+          - {label: AgendaImage, name: agenda_image, widget: image}
+          - {label: AgendaImageALt, name: agenda_image_alt, widget: string}
+          - {label: Agenda, name: agenda, widget: markdown}
+          - {label: Committee, name: committee, widget: markdown}
+      - file: "site/content/industry-advisor-council/_index.md"
+        label: "Industry Advisor Council Page"
+        name: "industry-advisor-council"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: About
+            name: about
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: Advisors
+            name: advisors
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
  
