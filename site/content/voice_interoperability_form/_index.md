@@ -5,8 +5,8 @@ subtitle: >-
   An online workshop by invitation to discuss the interoperability of voice
   applications.
 description: >-
-  <strong><center>Thank you to our participants! Workshop Session Videos now
-  available.</center></strong><br> 
+  <strong><center>Thank you to our participants! Workshop Session Videos and
+  Manifesto now available.</center></strong><br> 
 
 
   <div class="_form_5"></div><script
