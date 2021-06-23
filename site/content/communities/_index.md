@@ -28,15 +28,16 @@ communities:
     text: >-
       For conversational AI developers. Primary responsibilities: developing
       technology-neutral guidance for voice designers and strategists worldwide
-      and advising the OVN Technical Committee on the issues, opportunities, and
-      requirements for proposed conversational AI technical standards.
+      and advising the Open Voice Network Technical Committee on the issues,
+      opportunities, and requirements for proposed conversational AI technical
+      standards.
   - heading: Designer & Strategist Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       For conversational AI designers, linguists and strategists. Primary
-      responsibility: advising the OVN Technical and Outreach Committees on
-      enterprise use cases – the value propositions (and related requirements
-      and dependencies) of conversational AI.
+      responsibility: advising the Open Voice Network Technical and Outreach
+      Committees on enterprise use cases – the value propositions (and related
+      requirements and dependencies) of conversational AI.
   - heading: Education Steering Team Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
