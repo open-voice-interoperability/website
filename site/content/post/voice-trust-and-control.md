@@ -4,8 +4,8 @@ date: 2021-02-22T21:11:39.222Z
 description: >-
   The pandemic has undoubtedly expedited the voice-AI landscape as we look for
   hands-free solutions—but where do we go from here? Learn more in this adapted
-  extract written by OVN Ambassador Oxana Gouliaeva in her co-authored 2020
-  book, La révolution des assistants vocaux.
+  extract written by Open Voice Network Ambassador Oxana Gouliaeva in her
+  co-authored 2020 book, La révolution des assistants vocaux.
 image: /img/ovn-open-voice-network-trust-and-control-oxana-gouliaeva-ambassador.jpg
 ---
 Irrevocably, voice adoption is growing, accelerated by the pandemic and health concerns. A third of the US adult population uses smart speakers, even more use in-car voice assistants and smartphones. Recent Voicebot research showed that over 45% of consumers would like to have voice assistant features in their favorite mobile apps, particularly for navigation and audio entertainment. More widely, audio consumption across devices is on the rise all around the world, due to people working remotely and staying at home.
@@ -42,6 +42,6 @@ Whatever the strategy you adopt today, you will need interoperability and voice 
 
 Alexa, Google Assistant and other general-purpose voice assistants aren’t going anywhere. But while they build new consumer habits, brands and businesses should get ready to build upon them. Businesses and organizations must learn how to master the new medium and get ready to take control of their brand voice experience and related data. They also must understand the importance of building standards that would prevent today’s dominant tech players become AI oligopolies tomorrow.
 
-It is time for businesses to be included in the discussion and to design how we all want those systems to “talk” to us and to each other so we can trust them. It is time to join OVN and to design the standards that will regulate our future.
+It is time for businesses to be included in the discussion and to design how we all want those systems to “talk” to us and to each other so we can trust them. It is time to join the Open Voice Network and to design the standards that will regulate our future.
 
 _Source: adapted extract from "Voice Assistant Revolution," foreword by Luc Julia (La révolution des assistants vocaux, January 2020, in French)—_[_available now_ ](https://www.amazon.com/r%C3%A9volution-assistants-vocaux-Comprendre-Communication/dp/2100805711/ref=sr_1_1?dchild=1&keywords=La+r%C3%A9volution+des+assistants+vocaux+%3A+Comprendre+les+enjeux+et+r%C3%A9ussir+ses+strat%C3%A9gies+marketing+%28Marketing%2FCommunication%29&qid=1614035461&sr=8-1)_on Amazon._
