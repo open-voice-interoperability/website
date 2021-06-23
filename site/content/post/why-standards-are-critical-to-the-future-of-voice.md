@@ -58,6 +58,6 @@ Yes. Voice is extremely data-rich. It is a [biometric identifier](https://us.nor
 
 ## Who or what can develop and deliver such standards?
 
-The Open Voice Network (OVN) is a new non-profit industry association that is dedicated to the development and proposal of open standards and guidelines for AI voice assistance, comprised of consumer-facing enterprises, top-tier technology firms, marketers, and tech innovators.
+The Open Voice Network is a new non-profit industry association that is dedicated to the development and proposal of open standards and guidelines for AI voice assistance, comprised of consumer-facing enterprises, top-tier technology firms, marketers, and tech innovators.
 
-The OVN emerged from 2016-2018 research into the impact of AI-voice on commerce led by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation, which concluded that the rich potential of AI-voice _**for all**_ could be realized only in an open, standards-based environment.
+The Open Voice Network emerged from 2016-2018 research into the impact of AI-voice on commerce led by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation, which concluded that the rich potential of AI-voice **_for all_** could be realized only in an open, standards-based environment.
