@@ -20,6 +20,6 @@ _"In spite of the predictions about the future of voice assistants, many compani
 
 How will your company address the future of voice? What's more important—maintaining a lowered fixed cost or owning the data your customers are willing to share with you? We know which side of the scale to emphasize, but which companies will follow?
 
-\#OpenVoiceNetwork #OVN #VoiceinCommerce #ConsumerData #ConsumerPrivacy #AIvoice #VoiceAssistants #FutureofVoice
+\#OpenVoiceNetwork #VoiceinCommerce #ConsumerData #ConsumerPrivacy #AIvoice #VoiceAssistants #FutureofVoice
 
-****
+- - -
