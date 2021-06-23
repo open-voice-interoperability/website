@@ -23,4 +23,4 @@ With more than one million reasons consumer-facing enterprises need the global v
 
 Let's [talk](https://openvoicenetwork.org/contact/). :)
 
-\#DavidRoth #SinglesDay #OpenVoiceNetwork #voiceassistance #conversational commerce #voicestandards #OVN
+\#DavidRoth #SinglesDay #OpenVoiceNetwork #voiceassistance #conversational commerce #voicestandards
