@@ -18,4 +18,4 @@ Because right now our team is beginning to build a list of requirements. And to 
 
 From this work will emerge proposals for standardization. From this work will emerge the future of voice assistant systems and conversational agents. Won't you help us?
 
-If you are interested in learning more about the internal work of the OVN, we encourage you to subscribe to our Technical Newsletter. Send us a private message via [social media](https://www.facebook.com/openvoicenetwork) or fill out our [contact form](https://openvoicenetwork.org/contact/) to indicate your interest.
+If you are interested in learning more about the internal work of the Open Voice Network, we encourage you to subscribe to our Technical Newsletter. Send us a private message via [social media](https://www.facebook.com/openvoicenetwork) or fill out our [contact form](https://openvoicenetwork.org/contact/) to indicate your interest.
