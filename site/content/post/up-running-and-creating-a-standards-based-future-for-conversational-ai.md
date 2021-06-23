@@ -19,11 +19,11 @@ More than 150 enterprise users and top-tier voice practitioners, from 12 nations
 
 ## What's happening now?
 
-* The **OVN Architecture Work Group** is now reviewing voice assistant architectures from around the world, seeking to identify common components and interfaces. Opportunities for standardization? Where and how will commercial firms innovate and create differentiation?
-* **The OVN Privacy and Security Work Group** is now exploring voice-specific issues of consumer and commercial privacy. There are clearly rights to respect; there may also be values to support and promote. How?
-* Now forming: an **OVN Work Group** to envision and research the possibility of a **Global Voice Registry—a DNS for voice destinations.** Needed in a billion-end point world? Many think so. How to do it? The big challenge. Our Community of voice developers has been building a list of requirements. Join the conversation!
-* Also now at work: OVN Communities of **Designers & Strategists** (focused on enterprise use cases), **Ethical Use** (issues of privacy, consent, and inclusivity), **Educators** (a teacher's field guide to voice, ever-more important in these days of remote students), and **Commerce** (the how-what-where of retail and brand voice value).
+* The **Open Voice Network Architecture Work Group** is now reviewing voice assistant architectures from around the world, seeking to identify common components and interfaces. Opportunities for standardization? Where and how will commercial firms innovate and create differentiation?
+* **The Open Voice Network Privacy and Security Work Group** is now exploring voice-specific issues of consumer and commercial privacy. There are clearly rights to respect; there may also be values to support and promote. How?
+* Now forming: an **Open Voice Network Work Group** to envision and research the possibility of a **Global Voice Registry—a DNS for voice destinations.** Needed in a billion-end point world? Many think so. How to do it? The big challenge. Our Community of voice developers has been building a list of requirements. Join the conversation!
+* Also now at work: Open Voice Network Communities of **Designers & Strategists** (focused on enterprise use cases), **Ethical Use** (issues of privacy, consent, and inclusivity), **Educators** (a teacher's field guide to voice, ever-more important in these days of remote students), and **Commerce** (the how-what-where of retail and brand voice value).
 
 ## Join Us
 
-The Open Voice Network is open to all who want to make conversational AI worthy of user trust. We are a directed fund of the Linux Foundation. To request Work Group or Community participation, please contact Jon Stine, OVN executive director, at jon.stine@openvoicenetwork.org.
+The Open Voice Network is open to all who want to make conversational AI worthy of user trust. We are a directed fund of the Linux Foundation. To request Work Group or Community participation, please contact Jon Stine, Open Voice Network Executive Director, at jon.stine@openvoicenetwork.org.
