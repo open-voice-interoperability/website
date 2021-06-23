@@ -8,7 +8,7 @@ image: /img/open-voice-network-announcement.jpg
 ---
 An enterprise-supported initiative that aims to bring standards-based interoperability, data protection, and accessibility to the world of voice assistance is expected to formally launch this fall.
 
-This effort – known as the Open Voice Network (OVN) – is now winning executive and financial support from leading US and Europe commerce enterprises, major tech firms, marketing agencies, voice technology specialists, and industry associations. It emerged from 2016-2018 research on the impact of voice assistance on commerce (retail, consumer goods, and marketing) industries by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation.  
+This effort—known as the Open Voice Network—is now winning executive and financial support from leading US and Europe commerce enterprises, major tech firms, marketing agencies, voice technology specialists, and industry associations. It emerged from 2016-2018 research on the impact of voice assistance on commerce (retail, consumer goods, and marketing) industries by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation.  
 
 At the heart of the Open Voice Network is the recognition that voice assistance will soon be a primary (if not the most-used) interface to the internet and IoT systems; that, as availability and adoption grows, voice assistance will re-shape consumer behavior in all consumer-facing industries (and especially commerce industries); and, that these are the early days of the voice revolution – similar in many ways to the early days of the internet browser wars.
 
