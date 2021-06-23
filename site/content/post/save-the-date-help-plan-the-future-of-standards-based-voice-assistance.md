@@ -6,7 +6,7 @@ description: >-
   event for voice tech and AI in America!
 image: /img/project-voice-save-the-date-open-voice-network-ovn.png
 ---
-[Project Voice](https://projectvoice.ai/), the #1 event for voice tech and AI in America, has extended **The Open Voice Network** complimentary space and time within the 2021 gathering—with Friday, January 15th scheduled as the first **OVN Communities Summit**.
+[Project Voice](https://projectvoice.ai/), the #1 event for voice tech and AI in America, has extended **The Open Voice Network** complimentary space and time within the 2021 gathering—with Friday, January 15th scheduled as the first **Open Voice Network Communities Summit**.
 
 We're deeply grateful to Bradley Metrock and his team for his partnership. We anticipate that by this January we'll be ready to safely convene, discuss, and plan the future of standards-based voice assistance.
 
