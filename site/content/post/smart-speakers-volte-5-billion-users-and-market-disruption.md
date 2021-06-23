@@ -25,4 +25,4 @@ Might the communal development and delivery of standards accelerate conversation
 
 **We happen to think so.**
 
-We're the [Open Voice Network](https://openvoicenetwork.org/about/). Dedicated to bringing the value of standards to the exciting new world of voice. #OVN
+We're the [Open Voice Network](https://openvoicenetwork.org/about/). Dedicated to bringing the value of standards to the exciting new world of voice.
