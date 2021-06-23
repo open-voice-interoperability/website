@@ -8,7 +8,8 @@ about:
     text: >-
       Ambassadors support the concept, direction, and work of the Open Voice
       Network. Each with notable platforms and influence, they are important to
-      the outreach of OVN through their public support and promotion.
+      the outreach of the Open Voice Network through their public support and
+      promotion.
 ambassadors:
   - heading: 'Peter Bentsen, VP of Aloha Health Network'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Peter-Bentsen.png
@@ -160,7 +161,8 @@ ambassadors:
       succeed in the digital and user experience space for over 20 years. His
       commitment to helping enterprises use conversational AI to solve business
       problems and improve customer experience manifests itself in his support
-      of OVN, his book (Voice Strategy), talks, articles, and online courses.
+      of the Open Voice Network, his book (Voice Strategy), talks, articles, and
+      online courses.
   - heading: >-
       Susan Westwater, CEO & Co-founder of Pragmatic Digital, Co-founder of
       Instructor at Voice Masters
@@ -170,7 +172,8 @@ ambassadors:
       corporate side, Susan shifted her focus to helping organizations
       understand and capitalize on the opportunity that is conversational AI.
       She is committed to education through her numerous talks, articles, book
-      (Voice Strategy), online education courses, and work as part of OVN.
+      (Voice Strategy), online education courses, and work as part of the Open
+      Voice Network.
   - heading: 'Audrey Wu, VP of Strategic Partnerships, Reliance Jio Haptik'
     imageUrl: /img/ovn_audrey-wu.png
     text: >-
