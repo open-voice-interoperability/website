@@ -10,7 +10,8 @@ image: /img/open_voice_network_linux_foundation_launch_blog-1-.png
 ---
 ## Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future
 
-_Target, Schwarz Gruppe, Wegmans, Microsoft, Veritone, and Deutsche Telekom lead standards effort to advance voice assistance._
+_Target, Schwarz Gruppe, Wegmans, Microsoft, Veritone, and Deutsche Telekom
+ lead standards effort to advance voice assistance._
 
 **SAN FRANCISCO, June 22, 2021 -** The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Founding members include Target, Schwarz Gruppe, Wegmans Food Markets, Microsoft, Veritone, and Deutsche Telekom.
 
@@ -32,7 +33,7 @@ Much as open standards in the earliest days of the internet brought a uniform wa
 
 "Voice is transforming the relationships between brands and consumers," **said Rolf Schumann, Chief Digital Officer, Schwarz Gruppe.** "Voice is changing the way we are interacting with our digital devices. For instance, when shopping through our smart home appliances. However, voice includes more information than a fingerprint and can entail data about the emotional state or mental health of a user. Therefore, it is of utmost importance to put data protection standards in place to protect the user’s privacy. This is the only way we will contribute to the future of voice."
 
-"Self-regulation of synthetic voice content creation and use, to protect the voice owner as well as establishing trust with the consumer, is foundational," **said Ryan Steelberg, president and cofounder of Veritone.** "Having an open network through OVN for education and global standards is the only way to keep pace with the rate of innovation and demand for influencer marketing. Veritone’s MARVEL.ai, a Voice-as-a-Service solution, is proud to partner with OVN on building the best practices to protect the voice brands we work with across sports, media and entertainment."
+"Self-regulation of synthetic voice content creation and use, to protect the voice owner as well as establishing trust with the consumer, is foundational," **said Ryan Steelberg, president and cofounder of Veritone.** "Having an open network through \[the Open Voice Network] for education and global standards is the only way to keep pace with the rate of innovation and demand for influencer marketing. Veritone’s MARVEL.ai, a Voice-as-a-Service solution, is proud to partner with \[the Open Voice Network] on building the best practices to protect the voice brands we work with across sports, media and entertainment."
 
 Membership to the Open Voice Network includes a commitment of resources in support of the Open Voice Network’s research, awareness and advocacy activities and active participation in the Open Voice Network’s symposia and workshops. The Linux Foundation open governance model will allow for community-wide contributions that will accelerate conversational AI standards rollout and adoption.
 
