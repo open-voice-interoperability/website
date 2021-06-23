@@ -55,4 +55,4 @@ Listen to Amir's insights at the [Israeli startup camel podcast](https://soundcl
 
 **Voice in commerce. Can you hear it coming?**
 
-**\#OpenVoiceNetwork #ConversationalCommerce #MITOpenVoice #AmirTsrouya #Tukuoro #OVN**
+**\#OpenVoiceNetwork #ConversationalCommerce #MITOpenVoice #AmirTsrouya #Tukuoro**
