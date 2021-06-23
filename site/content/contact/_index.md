@@ -4,10 +4,11 @@ logo: /img/logo.svg
 contact_entries:
   - heading: Join our Communities
     text: >-
-      OVN Communities are open to everyone in the conversational AI community –
-      developers, designers, strategists, linguists, researchers, marketers, and
-      students. Fill out the form to express your interest, and join the
-      discussion on LinkedIn, Facebook, Instagram and GitHub channels.
+      The Open Voice Network Communities are open to everyone in the
+      conversational AI community – developers, designers, strategists,
+      linguists, researchers, marketers, and students. Fill out the form to
+      express your interest, and join the discussion on LinkedIn, Facebook,
+      Instagram and GitHub channels.
   - heading: Sponsoring Members
     text: >-
       Sponsorship is open worldwide to enterprises and public entities, as well
