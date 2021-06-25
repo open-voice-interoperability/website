@@ -6,7 +6,7 @@ hardsell:
     description: >-
       The industry surrounding voice technology is at an inflection point. Innovation by voice tech experience strategists, designers, and developers has demonstrated tremendous potential to include and serve society at large, inclusive of many levels of literacy or physical and cognitive abilities. It has also raised questions about interoperability, ethical use, and standards to ensure voice tech is a trustworthy interface developed for the benefit of the many, as opposed to the few. Supporting the Open Voice Network’s work to recommend standards for interoperability and effective, ethical use of voice AI is vital  to growing the industry in a way that can offer society the full benefits of using speech to engage with the digital world.    
       <br><br>
-      Opportunities to get involved within The Open Voice Network are open to individuals willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. Enterprises are invited to join The Open Voice Network as Sponsoring Members by providing financial sponsorship as well as executive leadership. Contact us to learn more.
+      Opportunities to get involved within the Open Voice Network are open to individuals willing to give of their time, network, industry knowledge, and resources through collaboration, advocacy, and development of standards. Enterprises are invited to join the Open Voice Network as Sponsoring Members by providing financial sponsorship as well as executive leadership. Contact us to learn more.
 testimonials:
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
