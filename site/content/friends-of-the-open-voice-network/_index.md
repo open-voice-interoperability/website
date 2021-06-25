@@ -50,11 +50,11 @@ hardsell:
       inclusivity to voice through the development and adoption of standards
       will dramatically expand opportunities for the voice ecosystem. And those
       who help create standards and bring them to market be taking a step ahead
-      in a highly competitive environment. <br><br> Friends of the OVN today
+      in a highly competitive environment. <br><br> Friends of The Open Voice Network today
       bring invaluable leadership and expertise to our Work Groups and
       Communities. We welcome your participation, and this public demonstration
       of support.
-    heading: Why Become a Friend of the Open Voice Network
+    heading: Why Become a Friend of The Open Voice Network
 pricing:
   description: ' '
   heading: ' '

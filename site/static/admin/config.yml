@@ -178,7 +178,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Full_image, name: full_image, widget: image}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "site/content/supporters/_index.md"
-        label: "Friends of OVN"
+        label: "Friends of The Open Voice Network"
         name: "friends-of-the-open-voice-network"
         fields:
           - {label: Title, name: title, widget: string}

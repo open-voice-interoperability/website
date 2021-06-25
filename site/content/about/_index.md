@@ -5,7 +5,7 @@ about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network (OVN) is dedicated to making voice assistance worthy of user 
+      The Open Voice Network is dedicated to making voice assistance worthy of user 
       trust—especially for a future of voice assistance that will be multi-assistant, 
       multi-platform, multi-device, multi-modal, and multi-use.
   - heading: Mission
@@ -36,9 +36,9 @@ about:
   - heading: Governance
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
-      <p>The Open Voice Network (OVN) is an independently funded and governed non-profit industry association which operates as a directed fund of the Linux Foundation. </p>
-      <p>Financial support for the OVN comes from sponsoring enterprises and entities. Strategic direction, by a Steering Committee comprised of senior executives of sponsor organizations.  Day-to-day management is provided by an Executive Director who reports to the Steering Committee, as well as the chairs of OVN standing committees and moderators of OVN communities. </p>
-      <p>As a directed fund of the Linux Foundation, the OVN enjoys access to the expertise, and shared legal, operational, and marketing services, of the LF, a world leader in the creation of open source projects and ecosystems.</p>
+      <p>The Open Voice Network is an independently funded and governed non-profit industry association which operates as a directed fund of the Linux Foundation. </p>
+      <p>Financial support for The Open Voice Network comes from sponsoring enterprises and entities. Strategic direction, by a Steering Committee comprised of senior executives of sponsor organizations.  Day-to-day management is provided by an Executive Director who reports to the Steering Committee, as well as the chairs of The Open Voice Network standing committees and moderators of The Open Voice Network communities. </p>
+      <p>As a directed fund of the Linux Foundation, The Open Voice Network enjoys access to the expertise, and shared legal, operational, and marketing services, of the LF, a world leader in the creation of open source projects and ecosystems.</p>
   - heading: About the Linux Foundation
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
@@ -82,5 +82,5 @@ about:
       - heading: Jon Stine,
         subHeading: Executive Director of Open Voice Network
         text: >-
-          Champions the mission and vision of the broader OVN community
+          Champions the mission and vision of the broader Open Voice Network community
 ---
