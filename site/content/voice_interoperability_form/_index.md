@@ -15,10 +15,6 @@ description: >-
   "Voice Agent Interoperability Manifesto")
 
 
-  ## <strong><center>[Click here to read the Voice Agent Interoperability
-  Manifesto](https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing)</center></strong></p>
-
-
   <div class="row" style="text-align:center;">
       <div class="col-md-12 text-center" style="max-width: 100%";>
           <a href="https://youtu.be/K241cQY_tao" target="_blank"><img style="height: auto; width:300px" src="img/open-voice-network-voice-agent-interoperability-workshop-recording-day-1.png"  /></a>
