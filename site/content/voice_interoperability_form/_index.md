@@ -5,13 +5,13 @@ subtitle: >-
   An online workshop by invitation to discuss the interoperability of voice
   applications.
 description: >-
-  <strong><center>Thank you to our participants! Workshop Session Videos and
-  Manifesto are now available. Please find the available resources
-  below.</center></strong><br> 
+  <p style="background-color: #0151ff"><strong><center>Thank you to our
+  participants! Workshop Session Videos and Manifesto are now available. Please
+  find the available resources below.</center></strong><br></p> 
 
 
   <strong><center>[Click here to read the Voice Agent Interoperability
-  Manifesto](https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing).</center></strong>
+  Manifesto](https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing)</center></strong>
 
 
   <div class="row" style="text-align:center;">
