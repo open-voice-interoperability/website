@@ -10,12 +10,11 @@ description: >-
   below.</center></strong><br></p> 
 
 
-  <p style="text-align:center;"><div style="text-align:center; max-width:
-  913px;"><a
+  <div style="text-align:center; max-width: 913px;"><a
   href="https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing"
-  target="_blank"><img
+  target="_blank"><center><img
   src="img/open-voice-network-voice-agent-interoperability-workshop-manifesto.png"
-  align="center"></a></div></p>
+  align="center"></center></a></div>
 
 
   <div class="row" style="text-align:center;">
