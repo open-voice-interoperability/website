@@ -42,7 +42,7 @@ values:
 about:
   heading: For the Future of Voice Assistance
   text: >-
-    Become an OVN sponsoring member.  Doing so allows you to advocate for and finally support the mission of the Open Voice Network.  Sponsoring members will guide and shape the future of voice assistance – in increasingly critical issues of technology, competition, and commercial and personal data privacy – to the benefit of global users and providers.
+    Become an Open Voice Network sponsoring member.  Doing so allows you to advocate for and finally support the mission of the Open Voice Network.  Sponsoring members will guide and shape the future of voice assistance – in increasingly critical issues of technology, competition, and commercial and personal data privacy – to the benefit of global users and providers.
 social:
   heading: The Open Voice Network in Social Media
   text: >-

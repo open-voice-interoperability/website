@@ -21,7 +21,7 @@ intro:
       buttonText: Learn More
       buttonLink: https://voicefirsthealth.com/digital-health-law-making-with-bianca-phillips-2/
       text: >-
-        OVN Ambassador Bianca Phillips shares her research on the Voice First Health Podcast. 
+        The Open Voice Network Ambassador Bianca Phillips shares her research on the Voice First Health Podcast. 
       title: >-
         Digital Health Law Making (Bianca Phillips) 
 ---
