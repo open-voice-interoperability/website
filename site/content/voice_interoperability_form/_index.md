@@ -10,12 +10,13 @@ description: >-
   below.</center></strong><br></p> 
 
 
-  <p style="text-align:center;">![Click here to read the Open Voice Network's
-  Voice Agent Interoperability
+  <p style="text-align:center;"><a
+  href="https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing">![Click
+  here to read the Open Voice Network's Voice Agent Interoperability
   Manifesto](/img/open-voice-network-voice-agent-interoperability-workshop-manifesto.png
   "Voice Agent Interoperability Manifesto")
 
-  </p>
+  </a></p>
 
 
   <div class="row" style="text-align:center;">
