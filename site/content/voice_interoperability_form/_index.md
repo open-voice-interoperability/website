@@ -10,7 +10,7 @@ description: >-
   below.</center></strong><br></p> 
 
 
-  <strong><center>[Click here to read the Voice Agent Interoperability
+  ## <strong><center>[Click here to read the Voice Agent Interoperability
   Manifesto](https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing)</center></strong></p>
 
 
@@ -20,11 +20,7 @@ description: >-
           <img style="height: auto; width:300px" src="/img/istock-1001580902.jpg"  />
           <img style="height: auto; width:300px" src="/img/istock-1021543218.jpg" />
 
-  ```
-
   </div>
-
-  ```
 
 
   </div>
@@ -35,11 +31,7 @@ description: >-
           <img style="height: auto; width:300px" src="/img/istock-1001580902.jpg"  />
           <img style="height: auto; width:300px" src="/img/istock-1021543218.jpg" />
 
-  ```
-
   </div>
-
-  ```
 
 
   </div>
