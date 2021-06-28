@@ -11,13 +11,13 @@ description: >-
 
 
 
-  ![Photo 1](/img/istock-863497498.jpg "Photo 1")
+  <center>![Photo 1](/img/istock-863497498.jpg "Photo 1")
 
 
   ![Photo 2](/img/istock-1001580902.jpg "Photo 2")
 
 
-  ![Photo 3](/img/istock-1021543218.jpg "Photo 3")
+  ![Photo 3](/img/istock-1021543218.jpg "Photo 3")</center>
 
 
   <br><strong>Perceived problem:</strong> voice applications on different
