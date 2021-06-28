@@ -214,7 +214,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
           - label: Advisors
-            name: advisors
+            name: advisor
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
