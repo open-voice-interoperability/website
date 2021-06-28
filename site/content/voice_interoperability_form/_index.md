@@ -12,7 +12,7 @@ description: >-
 
   <a
   href="https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing"><img
-  src="img/open-voice-network-voice-agent-interoperability-manifesto.png"></a>
+  src="img/open-voice-network-voice-agent-interoperability-workshop-manifesto.png"></a>
 
 
   <div class="row" style="text-align:center;">
