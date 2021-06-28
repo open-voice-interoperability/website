@@ -49,9 +49,6 @@ description: >-
   ```
 
 
-  </div>
-
-
   <br><strong>Perceived problem:</strong> voice applications on different
   platforms cannot easily communicate and share data.  For example, a shopping
   application on platform A cannot invoke a payment application on platform B,
