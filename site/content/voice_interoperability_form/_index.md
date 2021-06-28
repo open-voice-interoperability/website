@@ -9,11 +9,6 @@ description: >-
   Manifesto now available.</center></strong><br> 
 
 
-  <div class="_form_5"></div><script
-  src="https://openvoicenetwork.activehosted.com/f/embed.php?id=5"
-  type="text/javascript" charset="utf-8"></script>
-
-
   <br><strong>Perceived problem:</strong> voice applications on different
   platforms cannot easily communicate and share data.  For example, a shopping
   application on platform A cannot invoke a payment application on platform B,
