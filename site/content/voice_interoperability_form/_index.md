@@ -10,15 +10,9 @@ description: >-
   below.</center></strong><br></p> 
 
 
-  <div class="row" style="text-align:center;">\
-
-  <div class="col-md-12 text-center" style="max-width: 100%";>\
-
-  <a
-  href="https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing"
-  target="_blank"><img style="height: auto; width: auto;"
-  src="img/open-voice-network-voice-agent-interoperability-workshop-manifesto.png" 
-  /></a>
+  ![Click here to read the Open Voice Network's Voice Agent Interoperability
+  Manifesto](/img/open-voice-network-voice-agent-interoperability-workshop-manifesto.png
+  "Voice Agent Interoperability Manifesto")
 
 
   ## <strong><center>[Click here to read the Voice Agent Interoperability
