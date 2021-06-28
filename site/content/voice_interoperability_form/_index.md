@@ -10,8 +10,7 @@ description: >-
   below.</center></strong><br></p> 
 
 
-  <p style="background-color: #0151ff"><strong><center>[Click here to read the
-  Voice Agent Interoperability
+  <strong><center>[Click here to read the Voice Agent Interoperability
   Manifesto](https://drive.google.com/file/d/1qPnzNdmeFd-3krTwEtW7u4BptDI3qX37/view?usp=sharing)</center></strong></p>
 
 
