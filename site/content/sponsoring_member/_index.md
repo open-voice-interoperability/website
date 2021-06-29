@@ -29,7 +29,6 @@ pricing:
       price: '50,000'
     - description: ' USD per annum | Total of $75,00 USD across a three-year commitment'
       items:
-        - Voice-centric and/or relevant early-stage technology firms
         - Active voice in standards decision-making and Open Voice Network outreach
       plan: 'OPEN VOICE NETWORK SUPPORTERS'
       price: '25,000'
