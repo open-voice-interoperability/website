@@ -15,7 +15,7 @@ For these reasons, the Technical Committee of the Open Voice Network, an open so
 
 The Open Voice Network is requesting public comment on Version 1.0 of these guidelines, "Privacy Guidelines and Capabilities Unique to Voice."
 
-* **To view and download Version 1.0, please visit** [**this link**](https://drive.google.com/file/d/1awV78xcnC3BgAYin-60jlR_Ft_Ne3L24/view?usp=sharing)**.**
+* **To view and download Version 1.0, please visit** [**this link**](https://drive.google.com/file/d/1eiixAqmOTPk5I84j_MQwPHxJb6XwS00p/view?usp=sharing)**.**
 * **To submit your feedback, please complete our** [**short form**](https://docs.google.com/forms/d/e/1FAIpQLSeOENxb_tAATrwnqHEnl1LITl3GniPM5PdBAPbgUF2Y18YzUw/viewform?usp=sf_link)**.**
 
 The Open Voice Network thanks you for your participation and commentary, and we look forward to hearing your feedback.
