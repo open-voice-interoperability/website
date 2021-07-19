@@ -19,7 +19,7 @@ description: >-
   align="center"></a>
     </div>
   </div>
-  
+
 
   <div class="row" style="text-align:center;">
       <div class="col-md-12 text-center" style="max-width: 100%";>
@@ -51,6 +51,13 @@ description: >-
           <a href="https://drive.google.com/file/d/1HOsaqfGUATMFLHe_NBts-wrT8QKL5wUR/view?usp=sharing" target="_blank"><img style="height: auto; width:300px" src="img/open-voice-network-voice-agent-interoperability-workshop-summary-and-recommendations.png"  /></a>
           <a href="https://drive.google.com/file/d/1hiYi_k6aKocqQ3ch7kdUu5edQgde4M0D/view?usp=sharing" target="_blank"><img style="height: auto; width:300px" src="/img/open-voice-network-voice-agent-interoperability-workshop-presentation-slides-day-2.png"  /></a>
           <a href="https://drive.google.com/file/d/1Ml37pgrq7FIvRG-ZzZ9GNurANW8WNWxW/view?usp=sharing" target="_blank"><img style="height: auto; width:300px" src="/img/open-voice-network-voice-agent-interoperability-workshop-presentation-slides-day-3.png
+  " /></a>\
+
+  <a
+  href="https://drive.google.com/file/d/1q3XOlsbd9hag_QxC0a5Wukp2X9dZtMzj/view?usp=sharing"
+  target="_blank"><img style="height: auto; width:300px"
+  src="/img/open-voice-network-voice-agent-interoperability-workshop-key-issues.png
+
   " /></a>
 
   </div></div>
