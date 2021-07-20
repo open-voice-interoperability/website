@@ -4,19 +4,23 @@
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.about }}
-    {{ if $element.steeringcommittee}}
-      {{ partial "media-block" $element }}
-      {{ range $index, $sc := $element.steeringcommittee }}
-        {{ partial "left-image-and-text" $sc }}
-      {{ end }}
-    {{ else }}
+  {{ range $index, $element := .Params.aboutsections }}
+    
       {{ if modBool $index 2 }}
         {{ partial "media-block" $element }}
       {{ else }}
         {{ partial "media-block" $element }}
       {{ end }}
-    {{ end }}
+    
+  {{ end }}
+
+  {{ range $index, $element := .Params.steeringcommittee }}
+    
+      {{ partial "media-block" $element }}
+      {{ range $index, $sc := $element.steeringcommittee }}
+        {{ partial "left-image-and-text" $sc }}
+      {{ end }}
+    
   {{ end }}
 
 </div>
