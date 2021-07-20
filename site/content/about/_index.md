@@ -1,19 +1,17 @@
 ---
 title: About
 image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
-about:
+sections:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network is dedicated to making voice assistance worthy of user 
+      The Open Voice Network (OVON) is dedicated to making voice assistance worthy of user 
       trust—especially for a future of voice assistance that will be multi-assistant, 
       multi-platform, multi-device, multi-modal, and multi-use.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network will achieve its vision through the development, proposal, 
-      and implementation of standards for the global voice industry.  Standards that 
-      make voice assistance worthy of user trust.
+      The Open Voice Network will achieve its vision through the communal development and adoption of industry standards and usage guidelines, development and documentation of voice-centric value propositions, and education and advocacy initiatives.
   - heading: Principles
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
@@ -36,9 +34,9 @@ about:
   - heading: Governance
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
-      <p>The Open Voice Network is an independently funded and governed non-profit industry association which operates as a directed fund of the Linux Foundation. </p>
-      <p>Financial support for the Open Voice Network comes from sponsoring enterprises and entities. Strategic direction, by a Steering Committee comprised of senior executives of sponsor organizations.  Day-to-day management is provided by an Executive Director who reports to the Steering Committee, as well as the chairs of the Open Voice Network standing committees and moderators of the Open Voice Network communities. </p>
-      <p>As a directed fund of the Linux Foundation, the Open Voice Network enjoys access to the expertise, and shared legal, operational, and marketing services, of the LF, a world leader in the creation of open source projects and ecosystems.</p>
+      <p>The Open Voice Network is an independently funded and governed non-profit industry association which operates as an open source association of the Linux Foundation.</p>
+      <p>Financial support for OVON comes from sponsoring enterprises and organizations.  Governance and strategic direction is provided by a Steering Committee of senior executives of sponsor organizations.  Reporting to the Steering Committee is the Executive Director (responsible for day-to-day management), and the chairs of the OVON standing committees and moderators of OVON communities.</p>
+      <p>As a directed fund of the Linux Foundation, OVON enjoys access to the expertise, and shared legal, operational, and marketing services, of the LF, a world leader in the creation of open source projects and ecosystems.</p>
   - heading: About the Linux Foundation
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
@@ -67,12 +65,16 @@ about:
         subHeading: Member
         text: >-
           Chief Security Officer, Wegmans Food Markets
+      - heading: Bernhard Hochstätter
+        subHeading: Member
+        text: >-
+          Executive Product Manager & Tribe Lead Voice Platform, Deutsche Telekom
       - heading: Dan Cundiff,
         subHeading: Acting Chair of Open Voice Technical Advisory Council
         text: >-
-          Principal Engineer, Target Corporation
+          Senior Principal Software Engineer, Gap Inc.
       - heading: Scott Nicholas,
-        subHeading: Of Counsel to the Open Voice Network
+        subHeading: Vice President of Project Formation
         text: >-
           Senior Director of Strategic Programs, Linux Foundation
       - heading: Kristi Dank,
