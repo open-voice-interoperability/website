@@ -1,7 +1,7 @@
 ---
 title: About
 image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
-sections:
+aboutsections:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
@@ -44,45 +44,45 @@ sections:
       <p>Founded in 2000, the Linux Foundation provides unparalleled support for open source communities through financial and intellectual resources, infrastructure, services, events, and training. Working together, the Linux Foundation and its projects form the most ambitious and successful investment in the creation of shared technology.</p>
       <p>For more information, please visit <a href="https://www.linuxfoundation.org/" target="_blank">https://www.linuxfoundation.org/</a>.</p>
   - heading: Open Voice Network Steering Committee
-    steeringcommittee:
-      - heading: Mike McNamara,
-        subHeading: Chair of Steering Committee
-        text: >-
-          Executive Vice President, Chief Information and Digital Officer, Target Corporation
-      - heading: Mirko Saul,
-        subHeading: Member
-        text: >-
-          Head of Digitalization and Innovation, Schwarz Digital GmbH & Co., KG
-      - heading: Ali Dalloul,
-        subHeading: Member 
-        text: >-
-          General Manager, Strategy and Commercialization, Azure AI Cognitive Services, Microsoft Corporation
-      - heading: Joel Crabb,
-        subHeading: Member
-        text: >-
-          Vice President, Architecture, Target Corporation
-      - heading: Doug Rogers,
-        subHeading: Member
-        text: >-
-          Chief Security Officer, Wegmans Food Markets
-      - heading: Bernhard Hochstätter
-        subHeading: Member
-        text: >-
-          Executive Product Manager & Tribe Lead Voice Platform, Deutsche Telekom
-      - heading: Dan Cundiff,
-        subHeading: Acting Chair of Open Voice Technical Advisory Council
-        text: >-
-          Senior Principal Software Engineer, Gap Inc.
-      - heading: Scott Nicholas,
-        subHeading: Vice President of Project Formation
-        text: >-
-          Senior Director of Strategic Programs, Linux Foundation
-      - heading: Kristi Dank,
-        subHeading: Secretary Pro Tempore + Member, Open Voice Network Leadership Council and Operations Team
-        text: >-
-          Director, Target Corporation
-      - heading: Jon Stine,
-        subHeading: Executive Director of Open Voice Network
-        text: >-
-          Champions the mission and vision of the broader Open Voice Network community
+steeringcommittee:
+  - heading: Mike McNamara,
+    subHeading: Chair of Steering Committee
+    text: >-
+      Executive Vice President, Chief Information and Digital Officer, Target Corporation
+  - heading: Mirko Saul,
+    subHeading: Member
+    text: >-
+      Head of Digitalization and Innovation, Schwarz Digital GmbH & Co., KG
+  - heading: Ali Dalloul,
+    subHeading: Member 
+    text: >-
+      General Manager, Strategy and Commercialization, Azure AI Cognitive Services, Microsoft Corporation
+  - heading: Joel Crabb,
+    subHeading: Member
+    text: >-
+      Vice President, Architecture, Target Corporation
+  - heading: Doug Rogers,
+    subHeading: Member
+    text: >-
+      Chief Security Officer, Wegmans Food Markets
+  - heading: Bernhard Hochstätter
+    subHeading: Member
+    text: >-
+      Executive Product Manager & Tribe Lead Voice Platform, Deutsche Telekom
+  - heading: Dan Cundiff,
+    subHeading: Acting Chair of Open Voice Technical Advisory Council
+    text: >-
+      Senior Principal Software Engineer, Gap Inc.
+  - heading: Scott Nicholas,
+    subHeading: Vice President of Project Formation
+    text: >-
+      Senior Director of Strategic Programs, Linux Foundation
+  - heading: Kristi Dank,
+    subHeading: Secretary Pro Tempore + Member, Open Voice Network Leadership Council and Operations Team
+    text: >-
+      Director, Target Corporation
+  - heading: Jon Stine,
+    subHeading: Executive Director of Open Voice Network
+    text: >-
+      Champions the mission and vision of the broader Open Voice Network community
 ---
