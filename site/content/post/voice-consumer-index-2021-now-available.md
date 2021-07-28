@@ -11,6 +11,6 @@ The Voice Consumer Index 2021 is an in-depth look at behaviors around voice assi
 
 Through this partnership of Vixen Labs and the Open Voice Network, the Voice Consumer Index 2021 is uncovering voice tactics from various industries, including anything from banking to healthcare, allowing businesses to see trends in purchases and demographics for certain voice-enabled devices.
 
-![](/img/open-voice-network-ovon-voice-for-everyone-blog-vixen-labs-voice-consumer-index-2021-now-available.png)(https://vixenlabs.co/voice-consumer-index)
+[![](/img/open-voice-network-ovon-voice-for-everyone-blog-vixen-labs-voice-consumer-index-2021-now-available.png)](https://vixenlabs.co/voice-consumer-index)
 
 Click the image above to find the VCI 2021 white paper, executive summary, and webinar sign-up link, along with an upcoming podcast mini-series. Consumers are utilizing voice assistants to connect with their favorite brands and drive voice adoption. Learn more about VCI 2021 and begin your move towards incorporating voice into your brand or business strategy.
