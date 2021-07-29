@@ -21,8 +21,6 @@ That is the world that’s before us.
 
 <a href="https://openvoicenetwork.org/papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-voice-for-everyone-white-paper-the-future-of-media-and-entertainment-informed-by-voice-full-report.png"  /></a>
 
-**Click to read the full** [**MEDIA AND ENTERTAINMENT INFORMED BY VOICE**](https://openvoicenetwork.org/papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf) **report.** 
-
 - - -
 
 - - -
