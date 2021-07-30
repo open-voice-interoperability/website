@@ -13,7 +13,7 @@ The public’s adoption of voice-assistance products and services has grown at a
 
 > It’s OK if you haven’t done much with voice technology yet, but it’s time to start exploring. New KPIs and voice strategies will form around a growing ecosystem of voice media. New forms of entertainment will emerge and extensions of entertainment IP will begin to populate, indeed, have already begun to populate the developing channels of voice.<br></br>
 >
-> \- from _The Future of Media and Entertainment Informed by Voice_
+> \- from [_The Future of Media and Entertainment Informed by Voice_](https://openvoicenetwork.org/post/new-report-the-future-of-media-and-entertainment-informed-by-voice/)__
 
 New creative approaches to advertising lie ahead, using the power of voice. New KPIs and voice strategies will form around a growing ecosystem of voice media. New forms of entertainment will emerge and extensions of entertainment IP will begin to populate, indeed, have already begun to populate the developing channels of voice.
 
