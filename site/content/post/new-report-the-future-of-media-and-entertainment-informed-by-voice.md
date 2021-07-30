@@ -19,7 +19,7 @@ New creative approaches to advertising lie ahead, using the power of voice. New 
 
 That is the world that’s before us.
 
-<a href="https://openvoicenetwork.org/papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-voice-for-everyone-white-paper-the-future-of-media-and-entertainment-informed-by-voice-full-report.png"  /></a>
+<a href="https://openvoicenetwork.org/papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-voice-for-everyone-white-paper-the-future-of-media-and-entertainment-informed-by-voice-full-report-1.png"  /></a>
 
 - - -
 
