@@ -7,7 +7,7 @@ description: >-
   consumer. 
 image: /img/ovon-media-entertainment-social-1.png
 ---
-Written by Donald Buckly and Janice K Mandel, this [**white paper**](https://openvoicenetwork.org/post/new-report-the-future-of-media-and-entertainment-informed-by-voice/) is a high-level view of how some western media and entertainment firms are beginning to use voice technology to expand the reach and value of their content assets.
+Written by Donald Buckley and Janice K Mandel, this [**white paper**](https://openvoicenetwork.org/post/new-report-the-future-of-media-and-entertainment-informed-by-voice/) is a high-level view of how some western media and entertainment firms are beginning to use voice technology to expand the reach and value of their content assets.
 
 The public’s adoption of voice-assistance products and services has grown at a faster rate than smartphone ownership—the very thing that introduced most of us to voice with the early iPhone. By 2023, voice commerce is predicted to reach $80 billion.
 
