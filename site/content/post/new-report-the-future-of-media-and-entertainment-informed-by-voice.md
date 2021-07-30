@@ -2,12 +2,12 @@
 title: 'White Paper: The Future of Media and Entertainment Informed by Voice'
 date: 2021-07-29T14:38:44.765Z
 description: >-
-  Written by Donald Buckly and Janice K Mandel, this white paper is a high-level
-  view of how some western media and entertainment firms are beginning to use
-  voice technology to expand the reach and value of their content assets.
+  Voice is showing its promise as a critical engagement platform that will, in
+  many cases, become the primary means of connection between business and
+  consumer. 
 image: /img/ovon-media-entertainment-social-1.png
 ---
-Voice is showing its promise as a critical engagement platform that will, in many cases, become the primary means of connection between business and consumer. 
+Written by Donald Buckly and Janice K Mandel, this [**white paper**](https://openvoicenetwork.org/post/new-report-the-future-of-media-and-entertainment-informed-by-voice/) is a high-level view of how some western media and entertainment firms are beginning to use voice technology to expand the reach and value of their content assets.
 
 The public’s adoption of voice-assistance products and services has grown at a faster rate than smartphone ownership—the very thing that introduced most of us to voice with the early iPhone. By 2023, voice commerce is predicted to reach $80 billion.
 
