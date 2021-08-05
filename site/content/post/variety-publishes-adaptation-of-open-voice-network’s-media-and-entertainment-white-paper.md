@@ -14,7 +14,7 @@ image: >-
 
 Variety's article, "Voice Technology is the Next Big Thing in Media and Entertainment," highlights some of the main takeaways of the OVON-backed white paper. This commentary includes a look at recent innovations in voice-enabled artificial intelligence, consumer adoption rates and forecasts, a glimpse into the future of the growing industry, and more.
 
-<a href="https://variety.com/vip/voice-technology-is-the-next-big-thing-in-media-and-entertainment-1235031704/" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-variety-publishes-adaptation-of-ovon-media-and-entertainment-white-paper-click-here-to-read.png"  /></a>
+<a href="https://variety.com/vip/voice-technology-is-the-next-big-thing-in-media-and-entertainment-1235031704/" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-blog-variety-publishes-adaptation-of-ovon-media-and-entertainment-white-paper-click-here-to-read.png"  /></a>
 
 
 Click above to read Variety's adaptation of the OVON white paper on VIP+ (Variety Intelligence Platform) for a limited time—no subscription needed.
