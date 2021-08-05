@@ -17,3 +17,17 @@ Variety's article, ["Voice Technology is the Next Big Thing in Media and Enterta
 <a href="https://variety.com/vip/voice-technology-is-the-next-big-thing-in-media-and-entertainment-1235031704/" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-blog-variety-publishes-adaptation-of-ovon-media-and-entertainment-white-paper-click-here-to-read.png"  /></a>
 
 Click above to read Variety's adaptation of the OVON white paper on [VIP+ (Variety Intelligence Platform)](https://variety.com/vip/) for a limited time—no subscription needed.
+
+- - -
+
+- - -
+
+- - -
+
+## About the Authors
+
+Variety is the most authoritative and trusted source of entertainment business news, reaching an audience of affluent influencers. For 115 years, influential producers, executives and talent in entertainment have turned to Variety for expert film, TV, digital, music, and theater business analysis and insights. With over 4 million social followers, four podcast series, a two-time Emmy winning television series (Actors on Actors), 70 events and summits, most notably Variety’s Power of Women, Variety remains the vital read in global entertainment.
+
+Donald Buckley is the former Chief Marketing Officer of Showtime Networks, Inc., and former Senior Marketing Executive at Warner Bros. Pictures, where he founded the company’s first digital marketing division. He is an independent consultant for streaming TV, movies, and marketing, and is the Entertainment and Media Industry Advisor to the Open Voice Network.
+
+Janice K. Mandel is a communications consultant who crafts the stories of profit and nonprofit organizations that foster community connection, facilitate ethical technology integration, and result in positive outcomes for society. She is an Open Voice Network Ambassador and a leader in the organization’s Ethical Use Task Force Community and Outreach Committee.
