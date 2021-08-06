@@ -3,6 +3,20 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro: Explore a collection of resources relevant to the Open Voice Network's mission and work.
 resources:
+  - image: /img/open-voice-network-ovon-resources-the-future-of-media-and-entertainment-informed-by-voice-by-donald-buckley-and-janice-k-mandel.png
+    buttonText: Learn More
+    buttonLink: /papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf 
+    text: >-
+      The Future of Media and Entertainment Informed by Voice.
+    title: >-
+      The Future of Media and Entertainment Informed by Voice
+  - image: /img/open-voice-network-ovon-resources-variety-adaptation-of-ovon-media-and-entertainment-white-paper.png
+    buttonText: Learn More
+    buttonLink: https://variety.com/vip/voice-technology-is-the-next-big-thing-in-media-and-entertainment-1235031704/
+    text: >-
+      As featured in Variety, an OVON white paper by Donald Buckley and Janice K Mandel.
+    title: >-
+      OVON white paper by Donald Buckley and Janice K Mandel
   - image: /img/open-voice-network-ovon-resources-voice-agent-interoperability-manifesto-voice-for-everyone.png
     buttonText: Learn More
     buttonLink: /papers/VoiceAgentInteroperabilityManifesto_OpenVoiceNetwork.pdf
