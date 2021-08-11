@@ -174,11 +174,5 @@ ambassadors:
       She is committed to education through her numerous talks, articles, book
       (Voice Strategy), online education courses, and work as part of the Open
       Voice Network.
-  - heading: 'Audrey Wu, VP of Strategic Partnerships, Reliance Jio Haptik'
-    imageUrl: /img/ovn_audrey-wu.png
-    text: >-
-      Conversational AI pioneer, Audrey was CoFounder/CEO of Convrg, a voice and
-      messaging platform working with brands such as Estee Lauder, Gallo Wines
-      and Sephora. She exited to Reliance Jio Haptik July 2019.
 ---
 
