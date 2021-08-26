@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+  <div>
+  {{ .Params.description }}
+  </div>
+
+  <div class="bg-off-white pv4">
+    <div class="ph3 mw7 center">
+      <div class="flex-ns flex-wrap mhn2-ns mb3">
+        {{ range .Params.voicechats }}
+          <div class="ph2-ns w-50-ns mb4">
+            <iframe width="100%" height="315" src="{{ .videourl }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="tc">
+              <p>{{ .title }}</p>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+<div class="tc mb5">
+<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
+</div>
+
+{{ end }}
