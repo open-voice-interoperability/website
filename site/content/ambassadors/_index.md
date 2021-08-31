@@ -174,5 +174,22 @@ ambassadors:
       She is committed to education through her numerous talks, articles, book
       (Voice Strategy), online education courses, and work as part of the Open
       Voice Network.
+  - heading: 'Esther Checa, Innovation Director at t2ó'
+    imageUrl: >-
+      /img/open-voice-network-ovon-voice-for-everyone-ambassadors-esther-checa-alta.jpg
+    text: >-
+      Esther Checa’s professional career has been linked to various
+      international consulting firms within the industry of knowledge
+      management. Since 2003 she has been working in the advertising industry as
+      an expert designer of online marketing products, defining transformation
+      and digital innovation for large brands. Since 2017 she has been working
+      on conversational marketing experiences and their integration into a
+      funnel purchase. Esther has been a lecturer in the areas of Digital
+      Marketing Strategy, Digital Transformation, Voice Search, Conversational
+      Marketing, Natural Positioning (SEO), Content Marketing, and Online
+      Reputation in Search Engines in several prominent Spanish business schools
+      since 2008. You can find her supporting different initiatives for women’s
+      visibility in the technology industry, including organizations like
+      Ambassador in Women in Voice Spain, Mujeres Tech, and Women in Tech Spain.
 ---
 
