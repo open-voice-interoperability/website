@@ -106,5 +106,18 @@ advisor:
   - heading: Dan Miller
     imageUrl: /img/open-voice-network-ovon-industry-advisory-council-dan-miller-bio.jpeg
     text: "Dan Miller founded Opus Research in 1986 and helped define Conversational Commerce through consulting engagements and by authoring reports, advisories and newsletters addressing business opportunities related to automated speech and natural language processing.\n\n\r\n\r\nAs Director of the New Electronic Media Program at LINK Resources from 1980-1983, he helped define one of the first continuous advisory services in the information industry. He then held management positions at Atari, Warner Communications and Pacific Telesis Group (now part of AT&T). He edited and published Telemedia News & Views, a highly regarded monthly newsletter regarding developments in voice processing and intelligent network services. He also served as Editor-in-Chief of The Kelsey Report, where he oversaw the launch of advisory services on local online commerce, voice and wireless commerce, and global directories."
+  - heading: Brenda Leong
+    imageUrl: /img/open-voice-network-ovon-industry-advisor-council-brenda-leong.jpg
+    text: >-
+      Brenda Leong, CIPP/US, is Senior Counsel and Director of Artificial
+      Intelligence and Ethics at the Future of Privacy Forum. She oversees
+      privacy analysis of AI and Machine Learning technologies, writes
+      educational resource materials around AI and Ethics, and manages the FPF
+      portfolio on biometrics and digital identity, particularly facial
+      recognition. She works on industry standards, governance, and responsible
+      data management with stakeholders and advocates to reach practical
+      solutions for commercial uses. Previously, Brenda served in the U.S. Air
+      Force, including policy work from the Pentagon and U.S. State Department.
+      She is a 2014 graduate of George Mason School of Law.
 ---
 
