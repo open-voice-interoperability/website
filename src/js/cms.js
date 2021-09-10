@@ -19,6 +19,7 @@ import IndustryAdvisorCouncilPreview from "./cms-preview-templates/industry-advi
 import ContactPreview from "./cms-preview-templates/contact";
 import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interoperability_form";
 import VoiceChatsPreview from "./cms-preview-templates/voice-chats";
+import CalendarPreview from "./cms-preview-templates/calendar";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -36,4 +37,5 @@ CMS.registerPreviewTemplate("resources", ResourcesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("voice_interoperability_form", VoiceInteroperabilityPreview);
 CMS.registerPreviewTemplate("voice-chats", VoiceChatsPreview);
+CMS.registerPreviewTemplate("calendar", CalendarPreview);
 CMS.init();

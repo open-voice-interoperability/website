@@ -234,4 +234,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
- 
+      - file: "site/content/calendar/_index.md"
+        label: "Calendar Page"
+        name: "calendar"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - {label: CalendarLink, name: calendarLink, widget: markdown}

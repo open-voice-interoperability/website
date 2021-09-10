@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="bg-off-white pt4">
+	<div class="mw7 center">
+		<h2 class="f2 b lh-title mb2">{{.Params.heading}}</h2>
+		<p class="mb4 mw6">{{.Params.intro | markdownify}}</p>
+	</div>
+</div>
+
+<div class="w-90 center ">
+
+  <iframe style="width: 1200px; margin: 0 auto;" src="{{.Params.calendarLink}}"
+    style="border-width:0" width="1200" height="800" frameborder="0" scrolling="no"></iframe>
+  
+
+</div>
+
+
+{{ end }}

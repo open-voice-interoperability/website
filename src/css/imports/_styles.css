@@ -71,3 +71,6 @@ table.agenda td{
 table.agenda td:first-child{
   padding-left: var(--spacing-medium);
 }
+
+/**** CALENDAR *****/
+#calendarTitle{ color: #FFF !important; }
