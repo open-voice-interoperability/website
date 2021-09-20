@@ -5,32 +5,25 @@ aboutsections:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network (OVON) is dedicated to making voice assistance worthy of user 
-      trust—especially for a future of voice assistance that will be multi-assistant, 
-      multi-platform, multi-device, multi-modal, and multi-use.
+      The Open Voice Network (OVON) seeks to make voice technology worthy of user trust—a task of critical importance as voice emerges as a primary, multi-device portal to the digital and IOT worlds, and as independent, specialist voice assistants take their place next to general purpose platforms.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network will achieve its vision through the communal development and adoption of industry standards and usage guidelines, development and documentation of voice-centric value propositions, and education and advocacy initiatives.
+      The Open Voice Network will achieve its vision through the communal development and adoption of industry standards and usage guidelines, industry education and advocacy initiatives, and the development and documentation of voice-centric value propositions.
   - heading: Principles
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
-      <p>The Open Voice Network is guided by four values. It seeks a world of voice assistance that</p>
+      <p>The Open Voice Network is guided by four values. It seeks a world of voice technology that</p>
       <ol>
-        <li>is worthy of user trust; </li>
-        <li>enables user, ecosystem, and architectural choice; </li>
+        <li>is worthy of user trust;</li>
+        <li> enables user, ecosystem, and architectural choice;</li>
         <li>is inclusive and accessible;</li>
-        <li>is open in software and hardware, serving as a foundation for commercial differentiation. </li>
+        <li>is open in software and hardware, with standards serving as a foundation for commercial differentiation.</li>
       </ol>
   - heading: History and Affiliations
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
-      <p>The Open Voice Network emerged from 2016-2018 research on the potential of
-      AI-enabled voice assistance conducted by the Massachusetts Institute of
-      Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel
-      Corporation.   In late 2018, seed funding was provided to initiate
-      research into voice assistance technologies and potential standards, and
-      to develop the Open Voice Network.</p>
+      <p>The Open Voice Network was born on June 1, 2020 as an open-source community of the Linux Foundation.  Its origins can be traced to research by the Massachusetts Institute of Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel Corporation, and corporate seed funding provided in 2019.</p>
   - heading: Governance
     imageUrl: /img/1x1-white-pixel.png
     textHTML: >-
