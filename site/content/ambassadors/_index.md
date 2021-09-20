@@ -191,5 +191,18 @@ ambassadors:
       since 2008. You can find her supporting different initiatives for women’s
       visibility in the technology industry, including organizations like
       Ambassador in Women in Voice Spain, Mujeres Tech, and Women in Tech Spain.
+  - heading: 'Valeria Barbero, Business Director for Mother Tongue (OMNICOM)'
+    imageUrl: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-ovon-ambassadors-valeria-barbero.png
+    text: >-
+      Valeria Barbero is Business Director for Mother Tongue (OMNICOM). Based
+      out of New York, she heads one of the company's largest accounts and leads
+      the business strategy in the US. She has worked in different verticals in
+      the broader language service industry; from software localization, to the
+      adaptation of marketing materials, to market and cultural insights. Lately
+      she is leading a program on the linguistic and cultural adaptation of
+      voice-first content. She has a strong academic background in International
+      Relations and Geopolitics. Originally from Italy, her life and career have
+      taken her to Ireland, India, Silicon Valley, London and now New York.
 ---
 
