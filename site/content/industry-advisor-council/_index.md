@@ -119,5 +119,9 @@ advisor:
       solutions for commercial uses. Previously, Brenda served in the U.S. Air
       Force, including policy work from the Pentagon and U.S. State Department.
       She is a 2014 graduate of George Mason School of Law.
+  - heading: Leigh Clark
+    imageUrl: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-industry-advisor-council-leigh-clark.jpg
+    text: "Leigh Clark is a lecturer in Human-Computer Interaction at Swansea University. His research examines people's interactions with voice and text-based conversational interfaces and how design choices impact use experience and user behavior. His ongoing work investigates the important dimensions of trust in voice assistant interactions and how to include underrepresented demographics like people who stammer.\r He is the co-founder of the Conversational User Interfaces (CUI) conference series and continues to work as a member of its steering committee."
 ---
 
