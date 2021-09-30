@@ -41,6 +41,13 @@ sub{
   }
 }
 
+/*** CMS markdown image hacks ***/
+.cms img[src$='#left'] { float:left;}
+.cms img[src$='#left-thumbnail'] { 
+  float:left;
+  width: 8rem;
+  margin-right: var(--spacing-small);
+}
 
 /*** AGENDA TABLE ***/
 .red{
