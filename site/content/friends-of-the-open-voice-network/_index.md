@@ -44,6 +44,9 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_Voicey.jpg
         link: "https://voicey.co.il/"
         alt: "Voicey"
+      - image: img/supporter_logos/Supporter_Logos_Voiceflip.jpg
+        link: "https://www.voiceflip.com/"
+        alt: "Voiceflip"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
