@@ -41,6 +41,12 @@ sub{
   }
 }
 
+/*** job posting ***/
+.job_posting{
+  margin: var(--spacing-medium);
+  padding: var(--spacing-medium);
+  border: 2px solid var(--primary);
+}
 
 /*** AGENDA TABLE ***/
 .red{
