@@ -257,3 +257,11 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Job Title, name: job_title, widget: string}
               - {label: Job Description, name: job_description, widget: markdown}
+       - file: "site/content/initiatives/_index.md"
+        label: "Initiatives Page"
+        name: "initiatives"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: SubHeading, name: subheading, widget: string, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
