@@ -4,7 +4,7 @@ image: /img/open-voice-network-ovon-voice-worthy-of-user-trust-initiatives.jpg
 
 ---
 
-The Open Voice Network is committed to four key Initiatives for the betterment of the voice industry: 1) interoperability, 2) Privacy, 3) Security, and 4) Voice Registry System. Learn more about each Initiative below, including core questions, meeting times, resources, and more.
+The Open Voice Network is committed to four key Initiatives for the betterment of the voice industry: 1) Interoperability, 2) Privacy, 3) Security, and 4) Voice Registry System. Learn more about each Initiative below, including core questions, meeting times, resources, and more.
 
 ## Interoperability Initiative
 
@@ -19,10 +19,10 @@ To help answer this question, the Open Voice Network seeks the advice and expert
 ### Related Resources:
 
 <ul>
-  <li>IP licensing:  (GitHub link)</li>
-  <li>Current Initiative Precis (link to document)</li>
+  <li><a href="https://github.com/open-voice-network/docs/blob/main/OVN%20Intellectual%20Property%20Policy.md" target="_blank">IP licensing</a> - OVON's intellectual property policy</li>
+  <li><a href="https://docs.google.com/document/d/1h32iR2MrroAkxTmybUBnekMkjUa_hCwI/edit?usp=sharing&ouid=111114552633776702467&rtpof=true&sd=true" target="_blank">Current Initiative Precis</a> - Overview of current research, hypotheses, and proposals of the Open Voice Network in regards to voice agent interoperability</li>
   <li><a href="https://www.youtube.com/watch?v=bD4Dok8FRbE" target="_blank">Voice Chats #3</a> – OVON’s conversation series, featuring Jim Larson</li>
-  <li>Repo:  (GitHub link)</li>
+  <li><a href="https://github.com/open-voice-network/docs/tree/main/folderAWG" target="_blank">GitHub Interoperability Repo</a> – Repository containing OVON’s Interoperability source code</li>
 </ul> 
 
 
@@ -41,8 +41,7 @@ The Open Voice Network VRS Work Group is working towards a worldwide VRS—simil
 ### Related Resources:
 
 <ul>
-<li>IP licensing – (GitHub link)</li>
-<li>Current Initiative Precis – (link to document)</li>
+<li><a href="https://github.com/open-voice-network/docs/blob/main/OVN%20Intellectual%20Property%20Policy.md" target="_blank">IP licensing</a> - OVON's intellectual property policy</li>
 <li><a href="https://github.com/open-voice-network/vrs" target="_blank">GitHub VRS Repo</a> – Repository containing OVON’s VRS source code</li>
 </ul>
 
@@ -62,7 +61,7 @@ The Open Voice Network Privacy and Security Work Group is learning how user priv
 
 <ul>
 <li><a href="https://github.com/open-voice-network/docs/blob/main/OVN%20Intellectual%20Property%20Policy.md" target="_blank">IP licensing</a> – OVON’s intellectual property policy</li>
-<li>Current Initiative Precis – ???</li>
+<li><a href="https://drive.google.com/file/d/1eiixAqmOTPk5I84j_MQwPHxJb6XwS00p/view" target="_blank">Privacy Guidelines and Capabilities Unique to Voice White Paper</a> – OVON's 1.0 Privacy Guidelines document</li>
 <li><a href="https://drive.google.com/drive/folders/1mYaFWCLyvpzaPEV7UbYxXGUjiUsQ4uL3" target="_blank">Privacy and Security Work Group Repo</a> – Repository containing files from the Privacy and Security Work Group </li>
 </ul> 
 
@@ -82,6 +81,5 @@ The Open Voice Network Privacy and Security Work Group is exploring the potentia
 
 <ul>
 <li><a href="https://github.com/open-voice-network/docs/blob/main/OVN%20Intellectual%20Property%20Policy.md" target="_blank">IP licensing</a> – OVON’s intellectual property policy</li>
-<li>Current Initiative Precis – </li>
 <li><a href="https://drive.google.com/drive/folders/1mYaFWCLyvpzaPEV7UbYxXGUjiUsQ4uL3" target="_blank">Privacy and Security Work Group Repo</a> – Repository containing files from the Privacy and Security Work Group</li>
 </ul>
