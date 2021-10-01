@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  repo: open-voice-network/website
+  branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
@@ -82,22 +84,22 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: About
-            name: about
+          - label: About Sections
+            name: aboutsections
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: TextHTML, name: textHTML, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+              - {label: Text, name: text, widget: text, required: false}
+              - {label: TextHTML, name: textHTML, widget: text, required: false}
+              - {label: Image, name: imageUrl, widget: image, required: false}
           - label: SteeringCommittee
             name: steeringcommittee
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: SubHeading, name: subHeading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: TextHTML, name: textHTML, widget: text}
+              - {label: Text, name: text, widget: text, required: false}
+              - {label: TextHTML, name: textHTML, widget: text, required: false}
               - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/ambassadors/_index.md"
         label: "Ambassadors Page"
@@ -125,16 +127,30 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Intro, name: intro, widget: object}
+          - {label: Intro, name: intro, widget: text}
           - label: Resources
             name: resources
             widget: list
             fields:
-              - {label: Heading, name: heading, widget: string}
+              - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+              - {label: Image, name: image, widget: image}
               - {label: ButtonText, name: buttonText, widget: object}
               - {label: ButtonLink, name: buttonLink, widget: object}
+          
+      - file: "site/content/voice-chats/_index.md"
+        label: Voice Chats
+        name: voice-chats
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Description, name: description, widget: text}
+          - label: Voice Chats
+            name: voicechats
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Video URL, name: videourl, widget: string}
       - file: "site/content/communities/_index.md"
         label: "Communities Page"
         name: "communities"
@@ -176,7 +192,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Full_image, name: full_image, widget: image}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "site/content/supporters/_index.md"
-        label: "Friends of OVN"
+        label: "Friends of the Open Voice Network"
         name: "friends-of-the-open-voice-network"
         fields:
           - {label: Title, name: title, widget: string}
@@ -193,7 +209,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Description, name: description, widget: text}
+          - {label: Description, name: description, widget: markdown}
+          - {label: AgendaImage, name: agenda_image, widget: image}
+          - {label: AgendaImageALt, name: agenda_image_alt, widget: string}
+          - {label: Agenda, name: agenda, widget: markdown}
+          - {label: Committee, name: committee, widget: markdown}
       - file: "site/content/industry-advisor-council/_index.md"
         label: "Industry Advisor Council Page"
         name: "industry-advisor-council"
@@ -208,7 +228,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
           - label: Advisors
-            name: advisors
+            name: advisor
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
