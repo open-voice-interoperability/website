@@ -243,7 +243,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Heading, name: heading, widget: string}
           - {label: Intro, name: intro, widget: markdown}
           - {label: CalendarLink, name: calendarLink, widget: string}
-       - file: "site/content/initiatives/_index.md"
+      - file: "site/content/initiatives/_index.md"
         label: "Initiatives Page"
         name: "initiatives"
         fields:
