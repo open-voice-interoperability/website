@@ -243,6 +243,21 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Heading, name: heading, widget: string}
           - {label: Intro, name: intro, widget: markdown}
           - {label: CalendarLink, name: calendarLink, widget: string}
+      - file: "site/content/jion/positions-to-hire.md"
+        label: "Positions to Hire Page"
+        name: "positions-to-hire"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Positions
+            name: positions
+            widget: list
+            fields:
+              - {label: Job Title, name: job_title, widget: string}
+              - {label: Date Posted, name: date_posted, widget: string}
+              - {label: Job Description, name: job_description, widget: markdown}
       - file: "site/content/initiatives/_index.md"
         label: "Initiatives Page"
         name: "initiatives"
