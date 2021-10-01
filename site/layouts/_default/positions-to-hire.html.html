@@ -13,9 +13,11 @@
     {{ range .Params.positions }}
     <div class="job_posting">
     <h3>{{.job_title}}</h3>
+    <div><p>{{.date_posted}}</p></div>
     <div class="cms">
     {{.job_description | markdownify}}
     </div>
+    
     </div>
     {{ end }}
   </div>

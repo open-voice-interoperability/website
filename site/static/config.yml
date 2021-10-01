@@ -256,6 +256,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - {label: Job Title, name: job_title, widget: string}
+              - {label: Date Posted, name: date_posted, widget: string}
               - {label: Job Description, name: job_description, widget: markdown}
       - file: "site/content/initiatives/_index.md"
         label: "Initiatives Page"
