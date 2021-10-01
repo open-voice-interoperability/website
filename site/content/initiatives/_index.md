@@ -1,7 +1,6 @@
 ---
 title: Initiatives
 image: /img/open-voice-network-ovon-voice-worthy-of-user-trust-initiatives.jpg
-
 ---
 
 The Open Voice Network is committed to four key Initiatives for the betterment of the voice industry: 1) Interoperability, 2) Privacy, 3) Security, and 4) Voice Registry System. Learn more about each Initiative below, including core questions, meeting times, resources, and more.
@@ -33,7 +32,7 @@ The Open Voice Network Voice Registry System Initiative is led by the OVON VRS W
 ### Core Questions:
 
 > How might voice users confidently find preferred voice agent/application destinations in a worldwide voice web? 
-
+<br></br>
 > How might organizations protect their brand names and brand experiences in a world-wide voice web? 
 
 The Open Voice Network VRS Work Group is working towards a worldwide VRS—similar to the Domain Name System (DNS) that was created in 1983 to make internet browsing safer, easier, and more regulated. The VRS Work Group meets every other Thursday at 17:00 CET (08:00 Pacific).
@@ -52,7 +51,7 @@ The Open Voice Network User Privacy Initiative is led by the OVON Privacy and Se
 ### Core Questions:
 
 > How might current and envisioned voice technology threaten individual privacy and create personal and institutional harm?
-
+<br></br>
 > How might practitioners of voice technology (from developers to organizations) be guided to respect established privacy rights and earn constituent trust?
 
 The Open Voice Network Privacy and Security Work Group is learning how user privacy is affected by the current voice environment and working towards suggestions on how data from users of voice technology can stay protected. The Privacy and Security Work Group meets every Tuesday at 16:00 CET (07:00 Pacific).
@@ -72,7 +71,7 @@ The Open Voice Network Voice-Data Security Initiative is led by the OVON Privacy
 ### Core Questions:
 
 > What threats, threat surfaces, and potential harms are of significance to organizational users of voice technology?
-
+<br></br>
 > Beyond current data security best practices, what actions may be recommended for organizational users of voice technology?
 
 The Open Voice Network Privacy and Security Work Group is exploring the potential threats and exploits to voice-data security, especially for organizational users who may be sharing access to significant amounts of private consumer  and brand data. The Privacy and Security Work Group meets every Tuesday at 16:00 CET (07:00 Pacific). 
