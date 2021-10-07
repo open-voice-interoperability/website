@@ -41,6 +41,12 @@ sub{
   }
 }
 
+/*** friends logos ***/
+.friend-logo{
+  width: 100%;
+  min-height: 282px;
+}
+
 /*** job posting ***/
 .job_posting{
   margin: var(--spacing-medium);

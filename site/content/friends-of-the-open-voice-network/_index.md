@@ -44,9 +44,12 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_Voicey.jpg
         link: "https://voicey.co.il/"
         alt: "Voicey"
-      - image: img/supporter_logos/Supporter_Logos_Voiceflip.jpg
+      - image: img/supporter_logos/Supporter_Logos_Voiceflip.svg
         link: "https://www.voiceflip.com/"
         alt: "Voiceflip"
+      - image: img/supporter_logos/Supporter_Logots_Convoworks.svg
+        link: "https://convoworks.com/"
+        alt: "Convoworks"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
