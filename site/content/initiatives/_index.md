@@ -19,7 +19,7 @@ To help answer this question, the Open Voice Network seeks the advice and expert
 
 <ul>
   <li><a href="https://github.com/open-voice-network/Architecture-Interoperability-CSL" target="_blank">IP licensing</a> - OVON's intellectual property policy</li>
-  <li><a href="https://docs.google.com/document/d/1h32iR2MrroAkxTmybUBnekMkjUa_hCwI/edit?usp=sharing&ouid=111114552633776702467&rtpof=true&sd=true" target="_blank">Current Initiative Precis</a> - Overview of current research, hypotheses, and proposals of the Open Voice Network in regards to voice agent interoperability</li>
+  <li><a href="https://openvoicenetwork.org/documents/OVON-Voice-Agent-Interoperability-2.0-Updated-3-October-2021.pdf" target="_blank">Current Initiative Precis</a> - Overview of current research, hypotheses, and proposals of the Open Voice Network in regards to voice agent interoperability</li>
   <li><a href="https://www.youtube.com/watch?v=bD4Dok8FRbE" target="_blank">Voice Chats #3</a> – OVON’s conversation series, featuring Jim Larson</li>
   <li><a href="https://github.com/open-voice-network/docs/tree/main/folderAWG" target="_blank">GitHub Interoperability Repo</a> – Repository containing OVON’s Interoperability source code</li>
 </ul> 
