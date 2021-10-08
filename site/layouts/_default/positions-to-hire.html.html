@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 pt4 mb5">
 
-  <div class="cms mw6">
+  <div class="cms">
   
     <div>
     {{ .Params.intro}}
@@ -12,12 +12,16 @@
 
     {{ range .Params.positions }}
     <div class="job_posting">
-    <h3>{{.job_title}}</h3>
-    <div><p>{{.date_posted}}</p></div>
-    <div class="cms">
-    {{.job_description | markdownify}}
-    </div>
-    
+      <h3>{{.job_title}}</h3>
+      <div><p>{{.date_posted}}</p></div>
+      <div class="cms">
+      {{.job_description | markdownify}}
+      </div>
+      
+      <div class="tc mt5 mb5">
+      <a href="/join/apply" class="btn w-100 w-auto-ns raise" >Apply Now</a>
+      </div>
+      
     </div>
     {{ end }}
   </div>
