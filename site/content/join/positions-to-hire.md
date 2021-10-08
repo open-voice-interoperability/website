@@ -8,7 +8,8 @@ positions:
   - job_title: PROGRAMMER / SOFTWARE DEVELOPER
     date_posted: Posted on 1 October, 2021
     job_description: >-
-      The Programmer / Software Developer will assist in the design, implementation, testing, documentation, and demonstration of “enhancements” that will enable agent-to-agent interoperability.  
+      The Programmer / Software Developer will assist in the design, implementation, testing, documentation, and demonstration of “enhancements” that will enable agent-to-agent interoperability. This is a milestone-driven contract position with the Linux Foundation.  
+
       
       Deliverables include:
 
