@@ -57,7 +57,7 @@ The Open Voice Network Privacy and Security Work Group is learning how user priv
 ### Related Resources:
 
 <ul>
-<li><a href="https://drive.google.com/file/d/1eiixAqmOTPk5I84j_MQwPHxJb6XwS00p/view" target="_blank">Privacy Guidelines and Capabilities Unique to Voice White Paper</a> – OVON's 1.0 Privacy Guidelines document</li>
+<li><a href="https://drive.google.com/file/d/1kFSS3zYLZ8ZWKAZ_GMG2keWCjeSBFhCl/view?usp=sharing" target="_blank">Privacy Guidelines and Capabilities Unique to Voice White Paper</a> – OVON's 1.0 Privacy Guidelines document</li>
 <li><a href="https://drive.google.com/drive/folders/1mYaFWCLyvpzaPEV7UbYxXGUjiUsQ4uL3" target="_blank">Privacy and Security Work Group Repo</a> – Repository containing files from the Privacy and Security Work Group </li>
 </ul> 
 
