@@ -5,7 +5,7 @@ intro: Explore a collection of resources relevant to the Open Voice Network's mi
 resources:
   - image: /img/open-voice-network-ovon-resources-the-future-of-media-and-entertainment-informed-by-voice-by-donald-buckley-and-janice-k-mandel.png
     buttonText: Learn More
-    buttonLink: /papers/The-Future-of-Media-Entertainment-Whitepaper-Final.pdf 
+    buttonLink: https://drive.google.com/file/d/19vCCnB5rT5T1MFhBOrrszFhjrqJDhbZ6/view?usp=sharing
     text: >-
       The Future of Media and Entertainment Informed by Voice.
     title: >-
