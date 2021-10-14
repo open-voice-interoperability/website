@@ -97,7 +97,7 @@ Other OVON Ambassadors active within the Media and Entertainment Community inclu
 ### Related Resources:
 
 <ul>
-<li><a href="https://openvoicenetwork.org/post/new-report-the-future-of-media-and-entertainment-informed-by-voice/" target="_blank">The Future of Media and Entertainment Informed by Voice White Paper</a> – White paper co-authored by Donald Buckley and Janice K. Mandel of the Open Voice Network</li>
+<li><a href="https://drive.google.com/file/d/19vCCnB5rT5T1MFhBOrrszFhjrqJDhbZ6/view?usp=sharing" target="_blank">The Future of Media and Entertainment Informed by Voice White Paper</a> – White paper co-authored by Donald Buckley and Janice K. Mandel of the Open Voice Network</li>
 <li><a href="https://www.youtube.com/watch?v=A7SXmMtqIdg" target="_blank">Voice Chats #7</a> – OVON’s conversation series, featuring Donald Buckley and Janice Mandel</li>
 </ul>
 

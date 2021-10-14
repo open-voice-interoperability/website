@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logos/logo.png
 contact_entries:
   - heading: Join our Communities
     text: >-

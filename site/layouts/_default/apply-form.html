@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4 mb5">
+
+<form action="/join/apply-thank-you/" method="POST" name="job_position_application" netlify>
+  <input type="hidden" name="form-name" value="job_position_application" />
+  <div class="">
+    
+    <div class="mv2">Full name <input type="text" name="Full_name" value="" placeholder="Full name" class="" /></div>
+    <div class="mv2">Email <input type="text" name="Email" value="" placeholder="Email" class="" /></div>
+
+    <div class="mv2">Which position are you applying for? 
+      <select name="position_to_hire">
+        <option value="">- select -</option>
+        <option value="Programmer / Software Developer">Programmer / Software Developer</option>
+        <option value="Data Security Specialist">Data Security Specialist</option>
+        <option value="System Architect Developer">System Architect Developer</option>
+      </select>
+      
+    </div>
+    <div class="mv2">Please upload an updated resume detailing your experience and expertise. <br />
+    <input type="file" name="resume_cv" accept=".pdf,.doc,.docx,.txt" />
+    </div>
+  </div>
+
+  <!-- Button -->
+  <div class="tc mb6">
+    <button type="submit" class="btn w-100 w-auto-ns raise">Apply</button>
+  </div>
+</form>
+
+</div>
+
+{{ end }}

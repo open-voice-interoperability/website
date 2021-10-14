@@ -49,6 +49,19 @@ sub{
   margin-right: var(--spacing-small);
 }
 
+/*** friends logos ***/
+.friend-logo{
+  width: 100%;
+  min-height: 282px;
+}
+
+/*** job posting ***/
+.job_posting{
+  margin: var(--spacing-medium);
+  padding: var(--spacing-medium);
+  border: 2px solid var(--primary);
+}
+
 /*** AGENDA TABLE ***/
 .red{
   color: red;
