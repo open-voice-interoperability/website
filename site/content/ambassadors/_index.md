@@ -138,7 +138,7 @@ ambassadors:
       field. He found his passion for Voice in 2015 when Alexa was released. In
       2017 he began to develop for voice and currently hosts the Podcast Voice
       Spark Live which focuses on voice.
-  - heading: 'Joe Skorupa, Editor of Large at RIS News'
+  - heading: 'Joe Skorupa, Editor at Large at RIS News'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_Joe-Skorupa.png
     text: >-
       Joe Skorupa is a top influencer in retail technology as cited by
