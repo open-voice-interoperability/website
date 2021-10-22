@@ -6,6 +6,14 @@ image: /img/open-voice-network-ovon-voice-worthy-of-user-trust-initiatives.jpg
 
 The Open Voice Network has formed several key industry groups to lead research and help the organization determine what and where opportunities for the value in voice are present. Learn more about each industry group below, including responsibilities, meeting times, and OVON Ambassadors who participate in each community.
 
+### Table of Contents
+
+<ol class="table-of-contents">
+<li><a href="/industries/#commerce-community">Commerce Community</a></li>
+<li><a href="/industries/#health-and-wellness-community">Health and Wellness Community</a></li>
+<li><a href="/industries/#media-and-entertainment-community">Media and Entertainment Community</a></li>
+<li><a href="/industries/#education-steering-community">Education Steering Community</a></li>
+</ol>
 
 
 ## Commerce Community
