@@ -12,7 +12,7 @@ The Open Voice Network has formed several key industry groups to lead research a
 <li><a href="/industries/#commerce-community">Commerce Community</a></li>
 <li><a href="/industries/#health-and-wellness-community">Health and Wellness Community</a></li>
 <li><a href="/industries/#media-and-entertainment-community">Media and Entertainment Community</a></li>
-<li><a href="/industries/#education-steering-community">Education Steering Community</a></li>
+<li><a href="/industries/#education-steering-team-community">Education Steering Team Community</a></li>
 </ol>
 
 
