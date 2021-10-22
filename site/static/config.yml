@@ -269,6 +269,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/industries/_index.md"
         label: "Industries Page"
         name: "industries"
+        fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: SubHeading, name: subheading, widget: string, required: false}
