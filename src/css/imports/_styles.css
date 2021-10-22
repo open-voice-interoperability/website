@@ -41,6 +41,26 @@ sub{
   }
 }
 
+/*** Table of Contents ***/
+ol.table-of-contents{
+  list-style-type: upper-roman !important;
+}
+.cms ol.table-of-contents > li:before {
+  content: none !important;
+}
+ol.table-of-contents > li{
+  margin-left: var(--spacing-small);
+}
+/*** CMS markdown image hacks ***/
+.cms img[src$='#left'] { float:left;}
+.cms img[src$='#left-thumbnail'] { 
+  float:left;
+  width: 8rem;
+  margin-right: var(--spacing-small);
+  margin-top: var(--spacing-small);
+  margin-bottom: var(--spacing-small);
+}
+
 /*** friends logos ***/
 .friend-logo{
   width: 100%;

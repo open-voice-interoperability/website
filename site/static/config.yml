@@ -266,3 +266,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: SubHeading, name: subheading, widget: string, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/industries/_index.md"
+        label: "Industries Page"
+        name: "industries"
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: SubHeading, name: subheading, widget: string, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
