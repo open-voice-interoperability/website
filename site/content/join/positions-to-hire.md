@@ -13,6 +13,7 @@ positions:
       
       Deliverables include:
 
+
       <ul>
       <li>Contributions as to design, development suggestions for the desired enhancements within weekly virtual one-hour team meetings; </li>
       <li>The design, creation, testing, and demonstration of software prototypes for the desired enhancements that will enable voice-agent-to-voice-agent interoperability. </li>
@@ -20,7 +21,9 @@ positions:
       <li>Demonstration of each enhancement to OVON team members, with revisions suggested by team and outside reviewers.</li>
       </ul>
 
+
       Requirements of this position include:  
+
 
       <ul>
       <li>Working familiarity with collaboration tools—GitHub, Slack, Zoom, Google Workspace.</li>
@@ -31,6 +34,7 @@ positions:
       <li>English-language communication (speak, write) skills, and the ability to work with an international team of designers and developers.</li>
       </ul>
 
+
       For more information about the Programmer / Software Developer position, including evaluative milestones, enhancement details, and compensation, <a href="positions-to-hire/Open Voice Network Programmer-Software-Developer Position.pdf">please view the full position description here.</a>
   - job_title: DATA SECURITY SPECIALIST
     date_posted: Posted on 1 October, 2021
@@ -38,8 +42,10 @@ positions:
       The Data Security Specialist will advise, guide, and serve as a primary author/editor for the
       development and delivery of the Open Voice Network (OVON) Security Capabilities Report v2.0
       Document.  
+
       
       Deliverables include:  
+
 
       <ul>
       <li>Evolution of the v1.0 to a version 2.0 with an emphasis upon specific "what" and "how” guidance to enterprise practitioners and users of voice assistance in an interoperable world.</li>
@@ -47,6 +53,7 @@ positions:
       </ul>
 
       Requirements of this position include:  
+
 
       <ul>
       <li>4+ years of prior relevant experience.</li>
@@ -57,7 +64,35 @@ positions:
       <li>English-language communication (speak, write) skills and the ability to work collaboratively with a remote global team.</li>
       </ul>
 
+
       For more information about the Data Security Specialist position, including evaluative milestones and compensation, <a href="positions-to-hire/Open Voice Network Data Security Specialist Position.pdf">please view the full position description here.</a>
+  - job_title: SYSTEM ARCHITECT / DEVELOPMENT ENGINEER
+    date_posted: Posted on 18 October, 2021
+    job_description: >-
+      The System Architect / Development Engineer will assist in the design and development of an envisioned Voice Registry System. This is a milestone-driven contract position with the Linux Foundation.  
+ 
+      Deliverables include:  
+
+      
+      <ul>
+      <li>Design, code, deploy, and test a Voice Registry System prototype.</li>
+      <li>Develop and document a cogent, holistic system architecture that represents the end-state vision of the Open Voice Network. Such a system architecture would be used to communicate the vision of OVON to external decision-makers (both business and technical) and internal OVON stakeholders.</li>
+      </ul>  
 
 
+      Requirements of this position include:  
+      
+
+      <ul>
+      <li>Working familiarity with collaboration tools: GitHub, Slack, Zoom, Google Workspace.</li>
+      <li>Five years working with operating systems/development systems/programming languages.</li>
+      <li>At least two years of experience developing voice agents (including speech recognition, speech synthesis, dialog management, and natural language processing).</li>
+      <li>Experience integrating existing software modules and systems and demonstrating the resulting system.</li>
+      <li>Experience designing, writing, testing, documenting, and demonstrating code using Rust or other development environments.</li>
+      <li>English-language communication (speak, write) skills, and the ability to work with an international team of designers and developers.</li>
+      </ul>
+
+
+      For more information about the System Architect / Development Engineer position, including requirements and compensation, <a href="https://drive.google.com/file/d/1_1fMSwe1PCcnEmjY8PrYft_pBMsekz6U/view" target="_blank">please view the full position description</a>. here.  
+      
 ---
