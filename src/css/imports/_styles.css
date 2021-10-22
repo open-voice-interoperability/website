@@ -47,6 +47,8 @@ sub{
   float:left;
   width: 8rem;
   margin-right: var(--spacing-small);
+  margin-top: var(--spacing-small);
+  margin-bottom: var(--spacing-small);
 }
 
 /*** friends logos ***/
