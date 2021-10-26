@@ -204,5 +204,21 @@ ambassadors:
       voice-first content. She has a strong academic background in International
       Relations and Geopolitics. Originally from Italy, her life and career have
       taken her to Ireland, India, Silicon Valley, London and now New York.
+  - heading: 'Harry Pappas, Founder & CEO of Intelligent Health Association'
+    imageUrl: /img/open-voice-network-ovon-ambassadors-harry-pappas.jpg
+    text: >-
+      Harry Pappas is a successful technology entrepreneur with a strong focus
+      on the health and wellness technology sector. He is a speaker at many
+      health and wellness conferences and trade shows around the world, and he
+      and his team are the producers of the award-winning Intelligent Health
+      Pavilion™, a technology-centric digital hospital.
+
+
+      Pappas is an internationally recognized thought leader with auto-ID, BLE,
+      NFC, RFID, RTLS, sensors, voice, robotics, and wireless technologies. He
+      is also the creator of the i-Home™ and Founder and CEO of the Intelligent
+      Health Association, a global technology-centric organization dedicated to
+      helping members of the healthcare community adopt new technologies while
+      driving down the cost of healthcare.
 ---
 
