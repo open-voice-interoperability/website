@@ -1,7 +1,6 @@
 ---
 title: Industries
 image: /img/open-voice-network-ovon-voice-worthy-of-user-trust-initiatives.jpg
-
 ---
 
 The Open Voice Network has formed several key industry groups to lead research and help the organization determine what and where opportunities for the value in voice are present. Learn more about each industry group below, including responsibilities, meeting times, and OVON Ambassadors who participate in each community.
@@ -10,7 +9,7 @@ The Open Voice Network has formed several key industry groups to lead research a
 
 <ol class="table-of-contents">
 <li><a href="/industries/#commerce-community">Commerce Community</a></li>
-<li><a href="/industries/#health-and-wellness-community">Health and Wellness Community</a></li>
+<li><a href="/industries/#health-and-wellness-community">Health, Wellness, and Life Sciences Community</a></li>
 <li><a href="/industries/#media-and-entertainment-community">Media and Entertainment Community</a></li>
 <li><a href="/industries/#education-steering-team-community">Education Steering Team Community</a></li>
 </ol>
@@ -58,29 +57,67 @@ Massimo Volpe has more than a decade of experience in International Retail organ
 ![photo](/img/industries/open-voice-network-ovon-voice-standards-worthy-of-user-trust-industries-commerce-community-david-roth.png#left-thumbnail) **David Roth, CEO The Store WPP EMEA and Asia, Chairman BrandZ and BAV Group**  
 Within his many roles, David leads WPP BrandZ, the world’s largest brand equity study. He is a leading authority on digital, Artificial Intelligence and voice recognition in retail. David has authored a number of books and studies, including “A History of Retail in 100 Objects” and “Smart Shopping – How Artificial Intelligence is transforming the retail conversation,” and has been featured on BBC, CCTV China, Phoenix TV China, CNBC, Yale, CKGSB and Cambridge Universities and The World Economic Forum, Davos.
 
-## Health and Wellness Community
+## Health, Wellness, and Life Sciences Community
 
-The Open Voice Network explores the value of voice technology in the health and wellness industries through its Health and Wellness Community.
+The Open Voice Network Health, Wellness, and Life Sciences Community (HWLSC) will enable consumers and health, wellness, and life sciences professionals to improve the continuum of health through the adoption of open, standards-based voice technology and privacy-protected analysis of voice-based data.
 
-Led by Community Co-Moderators Harry P. Pappas and Peter Bentsen (OVON Ambassador), the Health and Wellness Community is made up of a collection of individuals with expertise and experience in the healthcare and wellness industries. The primary responsibility of the Health and Wellness Community is to advise the entirety of the Open Voice Network on the value propositions and opportunities that voice assistance brings to the health and wellness industries, as well as establishing a baseline for ethical use by identifying and examining industry use cases and specific areas where voice has been successfully implemented into the health and wellness industries. 
+It will achieve this important objective through its global community of industry and technology leaders, exploration of use cases and industry requirements, and extensive educational outreach.
 
-Other OVON Ambassadors associated with the Health and Wellness Community include Biaca Phillips, Scot Westwater, Esther Checa, and Nick Myers. The Health and Wellness Community meets on the fourth Friday of every month at 17:00 CET (08:00 Pacific).
+The HWLS is led by Harry P. Pappas, the Ambassador for the OVON Health, Wellness, and Life Sciences Community. The community is made up of individuals and organizations with expertise and experience in the many specialty areas of the health, wellness, and life sciences ecosystem. Members share a common vision: that voice technology will soon be a primary interface to the operational and informational worlds of the HWLS industry, and that artificial intelligence-based analysis of voice data will emerge as an important diagnostic tool.
+
+The Open Voice Network, an open-source community of the Linux Foundation, is a technology- and vendor-neutral organization dedicated to making voice technology worthy of user trust. We do so through the development of standards and usage guidelines for voice technology, and with a focus on voice agent-to-agent interoperability and new levels of personal and clinical privacy for users and their data. 
+
+This work is of critical importance to HWLS decision-makers. Voice assistance is increasingly used by consumers to connect to the digital world, to search for and find the answers they need. Voice assistance is a hands-free technology, with substantial hygiene benefits over smeared screens and keyboards. And voice interfaces are fast; on average, we can speak (and be understood, accurately) three times faster than we can type.
+
+In this world, standards for privacy and interoperability are paramount. Standards are required for voice technology to be adopted and trusted by consumers and clinicians within the Health, Wellness, and Life Sciences industries. By adopting voice technology, members of the HWLS  will enable their firms to better serve their customer/client base.
+
+
+<strong>The Open Voice Network HWLS Community has two missions:</strong>
+
+I) <strong>Identification (and exploration) of Value-Creating, Ethical Use Cases:</strong>
+
+Within each sub-industry group identified below, the HWLS will encourage the adoption and deployment of voice technology to improve the delivery of patient care and patient safety. We’ll do so by identifying voice technology that respects individual and clinical privacy, is secure, and is trusted at every level of the healthcare continuum.
+
+The HWLS will also work to establish a baseline for ethical use by identifying and examining industry use cases and specific areas where voice has been successfully implemented into the health, wellness, and life science industries. 
+
+This work will directly inform the standards and usage guidelines work of the Open Voice Network. 
+
+II) <strong>Outreach to Consumers:</strong>
+
+The HWLS will develop educational programs directed to  consumers so that they may understand the need for standards in this new technology sector. Consumers need to feel comfortable in using voice technology as part of their everyday life and to feel secure that their personal information is protected and not used by third parties. Consumers need to be comfortable in purchasing and using voice devices in their homes and businesses to get the full benefit of this revolutionary technology.
+
+<strong>You are invited</strong> to join one or more of the below-listed industry groups within the HWLS community. We ask that you help us shape this new digital VOICE world. Please share this information with your associates. If you have questions or would like to contact us, please email Harry P. Pappas at harry.pappas@openvoicenetwork.org.
+
+The members of the HWLS and its industry groups will establish goals and guidelines for each of the listed industry groups:
+
+<div>
+    <ul class="columns" data-columns="2">
+        <li>1) Providers</li>
+        <li>2) Payers</li>
+        <li>3) Retail Health</li>
+        <li>4) Urgent Care (Storefront Health)</li>
+        <li>5) Telehealth</li>
+        <li>6) Wellness and Nutrition</li>
+        <li>7) Aging in Place / Independent Living</li><li>8) Assisted Living and Nursing Homes</li><li>9) Medical Devices and Instruments</li><li>10) Specialty Health Providers</li><li>11) Biomarkers</li><li>12) Pharma</li><li>13) Clinical Trials</li><li>14) Government, VA, and Trade Associations</li><li>15) Mental Health</li>
+
+    </ul>
+</div>
+
+The governing team of the Health, Wellness, and Life Sciences Community meets on the fourth Friday of every month at 17:00 CET (08:00 Pacific).
 
 ### Related Resources:
  
 <ul>
-<li><a href="https://drive.google.com/file/d/1ddQJMDZ5uNucf_v05PEqr_n9Sk7OwDsU/view?usp=sharing" target="_blank">Health and Wellness Community Introduction Slides</a> – Presentation slides introducing OVON’s Health and Wellness Community</li>
+<li><a href="https://drive.google.com/file/d/1ddQJMDZ5uNucf_v05PEqr_n9Sk7OwDsU/view?usp=sharing" target="_blank">Health, Wellness, and Life Sciences Community Introduction Slides</a> – Presentation slides introducing OVON’s Health, Wellness, and Life Sciences Community</li>
 </ul>
  
-### Health and Wellness Community Co-Moderators:
+### Health, Wellness, and Life Sciences Community Ambassadors:
   
 ![photo](/img/industries/industries-health-and-wellness-community-co-moderator-harry-p-pappas.jpg#left-thumbnail) **Harry P. Pappas, Founder and CEO of Intelligent Health Association**  
 Harry Pappas is a successful technology entrepreneur with a strong focus on the health and wellness technology sector. He and his team are the producers of the award-winning Intelligent Health Pavilion™, a technology-centric digital hospital. Pappas is the creator of the i-Home™ and Founder and CEO of the Intelligent Health Association, a global technology-centric organization dedicated to helping members of the healthcare community adopt new technologies while driving down the cost of healthcare.
   
 ![photo](/img/industries/industries-health-and-wellness-community-co-moderator-peter-bentsen.png#left-thumbnail) **Peter Bentsen, VP of Aloha Health Network**  
 Technology innovator, proud Dane and digital Viking, conversational AI and digital health ambassador, patient-, privacy- and security advocate; Peter Bentsen is driven to enable AI for healthcare and life sciences, in particular, to enable scale efficiencies, free up frontline resources to focus on patient-centric, outcomes-based healthcare.
-
-### Open Voice Network Ambassadors:
   
 ![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassador-bianca-rose-phillips.jpg#left-thumbnail) **Bianca Phillips, Founder of Digital Health Think Tank and Host of The Voice of Law Podcast**  
 Bianca Rose Phillips is a global digital health law theorist and lawyer, as well as the founder of a Digital Health Think Tank. Her work explores the role of law, philosophy, and ethics (digital health law) in the making of The Digital Health Revolution. She is considered a leading thinker on the future of digital health and the law, recognised globally for her thought leadership in the field. Her ideas attract the biggest minds and companies in digital health.
