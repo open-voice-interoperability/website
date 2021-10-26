@@ -90,17 +90,30 @@ The HWLS will develop educational programs directed to  consumers so that they m
 
 The members of the HWLS and its industry groups will establish goals and guidelines for each of the listed industry groups:
 
-<div>
-    <ul class="columns" data-columns="2">
-        <li>1) Providers</li>
-        <li>2) Payers</li>
-        <li>3) Retail Health</li>
-        <li>4) Urgent Care (Storefront Health)</li>
-        <li>5) Telehealth</li>
-        <li>6) Wellness and Nutrition</li>
-        <li>7) Aging in Place / Independent Living</li><li>8) Assisted Living and Nursing Homes</li><li>9) Medical Devices and Instruments</li><li>10) Specialty Health Providers</li><li>11) Biomarkers</li><li>12) Pharma</li><li>13) Clinical Trials</li><li>14) Government, VA, and Trade Associations</li><li>15) Mental Health</li>
+<div style="float: left; width: 50%;">
+<ul>
+<li>1) Providers</li>
+<li>2) Payers</li>
+<li>3) Retail Health</li>
+<li>4) Urgent Care (Storefront Health)</li>
+<li>5) Telehealth</li>
+<li>6) Wellness and Nutrition</li>
+<li>7) Aging in Place / Independent Living</li>
+<li>8) Assisted Living and Nursing Homes</li>
 
-    </ul>
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+<ul>
+<li>9) Medical Devices and Instruments</li>
+<li>10) Specialty Health Providers</li>
+<li>11) Biomarkers</li>
+<li>12) Pharma</li>
+<li>13) Clinical Trials</li>
+<li>14) Government, VA, and Trade Associations</li>
+<li>15) Mental Health</li>
+
+</ul>
 </div>
 
 The governing team of the Health, Wellness, and Life Sciences Community meets on the fourth Friday of every month at 17:00 CET (08:00 Pacific).
