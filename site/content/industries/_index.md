@@ -8,7 +8,7 @@ The Open Voice Network has formed several key industry groups to lead research a
 
 <ol class="table-of-contents">
 <li><a href="/industries/#commerce-community">Commerce Community</a></li>
-<li><a href="/industries/#health-and-wellness-community">Health and Wellness Community</a></li>
+<li><a href="/industries/#health-wellness-and-life-sciences-community">Health, Wellness, and Life Sciences Community</a></li>
 <li><a href="/industries/#media-and-entertainment-community">Media and Entertainment Community</a></li>
 <li><a href="/industries/#education-steering-team-community">Education Steering Team Community</a></li>
 </ol>
@@ -55,7 +55,7 @@ Massimo Volpe has more than a decade of experience in International Retail organ
 ![photo](/img/industries/open-voice-network-ovon-voice-standards-worthy-of-user-trust-industries-commerce-community-david-roth.png#left-thumbnail) **David Roth, CEO The Store WPP EMEA and Asia, Chairman BrandZ and BAV Group**\
 Within his many roles, David leads WPP BrandZ, the world’s largest brand equity study. He is a leading authority on digital, Artificial Intelligence and voice recognition in retail. David has authored a number of books and studies, including “A History of Retail in 100 Objects” and “Smart Shopping – How Artificial Intelligence is transforming the retail conversation,” and has been featured on BBC, CCTV China, Phoenix TV China, CNBC, Yale, CKGSB and Cambridge Universities and The World Economic Forum, Davos.
 
-## Health and Wellness Community
+## Health, Wellness, and Life Sciences Community
 
 The Open Voice Network Health, Wellness, and Life Sciences Community (HWLSC) will enable consumers and health, wellness, and life sciences professionals to improve the continuum of health through the adoption of open, standards-based voice technology and privacy-protected analysis of voice-based data.
 
@@ -114,8 +114,9 @@ The members of the HWLS and its industry groups will establish goals and guideli
 </ul>
 </div>
 
-
-
+<br class="cb" />
+  
+  
 The governing team of the Health, Wellness, and Life Sciences Community meets on the fourth Friday of every month at 17:00 CET (08:00 Pacific).
 
 ### Related Resources:
@@ -126,22 +127,22 @@ The governing team of the Health, Wellness, and Life Sciences Community meets on
  
 ### Health, Wellness, and Life Sciences Community Ambassadors:
   
-!\\[photo](/img/industries/industries-health-and-wellness-community-co-moderator-harry-p-pappas.jpg#left-thumbnail) \\*\\*Harry P. Pappas, Founder and CEO of Intelligent Health Association\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-co-moderator-harry-p-pappas.jpg#left-thumbnail) **Harry P. Pappas, Founder and CEO of Intelligent Health Association**  
 Harry Pappas is a successful technology entrepreneur with a strong focus on the health and wellness technology sector. He and his team are the producers of the award-winning Intelligent Health Pavilion™, a technology-centric digital hospital. Pappas is the creator of the i-Home™ and Founder and CEO of the Intelligent Health Association, a global technology-centric organization dedicated to helping members of the healthcare community adopt new technologies while driving down the cost of healthcare.
   
-!\\[photo](/img/industries/industries-health-and-wellness-community-co-moderator-peter-bentsen.png#left-thumbnail) \\*\\*Peter Bentsen, VP of Aloha Health Network\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-co-moderator-peter-bentsen.png#left-thumbnail) **Peter Bentsen, VP of Aloha Health Network**  
 Technology innovator, proud Dane and digital Viking, conversational AI and digital health ambassador, patient-, privacy- and security advocate; Peter Bentsen is driven to enable AI for healthcare and life sciences, in particular, to enable scale efficiencies, free up frontline resources to focus on patient-centric, outcomes-based healthcare.
   
-!\\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassador-bianca-rose-phillips.jpg#left-thumbnail) \\*\\*Bianca Phillips, Founder of Digital Health Think Tank and Host of The Voice of Law Podcast\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassador-bianca-rose-phillips.jpg#left-thumbnail) **Bianca Phillips, Founder of Digital Health Think Tank and Host of The Voice of Law Podcast**  
 Bianca Rose Phillips is a global digital health law theorist and lawyer, as well as the founder of a Digital Health Think Tank. Her work explores the role of law, philosophy, and ethics (digital health law) in the making of The Digital Health Revolution. She is considered a leading thinker on the future of digital health and the law, recognised globally for her thought leadership in the field. Her ideas attract the biggest minds and companies in digital health.
    
-!\\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-scot-westwater.png#left-thumbnail) \\*\\*Scot Westwater, CCO and Co-founder of Pragmatic Digital, Co-founder and Instructor of Voice Masters\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-scot-westwater.png#left-thumbnail) **Scot Westwater, CCO and Co-founder of Pragmatic Digital, Co-founder and Instructor of Voice Masters**  
 Scot Westwater came to conversational AI and Voice after helping clients succeed in the digital and user experience space for over 20 years. His commitment to helping enterprises use conversational AI to solve business problems and improve customer experience manifests itself in his support of the Open Voice Network, his book (Voice Strategy), talks, articles, and online courses.
    
-!\\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-esther-checa.jpg#left-thumbnail) \\*\\*Esther Checa, Innovation Director at t2ó\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-esther-checa.jpg#left-thumbnail) **Esther Checa, Innovation Director at t2ó**  
 Since 2003, Esther has been working in the advertising industry as an expert designer of online marketing products, defining transformation and digital innovation for large brands. She has been a lecturer in the areas of Digital Marketing Strategy, Digital Transformation, Voice Search, Conversational Marketing, Natural Positioning (SEO), Content Marketing, and Online Reputation in Search Engines in several prominent Spanish business schools since 2008. Esther supports different initiatives for women’s visibility in the technology industry, including organizations like Ambassador in Women in Voice Spain, Mujeres Tech, and Women in Tech Spain.
    
-!\\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-nick-myers.png#left-thumbnail) \\*\\*Nick Myers, Founder and CEO of RedFox AI\\*\\*  
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-nick-myers.png#left-thumbnail) **Nick Myers, Founder and CEO of RedFox AI**  
 Nick Myers is a TEDx and International Keynote Speaker and has been featured in publications such as PR Daily, In Business Magazine, and the Journal of Digital and Social Media Marketing for his work with Artificial Intelligence and voice assistant technologies.
 
 ## Media and Entertainment Community
