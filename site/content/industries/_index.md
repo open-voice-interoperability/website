@@ -55,7 +55,7 @@ Massimo Volpe has more than a decade of experience in International Retail organ
 ![photo](/img/industries/open-voice-network-ovon-voice-standards-worthy-of-user-trust-industries-commerce-community-david-roth.png#left-thumbnail) **David Roth, CEO The Store WPP EMEA and Asia, Chairman BrandZ and BAV Group**\
 Within his many roles, David leads WPP BrandZ, the world’s largest brand equity study. He is a leading authority on digital, Artificial Intelligence and voice recognition in retail. David has authored a number of books and studies, including “A History of Retail in 100 Objects” and “Smart Shopping – How Artificial Intelligence is transforming the retail conversation,” and has been featured on BBC, CCTV China, Phoenix TV China, CNBC, Yale, CKGSB and Cambridge Universities and The World Economic Forum, Davos.
 
-## Health, Wellness, and Life Sciences Community
+## Health and Wellness Community
 
 The Open Voice Network Health, Wellness, and Life Sciences Community (HWLSC) will enable consumers and health, wellness, and life sciences professionals to improve the continuum of health through the adoption of open, standards-based voice technology and privacy-protected analysis of voice-based data.
 
