@@ -24,7 +24,7 @@ Other OVON Ambassadors involved with the Commerce Community include Vicki Cantre
 ### Related Resources:
 
 <ul>
-<li><a href="https://drive.google.com/drive/folders/1QobhLV8FspdxjNJUTHhJpjgecj1uqj9t" target="_blank">Commerce Community File Library</a> – Past meetings, presentations, and more</li>
+<li><a href="https://drive.google.com/drive/folders/1BTTnh6ppJF_rzz7pUbSmprDbMIggg6VC?usp=sharing" target="_blank">Commerce Community File Library</a> – Past meetings, presentations, and more</li>
 <li><a href="https://openvoicenetwork.org/documents/2021.01.14-WPP-White-Paper-Do-You-Hear-What-I-Hear.pdf" target="_blank">Do You Hear What I Hear?</a> – White paper authored by David Roth, WPP, and Jon Stine, Open Voice Network</li>
 <li><a href="https://www.youtube.com/watch?v=DYOZUROon1Y" target="_blank">Voice Chats #1</a> – OVON’s conversation series, featuring Vicki Cantrell and Milan Turk</li>
 </ul>
