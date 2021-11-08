@@ -220,5 +220,24 @@ ambassadors:
       Health Association, a global technology-centric organization dedicated to
       helping members of the healthcare community adopt new technologies while
       driving down the cost of healthcare.
+  - heading: >-
+      Jonathan Ramaci, Managing General Partner at Great Product and CEO at
+      Elements of Genius, Inc.
+    imageUrl: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-ambassadors-jonathan-ramaci.jpeg
+    text: >-
+      Jonathan Ramaci’s career is defined by taking calculated risks that have
+      produced significant results. With an entrepreneurial vision and a solid
+      history of leading operations and driving scalable growth, he has a
+      background of initiating change and championing cultures of excellence.
+      Jonathan is a serial entrepreneur who has founded seven companies, grown
+      them to scale, and seen them through to multi-million dollar acquisitions
+      (Oracle, Apple, Samsung). His recent work over the past few years includes
+      the founding of Wellnest, a voice-only based system for elder and patient
+      care. Wellnest is a patented, beautifully designed wearable that puts
+      “voice on the wrist” and can operate anywhere over 4G and 5G. He has also
+      lead the creation of VoxAI, a voice based AI system that can interpret up
+      to 64 different emotions in a dialog and informs dynamic chatbots how to
+      reply to achieve desired outcomes.
 ---
 
