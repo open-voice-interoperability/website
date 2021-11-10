@@ -145,7 +145,7 @@ Since 2003, Esther has been working in the advertising industry as an expert des
 ![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-nick-myers.png#left-thumbnail) **Nick Myers, Founder and CEO of RedFox AI**  
 Nick Myers is a TEDx and International Keynote Speaker and has been featured in publications such as PR Daily, In Business Magazine, and the Journal of Digital and Social Media Marketing for his work with Artificial Intelligence and voice assistant technologies.
 
-![photo](/img/industries/open-voice-network-ovon-industries-industries-health-wellness-and-life-sciences-community-emre-sezgin.jpg#left-thumbnail) **Emre Sezgin, Digital Health Scientist at Nationwide Children's Hospital**
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-emre-sezgin.png#left-thumbnail) **Emre Sezgin, Digital Health Scientist at Nationwide Children's Hospital**
 Dr. Emre Sezgin is a scientist focusing on digital health research and development for adult, adolescent, and younger pediatric populations with chronic conditions. His particular interest is in remote care with voice engagement, patient generated health data, digital behavior, and digital health equity and inclusion. He has been a co-investigator in a number of research projects that are funded by federal agencies or national foundations which are building towards combining sensor technologies, mobile apps, voice assistants, conversational AI, and NLP methods to create a multimodal, intelligent, and connected digital health ecosystem for patients and families. His work has been published in leading medical informatics journals and highlighted in national and international media outlets.
 
 ## Media and Entertainment Community
