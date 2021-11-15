@@ -91,15 +91,16 @@ ambassadors:
       with speech technology. Also founder of the Voice Commons: national,
       private by design, and open smart assistants for all. More at
       lens-fitzgerald.com.
-  - heading: 'Janice Mandel, Freelance Communications Consultant + Storyteller'
+  - heading: 'Janice Mandel, Communications Advisor + Storyteller'
     imageUrl: /img/janice-mandel.jpg
     text: >-
-      In many writer-communicator roles, Janice is deeply committed to
-      inclusivity and appropriate use of data in voice. She provided years of
-      writing for global consulting firm PriceWaterhouseCoopers, led a health
-      care start-up, and managed content for VOICE Summit 2018 and 2019. She
-      continues to advise start-ups and early-stage firms and take on freelance
-      projects.
+      Janice is deeply committed to inclusivity and appropriate use of data in
+      voice. She provided years of writing for global consulting firm
+      PriceWaterhouseCoopers, led a health care startup, and managed content for
+      VOICE Summit 2018 and 2019. Janice was recently appointed to the George
+      Washington University Digital Marketing Certificate Program Advisory
+      Council. She continues to advise startups and early-stage firms and take
+      on freelance projects in her spare time.
   - heading: 'Gwen Morrison, Partner at Candezent Advisory'
     imageUrl: /img/ovn_gwen-morrison.png
     text: >-
