@@ -127,28 +127,26 @@ The governing team of the Health, Wellness, and Life Sciences Community meets on
  
 ### Health, Wellness, and Life Sciences Community Ambassadors:
   
-![photo](/img/industries/industries-health-and-wellness-community-co-moderator-harry-p-pappas.jpg#left-thumbnail) **Harry P. Pappas, Founder and CEO of Intelligent Health Association**  
+!\[photo](/img/industries/industries-health-and-wellness-community-co-moderator-harry-p-pappas.jpg#left-thumbnail) \*\*Harry P. Pappas, Founder and CEO of Intelligent Health Association\*\*  
 Harry Pappas is a successful technology entrepreneur with a strong focus on the health and wellness technology sector. He and his team are the producers of the award-winning Intelligent Health Pavilion™, a technology-centric digital hospital. Pappas is the creator of the i-Home™ and Founder and CEO of the Intelligent Health Association, a global technology-centric organization dedicated to helping members of the healthcare community adopt new technologies while driving down the cost of healthcare.
   
-![photo](/img/industries/industries-health-and-wellness-community-co-moderator-peter-bentsen.png#left-thumbnail) **Peter Bentsen, VP of Aloha Health Network**  
+!\[photo](/img/industries/industries-health-and-wellness-community-co-moderator-peter-bentsen.png#left-thumbnail) \*\*Peter Bentsen, VP of Aloha Health Network\*\*  
 Technology innovator, proud Dane and digital Viking, conversational AI and digital health ambassador, patient-, privacy- and security advocate; Peter Bentsen is driven to enable AI for healthcare and life sciences, in particular, to enable scale efficiencies, free up frontline resources to focus on patient-centric, outcomes-based healthcare.
   
-![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassador-bianca-rose-phillips.jpg#left-thumbnail) **Bianca Phillips, Founder of Digital Health Think Tank and Host of The Voice of Law Podcast**  
+!\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassador-bianca-rose-phillips.jpg#left-thumbnail) \*\*Bianca Phillips, Founder of Digital Health Think Tank and Host of The Voice of Law Podcast\*\*  
 Bianca Rose Phillips is a global digital health law theorist and lawyer, as well as the founder of a Digital Health Think Tank. Her work explores the role of law, philosophy, and ethics (digital health law) in the making of The Digital Health Revolution. She is considered a leading thinker on the future of digital health and the law, recognised globally for her thought leadership in the field. Her ideas attract the biggest minds and companies in digital health.
    
-![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-scot-westwater.png#left-thumbnail) **Scot Westwater, CCO and Co-founder of Pragmatic Digital, Co-founder and Instructor of Voice Masters**  
+!\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-scot-westwater.png#left-thumbnail) \*\*Scot Westwater, CCO and Co-founder of Pragmatic Digital, Co-founder and Instructor of Voice Masters\*\*  
 Scot Westwater came to conversational AI and Voice after helping clients succeed in the digital and user experience space for over 20 years. His commitment to helping enterprises use conversational AI to solve business problems and improve customer experience manifests itself in his support of the Open Voice Network, his book (Voice Strategy), talks, articles, and online courses.
    
-![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-esther-checa.jpg#left-thumbnail) **Esther Checa, Innovation Director at t2ó**  
+!\[photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-esther-checa.jpg#left-thumbnail) \*\*Esther Checa, Innovation Director at t2ó\*\*  
 Since 2003, Esther has been working in the advertising industry as an expert designer of online marketing products, defining transformation and digital innovation for large brands. She has been a lecturer in the areas of Digital Marketing Strategy, Digital Transformation, Voice Search, Conversational Marketing, Natural Positioning (SEO), Content Marketing, and Online Reputation in Search Engines in several prominent Spanish business schools since 2008. Esther supports different initiatives for women’s visibility in the technology industry, including organizations like Ambassador in Women in Voice Spain, Mujeres Tech, and Women in Tech Spain.  
 
-   
-![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-nick-myers.png#left-thumbnail) **Nick Myers, Founder and CEO of RedFox AI**  
-Nick Myers is a TEDx and International Keynote Speaker and has been featured in publications such as PR Daily, In Business Magazine, and the Journal of Digital and Social Media Marketing for his work with Artificial Intelligence and voice assistant technologies.  
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-nick-myers.png#left-thumbnail) **Nick Myers, Founder and CEO of RedFox AI**\
+Nick Myers is a TEDx and International Keynote Speaker and has been featured in publications such as PR Daily, In Business Magazine, and the Journal of Digital and Social Media Marketing for his work with Artificial Intelligence and voice assistant technologies.\
 <br />
 
-
-![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-emre-sezgin.jpg#left-thumbnail) **Emre Sezgin, Digital Health Scientist at Nationwide Children's Hospital**
+![photo](/img/industries/industries-health-and-wellness-community-ovon-ambassadors-emre-sezgin.jpg#left-thumbnail) **Emre Sezgin, Digital Health Scientist at Nationwide Children's Hospital<br>**
 Dr. Emre Sezgin is a scientist focusing on digital health research and development for adult, adolescent, and younger pediatric populations with chronic conditions. His particular interest is in remote care with voice engagement, patient generated health data, digital behavior, and digital health equity and inclusion. He has been a co-investigator in a number of research projects that are funded by federal agencies or national foundations which are building towards combining sensor technologies, mobile apps, voice assistants, conversational AI, and NLP methods to create a multimodal, intelligent, and connected digital health ecosystem for patients and families. His work has been published in leading medical informatics journals and highlighted in national and international media outlets.
 
 ## Media and Entertainment Community
