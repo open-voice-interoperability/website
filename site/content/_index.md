@@ -23,8 +23,9 @@ intro:
     The Open Voice Network is a neutral, non-profit industry association
     dedicated to the development of the standards and ethical use guidelines
     that will make voice worthy of user trust. It operates as a directed fund of
-    The Linux Foundation, and is independently funded and governed. <br><br> The
-    Open Voice Network is guided by these values:
+    <a href="https://www.linuxfoundation.org/">The Linux Foundation</a>, and is
+    independently funded and governed. <br><br> The Open Voice Network is guided
+    by these values:
 values:
   - heading: Trust.
     text: >-
