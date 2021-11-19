@@ -243,7 +243,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Heading, name: heading, widget: string}
           - {label: Intro, name: intro, widget: markdown}
           - {label: CalendarLink, name: calendarLink, widget: string}
-      - file: "site/content/jion/positions-to-hire.md"
+      - file: "site/content/join/positions-to-hire.md"
         label: "Positions to Hire Page"
         name: "positions-to-hire"
         fields:
@@ -269,6 +269,14 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/industries/_index.md"
         label: "Industries Page"
         name: "industries"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: SubHeading, name: subheading, widget: string, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/friends-of-the-open-voice-network/become-a-friend.md"
+        label: "Become a Friend Page"
+        name: "become-a-friend"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
