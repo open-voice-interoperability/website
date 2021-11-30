@@ -92,7 +92,8 @@ ambassadors:
       private by design, and open smart assistants for all. More at
       lens-fitzgerald.com.
   - heading: 'Janice Mandel, Communications Advisor + Storyteller'
-    imageUrl: /img/janice-mandel.jpg
+    imageUrl: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-ovon-ambassadors-janice-mandel.jpg
     text: >-
       Janice is deeply committed to inclusivity and appropriate use of data in
       voice. She provided years of writing for global consulting firm
