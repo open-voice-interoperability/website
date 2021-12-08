@@ -171,7 +171,7 @@ As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led marketi
 
 ### Open Voice Network Ambassadors:
 
-![photo](/img/industries/industries-media-and-entertainment-community-janice-mandel.jpg#left-thumbnail) **Janice Mandel, Freelance Communications Consultant + Storyteller**\
+![photo](/img/open-voice-network-ovon-voice-worthy-of-user-trust-ovon-ambassadors-janice-mandel.jpg#left-thumbnail) **Janice Mandel, Freelance Communications Consultant + Storyteller**\
 In many writer-communicator roles, Janice is deeply committed to inclusivity and appropriate use of data in voice. She provided years of writing for global consulting firm PriceWaterhouseCoopers, led a health care start-up, and managed content for VOICE Summit 2018 and 2019. She continues to advise start-ups and early-stage firms and take on freelance projects.
 
 ![photo](/img/industries/industries-media-and-entertainment-community-susan-westwater.png#left-thumbnail) **Susan Westwater, CEO and Co-founder of Pragmatic Digital, Co-founder of Instructor at Voice Masters**\
