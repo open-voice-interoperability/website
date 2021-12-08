@@ -27,4 +27,6 @@ To become a Friend of the Open Voice Network, please take the following steps.
 
 <li>Visit this <a href="https://powerforms.docusign.net/ee1829f4-3fdc-4adf-9d18-de76cc09aed8?env=na3&acct=f30e10ec-fea1-4dd8-a262-384a61edabb5&accountId=f30e10ec-fea1-4dd8-a262-384a61edabb5" target="_blank">OVON Friend Agreement e-document</a> and complete the Friend Agreement Form. Once received, we’ll send you the official OVON logo for your use as an official “Friend of the Open Voice Network.”</li>
 
+<li>Send your logo using the form below (.svg or .ai format preferred, if possible) for inclusion in the revised OVON website.
+</li>
 </ul>

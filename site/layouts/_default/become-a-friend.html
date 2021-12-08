@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="bg-off-white pt4">
+  <div class="mw7 center ph3 pt4 mb5">
+    <div class="cms">
+    {{ .Content }}
+    </div>
+
+    <div class="pl3">
+      <form action="/friends-of-the-open-voice-network/thank-you/" method="POST" name="become_a_friend" netlify>
+        <div>
+          <p>Organization Name: <input type="text" name="org_name" /></p>   
+        </div>
+        <div>
+          <p>Logo (.svg or .ai format preferred, if possible): <input type="file" name="org_logo" accept="image/*,.ai,.svg,.psd,.eps" /></p>
+        </div>
+        <div>
+          <button type="submit" class="btn w-100 w-auto-ns raise">Send Logo</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+{{ end }}
