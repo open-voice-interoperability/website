@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logos/logo.png
+logo: /img/open_voice_network_logo_horizontal_color_w_tagline.svg
 contact_entries:
   - heading: Join our Communities
     text: >-
