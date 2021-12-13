@@ -1,6 +1,7 @@
 ---
 title: Contact
-logo: /img/open_voice_network_logo_horizontal_color_w_tagline.svg
+logo: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-linux-foundation-contact-ovon.png
 contact_entries:
   - heading: Join our Communities
     text: >-
