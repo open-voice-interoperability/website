@@ -9,8 +9,9 @@
   {{ range $index, $element := .Params.sections }}
     
       <div class="tc mb4 ">
-        <div><h2 class="f2 b lh-title mb2 tc">{{$element.heading}}</h2></div>
-        <div><a href="{{$element.logo_link}}" target="_blank"><img class="w-33" src="{{$element.logo}}" /></a></div>
+        
+        <div><a href="{{$element.logo_link}}" target="_blank"><img class="w-50" src="{{$element.logo}}" /></a></div>
+        <div><h2 class="f3 b lh-title mb2 tc">{{$element.heading}}</h2></div>
         <div class="cms">{{$element.text | markdownify}}</div>
       </div>
     
