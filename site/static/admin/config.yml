@@ -282,3 +282,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: SubHeading, name: subheading, widget: string, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/affiliations/_index.md"
+        label: "Affiliations"
+        name: "affiliations"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: logo, name: logo, widget: image}
+              - {label: logo_link, name: logo_link, widget: string}
+              - {label: text, name: text, widget: markdown}
