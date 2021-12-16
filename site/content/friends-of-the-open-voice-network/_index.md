@@ -50,6 +50,9 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logots_Convoworks.svg
         link: "https://convoworks.com/"
         alt: "Convoworks"
+      - image: img/supporter_logos/Supporter_Logos_voxabot.svg
+        link: "https://www.voxabot.com/"
+        alt: "Voxabot"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
