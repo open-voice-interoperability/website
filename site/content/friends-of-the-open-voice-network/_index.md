@@ -53,6 +53,15 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_voxabot.svg
         link: "https://www.voxabot.com/"
         alt: "Voxabot"
+      - image: img/supporter_logos/ADN-Logo_2020-Colors.png
+        link: "https://www.adn.ai/fr/"
+        alt: "ADN.Ai"
+      - image: img/supporter_logos/whatsida.png
+        link: "https://whatsaida.com/"
+        alt: "Whats Aida"
+      - image: img/supporter_logos/anne-ganguzza-voice-productions-logo.svg
+        link: "https://www.anneganguzza.com/"
+        alt: "Anne Ganguzza"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
