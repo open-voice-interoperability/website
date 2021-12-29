@@ -19,5 +19,17 @@ voicechats:
       Voice Chats #6: Education Committee with Rich Merrett and Julie Daniel
       Davis
     videourl: 'https://www.youtube.com/embed/wDSjWfKxq_0?rel=0'
+  - title: >-
+      Voice Chats #7: Voice and Its Value in Media & Entertainment with Donald
+      Buckley and Janice Mandel
+    videourl: 'https://www.youtube.com/embed/A7SXmMtqIdg?rel=0'
+  - title: >-
+      Voice Chats #8: Commerce Community Members Discuss the Application of
+      Voice in a Commercial Context
+    videourl: 'https://www.youtube.com/embed/1MpazKHiqLQ?rel=0'
+  - title: >-
+      Voice Chats #9: The Value of Voice in the Health, Wellness, and Life
+      Sciences Community of OVON
+    videourl: 'https://www.youtube.com/embed/WJTjykPtKMY?rel=0'
 ---
 
