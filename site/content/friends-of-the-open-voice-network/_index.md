@@ -62,6 +62,24 @@ hardsell:
       - image: img/supporter_logos/anne-ganguzza-voice-productions-logo.svg
         link: "https://www.anneganguzza.com/"
         alt: "Anne Ganguzza"
+      - image: img/supporter_logos/rabbit-and-pork.svg
+        link: "https://wearerabbitandpork.com/"
+        alt: "Rabbit & Pork"
+      - image: img/supporter_logos/respeecher-inc.png
+        link: "https://www.respeecher.com/"
+        alt: "Respeecher Inc."
+      - image: img/supporter_logos/beyondwords.png
+        link: "https://beyondwords.io/"
+        alt: "BeyondWords"
+      - image: img/supporter_logos/lotus-productions.jpg
+        link: "https://www.lotasproductions.com/"
+        alt: "Lotas Productions"
+      - image: img/supporter_logos/readspeaker.svg
+        link: "https://www.readspeaker.ai/"
+        alt: "ReadSpeaker"
+      - image: img/supporter_logos/genius-voice.png
+        link: "https://geniusvoice.ai/"
+        alt: "Genius Voice"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
