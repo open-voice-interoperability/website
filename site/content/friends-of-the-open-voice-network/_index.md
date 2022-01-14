@@ -80,6 +80,15 @@ hardsell:
       - image: img/supporter_logos/genius-voice.png
         link: "https://geniusvoice.ai/"
         alt: "Genius Voice"
+      - image: img/supporter_logos/aebis.png
+        link: "https://www.aebis.com/"
+        alt: "Aebis"
+      - image: img/supporter_logos/kaizen.jpg
+        link: "https://kaizenvoiz.com/"
+        alt: "KSV Kaizen Secure VOIZ"     
+      - image: img/supporter_logos/vui.svg
+        link: "https://vui.agency/en"
+        alt: "VUI agency"        
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
