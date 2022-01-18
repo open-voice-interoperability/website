@@ -22,9 +22,7 @@ ambassadors:
   - heading: "Dr.\_Ahmed Bouzid, Founder and CEO of Witlingo"
     imageUrl: /img/ovn_bouzid.jpg
     text: "Dr. Ahmed Bouzid is Founder and CEO of Witlingo, a company that builds tools for publishing Voice First experiences, such as Alexa skills, Google actions, Bixby Capsules, Microcasts, and Audio streams. Prior to Witlingo, Dr. Bouzid was Head of Product at Amazon Alexa and VP of Product at Genesys. \_Dr. Bouzid is also an Editor at The Social Epistemology Review and Reply Collective and a contributing author at Opus Research. \_He holds 12 patents in Human Language Technology and was recognized as a “Speech Luminary” by Speech Technology Magazine and among the Top 11 Speech Technologists by Voicebot.ai."
-  - heading: >-
-      Donald Buckley, Emerging Voice Tech in Entertainment I SVOD AVOD CTV PVOD
-      OTT
+  - heading: 'Donald Buckley, Treehouse'
     imageUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-portrait.jpg
     text: >-
       As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led
