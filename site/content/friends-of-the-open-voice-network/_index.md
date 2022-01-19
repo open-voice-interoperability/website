@@ -88,7 +88,10 @@ hardsell:
         alt: "KSV Kaizen Secure VOIZ"     
       - image: img/supporter_logos/vui.svg
         link: "https://vui.agency/en"
-        alt: "VUI agency"        
+        alt: "VUI agency" 
+      - image: img/supporter_logos/aivoices.jpg
+        link: "https://www.aivoices.ai/"
+        alt: "AI Voices"      
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
