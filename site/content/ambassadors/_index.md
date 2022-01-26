@@ -119,12 +119,11 @@ ambassadors:
       Previous Global Solution Architect of Big Data & IoT CoE and Project
       Manager of SmartCities at SAP, Michael works with individuals, startups
       and enterprises in leveraging tech to drive business decisions. 
-  - heading: 'David Roth, CEO The Store WPP EMEA and Asia, Chairman BrandZ and BAV Group'
+  - heading: 'David Roth, CEO The Store WPP EMEA and Asia, Chairman BAV Group'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_David-Roth.png
     text: >-
-      Within his many roles, David leads WPP BrandZ, the world’s largest brand
-      equity study. He is a leading authority on digital, Artificial
-      Intelligence and voice recognition in retail. David has authored a number
+      Within his many roles, David is a leading authority on digital, artificial
+      intelligence, and voice recognition in retail. David has authored a number
       of books and studies, including “A History of Retail in 100 Objects”; “The
       Third Era of Digital Retailing”; “Smart Shopping – How Artificial
       Intelligence is transforming the retail conversation” and has been
