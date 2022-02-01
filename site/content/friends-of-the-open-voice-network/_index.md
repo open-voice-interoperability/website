@@ -91,7 +91,13 @@ hardsell:
         alt: "VUI agency" 
       - image: img/supporter_logos/aivoices.jpg
         link: "https://www.aivoices.ai/"
-        alt: "AI Voices"      
+        alt: "AI Voices"
+      - image: img/supporter_logos/speechmatics.png
+        link: "https://www.speechmatics.com/"
+        alt: "Speechmatics"
+      - image: img/supporter_logos/thevoicebusiness.jpg
+        link: "https://www.thevoicebusiness.com.au/"
+        alt: "The Voice Business"     
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
