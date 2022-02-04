@@ -28,10 +28,10 @@ hardsell:
         alt: "WhetStone"
       - image: img/supporter_logos/Supporter_Logos_Speak2Web.jpg
         link: "https://speak2web.com/"
-        alt: "Speak2Web"
-      - image: img/supporter_logos/Supporter_Logos_Tukcoro.jpg
-        link: "https://www.tukuoro.com/"
-        alt: "Tukcoro"
+        alt: "Speak2Web"     
+      - image: img/supporter_logos/talksense.png
+        link: "https://www.talksense.co/"
+        alt: "Talksense"
       - image: img/supporter_logos/Supporter_Logos_VocalyticsAI.jpg
         link: "https://vocalytics.ai/"
         alt: "VocalyticsAI"
@@ -97,7 +97,10 @@ hardsell:
         alt: "Speechmatics"
       - image: img/supporter_logos/thevoicebusiness.jpg
         link: "https://www.thevoicebusiness.com.au/"
-        alt: "The Voice Business"     
+        alt: "The Voice Business"  
+      - image: img/supporter_logos/serinus-health.jpg
+        link: "https://serinushealth.com/"
+        alt: "SerinusHhealth"    
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
