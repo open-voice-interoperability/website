@@ -29,9 +29,9 @@ hardsell:
       - image: img/supporter_logos/Supporter_Logos_Speak2Web.jpg
         link: "https://speak2web.com/"
         alt: "Speak2Web"
-      - image: img/supporter_logos/Supporter_Logos_Tukcoro.jpg
-        link: "https://www.tukuoro.com/"
-        alt: "Tukcoro"
+      - image: img/supporter_logos/talksense.png
+        link: "https://www.talksense.co/"
+        alt: "Talksense"
       - image: img/supporter_logos/Supporter_Logos_VocalyticsAI.jpg
         link: "https://vocalytics.ai/"
         alt: "VocalyticsAI"
@@ -91,7 +91,10 @@ hardsell:
         alt: "VUI agency" 
       - image: img/supporter_logos/aivoices.jpg
         link: "https://www.aivoices.ai/"
-        alt: "AI Voices"      
+        alt: "AI Voices"
+      - image: img/supporter_logos/serinus-health.jpg
+        link: "https://serinushealth.com/"
+        alt: "SerinusHhealth"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
