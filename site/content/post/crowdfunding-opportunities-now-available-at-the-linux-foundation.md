@@ -17,6 +17,6 @@ The Open Voice Network is dedicated to the development of technical standards an
 
 If you choose to participate in our crowdfunding efforts, you will make a significant impact on the future of voice by helping us broaden our outreach and invest in future developments. Organizations around the world contribute to Linux Foundation projects like the Open Voice Network because they want to take an active role in supporting the growth and evolution of open technologies—and now you can, too. <br></br>
 
-![](/img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-crowdsourcing-now-available-at-the-linux-foundation-donate-now-button.png)
+<a href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004" target="_blank"><img style="height: auto; width: auto" src="img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-crowdsourcing-now-available-at-the-linux-foundation-donate-now-button.png"></a>
 
 </br>Thank you to everyone in the OVON community for helping us accelerate this important work!
