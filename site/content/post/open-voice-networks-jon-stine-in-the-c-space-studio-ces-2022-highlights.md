@@ -1,6 +1,6 @@
 ---
 title: Open Voice Network's Jon Stine in the C Space Studio - CES 2022 Highlights
-date: 2022-01-25T22:43:21.249Z
+date: 2022-01-18T22:43:21.249Z
 description: >-
   We had an incredible time a few weeks ago at CES 2022 in Las Vegas! From the
   presentations and keynotes to education and networking, members from the Open
