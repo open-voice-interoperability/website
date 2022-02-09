@@ -1,6 +1,6 @@
 ---
 title: The Open Voice Network
-subtitle: Voice worthy of user trust
+subtitle: Voice worthy of user trust.
 image: /img/home/OVN_Mission_Homepage_AI_Voice_Assistance_fade.jpg
 blurb:
   heading: The importance of standards-based voice assistance.
