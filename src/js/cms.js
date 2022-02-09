@@ -20,6 +20,7 @@ import ContactPreview from "./cms-preview-templates/contact";
 import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interoperability_form";
 import VoiceChatsPreview from "./cms-preview-templates/voice-chats";
 import CalendarPreview from "./cms-preview-templates/calendar";
+import AudioReviewPreview from './cms-preview-templates/audio-reviews';
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -38,4 +39,5 @@ CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("voice_interoperability_form", VoiceInteroperabilityPreview);
 CMS.registerPreviewTemplate("voice-chats", VoiceChatsPreview);
 CMS.registerPreviewTemplate("calendar", CalendarPreview);
+CMS.registerPreviewTemplate("audio-review", AudioReviewPreview);
 CMS.init();

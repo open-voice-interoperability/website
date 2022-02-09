@@ -297,3 +297,11 @@ collections: # A list of collections the CMS should be able to edit
               - {label: logo, name: logo, widget: image}
               - {label: logo_link, name: logo_link, widget: string}
               - {label: text, name: text, widget: markdown}
+      - file: "site/content/audio-reviews/_index.md"
+        label: "Audio Reviews Page"
+        name: "audio-reviews"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Recorder Snippet, name: recorder, widget: text}
+          - {label: Body, name: body, widget: markdown}
