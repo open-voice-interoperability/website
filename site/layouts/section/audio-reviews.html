@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+  <div class="cms">
+  {{ .Content }}
+  </div>
+
+  <div class="center mw5 mv4">
+    <div id="witlingo-radio-recorder" data-id="9619248016" data-url="https://radio.witlingo.com"></div><script src="https://radio.witlingo.com/js/embed/recorder"></script>
+  </div>
+</div>
+
+{{ end }}
