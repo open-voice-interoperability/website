@@ -1,0 +1,29 @@
+<div class="w-100-ns">
+	<div>
+		<h2 class="f3 b lh-title mb1 "> > {{ .Title }}</h2>
+		<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+		<p onclick="toggle(event)" class="link b dib black mb0">more →</p>
+		<p id="info" style="display: none;">{{ .Description | markdownify }}</p>
+		<hr style="border-top: 8px solid #bbb;
+		border-radius: 5px;" />
+	</div>
+</div>
+
+<style>
+	.m-fadeOut {
+		visibility: hidden;
+		opacity: 0;
+		transition: visibility 0s linear 300ms, opacity 300ms;
+	}
+</style>
+<script>
+	function toggle(event) {
+		var elm = event.currentTarget;
+		var targetDiv = elm.nextSibling.nextSibling
+		if (targetDiv.style.display !== "none") {
+			targetDiv.style.display = "none";
+		} else {
+			targetDiv.style.display = "block";
+		}
+	}
+</script>

@@ -1,0 +1,7 @@
+<div class="w-100-ns pa3 bg-grey-1 br1 mb2 db raise">
+	<div class="bg-grey-1 pv4 ">
+		<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+		<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+		<p>{{ .Description | markdownify }}</p>
+	</div>
+</div>
