@@ -2,21 +2,28 @@
 	<div>
 		<h2 class="f3 b lh-title mb1 "> > {{ .Title }}</h2>
 		<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-		<p onclick="toggle(event)" class="link b dib black mb0">more →</p>
-		<p id="info" style="display: none;">{{ .Description | markdownify }}</p>
+		<div>{{ .Description }}</div>
+		<p onclick="toggle(event);"  class="link b dib black mb0">...</p>
+		<div style="display: none;" >{{ .Content }}</div>
 		<hr style="border-top: 8px solid #bbb;
-		border-radius: 5px;" />
+		border-radius: 5px;"  />
 	</div>
 </div>
 
 <script>
-	function toggle(event) {
-		var elm = event.currentTarget;
-		var targetDiv = elm.nextSibling.nextSibling
-		if (targetDiv.style.display !== "none") {
-			targetDiv.style.display = "none";
+	function applyDisplay(elm)
+	{
+		if (elm.style.display !== "none") {
+			elm.style.display = "none";
 		} else {
-			targetDiv.style.display = "block";
+			elm.style.display = "block";
 		}
+	}
+	function toggle(event) {		
+		var elm = event.currentTarget;
+		var targetDiv = elm.nextSibling.nextSibling;
+		applyDisplay(targetDiv);
+		var prevDiv = elm.previousSibling.previousSibling;
+		applyDisplay(prevDiv);	
 	}
 </script>
