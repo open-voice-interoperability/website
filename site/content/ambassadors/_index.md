@@ -119,7 +119,7 @@ ambassadors:
       Previous Global Solution Architect of Big Data & IoT CoE and Project
       Manager of SmartCities at SAP, Michael works with individuals, startups
       and enterprises in leveraging tech to drive business decisions. 
-  - heading: 'David Roth, CEO The Store WPP EMEA and Asia, Chairman BAV Group'
+  - heading: 'David Roth, CEO The Store WPP, Chairman BAV Group'
     imageUrl: /img/OVN-Ambassador-Headshots/OVN_David-Roth.png
     text: >-
       Within his many roles, David is a leading authority on digital, artificial
