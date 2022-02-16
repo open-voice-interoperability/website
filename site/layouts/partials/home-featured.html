@@ -1,5 +1,5 @@
-<div class="flex mw7 mt4 center">
-  <div class="flex flex-column w-50-ns flex-ns mhn1-ns flex-wrap flex-wrap">
+<div class="flex mw7 mt4 center flex-wrap">
+  <div class="flex flex-column w-50-ns flex-ns mhn1-ns">
     <h2 class="f2 b lh-title mb3">What' New at OVON?</h2>
     <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range where (where site.Pages "Type" "post") "Params.posttype" "featured" }}
@@ -7,7 +7,7 @@
       {{ end }}
     </ul>
   </div> 
-  <div class="flex flex-column w-50-ns flex-ns  flex-wrap  flex-wrap">  
+  <div class="flex flex-column w-50-ns flex-ns">  
     <ul class="flex-ns flex-wrap mhn1-ns pa3">
     {{ range where (where site.Pages "Type" "post") "Params.posttype" "info" }}  
       {{ .Render "li-home-info"}}
