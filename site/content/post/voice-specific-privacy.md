@@ -1,5 +1,6 @@
 ---
 title: Voice Specific Privacy
+postType: featured
 date: 2021-05-04T19:32:28.070Z
 description: >-
   To download and read the full "Privacy Guidelines and Capabilities Unique to
