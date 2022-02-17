@@ -1,8 +1,7 @@
 ---
-posttype: info
-title: Crowd Source
+title: OVON Crowdfunding Opportunities Now Available at The Linux Foundation
 date: 2022-02-07T19:37:19.844Z
-description: 
+description: ' '
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-introducing-the-ovon-virtual-ambassador.jpg
 ---
