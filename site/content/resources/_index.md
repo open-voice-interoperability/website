@@ -3,6 +3,13 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro: Explore a collection of resources relevant to the Open Voice Network's mission and work.
 resources:
+  - image: /img/resources-messaging-ces-2022-jan-5-8-las-vegas.png
+    buttonText: Learn More
+    buttonLink: https://youtu.be/EjtfrUmoozA
+    text: >-
+      attn.live @ CES 2022: C Space Studio
+    title: >-
+      attn.live @ CES 2022: C Space Studio
   - image: /img/open-voice-network-ovon-resources-the-future-of-media-and-entertainment-informed-by-voice-by-donald-buckley-and-janice-k-mandel.png
     buttonText: Learn More
     buttonLink: https://drive.google.com/file/d/19vCCnB5rT5T1MFhBOrrszFhjrqJDhbZ6/view?usp=sharing
