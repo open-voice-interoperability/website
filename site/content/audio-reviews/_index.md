@@ -7,4 +7,4 @@ recorder: >-
   src="https://radio.witlingo.com/js/embed/recorder"></script>
 ---
 
-The Open Voice Network's mission is to make voice worthy of user trust. What draws you to OVON? Why do you believe in our mission? We want to hear your voice. Click the “Go!” button below to record and upload your audio review.
+Our mission is to make voice worthy of user trust, and you are part of this mission. What value does the Open Voice Network bring to your organization? Why do you believe in the mission of the Open Voice Network?  We want to hear your voice. Click the “Go!” button below to record and upload your audio review.
