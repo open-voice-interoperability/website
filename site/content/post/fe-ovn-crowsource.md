@@ -1,10 +1,8 @@
 ---
 title: Crowd Source
+posttype: 'posttype: info'
 date: 2022-02-07T19:37:19.844Z
-description: >-
-  Help us accelerate the important work happening at OVON! Crowd-sourced funds
-  will be directly invested in standards research, demo development, and
-  publication. Click Here to make your donation to the Open Voice Network.
+description: ' '
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-introducing-the-ovon-virtual-ambassador.jpg
 ---
