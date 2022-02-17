@@ -1,6 +1,6 @@
 ---
 title: OVON Virtual Ambassador Now Available on Google Assistant and Amazon Alexa
-posttype: featured
+posttype: info
 date: 2022-02-07T19:37:19.844Z
 description: ' '
 image: ''
