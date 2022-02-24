@@ -9,14 +9,14 @@ hardsell:
       provide financial support and executive leadership to the Open Voice
       Network. Sponsorship is open worldwide to enterprises and public entities,
       as well as those that advise or represent such enterprises and entities.
-      <br>In response to the overwhelming growth of the Open Voice Network and
-      the desire to expand the reach of the organization even further, The Linux
-      Foundation has established a crowdfunding resource for our organization.
-      Crowd-sourced funds will be directly invested in OVON standards research,
-      demo development, and publication. <a
-      href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004">Click
-      here</a> to submit your donation.<br> The sponsorship tier breakdown for
-      the Open Voice Network Sponsoring Membership is as follows:
+      <br><br>In response to the overwhelming growth of the Open Voice Network
+      and the desire to expand the reach of the organization even further, The
+      Linux Foundation has established a <a
+      href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004">crowdfunding
+      resource<a/> for our organization. Crowd-sourced funds will be directly
+      invested in OVON standards research, demo development, and
+      publication.<br><br> The sponsorship tier breakdown for the Open Voice
+      Network Sponsoring Membership is as follows:
     heading: ' '
 pricing:
   description: ' '
