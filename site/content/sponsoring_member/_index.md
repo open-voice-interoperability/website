@@ -2,21 +2,31 @@
 title: Sponsoring Member
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 hardsell:
-  - heading: 
-    description: >-
-      Is your enterprise or organization interested in contributing to the Open Voice Network’s mission? We encourage you to become a Sponsoring Member of the Open Voice Network.
-      <br><br>
-      Sponsoring Members are enterprises that provide financial support and executive leadership to the Open Voice Network. Sponsorship is open worldwide to enterprises and public entities, as well as those that advise or represent such enterprises and entities.
-      <br><br>
-      The sponsorship tier breakdown for the Open Voice Network Sponsoring Membership is as follows:
+  - description: >-
+      Is your enterprise or organization interested in contributing to the Open
+      Voice Network’s mission? We encourage you to become a Sponsoring Member of
+      the Open Voice Network. <br><br> Sponsoring Members are enterprises that
+      provide financial support and executive leadership to the Open Voice
+      Network. Sponsorship is open worldwide to enterprises and public entities,
+      as well as those that advise or represent such enterprises and entities.
+      <br>In response to the overwhelming growth of the Open Voice Network and
+      the desire to expand the reach of the organization even further, The Linux
+      Foundation has established a crowdfunding resource for our organization.
+      Crowd-sourced funds will be directly invested in OVON standards research,
+      demo development, and publication. <a
+      href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004">Click
+      here</a> to submit your donation.<br> The sponsorship tier breakdown for
+      the Open Voice Network Sponsoring Membership is as follows:
+    heading: ' '
 pricing:
-  description: ""
-  heading: ""
-  footnote: "* Sponsoring Memberships are for enterprises only. If you would like to become individually involved with the Open Voice Network, please visit our Friends of the Open Voice Network page."
+  description: ' '
+  heading: ' '
   plans:
     - description: ' USD per annum | Total of $300,000 USD across a three-year commitment'
       items:
-        - The Open Voice Network Platinum Sponsors serve on the Open Voice Network Steering Committee
+        - >-
+          The Open Voice Network Platinum Sponsors serve on the Open Voice
+          Network Steering Committee
         - Serve on and guide other Open Voice Network decision-making bodies
         - Advise and guide Open Voice standards-centric research
       plan: OPEN VOICE NETWORK PLATINUM SPONSORS
@@ -29,8 +39,10 @@ pricing:
       price: '50,000'
     - description: ' USD per annum | Total of $75,00 USD across a three-year commitment'
       items:
-        - Active voice in standards decision-making and Open Voice Network outreach
-      plan: 'OPEN VOICE NETWORK SUPPORTERS'
+        - >-
+          Active voice in standards decision-making and Open Voice Network
+          outreach
+      plan: OPEN VOICE NETWORK SUPPORTERS
       price: '25,000'
 testimonials:
   - author: Jon Stine | Executive Director of Open Voice Network
@@ -53,9 +65,17 @@ intro:
         and use case research by leading academic institutions and
         consultancies.
   description: >-
-    The Open Voice Network will sponsor research that will explore, develop, and assert standards and technologies of open voice. Contributions from Sponsoring Members will help shape the future of voice AI in areas of technology, value propositions, provider ecosystems, competition, and commercial and personal information privacy. 
-    <br><br>
-    A Sponsoring Membership with the Open Voice Network will also allow senior executives from your enterprise or organization to participate in industry symposia on research and best practices in voice-AI commerce, as well as gain first access to the Open Voice Network standards development, use case research by leading academic institutions and consultancies, and networking with voice-AI leaders and innovators within consumer-facing industries. 
+    The Open Voice Network will sponsor research that will explore, develop, and
+    assert standards and technologies of open voice. Contributions from
+    Sponsoring Members will help shape the future of voice AI in areas of
+    technology, value propositions, provider ecosystems, competition, and
+    commercial and personal information privacy.  <br><br> A Sponsoring
+    Membership with the Open Voice Network will also allow senior executives
+    from your enterprise or organization to participate in industry symposia on
+    research and best practices in voice-AI commerce, as well as gain first
+    access to the Open Voice Network standards development, use case research by
+    leading academic institutions and consultancies, and networking with
+    voice-AI leaders and innovators within consumer-facing industries. 
   heading: Why Become a Member of Open Voice Network?
 ---
 
