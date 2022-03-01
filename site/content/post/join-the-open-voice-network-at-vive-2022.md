@@ -16,6 +16,6 @@ In this forum, you will hear the case for voice and conversational AI in improvi
 
 [ViVE](https://www.viveevent.com/) is the industry’s new health information technology event with a focus on the business of healthcare systems—and we're excited to be part of it! With an emphasis on interactive learning, idea generation and collaborative work, this event will be an immersive experience you won't want to miss.
 
-The [agenda](https://www.viveevent.com/agenda) is packed with panelists and speakers from across the globe, including representatives from United Health, Vanderbilt, Amazon, Mayo Clinic, Humana, Google Health and many more.
+The [agenda](https://www.viveevent.com/partner-programs/intelligent-health-association) is packed with panelists and speakers from across the globe, including representatives from United Health, Vanderbilt, Amazon, Mayo Clinic, Humana, Google Health and many more.
 
 [Click here](https://www.viveevent.com/register) to learn more and to register for ViVE 2022. **Use code "vive22_ovn150" for $150 off your registration.** Tickets are available for both in-person and virtual attendance.
