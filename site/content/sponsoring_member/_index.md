@@ -42,7 +42,7 @@ pricing:
         - >-
           Active voice in standards decision-making and Open Voice Network
           outreach
-      plan: OPEN VOICE NETWORK SUPPORTERS
+      plan: OPEN VOICE NETWORK SUPPORTER SPONSORS
       price: '25,000'
 testimonials:
   - author: Jon Stine | Executive Director of Open Voice Network
