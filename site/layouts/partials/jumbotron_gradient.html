@@ -1,16 +1,16 @@
-<div class="h7 pv5 pv6-l ph3 bg-center cover {{.class}}" style="background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.2),  rgba(0, 0, 0, 0.0)),  url('{{.imageUrl}}')">
+<div class="h7 pv5 pv6-l ph3 bg-center cover {{.class}}" style="background-image: url('{{.imageUrl}}')">
   <div class="mw7 center ph3">
     <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
+      <div class="mw7 relative bg-fix-primary mb3" style="text-shadow: 0 2px 3px rgba(0, 0, 0, 0.993)"> 
         <h1 class="f2 f1-l b di lh-title mb3 white">
           {{.title}}
         </h1>
       </div>
-      <div class="mw7 relative bg-fix-primary">
+      <div class="mw7 relative bg-fix-primary" style="text-shadow: 0 2px 3px rgba(0, 0, 0, 0.993)">
         {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 ">
+        <h4 class="b f4 di lh-title mb3 white mw6 ">
           {{.subtitle}}
-        </p>
+        </h4>
         {{ end }}
       </div>
     </div>
