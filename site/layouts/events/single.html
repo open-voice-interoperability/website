@@ -10,15 +10,24 @@
         {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
         </div> -->
   <div class="flex-ns w-100-ns pa2">
-    <div class="flex-ns w-50-ns pa2 h100">
+    <div class="flex-ns w-50-ns pa2 h7-ns ">
       <p>{{ .Params.eventDescription}}</p>
     </div>
-    <div class="flex w-50-ns pa2 h100">
-      {{ if .Params.eventInfoImage }}<img src="{{ .Params.eventInfoImage }}" />{{ end }}
+    <div class="flex w-50-ns pa2 h7-ns">
+      {{ if .Params.eventInfoImageLink}}
+      <a href="{{.Params.eventInfoImageLink}}" target="_blank" rel="noopener">
+        {{ if .Params.eventInfoImage }}<img src="{{ .Params.eventInfoImage }}" />
+        {{ end }}
+      </a>
+      {{ else }}
+      {{ if .Params.eventInfoImage }}
+      <img src="{{ .Params.eventInfoImage }}" />
+      {{end}}
+      {{ end }}
     </div>
   </div>
   <div class="flex-ns w-100-ns pa2">
-    {{ if .Params.eventInfoImage }}<img src="{{ .Params.eventSessionsHeaderImage }}" />{{ end }}
+    {{ if .Params.eventSessionsHeaderImage }}<img src="{{ .Params.eventSessionsHeaderImage }}" />{{ end }}
   </div>
   <div class="w-100-ns center flex-ns flex-wrap pa2 ma1">
     {{ range .Params.eventSessions }}
@@ -48,12 +57,12 @@
   </div>
 
   <div class="w-100-ns pa2 ma1">
-    {{ if $.Params.bioHeaderText  }} <h3> {{$.Params.bioHeaderText}} </h3> {{end}}
+    {{ if $.Params.bioHeaderText }} <h3> {{$.Params.bioHeaderText}} </h3> {{end}}
     <div class="w-100-ns flex-ns flex-wrap">
       {{ range .Params.eventParticipantBios }}
       <div class="w-40-ns bg-grey-1 ma1 pa1 raise">
         <p>
-        <img src="{{.photoUrl}}#left-thumbnail"/>
+          <img src="{{.photoUrl}}#left-thumbnail" />
         <h4>{{.name}}</h4>
         {{.bio}}
         </p>
@@ -62,18 +71,18 @@
     </div>
   </div>
 
-   <!-- sponsors -->
+  <!-- sponsors -->
   <div class="w-100-ns pa2 ma1">
-      {{ if $.Params.sponsorsHeaderText  }} <h3> {{$.Params.sponsorsHeaderText}} </h3> {{end}}
-      <div class="w-100-ns flex-ns flex-wrap">
-        {{ range .Params.eventSponsors }}
-        <div class="w-100ns ma1 pa1 raise">
-          <h4>{{.name}}</h4>
-          {{.details}}
-          
-        </div>
-        {{ end}}
+    {{ if $.Params.sponsorsHeaderText }} <h3> {{$.Params.sponsorsHeaderText}} </h3> {{end}}
+    <div class="w-100-ns flex-ns flex-wrap">
+      {{ range .Params.eventSponsors }}
+      <div class="w-100ns ma1 pa1 raise">
+        <h4>{{.name}}</h4>
+        {{.details}}
+
       </div>
+      {{ end}}
+    </div>
   </div>
 
 </div>
