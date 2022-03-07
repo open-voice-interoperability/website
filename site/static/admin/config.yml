@@ -7,6 +7,28 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "events" # Used in the UI, ie.: "New Post"
+    folder: "site/content/events" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "List Item Title", name: "listItemTitle", widget: "string"}
+      - {label: "List Item Image", name: "listItemImage", widget: "image"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "List Item Image Call to Action Text", name: "callToAction", widget: "string"}
+      - {label: "Event Date", name: "eventDate", widget: "datetime"}
+      - {label: "Presenters Section Header", name: "presentersHeaderText", widget: "string", required: false}
+      - {label: "Bio Section Header", name: "bioHeaderText", widget: "string", required: false}
+      - {label: "Sponsors Section Header", name: "sponsorsHeaderText", widget: "string", required: false}
+      - {label: "Event Page Header Image", name: "pageHeaderBckImge", widget: "image", required: false}
+      - {label: "Event Title", name: "sponsorsHeaderText, widget: "string", required: false}
+      - {label: "Sponsors Section Header", name: "sponsorsHeaderText, widget: "string", required: false}
+      - {label: "Event Title", name: "eventTitle", widget: "string", required: false}
+      - {label: "Event Title", name: "eventSubTitle", widget: "string", required: false}
+      - {label: "Event Title", name: "eventDescription", widget: "string", required: false}
+      - {label: "Event Information Image", name: "eventInfoImage", widget: "image", required: false}
+      - {label: "Event Registration URL", name: "eventRegisterationUrl", widget: "string", required: false}
+      - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}  
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
@@ -32,6 +54,14 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/events/_index.md"
+        label: "Events Page"
+        name: "events"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: required: false}
+          - {label: Intro, name: intro, widget: required: false}
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
