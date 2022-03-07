@@ -21,11 +21,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Bio Section Header", name: "bioHeaderText", widget: "string", required: false}
       - {label: "Sponsors Section Header", name: "sponsorsHeaderText", widget: "string", required: false}
       - {label: "Event Page Header Image", name: "pageHeaderBckImge", widget: "image", required: false}
-      - {label: "Event Title", name: "sponsorsHeaderText, widget: "string", required: false}
-      - {label: "Sponsors Section Header", name: "sponsorsHeaderText, widget: "string", required: false}
       - {label: "Event Title", name: "eventTitle", widget: "string", required: false}
-      - {label: "Event Title", name: "eventSubTitle", widget: "string", required: false}
-      - {label: "Event Title", name: "eventDescription", widget: "string", required: false}
+      - {label: "Event Sub Title", name: "eventSubTitle", widget: "string", required: false}
+      - {label: "Event Description", name: "eventDescription", widget: "string", required: false}
       - {label: "Event Information Image", name: "eventInfoImage", widget: "image", required: false}
       - {label: "Event Registration URL", name: "eventRegisterationUrl", widget: "string", required: false}
       - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}  
