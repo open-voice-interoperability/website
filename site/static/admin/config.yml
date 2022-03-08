@@ -25,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Event Sub Title", name: "eventSubTitle", widget: "string", required: false}
       - {label: "Event Description", name: "eventDescription", widget: "string", required: false}
       - {label: "Event Information Image", name: "eventInfoImage", widget: "image", required: false}
+      - {label: "Event Information Image go to link", name: "eventInfoImageLink", widget: "string", required: false}
       - {label: "Event Registration URL", name: "eventRegisterationUrl", widget: "string", required: false}
       - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}
       - label: Sessions
