@@ -21,14 +21,37 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Bio Section Header", name: "bioHeaderText", widget: "string", required: false}
       - {label: "Sponsors Section Header", name: "sponsorsHeaderText", widget: "string", required: false}
       - {label: "Event Page Header Image", name: "pageHeaderBckImge", widget: "image", required: false}
-      - {label: "Event Title", name: "sponsorsHeaderText, widget: "string", required: false}
-      - {label: "Sponsors Section Header", name: "sponsorsHeaderText, widget: "string", required: false}
       - {label: "Event Title", name: "eventTitle", widget: "string", required: false}
-      - {label: "Event Title", name: "eventSubTitle", widget: "string", required: false}
-      - {label: "Event Title", name: "eventDescription", widget: "string", required: false}
+      - {label: "Event Sub Title", name: "eventSubTitle", widget: "string", required: false}
+      - {label: "Event Description", name: "eventDescription", widget: "string", required: false}
       - {label: "Event Information Image", name: "eventInfoImage", widget: "image", required: false}
+      - {label: "Event Information Image go to link", name: "eventInfoImageLink", widget: "string", required: false}
       - {label: "Event Registration URL", name: "eventRegisterationUrl", widget: "string", required: false}
-      - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}  
+      - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}
+      - label: Sessions
+        widget: list
+        name: eventSessions
+        fields:
+          - {label: "Time Slot", name: "timeslot", widget: "string"}
+          - {label: "Topic", name: "topic", widget: "string"}
+          - label: Presenters
+            name: presenters
+            widget: list
+            fields: 
+              - {label: "Presenter Name", name: "name", widget: "string"}
+      - label: Participant Bios
+        name: eventParticipantBios
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Bio", name: "bio", widget: "text"}
+          - {label: "Photo Url", name: "photoUrl", widget: "image"}
+      - label: Sponsors
+        name: eventSponsors
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Details", name: "details", widget: "text"}          
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
@@ -53,15 +76,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
-    files:
-      - file: "site/content/events/_index.md"
-        label: "Events Page"
-        name: "events"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: required: false}
-          - {label: Intro, name: intro, widget: required: false}
+    files:      
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
@@ -336,3 +351,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Recorder Snippet, name: recorder, widget: text}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/events/_index.md"
+        label: "Events Page"
+        name: "events"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
