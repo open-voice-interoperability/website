@@ -33,6 +33,24 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Time Slot", name: "timeslot", widget: "date"}
           - {label: "Topic", name: "topic", widget: "string"}
+          - label: Presenters
+            name: presenters
+            widget: list
+            fields: 
+              - {label: "Presenter Name", name: "name", widget: "string"}
+      - label: Participant Bios
+        name: eventParticipantBios
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Bio", name: "bio", widget: "text"}
+          - {label: "Photo Url", name: "photoUrl", widget: "url"}
+      - label: Sponsors
+        name: eventSponsors
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Details", name: "details", widget: "text"}          
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
