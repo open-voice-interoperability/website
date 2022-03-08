@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Bio", name: "bio", widget: "text"}
-          - {label: "Photo Url", name: "photoUrl", widget: "url"}
+          - {label: "Photo Url", name: "photoUrl", widget: "image"}
       - label: Sponsors
         name: eventSponsors
         widget: list
