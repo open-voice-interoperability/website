@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         name: eventSessions
         fields:
-          - {label: "Time Slot", name: "timeslot", widget: "date"}
+          - {label: "Time Slot", name: "timeslot", widget: "string"}
           - {label: "Topic", name: "topic", widget: "string"}
           - label: Presenters
             name: presenters
