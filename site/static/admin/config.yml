@@ -59,7 +59,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string, required: false}
-          - {label: Intro, name: intro, widget: required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
