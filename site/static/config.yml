@@ -305,3 +305,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Recorder Snippet, name: recorder, widget: text}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/events/_index.md"
+        label: "Events Page"
+        name: "events"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
