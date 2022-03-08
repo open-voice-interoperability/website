@@ -27,10 +27,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Event Information Image", name: "eventInfoImage", widget: "image", required: false}
       - {label: "Event Registration URL", name: "eventRegisterationUrl", widget: "string", required: false}
       - {label: "Event Sessions Header Image", name: "eventSessionsHeaderImage", widget: "image", required: false}
-       - {label: "eventSessions", name: eventSessions, widget: object, fields: [
-              {label: "Session Time", name: "timeSlot", widget: string},
-              {label: "Topic", name: "topic", widget: string}                         
-              ]}
+      - {label: "eventSessions", name: eventSessions, widget: object, fields: [
+            {label: "Session Time", name: "timeSlot", widget: "string"},
+            {label: "Topic", name: "topic", widget: string}]}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
