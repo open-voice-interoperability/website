@@ -350,6 +350,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Recorder Snippet, name: recorder, widget: text}
+          - {label: Audio Wall Snippet, name: audiowall, widget: text}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/events/_index.md"
         label: "Events Page"
