@@ -100,7 +100,13 @@ hardsell:
         alt: "The Voice Business"  
       - image: img/supporter_logos/serinus-health.jpg
         link: "https://serinushealth.com/"
-        alt: "SerinusHhealth"    
+        alt: "SerinusHhealth"
+      - image: img/supporter_logos/equideum.svg
+        link: "https://equideum.health/"
+        alt: "Equideum"
+      - image: img/supporter_logos/replicant.png
+        link: "https://www.replicant.ai/"
+        alt: "Replica"   
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
