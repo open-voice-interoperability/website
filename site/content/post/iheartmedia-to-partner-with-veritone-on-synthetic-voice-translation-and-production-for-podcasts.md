@@ -11,13 +11,13 @@ description: >-
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-iheartmedia-to-partner-with-veritone-on-synthetic-voice-translation-and-production-for-podcasts.jpg
 ---
-Veritone's synthetic voice technology currently enables content creators, including actors, athletes, entertainment professionals, influencers, broadcast media outlets, and podcasters, to monetize and transform their verified synthetic voices into different languages with different accents, dialects, genders, and more.
+Veritone's synthetic voice technology currently enables content creators, including actors, athletes, entertainment professionals, influencers, broadcast media outlets, and podcasters, to monetize and transform their verified synthetic voices into different languages with different accents, dialects, genders, and other modifiers.
 
 Under this new collaboration, iHeartMedia—the world’s largest podcast publisher—will empower its most popular artists and creators to use Veritone's synthetic voice solution to transform their voices across multiple languages, vastly expanding their podcast market.
 
-Ryan Steelberg, President of Veritone made a recent statement about the exciting news:
+Ryan Steelberg, President of Veritone Inc., made a recent statement about the exciting news:
 
-> "iHeartMedia has always been a pioneer of innovation, and now with the power of Veritone’s synthetic voice solution, iHeartMedia will not only be able to scale to new markets with localized language translations but retain the brand value of their top talent’s voice–which is fundamental in podcasting. We are also partnering to develop synthetic voices for advertising and engaging content while reducing time-to-market and production costs for radio, podcasting and the metaverse."<br></br>– Ryan Steelberg, President of Veritone, Inc.
+> "iHeartMedia has always been a pioneer of innovation, and now with the power of Veritone’s synthetic voice solution, iHeartMedia will not only be able to scale to new markets with localized language translations, but retain the brand value of their top talent’s voice—which is fundamental in podcasting. We are also partnering to develop synthetic voices for advertising and engaging content while reducing time-to-market and production costs for radio, podcasting, and the metaverse."<br></br>– Ryan Steelberg, President of Veritone, Inc.
 
 iHeartMedia's podcast talents will now be able to solidify their brand and reach wider audiences by implementing Veritone's synthetic voice technology. Podcast hosts will have the ability to produce an episode, ad, or other related audio in multiple languages automatically without the need for additional studio time or translators, reaching listeners across the globe.
 
