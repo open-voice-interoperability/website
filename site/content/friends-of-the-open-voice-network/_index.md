@@ -109,7 +109,7 @@ hardsell:
         alt: "Replica" 
       - image: img/supporter_logos/voicon.svg
         link: "https://voicon.co.uk/"
-        alt: "VOICON"           
+        alt: "VOICON "           
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
@@ -129,4 +129,3 @@ intro:
   description: ' '
   heading: ' '
 ---
-
