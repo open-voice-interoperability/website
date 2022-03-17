@@ -106,7 +106,10 @@ hardsell:
         alt: "Equideum"
       - image: img/supporter_logos/replicant.png
         link: "https://www.replicant.ai/"
-        alt: "Replica"   
+        alt: "Replica" 
+      - image: img/supporter_logos/voicon.svg
+        link: "https://voicon.co.uk/"
+        alt: "VOICON"           
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
