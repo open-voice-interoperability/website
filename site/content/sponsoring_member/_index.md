@@ -15,11 +15,12 @@ hardsell:
       href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004">crowdfunding
       resource<a/> for our organization. Crowd-sourced funds will be directly
       invested in OVON standards research, demo development, and
-      publication.<br><br>If you are interested in becoming a Sponsoring Members
+      publication.<br><br>If you are interested in becoming a Sponsoring Member
       of the Open Voice Network, please follow <a
-      href="https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network">this
-      link<a/> or click one of the "Join" buttons below. The sponsorship tier
-      breakdown for the Open Voice Network Sponsoring Membership is as follows:
+      href="https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network"
+      target="_blank">this link<a/> or click one of the "Join" buttons below.
+      The sponsorship tier breakdown for the Open Voice Network Sponsoring
+      Membership is as follows:
     heading: ' '
 pricing:
   description: ' '
