@@ -1,5 +1,5 @@
 ---
-title: Official OVON Event Calendar (All Events Listed in Eastern Time)
+title: Official OVON Event Calendar (All Events Listed in ET)
 image: /img/open-voice-network-ovon-official-meeting-event-calendar.jpg
 heading: ' '
 intro: >-
