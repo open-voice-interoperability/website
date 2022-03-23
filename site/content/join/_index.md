@@ -18,11 +18,11 @@ hardsell:
       their time, network, industry knowledge, and resources through
       collaboration, advocacy, and development of standards. Enterprises are
       invited to join the Open Voice Network as Sponsoring Members by providing
-      financial sponsorship as well as executive leadership. If your enterprise
-      is interested in becoming a Sponsoring Member of the Open Voice Network,
-      click the button below to learn more or follow <a
+      financial sponsorship as well as executive leadership. <strong>If your
+      enterprise is interested in becoming a Sponsoring Member of the Open Voice
+      Network, click the button below to learn more or follow <a
       href="https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network"
-      target="_blank">this link</a> to begin your member enrollment. 
+      target="_blank">this link</a> to begin your member enrollment.</strong> 
     heading: Why Join the Open Voice Network
 pricing:
   description: ' '
