@@ -1,6 +1,19 @@
 ---
 title: Sponsoring Member
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
+ctas:
+  - type: >-
+      join
+    title: >-
+      Become a Sponsoring Member
+    url: >-
+      https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network 
+  - type: >-
+      register
+    title: >-
+      Become a Sponsoring Member
+    url: >-
+      https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network 
 hardsell:
   - description: >-
       Is your enterprise or organization interested in contributing to the Open

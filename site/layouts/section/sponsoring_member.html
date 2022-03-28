@@ -13,13 +13,14 @@
 
 {{ partial "table" .Params.pricing }}
 
-<div class="tc mb4">
-<a href="/contact" class="btn w-100 w-auto-ns raise" >Contact Us To Join</a>
-</div>
+{{ $ctas := .Params.ctas}}
+
+{{ range first 1 (where $ctas ".type" "register")}}
+{{ partial "call_to_action" (dict "url" .url "title" .title) }}
+{{end}}
 
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
-
 
 <div class="pt4 pb4">
 {{ partial "blockquote" (index .Params.testimonials 0) }}
@@ -27,8 +28,8 @@
 
 {{ partial "4-up" .Params.intro }}
 
-<div class="tc mb3">
-<a href="/contact" class="btn w-100 w-auto-ns raise" >Join Now</a>
-</div>
+{{ range first 1 (where $ctas ".type" "register")}}
+{{ partial "call_to_action" (dict "url" .url "title" .title) }}
+{{end}}
 
 {{ end }}
