@@ -230,6 +230,13 @@ collections: # A list of collections the CMS should be able to edit
         label: "Sponsoring Member"
         name: "sponsoring_member"
         fields:
+          - label: Call to Actions
+            widget: list
+            name: ctas
+            fields:
+              - {label: "Button Name", name: "type", widget: "string"}
+              - {label: "Button Links", name: "url", widget: "string"}
+              - {label: "Button Text", name: "title", widget: "string"}          
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Hardsell, name: hardsell, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text} ]}
