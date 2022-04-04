@@ -109,7 +109,10 @@ hardsell:
         alt: "Replica" 
       - image: img/supporter_logos/voicon.svg
         link: "https://voicon.co.uk/"
-        alt: "VOICON "           
+        alt: "VOICON "  
+      - image: img/supporter_logos/ihaassocation.jpg
+        link: "http://ihassociation.org/"
+        alt: "Intelligent Health Association (IHA)"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
