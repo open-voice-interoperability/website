@@ -17,13 +17,10 @@ export default class ResourcesPreview extends React.Component {
 				window.parent.location.host +
 				image;
 		}
-
-		return
+		return(
 		<div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
-
-
-    </div>;
+    	</div>)
   
 	}
 }
