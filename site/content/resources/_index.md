@@ -3,6 +3,13 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro: Explore a collection of resources relevant to the Open Voice Network's mission and work.
 resources:
+  - image: /img/Voice assistance classroom.png
+    buttonText: Learn More
+    buttonLink: https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing
+    text: >-
+      Voice assistance classroom infographics available for download. 
+    title: >-
+      Voice assistance classroom infographics available for download.
   - image: /img/resources-messaging-ces-2022-jan-5-8-las-vegas.png
     buttonText: Learn More
     buttonLink: https://youtu.be/EjtfrUmoozA
@@ -59,11 +66,4 @@ resources:
       The Open Voice Network Ambassador Bianca Phillips shares her research on the Voice First Health Podcast. 
     title: >-
       Digital Health Law Making (Bianca Phillips)
-  - image: /img/Voice assistance classroom.png
-    buttonText: Learn More
-    buttonLink: https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing
-    text: >-
-      Voice assistance classroom infographics available for download. 
-    title: >-
-      Voice assistance classroom infographics available for download.
 ---
