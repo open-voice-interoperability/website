@@ -66,8 +66,4 @@ resources:
       Voice assistance classroom infographics available for download. 
     title: >-
       Voice assistance classroom infographics available for download.
-voicechats:
-  - title: ""
-  - text: ""
-  - videourl: ""
 ---
