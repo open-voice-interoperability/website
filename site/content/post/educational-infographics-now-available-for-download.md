@@ -13,7 +13,7 @@ Led by OVON Ambassador and Community Moderator Julie Daniel Davis, the EST Commu
 
 [![](/img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png)](https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing)
 
-<a href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing" target="_blank" ><img src="open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png" alt="" /></a>
+<a href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing" target="_blank" ><img src="open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png"></a>
 
 The Open Voice Network encourages anyone who would like to learn more about voice in the home and classroom to download, review, and share these infographics with educators in their community. The EST Community plans to create and release more infographics in the coming months—check back soon to find even more graphics available for download.
 
