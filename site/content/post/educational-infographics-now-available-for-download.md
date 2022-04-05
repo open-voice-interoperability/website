@@ -5,8 +5,7 @@ description: >-
   The Education Steering Team Community has created a series of educational
   infographics available for download. Read below to learn more and download
   today.
-image: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download.png
+image: /img/Voice assistance classroom.png
 ---
 As part of the Open Voice Network's commitment to exploring the value of voice technology in the K-12 classroom setting, OVON's Education Steering Team (EST) Community has been hard at work creating a series of educational infographics for parents and educators who wish to learn more about voice assistance for children and their families.
 
