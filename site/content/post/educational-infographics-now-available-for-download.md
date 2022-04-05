@@ -11,9 +11,7 @@ As part of the Open Voice Network's commitment to exploring the value of voice t
 
 Led by OVON Ambassador and Community Moderator Julie Daniel Davis, the EST Community was created for educators using and researching the use of conversational AI for classroom and remote learning. The primary responsibility of the EST Community is to advise the entirety of the Open Voice Network on the why, the what, the how, and the legal requirements and ethical use of conversational AI for K-12 education.
 
-[![](/img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png)](https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing)
-
-<a href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing" target="_blank" ><img src="open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png"></a>
+<a href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing" target="_blank" ><img src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-educational-infographics-now-available-for-download-library-button.png"></a>
 
 The Open Voice Network encourages anyone who would like to learn more about voice in the home and classroom to download, review, and share these infographics with educators in their community. The EST Community plans to create and release more infographics in the coming months—check back soon to find even more graphics available for download.
 
