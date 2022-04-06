@@ -5,7 +5,8 @@ description: >-
   The Education Steering Team Community has created a series of educational
   infographics available for download. Read below to learn more and download
   today.
-image: /img/temporary-header-graphic-est-graphics.png
+image: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-resources-messaging-voice-assistants-for-educational-purposes-thumbnail.png
 ---
 As part of the Open Voice Network's commitment to exploring the value of voice technology in education, OVON's Education Steering Team (EST) Community has been hard at work creating a series of educational infographics for parents and educators who desire to use voice technology for educational purposes.
 
