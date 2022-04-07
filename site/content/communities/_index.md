@@ -45,9 +45,9 @@ communities:
       purposes. Primary responsibility: advising the entirety of the Open Voice
       Network as to the why, the what, the how, and the legal requirements and
       ethical use of conversational AI for educational purposes. <a
-      href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing">Click
-      here</a> to view the Education Steering Team Community's library of
-      educational infographics.
+      href="https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing"
+      target="_blank">Click here</a> to view the Education Steering Team
+      Community's library of educational infographics.
   - heading: Ethical Use Task Force Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
