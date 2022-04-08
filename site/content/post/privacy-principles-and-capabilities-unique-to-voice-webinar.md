@@ -3,8 +3,8 @@ title: Privacy Principles and Capabilities Unique to Voice Webinar
 date: 2022-04-06T18:31:28.565Z
 description: >-
   Join members of the Open Voice Network on 20 April, 2022 for the first
-  installment of our webinar series—<i>Global Standards for Conversational AI: a
-  Webinar Series from the Open Voice Network.</i>
+  installment of our new series—Global Standards for Conversational AI: a
+  Webinar Series from the Open Voice Network.
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-privacy-principles-and-capabilities-unique-to-voice-webinar-new.png
 ---
@@ -41,4 +41,4 @@ To save a copy of the event to a non-Google calendar, please follow these steps:
 
 \*Not all calendars accept iCal file imports.
 
-This webinar is part of OVON's new webinar series—<i>Global Standards for Conversational AI: a Webinar Series from the Open Voice Network.</i> Stay tuned for more information about upcoming webinars in the series.
+This webinar is part of OVON's new series—_Global Standards for Conversational AI: a Webinar Series from the Open Voice Network_. Stay tuned for more information about upcoming webinars in the series.
