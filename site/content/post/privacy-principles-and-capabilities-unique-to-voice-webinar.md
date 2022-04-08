@@ -8,7 +8,7 @@ description: >-
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-privacy-principles-and-capabilities-unique-to-voice-webinar-new.png
 ---
-The Open Voice Network's Privacy and Security Work Group will be hosting a 30-minute webinar titled "Privacy Principles and Capabilities Unique to Voice" to highlight the publication of their recent white paper of the same name.
+The Open Voice Network's Privacy and Security Work Group will be hosting a 30-minute webinar titled _Privacy Principles and Capabilities Unique to Voice_ to highlight the publication of their recent white paper of the same name.
 
 The webinar will feature members of the Privacy and Security Work Group as they summarize and expand upon their findings and assertions presented in the white paper. The webinar will consist of twenty minutes of presentation followed by a 10-minute Q&A session with the selection of panelists. 
 
