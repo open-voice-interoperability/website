@@ -6,7 +6,7 @@ description: >-
   installment of our new series—Global Standards for Conversational AI: a
   Webinar Series from the Open Voice Network.
 image: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-privacy-principles-and-capabilities-unique-to-voice-webinar-new.png
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-privacy-principles-and-capabilities-unique-to-voice-webinar-updated.png
 ---
 The Open Voice Network's Privacy and Security Work Group will be hosting a 30-minute webinar titled _Privacy Principles and Capabilities Unique to Voice_ to highlight the publication of their recent white paper of the same name.
 
