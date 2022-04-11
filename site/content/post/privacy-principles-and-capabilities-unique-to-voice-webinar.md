@@ -22,7 +22,7 @@ Webinar panelists include:
 
 Click below to copy this event to your Google calendar, or follow the numbered steps for non-Google calendars.
 
-**Wednesday, 20 April 12:00 ET / 9:00 PT / 17:00 CET**
+**Wednesday, 20 April 17:00 CET / 12:00 ET / 9:00 PT**
 
 <a href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mm9wa3M5aXRudWlmcGkwcnUxcmgzaGFqNmQgY185Zmk4ODhzbGphdHMzOTE1M281bjhpY2UzMEBn" target="_blank" ><img src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-privacy-principles-and-capabilities-unique-to-voice-webinar-calendar-graphic.png"></a>
 
