@@ -3,13 +3,24 @@ title: Resources
 image: /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro: Explore a collection of resources relevant to the Open Voice Network's mission and work.
 resources:
-  - image: /img/Voice assistance classroom.png
+  - image: /img/ovn_ethical_guidlines_voice_experiences_list_image.png
+    buttonText: Learn More
+    buttonLink: /documents/ovn_ethical_guidlines_voice_experiences.pdf
+    text: >-
+      Read the v1.0 white paper created by our Ethical Use Task Force Community.
+
+  - image: /img/ovn_privacy_principles_capabilities_unique_to_voice_list_image.png
+    buttonText: Learn More
+    buttonLink: /documents/ovn_privacy_principles_capabilities_unique_to_voice.pdf
+    text: >-
+      Read the v2.0 white paper created by our Privacy and Security Work Group
+  - image: /img/ovn_resource_classroom.png
     buttonText: Learn More
     buttonLink: https://drive.google.com/drive/folders/1XVWh6ue4ao71KdQneTaH4omC7MRUle06?usp=sharing
     text: >-
-      Voice assistance classroom infographics available for download. 
+      Voice assistants for educational purposes—infographics available for download.
     title: >-
-      Voice assistance classroom infographics available for download.
+      Voice assistants for educational purposes—infographics available for download.
   - image: /img/resources-messaging-ces-2022-jan-5-8-las-vegas.png
     buttonText: Learn More
     buttonLink: https://youtu.be/EjtfrUmoozA

@@ -9,29 +9,33 @@
       
         {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
         </div> -->
-  <div class="flex-ns w-100-ns pa2">
-    <div class="flex-ns w-50-ns pa2 h7-ns ">
-      <p>{{ .Params.eventDescription}}</p>
+  <div class="flex-ns w-100-ns pa2 center">
+    <div class="flex-ns w-100-ns pa2 h7-ns ">
+      <div>  {{ .Params.eventDescription | safeHTML | markdownify }} </div>
     </div>
-    <div class="flex w-50-ns pa2 h7-ns">
+    {{ if .Params.eventInfoImage }}
+    <div class="w-100-ns pa2 h5-ns">
       {{ if .Params.eventInfoImageLink}}
       <a href="{{.Params.eventInfoImageLink}}" target="_blank" rel="noopener">
         {{ if .Params.eventInfoImage }}<img src="{{ .Params.eventInfoImage }}" />
         {{ end }}
       </a>
-      {{ else }}
-      {{ if .Params.eventInfoImage }}
+      {{ else }}     
       <img src="{{ .Params.eventInfoImage }}" />
-      {{end}}
-      {{ end }}
+        {{ end }}
     </div>
+    {{ end }}
   </div>
+  {{ if .Params.eventSessionsHeaderImage }}
   <div class="flex-ns w-100-ns pa2">
-    {{ if .Params.eventSessionsHeaderImage }}<img src="{{ .Params.eventSessionsHeaderImage }}" />{{ end }}
+    <img src="{{ .Params.eventSessionsHeaderImage }}" />
   </div>
-  <div class="w-100-ns center flex-ns flex-wrap pa2 ma1">
+  {{ end }}
+  <div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
+    {{ if $.Params.sessionsHeaderText }} <h3> {{$.Params.sessionsHeaderText}} </h3> {{end}}
+    <div class="w-100-ns flex-ns flex-wrap center">
     {{ range .Params.eventSessions }}
-    <div class="w-30-l bg-grey-1 ma1 pa2 raise h9-ns">
+    <div class="w-40-ns bg-grey-1 ma1 pa2 raise h9-ns">
       <h3 class="fw5"> {{.topic}} </h3>
       <div> Time: {{ .timeslot}} </div>
       <div>
@@ -46,6 +50,7 @@
       </div>
     </div>
     {{end}}
+    </div>
   </div>
   <div class="w-100-ns tc pa2 ma1">
     {{ if .Params.eventRegistrationCallToActionImgUrl }}
@@ -56,11 +61,11 @@
     {{ end }}
   </div>
 
-  <div class="w-100-ns pa2 ma1">
+  <div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
     {{ if $.Params.bioHeaderText }} <h3> {{$.Params.bioHeaderText}} </h3> {{end}}
-    <div class="w-100-ns flex-ns flex-wrap">
+    <div class="w-100-ns flex-ns flex-wrap center">
       {{ range .Params.eventParticipantBios }}
-      <div class="w-40-ns bg-grey-1 ma1 pa1 raise">
+      <div class="w-40-ns bg-grey-1 pa1 ma1 raise">
         <p>
           <img src="{{.photoUrl}}#left-thumbnail" />
         <h4>{{.name}}</h4>
