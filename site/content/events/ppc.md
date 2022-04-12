@@ -25,7 +25,7 @@ eventDescription: >-
 
   <p>To save a copy of the event to a non-Google calendar, please follow these steps:</P>
       <ol>
-        <li color:black>Click here to find the iCal file for this event.</li>
+        <li> Click <a class="dim" target="_blank" rel="noopener" href="https://drive.google.com/file/d/1RxQ57cAgwiol47M_hWxsQAlJkJmlxXv7/view?usp=sharing" > here </a> to find the iCal file for this event.</li>
         <li>Once the page loads, click the "Download" button.</li>
         <li>Open your preferred calendar and find the Import function.</li>
         <li>Import the downloaded iCal file and save.</li>
@@ -37,15 +37,15 @@ eventInfoImage: >-
 eventInfoImageLink: 
 eventRegisterationUrl:
 eventSessionsHeaderImage: >-
-
 eventSessions:
   - presenters:
     - name: >-
           Nick Myers | OVON Ambassador and Co-Founder + CEO at RedFox AI
-    - name: Brenda Leong | OVON Industry Advisor and Partner at BNH.ai
+    - name: >-
+          Oita Coleman | Senior Advisor at Open Voice Network
     - name: >-
           Brenda Leong | OVON Industry Advisor and Partner at BNH.ai
-    timeslot: '20 April | 12:00 ET / 9:00 PT / 17:00 CET'
+    timeslot: '20 April | 17:00 CET / 12:00 ET / 9:00 PT'
     topic: Privacy Principles and Capabilities Unique to Voice Webinars
 eventParticipantBios:  
   - bio: >-
@@ -53,13 +53,13 @@ eventParticipantBios:
     name: Nick Myers | OVON Ambassador and Co-Founder + CEO at RedFox AI
     photoUrl: img/bio/speakers-nick-myers.png
   - bio: >-
-      Brenda Leong, CIPP/US, is Senior Counsel and Director of Artificial Intelligence and Ethics at the Future of Privacy Forum. She oversees privacy analysis of AI and Machine Learning technologies, writes educational resource materials around AI and Ethics, and manages the FPF portfolio on biometrics and digital identity, particularly facial recognition. She works on industry standards, governance, and responsible data management with stakeholders and advocates to reach practical solutions for commercial uses. Previously, Brenda served in the U.S. Air Force, including policy work from the Pentagon and U.S. State Department. She is a 2014 graduate of George Mason School of Law.    
-    name: Brenda Leong | OVON Industry Advisor and Partner at BNH.ai
-    photoUrl: img/open-voice-network-ovon-industry-advisor-council-brenda-leong.jpg
-  - bio: >-
       Oita Coleman is a performance-driven executive with 30+ years in the tech industry. Skilled in cultivating relationships and leveraging talent and resources to create exemplary teams, she is highly effective in building global partnerships to create innovative solutions to complex challenges. Oita is a former R&D Vice President of Software Quality at SAS Institute, with oversight of implementation of global processes, standards, and policies for the software development life cycle. She is now serving as Senior Advisor at the Open Voice Network, where she leads the privacy, security, and ethical use portfolios focused on voice-specific guidance for both the protection of individual and commercial user data privacy and security for consumer-facing enterprises worldwide. Her life motto is "to whom much is given, much more is required," which fuels her desire to give back. Her passion is helping to inspire the next generation of STEM knowledge professionals—focusing on advancing educational and career development opportunities for underrepresented minorities and women in STEM disciplines. She was recognized as a Top 50 Most Powerful Women in Tech award recipient by the National Diversity Council. She received the inaugural Great Place to Work® For All™ Leadership Award, recognizing women leaders from the FORTUNE 100 Best Companies to Work For. Her efforts were also recognized by US Black Engineer & IT Magazine as “Women Who Make a Difference in Technology."
     name: Oita C. Coleman | Senior Advisor at Open Voice Network
     photoUrl: img/bio/speakers-oita-coleman.jpg
+  - bio: >-
+      Brenda Leong, CIPP/US, is Senior Counsel and Director of Artificial Intelligence and Ethics at the Future of Privacy Forum. She oversees privacy analysis of AI and Machine Learning technologies, writes educational resource materials around AI and Ethics, and manages the FPF portfolio on biometrics and digital identity, particularly facial recognition. She works on industry standards, governance, and responsible data management with stakeholders and advocates to reach practical solutions for commercial uses. Previously, Brenda served in the U.S. Air Force, including policy work from the Pentagon and U.S. State Department. She is a 2014 graduate of George Mason School of Law.    
+    name: Brenda Leong | OVON Industry Advisor and Partner at BNH.ai
+    photoUrl: img/open-voice-network-ovon-industry-advisor-council-brenda-leong.jpg  
 eventSponsors:
 
 ---
