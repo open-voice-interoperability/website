@@ -14,14 +14,6 @@ The Open Voice Network Interoperability Initiative is led by the OVON Architectu
 
 To help answer this question, the Open Voice Network seeks the advice and expertise of speech scientists, voice developers, and voice practitioners—those who can collaboratively address the why, the what, and the how. The Interoperability Initiative team meets every Wednesday at 16:00 CET (07:00 Pacific).
 
-### Related Resources:
-
-<ul>
-  <li><a href="https://github.com/open-voice-network/Architecture-Interoperability-CSL" target="_blank">IP licensing</a> - OVON's intellectual property policy</li>
-  <li><a href="https://drive.google.com/file/d/1c2_ahNX1Edb77l_DExB7XuZjzx0bOw5n/view?usp=sharing" target="_blank">Current Initiative Precis</a> - Overview of current research, hypotheses, and proposals of the Open Voice Network in regards to voice agent interoperability</li>
-  <li><a href="https://github.com/open-voice-network/docs/tree/main/folderAWG" target="_blank">GitHub Interoperability Repo</a> – Repository containing OVON’s Interoperability source code</li>
-</ul> 
-
 ## Voice Registry System (VRS) Initiative
 
 The Open Voice Network Voice Registry System Initiative is led by the OVON VRS Work Group, which reports to the OVON Technical Steering Committee.
