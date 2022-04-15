@@ -113,6 +113,9 @@ hardsell:
       - image: img/supporter_logos/ihaassocation.jpg
         link: "http://ihassociation.org/"
         alt: "Intelligent Health Association (IHA)"         
+      - image: img/supporter_logos/smart-octopus-voice-agency.svg
+        link: "https://www.smartoctopusvoiceagency.com/"
+        alt: "Smart Octopus Voice Agency"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
