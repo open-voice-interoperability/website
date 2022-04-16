@@ -7,8 +7,6 @@ description: >-
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-blog-q2-2022-all-hands-and-open-forum-conference-call.png
 ---
-Join members of the Open Voice Network on Tuesday, 19 April for an organization-wide Q2 conference.
-
 News. Updates. Insights. Your questions.
 
 As we work to build voice assistance worthy of user trust, key leaders within our organization will share important Q2 updates, progress reports, and a look into Q3 2022.
@@ -19,7 +17,7 @@ The agenda will begin promptly at 19:00 CET / 13:00 ET / 10:00 PT. The conferenc
 
 To save a copy of the event to a non-Google calendar, please follow these steps:
 
-* Click [**here**](https://openvoicenetwork.lt.acemlna.com/Prod/link-tracker?notrack=1&notrack=1&redirectUrl=aHR0cHMlM0ElMkYlMkZkcml2ZS5nb29nbGUuY29tJTJGZmlsZSUyRmQlMkYxTUttcXBIWXlveW1zcHJEd2RsZ3pITEVyZXNfRk4xRlElMkZ2aWV3JTNGdXNwJTNEc2hhcmluZw==&sig=FYHVSjfQ1J7dYUq8BKjtphVSJWeU233pPqpp8XViwbfj&iat=1650129466&a=%7C%7C476416237%7C%7C&account=openvoicenetwork%2Eactivehosted%2Ecom&email=LRRV6glqIfcVPcYsJBrMHi%2FZD%2BmsUFpJrc5fHf6IoVE%3D&s=bad97c655476f96a390a72c05a742011&i=66A98A4A512) to find the iCal file for this event.
+* Click [**here**](https://openvoicenetwork.lt.acemlna.com/Prod/link-tracker?notrack=1¬rack=1&redirectUrl=aHR0cHMlM0ElMkYlMkZkcml2ZS5nb29nbGUuY29tJTJGZmlsZSUyRmQlMkYxTUttcXBIWXlveW1zcHJEd2RsZ3pITEVyZXNfRk4xRlElMkZ2aWV3JTNGdXNwJTNEc2hhcmluZw==&sig=FYHVSjfQ1J7dYUq8BKjtphVSJWeU233pPqpp8XViwbfj&iat=1650129466&a=%7C%7C476416237%7C%7C&account=openvoicenetwork%2Eactivehosted%2Ecom&email=LRRV6glqIfcVPcYsJBrMHi%2FZD%2BmsUFpJrc5fHf6IoVE%3D&s=bad97c655476f96a390a72c05a742011&i=66A98A4A512) to find the iCal file for this event.
 * Once the page loads, click the "Download" button.
 * Open your preferred calendar and find the Import function.
 * Import the downloaded iCal file and save.
