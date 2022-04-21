@@ -113,12 +113,12 @@ advisor:
       Intelligence and Ethics at the Future of Privacy Forum. She oversees
       privacy analysis of AI and Machine Learning technologies, writes
       educational resource materials around AI and Ethics, and manages the FPF
-      portfolio on biometrics and digital identity, particularly facial
-      recognition. She works on industry standards, governance, and responsible
-      data management with stakeholders and advocates to reach practical
-      solutions for commercial uses. Previously, Brenda served in the U.S. Air
-      Force, including policy work from the Pentagon and U.S. State Department.
-      She is a 2014 graduate of George Mason School of Law.
+      portfolio on biometrics and digital identity. She works on industry
+      standards, governance, and responsible data management with stakeholders
+      and advocates to reach practical solutions for commercial uses.
+      Previously, Brenda served in the U.S. Air Force, including policy work
+      from the Pentagon and U.S. State Department. She is a 2014 graduate of
+      George Mason School of Law.
   - heading: Leigh Clark
     imageUrl: >-
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-industry-advisor-council-leigh-clark.jpg
