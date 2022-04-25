@@ -1,7 +1,7 @@
 import React from "react";
 import { List } from 'immutable';
 
-import Jumbotron from "./components/jumbotron";
+import JumbotronGradient from "./components/jumbotron_gradient";
 
 const MediaBlock = ({heading, text, imageUrl, reverse}) => {
   const imageContainerClassName = reverse
@@ -33,14 +33,14 @@ export default class AboutPreview extends React.Component {
     const about = entryAbout ? entryAbout.toJS() : [];
     
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
-      <div className="bg-off-white pv4">
+      <JumbotronGradient image={image} title={entry.getIn(["data", "title"])} />
+      {/* <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {about.map(({text, heading, imageUrl}, i) =>
             <MediaBlock key={i} text={text} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
           )}
         </div>
-      </div>
+      </div> */}
     </div>;
   }
 }

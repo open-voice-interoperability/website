@@ -1,0 +1,94 @@
+{{ define "main" }}
+{{ partial "jumbotron_gradient" (dict "imageUrl" .Params.pageHeaderBckImge "title" .Params.eventTitle "subtitle" .Params.eventSubTitle "class" .Params.jumboClass) }}
+<div class="mw9 center ph2-ns cms">
+  <!-- <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+      <div class="flex justify-between grey-3">
+        <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>    
+      </div> -->
+  <!-- <div class="mw100 center ph3 pt4">
+      
+        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+        </div> -->
+  <div class="flex-ns w-100-ns pa2 center">
+    <div class="flex-ns w-100-ns pa2 h7-ns ">
+      <div>  {{ .Params.eventDescription | safeHTML | markdownify }} </div>
+    </div>
+    {{ if .Params.eventInfoImage }}
+    <div class="w-100-ns pa2 h5-ns">
+      {{ if .Params.eventInfoImageLink}}
+      <a href="{{.Params.eventInfoImageLink}}" target="_blank" rel="noopener">
+        {{ if .Params.eventInfoImage }}<img src="{{ .Params.eventInfoImage }}" />
+        {{ end }}
+      </a>
+      {{ else }}     
+      <img src="{{ .Params.eventInfoImage }}" />
+        {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ if .Params.eventSessionsHeaderImage }}
+  <div class="flex-ns w-100-ns pa2">
+    <img src="{{ .Params.eventSessionsHeaderImage }}" />
+  </div>
+  {{ end }}
+  <div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
+    {{ if $.Params.sessionsHeaderText }} <h3> {{$.Params.sessionsHeaderText}} </h3> {{end}}
+    <div class="w-100-ns flex-ns flex-wrap center">
+    {{ range .Params.eventSessions }}
+    <div class="w-40-ns bg-grey-1 ma1 pa2 raise h9-ns">
+      <h3 class="fw5"> {{.topic}} </h3>
+      <div> Time: {{ .timeslot}} </div>
+      <div>
+        <div>
+          <h4>{{ $.Params.presentersHeaderText }}</h4>
+        </div>
+        <ul class="pl3">
+          {{ range .presenters }}
+          <li> {{.name}} </li>
+          {{end}}
+        </ul>
+      </div>
+    </div>
+    {{end}}
+    </div>
+  </div>
+  <div class="w-100-ns tc pa2 ma1">
+    {{ if .Params.eventRegistrationCallToActionImgUrl }}
+    <a href="{{.Params.eventRegistrationCallToActionUrl}}" target="_blank" rel="noopener" class="btn raise">
+      <img src="{{ .Params.eventRegistrationCallToActionImgUrl }}" />
+    </a>
+    <div>{{.Params.eventRegistrationCallToActionText}}</div>
+    {{ end }}
+  </div>
+
+  <div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
+    {{ if $.Params.bioHeaderText }} <h3> {{$.Params.bioHeaderText}} </h3> {{end}}
+    <div class="w-100-ns flex-ns flex-wrap center">
+      {{ range .Params.eventParticipantBios }}
+      <div class="w-40-ns bg-grey-1 pa1 ma1 raise">
+        <p>
+          <img src="{{.photoUrl}}#left-thumbnail" />
+        <h4>{{.name}}</h4>
+        {{.bio}}
+        </p>
+      </div>
+      {{ end}}
+    </div>
+  </div>
+
+  <!-- sponsors -->
+  <div class="w-100-ns pa2 ma1">
+    {{ if $.Params.sponsorsHeaderText }} <h3> {{$.Params.sponsorsHeaderText}} </h3> {{end}}
+    <div class="w-100-ns flex-ns flex-wrap">
+      {{ range .Params.eventSponsors }}
+      <div class="w-100ns ma1 pa1 raise">
+        <h4>{{.name}}</h4>
+        {{.details}}
+
+      </div>
+      {{ end}}
+    </div>
+  </div>
+
+</div>
+{{ end }}

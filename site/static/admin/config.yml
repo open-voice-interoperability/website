@@ -363,6 +363,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
       - file: "site/content/webinars/_index.md"
@@ -371,6 +372,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
           - {label: TopSectionHeading, name: topSectionHeading, widget: string, required: false}
