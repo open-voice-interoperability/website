@@ -1,8 +1,7 @@
 backend:
   name: git-gateway
   repo: open-voice-network/website
-  branch: main
-
+  branch: feature_request_webinar_4/22/2022
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -367,3 +366,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
+  - name: "webinars"
+    label: "Webinars"
+    folder: "site/content/webinars"
+    fields:
+      - {label: Title, name: title, widget: string}
+    create: true
