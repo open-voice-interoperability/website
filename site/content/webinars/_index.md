@@ -1,9 +1,9 @@
 ---
 title: Webinars
 image: /img/webinars-header.jpg
-jumboClass: pv4-ns
-heading: Webinars
-intro: Webinars
+jumboClass: pv6-ns
+heading: 
+intro: 
 topSectionHeading: Upcoming
 topSectionHeadingIntro: >-
   The Open Voice Network is excited to announce the creation of our new webinar
