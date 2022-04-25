@@ -373,10 +373,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
-          - {label: TopSectionHeading, name: intro, widget: string, required: false}
-          - {label: TopSectionHeadingIntro, name: intro, widget: string, required: false}
-          - {label: BottomSectionHeading, name: intro, widget: string, required: false}
-          - {label: BottomSectionHeadingIntro, name: intro, widget: string, required: false}
+          - {label: TopSectionHeading, name: topSectionHeading, widget: string, required: false}
+          - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
+          - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
+          - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
   - name: "webinars"
     label: "Webinars"
     folder: "site/content/webinars"
