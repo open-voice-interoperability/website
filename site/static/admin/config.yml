@@ -182,7 +182,6 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: ButtonText, name: buttonText, widget: object}
               - {label: ButtonLink, name: buttonLink, widget: object}
-          
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
         name: voice-chats
@@ -366,6 +365,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
+      - file: "site/content/webinars/_index.md"
+        label: "Webinars Page"
+        name: "webinars"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: TopSectionHeading, name: intro, widget: string, required: false}
+          - {label: TopSectionHeadingIntro, name: intro, widget: string, required: false}
+          - {label: BottomSectionHeading, name: intro, widget: string, required: false}
+          - {label: BottomSectionHeadingIntro, name: intro, widget: string, required: false}
   - name: "webinars"
     label: "Webinars"
     folder: "site/content/webinars"
