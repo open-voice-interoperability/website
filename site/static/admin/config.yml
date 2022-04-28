@@ -8,6 +8,8 @@ public_folder: "img"
 collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
+    identifier_field: listItemTitle
+    slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -385,5 +387,5 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: Title, name: title, widget: string}
       - {label: Call To Action Label, name: callToAction, widget: string}
-      - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], value_field: listItemTitle, display_fields: [listItemTitle]}
+      - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], value_field: "{{slug}}"", display_fields: [listItemTitle]}
     create: true
