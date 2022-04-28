@@ -21,6 +21,14 @@
 			{{ end}}
 			{{ .Render "list" }} 
 		</div>	
+		<div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
+			{{ if .Params.bottomSectionHeading  }} <h3> {{.Params.bottomSectionHeading }} </h3> 
+			{{end}}
+			{{ if .Params.bottomSectionHeadingIntro }}
+			<p class="mb4 mw7">{{.Params.bottomSectionHeadingIntro | markdownify}}</p>
+			{{ end}}
+			{{ .Render "list" }} 
+		</div>	
 	</div>
 </div>
 {{ end }}
