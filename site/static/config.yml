@@ -8,11 +8,12 @@ public_folder: "img"
 collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
-    identifier_field: listItemTitle
+    identifier_field: name
     slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection   
-    fields: # The fields each document in this collection have      
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Unique Id Name(Don't Change Later)", name: "name", widget: "string"}    
       - {label: "List Item Title", name: "listItemTitle", widget: "string"}
       - {label: "List Item Image", name: "listItemImage", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
