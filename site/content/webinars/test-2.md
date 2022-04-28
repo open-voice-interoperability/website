@@ -1,6 +1,7 @@
 ---
 title: test 2
+imageUrl: /img/1x1-white-pixel.png
 callToAction: Learn More
-callToActionEvent: Privacy Principles and Capabilities Unique to Voice Webinar
+callToActionEvent: pcp
 ---
 
