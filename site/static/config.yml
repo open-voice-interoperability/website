@@ -9,12 +9,12 @@ collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
     identifier_field: name
-    filter: {field: "hidden", value: "true"}
+    filter: {field: "enabled", value: true}
     slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Hide Event", name: "hidden", widget: "boolean", default: false}
+      - {label: "Toggle Event", name: "enabled", widget: "boolean", default: true}
       - {label: "Unique Id Name(Once event created don't change it will break links)", name: "name", widget: "string"}    
       - {label: "List Item Title", name: "listItemTitle", widget: "string"}
       - {label: "List Item Image", name: "listItemImage", widget: "image"}
