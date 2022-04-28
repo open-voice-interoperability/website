@@ -18,8 +18,8 @@
 			{{end}}
 			{{ if .Params.topSectionHeadingIntro }}
 			<p class="mb4 mw7">{{.Params.topSectionHeadingIntro | markdownify}}</p>
-			{{ end}}
-			{{ .Render "list" }} 
+			{{ end}}					
+			{{ .Render "list-webinars-upcoming" }} 
 		</div>	
 		<div class="w-100-ns pa2 ma1 bg-grey-2 raise center">
 			{{ if .Params.bottomSectionHeading  }} <h3> {{.Params.bottomSectionHeading }} </h3> 
@@ -27,7 +27,7 @@
 			{{ if .Params.bottomSectionHeadingIntro }}
 			<p class="mb4 mw7">{{.Params.bottomSectionHeadingIntro | markdownify}}</p>
 			{{ end}}
-			{{ .Render "list" }} 
+			{{ .Render "list-webinars-past" }} 
 		</div>	
 	</div>
 </div>

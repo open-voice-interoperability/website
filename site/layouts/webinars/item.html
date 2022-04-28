@@ -3,7 +3,8 @@
     <img src="{{ .Params.listItemImage }}" alt="" class="center db mb3">
     <div class="tc">
         <p>{{ .Params.listItemTitle }}</p>
-        <a href="{{ .RelPermalink }}" target="_blank" rel="noopener" class="btn raise">{{.Params.callToAction}}</a>
+        <a href="/events/{{.Params.callToActionEvent}}"
+            target="_blank" rel="noopener" class="btn raise">{{.Params.callToActionEvent}}</a>
     </div>
     </a>
 </div>

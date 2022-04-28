@@ -1,0 +1,7 @@
+<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+    {{ range first 4 (where .Pages "Type" "webinars") }}
+        <div class="ph1-ns w-50-ns flex">                  
+            {{ .Render "item"}}
+        </div>
+    {{ end }}
+</div>
