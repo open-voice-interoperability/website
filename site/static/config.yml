@@ -389,10 +389,10 @@ collections: # A list of collections the CMS should be able to edit
     label: "Webinars"
     folder: "site/content/webinars"
     identifier_field: name
-    filter: {field: "enabled", value: true
+    filter: {field: "enabled", value: true}
     fields:
-      - {label: "Unique Id Name(Once event created don't change it will break links)", name: "name", widget: "string"}
-      - {label: "Toggle Event", name: "enabled", widget: "boolean", default: true}
+      - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
+      - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
       - {label: Image, name: imageUrl, widget: image}
       - {label: Call To Action Label, name: callToAction, widget: string}
