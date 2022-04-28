@@ -12,7 +12,9 @@ topSectionHeadingIntro: >-
   papers published by communities and working groups of the Open Voice Network
   and informational webinars to highlight each publication. Click below to learn
   more about upcoming webinars in the series.
-bottomSectionHeading: Upcoming
-bottomSectionHeadingIntro: ''
+bottomSectionHeading: Past
+bottomSectionHeadingIntro: >-
+  Did you miss one of our recent webinars? Browse our selection of webinar
+  recordings below
 ---
 
