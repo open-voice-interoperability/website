@@ -116,6 +116,12 @@ hardsell:
       - image: img/supporter_logos/smart-octopus-voice-agency.svg
         link: "https://www.smartoctopusvoiceagency.com/"
         alt: "Smart Octopus Voice Agency"         
+      - image: img/supporter_logos/voicept.jpg
+        link: "http://voicept.com/"
+        alt: "Voice PT"         
+      - image: img/supporter_logos/tl-tech.png
+        link: "https://www.tltechsmart.com/ "
+        alt: "TL Tech Smart Home Solutions"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
