@@ -1,6 +1,6 @@
 <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">    
-    {{now}}
-    {{ range where (where .Pages "Type" "webinars") "date" "ge" now }}
+    {{now.YearDay}}
+    {{ range where (where .Pages "Type" "webinars") "date.YearDay" "ge" now.YearDay }}
    
         <div class="ph1-ns w-50-ns flex">    
             test              
