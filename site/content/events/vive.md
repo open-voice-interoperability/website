@@ -2,7 +2,7 @@
 enabled: true
 name: vive
 listItemTitle: >-
-  1Voice & AI Technology Forum at ViVE 2022—Sponsored by the Open Voice Network
+  Voice & AI Technology Forum at ViVE 2022—Sponsored by the Open Voice Network
   (OVON) and Intelligent Health Association (IHA)
 listItemImage: /img/open-voice-network-ovon-blog-join-the-open-voice-network-at-vive-2022.png
 date: 2022-02-07T19:37:19.844Z
