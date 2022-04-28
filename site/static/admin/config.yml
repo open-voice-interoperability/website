@@ -384,7 +384,6 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/webinars"
     fields:
       - {label: Title, name: title, widget: string}
-      - {label: Image, name: image, widget: image}
       - {label: Call To Action Label, name: callToAction, widget: string}
       - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], value_field: listItemTitle, display_fields: [listItemTitle]}
     create: true
