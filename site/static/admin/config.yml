@@ -388,5 +388,5 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: Title, name: title, widget: string}
       - {label: Call To Action Label, name: callToAction, widget: string}
-      - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], value_field: "{{slug}}"", display_fields: [listItemTitle]}
+      - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], value_field: "{{slug}}", display_fields: [listItemTitle]}
     create: true
