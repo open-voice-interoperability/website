@@ -1,10 +1,10 @@
 ---
 title: Webinars
 image: /img/webinars-header.jpg
-jumboClass: pv6-ns
+jumboClass: pv5-ns
 heading: ''
 intro: ''
-topSectionHeading: Upcoming
+topSectionHeading: Upcoming Webinars
 topSectionHeadingIntro: >-
   The Open Voice Network is excited to announce the creation of our new webinar
   series—Global Standards for Conversational AI: a Webinar Series from the Open
@@ -12,7 +12,9 @@ topSectionHeadingIntro: >-
   papers published by communities and working groups of the Open Voice Network
   and informational webinars to highlight each publication. Click below to learn
   more about upcoming webinars in the series.
-bottomSectionHeading: Upcoming
-bottomSectionHeadingIntro: ''
+bottomSectionHeading: Past Webinars
+bottomSectionHeadingIntro: >-
+  Did you miss one of our recent webinars? Browse our selection of webinar
+  recordings below
 ---
 
