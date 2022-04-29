@@ -1,17 +1,17 @@
-<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+<div class="w-100 flex-ns flex-wrap justify-between">
     {{$future_events := where .Pages "Type" "webinars" }}
     {{ $counter := 0 }}
     {{ range sort $future_events }}
     {{ $endDate := time .Params.endDate }}
     {{ if ge $endDate.YearDay now.YearDay }}
     {{ $counter = add $counter 1 }}
-    <div class="ph1-ns w-50-ns flex">
+    <div class="w-50-ns flex ph3-m mb4 mb0-m raise">
         {{ .Render "item"}}
     </div>
     {{ end}}
     {{ end }}
     {{ if eq $counter 0 }}
-    <div class="ph1-ns w-50-ns flex">     
+    <div class="w-50-ns flex ph3-m mb4 mb0-m raise">     
         {{ partial "coming_soon" }}
     </div>       
     {{ end}}
