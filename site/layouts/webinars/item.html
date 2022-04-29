@@ -2,7 +2,10 @@
     {{ $t := time .Params.endDate }}
     <!-- {{ $t.After now }} -->
     {{ .Params.endDate }}
-    {{ (now).String }}
+    <!-- {{ (now.Format "2006/01/02")}} -->
+    {{ ( printf .Params.endDate | time )}}
+    {{ (now.Unix)}}
+    <!-- {{ (now).String }} -->
   
     <a href="{{ .RelPermalink }}" class="no-underline">
     <img src="{{ .Params.listItemImage }}" alt="" class="center db mb3">

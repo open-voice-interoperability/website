@@ -1,5 +1,5 @@
 <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">  
-    {{$future_events :=  where (where .Pages "Type" "webinars") ".Params.endDate" "ge" (now).String }}  
+    {{$future_events :=  where (where .Pages "Type" "webinars") ".Params.endDate.Unix" "ge" (now.Unix) }}  
      {{ $future_events}})
     {{ range $future_events  }}
         <div class="ph1-ns w-50-ns flex">                            

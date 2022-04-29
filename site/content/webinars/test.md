@@ -1,5 +1,5 @@
 ---
-endDate: 2022-04-29T05:00:00.000Z
+endDate: 2022-04-28
 name: test
 enabled: true
 title: test
