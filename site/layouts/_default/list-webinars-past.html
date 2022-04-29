@@ -1,11 +1,18 @@
 <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
     {{$past_events := where .Pages "Type" "webinars" }}
+    {{ $counter := 0 }}
     {{ range sort $past_events }}
     {{ $endDate := time .Params.endDate }}
     {{ if lt $endDate.YearDay now.YearDay }}
+    {{ $counter = add $counter 1 }}
     <div class="ph1-ns w-50-ns flex">
         {{ .Render "item"}}
     </div>
     {{ end}}
-    {{ end }}
+    {{ end }}  
+    {{ if eq $counter 0 }}
+    <div class="ph1-ns w-50-ns flex">     
+        {{ partial "coming_soon" }}
+    </div>       
+    {{ end}} 
 </div>
