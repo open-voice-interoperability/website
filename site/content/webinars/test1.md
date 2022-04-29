@@ -5,6 +5,6 @@ enabled: true
 title: Coming Soon
 imageUrl: /img/coming-soon-g04640a794_1280.png
 callToAction: Learn More
-callToActionEvent: ppc
+callToActionEvent:
 ---
 
