@@ -1,4 +1,9 @@
 <div class="w-100-ns pa3 bg-grey-1 br1 mb2 db raise">
+    {{ $t := time .Params.endDate }}
+    <!-- {{ $t.After now }} -->
+    {{ .Params.endDate }}
+    {{ (now).String }}
+  
     <a href="{{ .RelPermalink }}" class="no-underline">
     <img src="{{ .Params.listItemImage }}" alt="" class="center db mb3">
     <div class="tc">

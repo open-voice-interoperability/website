@@ -390,7 +390,7 @@ collections: # A list of collections the CMS should be able to edit
     identifier_field: name
     filter: {field: "enabled", value: true}
     fields:      
-      - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  "", format: "YYYY-MM-DD"}
+      - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  "", date_format: "YYYY-MM-DD"}
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
       - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
