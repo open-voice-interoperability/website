@@ -4,7 +4,7 @@ name: test2
 enabled: true
 title: test
 imageUrl: /img/ovn-event-principles.png
-callToAction: test2
+callToAction: Learn More
 callToActionEvent: ppc
 ---
 
