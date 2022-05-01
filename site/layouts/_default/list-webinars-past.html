@@ -1,5 +1,5 @@
 <div class="w-100 flex-ns flex-wrap justify-between">
-    {{$past_events := where .Pages "Type" "webinars" }}
+    {{$past_events := where ( where .Pages "Type" "webinars") "Params.enabled" true   }}
     {{ $counter := 0 }}
     {{ range sort $past_events }}
     {{ $endDate := time .Params.endDate }}
