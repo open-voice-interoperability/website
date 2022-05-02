@@ -2,7 +2,7 @@
 title: White Papers
 image: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-header-minx-min.png
-jumboClass: ' '
+jumboClass: ' pv6-ns'
 heading: White Papers
 intro: >-
   The Communities and Work Groups of the Open Voice Network are excited to
@@ -12,5 +12,6 @@ intro: >-
   feedback form. We look forward to hearing your thoughts, questions, and
   criticisms on each publication.
 callToAction: Read Paper
+callToActionFeedback: Leave Feedback
 ---
 
