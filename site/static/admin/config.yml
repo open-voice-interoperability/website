@@ -187,6 +187,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: ButtonText, name: buttonText, widget: object}
               - {label: ButtonLink, name: buttonLink, widget: object}
+              - {label: Resource Type name: resourceType, widget: list, options: ["WhitePaper", "Video"],required: false} }
+              - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false} }
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
         name: voice-chats
@@ -384,6 +386,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
           - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
           - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
+      - file: "site/content/white_papers/_index.md"
+        label: "White Papers"
+        name: "whitePapers"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: Call To Action Label, name: callToAction, widget: string}
   - name: "webinars"
     label: "Webinars"
     folder: "site/content/webinars"
@@ -394,8 +406,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
       - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
-      - {label: Image, name: imageUrl, widget: image}
-      - {label: Video URL, name: videoUrl, widget: string}
-      - {label: Call To Action Label, name: callToAction, widget: string}
+      - {label: Image, name: imageUrl, widget: image, required: false}}
+      - {label: Video URL, name: videoUrl, widget: string, required: false}}
+      - {label: Call To Action Label, name: callToAction, widget: string, required: false}}
       - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], valueField: name, displayFields: [listItemTitle],required: false}
     create: true

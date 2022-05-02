@@ -187,7 +187,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: ButtonText, name: buttonText, widget: object}
               - {label: ButtonLink, name: buttonLink, widget: object}
-          
+              - {label: Resource Type name: resourceType, widget: list, options: ["WhitePaper", "Video"], required: false} }
+              - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false} }
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
         name: voice-chats
@@ -385,7 +386,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
           - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
           - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
-  - name: "webinars"
+      - file: "site/content/white_papers/_index.md"
+        label: "White Papers"
+        name: "whitePapers"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: Call To Action Label, name: callToAction, widget: string}         
     label: "Webinars"
     folder: "site/content/webinars"
     identifier_field: name
