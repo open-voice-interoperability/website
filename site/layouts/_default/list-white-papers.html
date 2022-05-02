@@ -1,29 +1,22 @@
-<div class="w-100 flex-ns flex-wrap justify-between">
+<div class="w-100 flex-ns flex-wrap ">
     {{ $resources := where .Site.Pages "Type" "resources" }}
     {{ range sort $resources}}     
-      {{$white_papers := where  .Params.resources "resourceType" "WhitePaper"   }}        
-        <!-- {{ $white_papers }} -->
-        {{ $counter := len $white_papers }}   
-        {{ if eq $counter 2 }}
-        {{$class := "w-50-ns flex ph3-m mb4 mb0-m raise"}}
-            {{ range sort $white_papers }}               
-                <div class="{{ $class }}">
-                    {{ partial "white_paper" .}}
-                </div>
-            {{ end }}
-        {{ else }}
-         $class := update "w-third-ns flex ph3-m mb4 mb0-m raise"
-         {{ range sort $white_papers }}               
-                <div class="{{ $class }}">
-                    {{ partial "white_paper" .}}
-                </div>
-            {{ end }}
-        {{ end }}         
+      {{ $white_papers := where  .Params.resources "resourceType" "WhitePaper"   }}        
+      
+      {{ $counter := len $white_papers }}  
+        
+      {{ range sort $white_papers }}               
+        <div class="w-third-l w-90-m w-90-sflex ph3-m mb4 mb0-m raise">
+            {{ partial "white_paper" .}}
+        </div>
+      {{ end }}
         
         {{ if eq $counter 0 }}
-            <div class="w-third-ns flex ph3-m mb4 mb0-m raise"> 
+            <div class="w-third-l w-90-m w-90-s flex ph3-m mb4 mb0-m raise"> 
                 {{ partial "coming_soon" }}
             </div>       
-         {{ end}}
+       {{ end}} 
+             
+
     {{ end}}      
 </div>
