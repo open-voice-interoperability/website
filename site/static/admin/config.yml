@@ -406,8 +406,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
       - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
-      - {label: Image, name: imageUrl, widget: image, required: false}}
-      - {label: Video URL, name: videoUrl, widget: string, required: false}}
-      - {label: Call To Action Label, name: callToAction, widget: string, required: false}}
+      - {label: Image, name: imageUrl, widget: image, required: false}
+      - {label: Video URL, name: videoUrl, widget: string, required: false}
+      - {label: Call To Action Label, name: callToAction, widget: string, required: false}
       - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], valueField: name, displayFields: [listItemTitle],required: false}
     create: true
