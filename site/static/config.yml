@@ -185,9 +185,9 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: image, widget: image}
-              - {label: ButtonText, name: buttonText, widget: string}
+              - {label: ButtonText, name: buttonText, widget: string, required: false} 
               - {label: ButtonLink, name: buttonLink, widget: string}
-              - {label: Resource Type, name: resourceType, widget: list, options: ["WhitePaper", "Video"], required: false} 
+              - {label: Resource Type, name: resourceType, widget: select, options: ["WhitePaper", "Video"], required: false} 
               - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false} 
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
@@ -395,7 +395,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image Jumbotron Style, name: jumboClass, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
-          - {label: Call To Action Label, name: callToAction, widget: string}         
+          - {label: Call To Action Label, name: callToAction, widget: string}
+          - {label: Call To Action Feedback Label, name: callToActionFeedback, widget: string}         
   - name: "webinars"
     label: "Webinars"
     folder: "site/content/webinars"
