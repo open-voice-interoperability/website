@@ -9,8 +9,10 @@
 		{{ end}}
 		{{ if .Params.intro }}
 		<p class="mb4 mw6">{{.Params.intro | markdownify}}</p>
-		{{ end}}			
-		<div class="w-100-ns pa4 pb1 pb4-m bg-grey-2 center">
+		{{ end}}
+
+		<!-- pa4 pb1 -->
+		<div class="w-100-ns pa4 ma1 pb4-m bg-grey-2 raise center">
 			{{ if .Params.topSectionHeading  }} <h3> {{.Params.topSectionHeading }} </h3> 
 			{{end}}
 			{{ if .Params.topSectionHeadingIntro }}
@@ -18,7 +20,8 @@
 			{{ end}}					
 			{{ .Render "list-webinars-upcoming" }} 
 		</div>	
-		<div class="w-100-ns pa4 pb1 pb4-m bg-grey-2 center">
+
+		<div class="w-100-ns pa4 ma1 pb4-m bg-grey-2 raise center">
 			{{ if .Params.bottomSectionHeading  }} <h3> {{.Params.bottomSectionHeading }} </h3> 
 			{{end}}
 			{{ if .Params.bottomSectionHeadingIntro }}
