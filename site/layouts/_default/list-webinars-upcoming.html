@@ -5,13 +5,13 @@
     {{ $endDate := time .Params.endDate }}
     {{ if ge $endDate.YearDay now.YearDay }}
     {{ $counter = add $counter 1 }}
-    <div class="w-50-ns flex ph3-m mb4 mb0-m raise">
+    <div class="w-third-ns flex ph3-m mb4 mb0-m raise">
         {{ .Render "item"}}
     </div>
     {{ end}}
     {{ end }}
     {{ if eq $counter 0 }}
-    <div class="w-50-ns flex ph3-m mb4 mb0-m raise">     
+    <div class="w-third-ns flex ph3-m mb4 mb0-m raise"> 
         {{ partial "coming_soon" }}
     </div>       
     {{ end}}
