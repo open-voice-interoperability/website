@@ -1,7 +1,6 @@
 ---
 title: White Papers
-image: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-header-minx-min.png
+image: /img/open-voice-network-white-papers-header.jpg
 jumboClass: ' pv6-ns'
 heading: White Papers
 intro: >-
