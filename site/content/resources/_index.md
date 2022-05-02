@@ -8,7 +8,7 @@ intro: >-
 resources:
   - buttonLink: /documents/ovn_ethical_guidlines_voice_experiences.pdf
     buttonText: Learn More
-    feedBackUrl: 'https://forms.gle/sx3r6D4dxGNe7ghm9 '
+    feedBackUrl: 'https://forms.gle/sx3r6D4dxGNe7ghm9'
     text: >-
       Read the v1.0 white paper created by our Ethical Use Task Force
       Community. 
@@ -19,7 +19,7 @@ resources:
     resourceType: WhitePaper
   - buttonLink: /documents/ovn_privacy_principles_capabilities_unique_to_voice.pdf
     buttonText: Learn More
-    feedBackUrl: 'https://forms.gle/ZxazpTD3Yq4pCjfX7 '
+    feedBackUrl: 'https://forms.gle/ZxazpTD3Yq4pCjfX7'
     text: Read the v2.0 white paper created by our Privacy and Security Work Group
     title: Read the v2.0 white paper created by our Privacy and Security Work Group
     image: /img/ovn_privacy_principles_capabilities_unique_to_voice_list_image.png

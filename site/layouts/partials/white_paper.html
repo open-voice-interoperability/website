@@ -1,0 +1,20 @@
+<div class="w-100-ns  pa4 bg-grey-1 br1 db">
+    <!-- <a href="{{ .RelPermalink }}" class="no-underline"> -->
+    <!-- check if videoUrl, if videoUrl it will superseed other variables -->
+    {{ if ne .Params.videoUrl nil }}
+    {{ partial "video_player" (dict "videoUrl" .Params.videoUrl "title" .Params.title) }}
+    {{ else }}
+    
+    <img src="{{ .image }}" alt="" class="center db mb3 h5-ns">
+    {{if ne .buttonLink nil }}
+    <div class="tc">
+        <p>{{ .title}}</p>
+        <a href="{{.buttonLink}}" target="_blank" rel="noopener"
+            class="btn raise">Read More</a>
+            <a href="{{.feedBackUrl}}" target="_blank" rel="noopener"
+            class="btn raise">Leave Feedback</a>
+    </div>
+    {{ end }}
+    {{ end }}
+    <!-- </a> -->
+</div>

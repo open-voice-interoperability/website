@@ -388,7 +388,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
       - file: "site/content/white_papers/_index.md"
         label: "White Papers"
-        name: "whitePapers"
+        name: "white_papers"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
