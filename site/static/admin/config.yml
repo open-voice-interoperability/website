@@ -188,7 +188,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: ButtonText, name: buttonText, widget: string}
               - {label: ButtonLink, name: buttonLink, widget: string}
               - {label: Resource Type, name: resourceType, widget: list, options: ["WhitePaper", "Video"],required: false} }
-              - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false} }
+              - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false}
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
         name: voice-chats
