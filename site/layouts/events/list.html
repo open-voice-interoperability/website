@@ -1,6 +1,6 @@
 <div class="w-100 flex-ns mhn1-ns flex-wrap mb3 ">
     {{ range first 4 (where .Pages "Type" "events") }}
-    <div class="w-third-l w-90-m w-90-s flex ph3-m mb4 mb0-m raise">                
+    <div class="w-50-l flex ph3-m mb4 mb0-m raise">                
             {{ .Render "item"}}
         </div>
     {{ end }}
