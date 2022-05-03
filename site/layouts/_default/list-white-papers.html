@@ -1,4 +1,4 @@
-<div class="w-100 flex-ns flex-wrap ">
+<div class="w-100 flex-ns flex-wrap flex justify-start">
     {{ $resources := where .Site.Pages "Type" "resources" }}
     {{ range sort $resources}}     
       {{ $white_papers := where  .Params.resources "resourceType" "WhitePaper"   }}        
@@ -6,13 +6,13 @@
       {{ $counter := len $white_papers }}  
         
       {{ range sort $white_papers }}               
-        <div class="w-third-l w-90-m w-90-sflex ph3-m mb4 mb0-m raise">
+        <div class="w-third-l flex ph3-m mb4 mb0-m raise">
             {{ partial "white_paper" .}}
         </div>
       {{ end }}
         
         {{ if eq $counter 0 }}
-            <div class="w-third-l w-90-m w-90-s flex ph3-m mb4 mb0-m raise"> 
+            <div class="w-third-l  flex ph3-m mb4 mb0-m raise"> 
                 {{ partial "coming_soon" }}
             </div>       
        {{ end}} 
