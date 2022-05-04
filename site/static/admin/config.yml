@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: open-voice-network/website
-  branch: feature_request_webinar_4/22/2022
+  branch: main
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
