@@ -78,6 +78,13 @@ ol.table-of-contents > li{
   min-height: 282px;
 }
 
+.bio-thumbnail{
+  min-height: 144px;
+  min-width: 144px;
+  max-height: 177px;
+  max-width: 177px;
+}
+
 /*** job posting ***/
 .job_posting{
   margin: var(--spacing-medium);
