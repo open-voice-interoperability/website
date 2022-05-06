@@ -67,6 +67,17 @@ ol.table-of-contents > li{
   min-height: 282px;
 }
 
+/*** event logos ***/
+.default-logo{
+  width: 100%;
+  min-height: 315px;
+}
+
+.event-logo{
+  width: 100%;
+  min-height: 282px;
+}
+
 /*** job posting ***/
 .job_posting{
   margin: var(--spacing-medium);
@@ -77,9 +88,6 @@ ol.table-of-contents > li{
 /*** AGENDA TABLE ***/
 .red{
   color: red;
-}
-table.agenda {
-
 }
 
 table.agenda th{  

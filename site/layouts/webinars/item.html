@@ -1,11 +1,11 @@
-<div class="w-100-ns pa2 bg-grey-1 br1 db">
+<div class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">  
     <!-- <a href="{{ .RelPermalink }}" class="no-underline"> -->
     <!-- check if videoUrl, if videoUrl it will superseed other variables -->
     {{ if ne .Params.videoUrl nil }}
     {{ partial "video_player" (dict "videoUrl" .Params.videoUrl "title" .Params.title) }}
     {{ else }}
     
-    <img src="{{ .Params.imageUrl }}" alt="" class="center db mb3 h5-ns">
+    <img src="{{ .Params.imageUrl }}" alt="" class="w-100 event-logo db mb1 ">
     {{if ne .Params.callToActionEvent nil }}
     <div class="tc">
         <p>{{ .Params.title}}</p>

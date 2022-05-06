@@ -1,7 +1,7 @@
 ---
 title: Webinars
 image: /img/webinars-header.jpg
-jumboClass: pv6-ns
+jumboClass: ph6 ph6-ns pv6
 heading: ''
 intro: ''
 topSectionHeading: Upcoming Webinars

@@ -1,18 +1,24 @@
-<div class="w-100-ns pa2 bg-grey-1 br1 db">
+<div class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">
     <!-- <a href="{{ .RelPermalink }}" class="no-underline"> -->
     <!-- check if videoUrl, if videoUrl it will superseed other variables -->
-    {{ if ne .Params.videoUrl nil }}
-    {{ partial "video_player" (dict "videoUrl" .Params.videoUrl "title" .Params.title) }}
+   
+    {{ if ne .videoUrl nil }}
+    {{ partial "video_player" (dict "videoUrl" .videoUrl "title" .title) }}
     {{ else }}
-    
-    <img src="{{ .image }}" alt="" class="center db mb3 h5-ns">
+
+    <div>
+        <img src="{{ .image }}" alt="" class="w-100 event-logo db mb1 ">
+    </div>
+
     {{if ne .buttonLink nil }}
-    <div class="tc">
+    <div class="tc pb4">    
         <p>{{ .title}}</p>
-        <a href="{{.buttonLink}}" target="_blank" rel="noopener"
-            class="btn raise">Read Paper</a>
-            <a href="{{.feedBackUrl}}" target="_blank" rel="noopener"
-            class="btn raise">Leave Feedback</a>
+    </div>
+    <div class="tc center fixed bottom-0 pb2 w-100 " style="align-items: center;justify-content: center;">
+        <div class="static w-100">        
+            <a href="{{.buttonLink}}" target="_blank" rel="noopener" class="btn raise">Read Paper</a>
+            <a href="{{.feedBackUrl}}" target="_blank" rel="noopener" class="btn raise">Leave Feedback</a>
+        </div>
     </div>
     {{ end }}
     {{ end }}

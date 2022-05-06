@@ -1,4 +1,4 @@
-<div class="w-100 flex-ns flex-wrap items-start">
+<div class="w-100 center flex flex-row flex-wrap mb4">
     
     {{$future_events := where (where .Pages "Type" "webinars") "Params.enabled" true }}
     {{ $counter := 0 }}
@@ -6,14 +6,14 @@
     {{ $endDate := time .Params.endDate }}
     {{ if ge $endDate.YearDay now.YearDay }}
     {{ $counter = add $counter 1 }}
-    <div class="w-third-l  flex ph3-m mb4 mb0-m raise">  
+    <div class="w-100 w-third-l w-50-m  flex raise ">    
         {{ .Render "item"}}
     </div>
     {{ end}}
     {{ end }}
     {{ if eq $counter 0 }}
     
-    <div class="w-third-l  flex ph3-m mb4 mb0-m raise">  
+    <div class="w-100 w-third-l w-50-m  flex raise ">    
         {{ partial "coming_soon" }}
     </div>       
     {{ end}}

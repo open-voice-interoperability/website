@@ -1,9 +1,15 @@
-<div class="w-100-ns  pa4 bg-grey-1 br1 db">
-    <a href="{{ .RelPermalink }}" class="no-underline">
-    <img src="{{ .Params.listItemImage }}" alt="" class="center db mb3 h5-ns">
-    <div class="tc">
-        <p>{{ .Params.listItemTitle }}</p>
-        <a href="{{ .RelPermalink }}" target="_blank" rel="noopener" class="btn raise">{{.Params.callToAction}}</a>
+<div class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">  
+    <div>
+    <img src="{{ .Params.listItemImage }}" alt="" 
+    class="w-100 event-logo db mb1 " >
     </div>
-    </a>
+    <div class="tc pb4">
+        <p>{{ .Params.listItemTitle }}</p>
+       
+    </div>   
+    <div class="tc center fixed bottom-0 pb2 w-100 " style="align-items: center;justify-content: center;" >
+        <div class="static w-100"  >
+            <a href="{{ .RelPermalink }}" target="_blank" rel="noopener" class="btn raise ">{{.Params.callToAction}}</a>
+        </div>
+    </div> 
 </div>
