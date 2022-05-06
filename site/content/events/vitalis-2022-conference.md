@@ -12,7 +12,14 @@ pageHeaderBckImge: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-temporary-header.png
 eventTitle: Vitalis 2022 Conference
 eventSubTitle: In Partnership with the Open Voice Network and Intelligent Health Association
-eventDescription: Event description.
+eventDescription: >-
+  In recent years, the use of speech technology and AI has increased avalanche
+  in the world, among consumers and companies but also in health and care where
+  the applications and benefits are many. On May 16 at 13-17, you have the
+  opportunity to listen to international advocates, clinical staff and industry
+  representatives who talk about the future of "Voice Technology" and what can
+  be used today. The conference is aimed at e.g. healthcare decision makers,
+  doctors, nurses, operations, IT and quality managers.
 eventInfoImage: /img/sample-event-image.png
 eventRegisterationUrl: 'https://vitalis.nu/hem/konferens/voicevitalis/'
 eventSessions:
