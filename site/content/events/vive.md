@@ -1,5 +1,6 @@
 ---
-jumboClass: pv6-ns
+enabled: true
+name: vive
 listItemTitle: >-
   Voice & AI Technology Forum at ViVE 2022—Sponsored by the Open Voice Network
   (OVON) and Intelligent Health Association (IHA)
@@ -9,7 +10,6 @@ callToAction: Learn More
 eventDate: 'March 9, 2022'
 presentersHeaderText: 'Presenters:'
 bioHeaderText: 'Presenter Bios:'
-sessionsHeaderText: 'Sessions:'
 pageHeaderBckImge: >-
   /img/open-voice-network-ovon-events-voice-and-ai-technology-forum-vive-2022-header.png
 eventTitle: Voice & AI Technology Forum at ViVE 2022

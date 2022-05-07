@@ -4,10 +4,15 @@
 
 <div class="mw9 bg-off-white pv4 pl2 pr2 pa4-ns cms center">
 	<div class="w-100 ph2-ns center cms">
+		{{ if .Params.heading }}
 		<h2 class="f2 b lh-title mb2">{{.Params.heading}}</h2>
-		<p class="mb4 mw6">{{.Params.intro | markdownify}}</p>
-		{{ .Render "list" }}
+		{{ end}}
+		{{ if .Params.intro }}
+		<p class="pa1 mb4 mw7">{{.Params.intro | markdownify}}</p>
+		{{ end}}		
+		<!-- <div class="w-100-ns pa2 pb2-m center"> -->
+		{{ .Render "list-white-papers"}}	
+		<!-- </div>			 -->
 	</div>
-
 </div>
 {{ end }}

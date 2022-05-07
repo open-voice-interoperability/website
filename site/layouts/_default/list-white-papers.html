@@ -1,0 +1,22 @@
+<div class="w-100 center flex flex-row flex-wrap mb4">
+    {{ $resources := where .Site.Pages "Type" "resources" }}
+    {{ range sort $resources}}     
+      {{ $white_papers := where  .Params.resources "resourceType" "WhitePaper"   }}        
+      
+      {{ $counter := len $white_papers }}  
+        
+      {{ range sort $white_papers }}               
+       <div class="w-100 w-third-l w-50-m  flex raise "> 
+            {{ partial "white_paper" .}}
+        </div>
+      {{ end }}
+        
+        {{ if eq $counter 0 }}
+        <div class="w-100 w-third-l w-50-m  flex raise "> 
+                {{ partial "coming_soon" }}
+            </div>       
+       {{ end}} 
+             
+
+    {{ end}}      
+</div>

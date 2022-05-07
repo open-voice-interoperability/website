@@ -1,4 +1,6 @@
 ---
+name: ppc
+enabled: true
 jumboClass: pv4-ns
 listItemTitle: >-
   Privacy Principles and Capabilities Unique to Voice Webinar

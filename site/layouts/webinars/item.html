@@ -1,0 +1,18 @@
+<div class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">  
+    <!-- <a href="{{ .RelPermalink }}" class="no-underline"> -->
+    <!-- check if videoUrl, if videoUrl it will superseed other variables -->
+    {{ if ne .Params.videoUrl nil }}
+    {{ partial "video_player" (dict "videoUrl" .Params.videoUrl "title" .Params.title) }}
+    {{ else }}
+    
+    <img src="{{ .Params.imageUrl }}" alt="" class="w-100 event-logo db mb1 ">
+    {{if ne .Params.callToActionEvent nil }}
+    <div class="tc">
+        <p>{{ .Params.title}}</p>
+        <a href="/events/{{.Params.callToActionEvent}}" target="_blank" rel="noopener"
+            class="btn raise">{{.Params.callToAction}}</a>
+    </div>
+    {{ end }}
+    {{ end }}
+    <!-- </a> -->
+</div>

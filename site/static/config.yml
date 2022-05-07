@@ -2,16 +2,20 @@ backend:
   name: git-gateway
   repo: open-voice-network/website
   branch: main
-
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
+    identifier_field: name
+    filter: {field: "enabled", value: true}
+    slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "Toggle Event", name: "enabled", widget: "boolean", default: true}
+      - {label: "Unique Id Name(Once event created don't change it will break links)", name: "name", widget: "string"}    
       - {label: "List Item Title", name: "listItemTitle", widget: "string"}
       - {label: "List Item Image", name: "listItemImage", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -181,9 +185,10 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: image, widget: image}
-              - {label: ButtonText, name: buttonText, widget: object}
-              - {label: ButtonLink, name: buttonLink, widget: object}
-          
+              - {label: ButtonText, name: buttonText, widget: string, required: false} 
+              - {label: ButtonLink, name: buttonLink, widget: string}
+              - {label: Resource Type, name: resourceType, widget: select, options: ["WhitePaper", "Video"], required: false} 
+              - {label: Resource Feedback Url, name: feedBackUrl, widget: string, required: false} 
       - file: "site/content/voice-chats/_index.md"
         label: Voice Chats
         name: voice-chats
@@ -365,5 +370,45 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
+      - file: "site/content/webinars/_index.md"
+        label: "Webinars Page"
+        name: "webinars"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: TopSectionHeading, name: topSectionHeading, widget: string, required: false}
+          - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
+          - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
+          - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
+      - file: "site/content/white_papers/_index.md"
+        label: "White Papers"
+        name: "white_papers"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: Call To Action Label, name: callToAction, widget: string}
+          - {label: Call To Action Feedback Label, name: callToActionFeedback, widget: string}         
+  - name: "webinars"
+    label: "Webinars"
+    folder: "site/content/webinars"
+    identifier_field: name
+    filter: {field: "enabled", value: true}
+    fields:      
+      - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  ""}
+      - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
+      - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
+      - {label: Title, name: title, widget: string}
+      - {label: Image, name: imageUrl, widget: image, required: false}
+      - {label: Video URL, name: videoUrl, widget: string, required: false}
+      - {label: Call To Action Label, name: callToAction, widget: string, required: false}
+      - {label: Call To Action Event, name: callToActionEvent, widget: relation, collection: events, searchFields: [listItemTitle], valueField: name, displayFields: [listItemTitle],required: false}
+    create: true
