@@ -8,46 +8,41 @@
       {{ .Content }}
     </div>
 
-    <div class="mw7 br1 pl3 bg-grey-1">
-      <form class="pa2" action="/friends-of-the-open-voice-network/thank-you/" method="POST" name="become_a_friend"
-        netlify>
+    <div class="mw6 br1 bg-grey-1 center pa3 ba b--grey-3">
+      <form action="/friends-of-the-open-voice-network/thank-you/" class="pa2" enctype="multipart/form-data" method="POST" name="become_a_friend"><input type="hidden" name="form-name" value="become_a_friend">
         <div class="mw7">
-          <p class="mw6 fw7 mb2">Organization Name: <input class="w-100 bg-off-white" type="text" name="org_name" /></p>
+          <p class="mw7 fw7 mb2">Organization Name: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" type="text" name="org_name"></p>
         </div>
         <div class="mw7">
-          <p class="mw6 fw7 mb2">Contact email: <input class="w-100 bg-off-white" type="email" name="contact_email" />
+          <p class="mw7 fw7 mb2">Contact email: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" type="email" name="contact_email">
           </p>
+    
         </div>
         <div class="mw7">
-          <fieldset class="mw6">
-            <legend class="mw6 fw7 mb2">How did you hear about the Friends of the Open Voice Network program?</legend>
-            <div class="ph2 bg-off-white br1 mw6">
+          <fieldset class="mw7">
+            <legend class="mw7 fw7 mb2">How did you hear about the Friends of the Open Voice Network program?</legend>
+            <div class="ph2 mw6">
               <div class="flex items-center mb2">
                 <input class="mr2" type="checkbox" name="hear_about" value="blog">Blog or publication
               </div>
-              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
-                  value="event">Conference or Event </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about" value="event">Conference or Event </div>
               <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about" value="peer">Peer
                 recommendation </div>
-              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
-                  value="podcast">Podcast </div>
-              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
-                  value="seo">Search
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about" value="podcast">Podcast </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about" value="seo">Search
                 engine </div>
               <div class="flex items-center mb2">
                 <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about">
                 Other
               </div>
-              <div class="mw7 pb2 "><textarea rows="3" class="w-90 mh2" id="hear_about_other_value"
-                  name="hear_about_other_value">
-                </textarea>
+              <div class="mw7 pb2 "><textarea rows="3" class="w-90 mh2" id="hear_about_other_value" name="hear_about_other_value" style="display: none;">                </textarea>
               </div>
             </div>
           </fieldset>
         </div>
         <div class="mw7">
           <p class="fw7 mb2"> Logo (.svg or .ai format preferred, if possible):
-            <input class="input-reset w-90 bg-grey-1" type="file" name="org_logo" accept="image/*,.ai,.svg,.psd,.eps" />
+            <input class="input-reset w-90 bg-grey-1 ph0" type="file" name="org_logo" accept="image/*,.ai,.svg,.psd,.eps">
           </p>
         </div>
         <div>
@@ -55,6 +50,9 @@
         </div>
       </form>
     </div>
+
+
+
   </div>
 </div>
 
