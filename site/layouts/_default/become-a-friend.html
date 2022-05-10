@@ -5,37 +5,50 @@
 <div class="bg-off-white pt4">
   <div class="mw7 center ph3 pt4 mb5">
     <div class="cms">
-    {{ .Content }}
+      {{ .Content }}
     </div>
 
-    <div class="pl3">
-      <form action="/friends-of-the-open-voice-network/thank-you/" method="POST" name="become_a_friend" netlify>
-        <div>
-          <p>Organization Name: <input type="text" name="org_name"  /></p>   
+    <div class="mw7 br1 pl3 bg-grey-1">
+      <form class="pa2" action="/friends-of-the-open-voice-network/thank-you/" method="POST" name="become_a_friend"
+        netlify>
+        <div class="mw7">
+          <p class="mw6 fw7 mb2">Organization Name: <input class="w-100 bg-off-white" type="text" name="org_name" /></p>
         </div>
-        <div>
-          <p>Contact email: <input type="email" name="contact_email"  /></p>   
+        <div class="mw7">
+          <p class="mw6 fw7 mb2">Contact email: <input class="w-100 bg-off-white" type="email" name="contact_email" />
+          </p>
         </div>
-        <div>
-          <fieldset>
-           <legend>How did you hear about the Friends of the Open Voice Network program?</legend> 
-           <p>       
-             <div>
-                <input type="checkbox" name="hear_about" value="blog" >Blog or publication
-              </div>  
-              <div> <input type="checkbox" name="hear_about" value="event" >Conference or Event </div>      
-              <div> <input type="checkbox" name="hear_about" value="peer" >Peer recommendation </div>  
-              <div>  <input type="checkbox" name="hear_about" value="podcast" >Podcast </div>  
-              <div>   <input type="checkbox" name="hear_about" value="seo" >Search engine </div>  
-              <div> <input type="checkbox" name="hear_about"  value="social" >Social media</div>  
-              <div> <input type="checkbox" id="hear_about_other_checkbox" name="hear_about" > Other  <input type="text" id="hear_about_other_value" name="hear_about_other_value"> </div>  
-              <div> </div>                           
-            </p>               
-          </fieldset> 
+        <div class="mw7">
+          <fieldset class="mw6">
+            <legend class="mw6 fw7 mb2">How did you hear about the Friends of the Open Voice Network program?</legend>
+            <div class="ph2 bg-off-white br1 mw6">
+              <div class="flex items-center mb2">
+                <input class="mr2" type="checkbox" name="hear_about" value="blog">Blog or publication
+              </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
+                  value="event">Conference or Event </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about" value="peer">Peer
+                recommendation </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
+                  value="podcast">Podcast </div>
+              <div class="flex items-center mb2"> <input class="mr2" type="checkbox" name="hear_about"
+                  value="seo">Search
+                engine </div>
+              <div class="flex items-center mb2">
+                <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about">
+                Other
+              </div>
+              <div class="mw7 pb2 "><textarea rows="3" class="w-90 mh2" id="hear_about_other_value"
+                  name="hear_about_other_value">
+                </textarea>
+              </div>
+            </div>
+          </fieldset>
         </div>
-        <div>
-          <p>Logo (.svg or .ai format preferred, if possible): <input type="file" name="org_logo" 
-            accept="image/*,.ai,.svg,.psd,.eps" /></p>
+        <div class="mw7">
+          <p class="fw7 mb2"> Logo (.svg or .ai format preferred, if possible):
+            <input class="input-reset w-90 bg-grey-1" type="file" name="org_logo" accept="image/*,.ai,.svg,.psd,.eps" />
+          </p>
         </div>
         <div>
           <button type="submit" class="btn w-100 w-auto-ns raise">Send Logo</button>
@@ -49,17 +62,15 @@
 <script>
   const otherCheckbox = document.querySelector('#hear_about_other_checkbox');
   const otherText = document.querySelector('#hear_about_other_value');
-  otherText.style.visibility = 'hidden';
+  otherText.style.display = 'none'
 
   otherCheckbox.addEventListener('change', () => {
-  if(otherCheckbox.checked) {
-    otherText.style.visibility = 'visible';
-    otherText.value = '';
-  } else {
-    otherText.style.visibility = 'hidden';
-  }
-});
-  </script>
+    if (otherCheckbox.checked) {
+      otherText.style.display = 'block'
+      otherText.value = '';
+    } else {
+      otherText.style.display = 'none'
+    }
+  });
+</script>
 {{ end }}
-
-
