@@ -34,15 +34,16 @@
                 engine </div>
               <div class="fl w-100 w-50-ns mb2">
                 <div>
-                  <input class="mr2" type="checkbox" id="conference_checkbox" name="hear_about">Conference or Event
+                  <input class="mr2" type="checkbox" id="hear_about_conference_checkbox" name="hear_about" value="ConferenceEvent" >Conference or Event
                 </div>
-                <div class="pb2"><textarea rows="1" class="w-90 mh2" id="conference_value" name="conference_value"
+                <div class="pb2"><textarea rows="1" class="w-90 mh2" id="hear_about_conference_value" 
+                  name="hear_about_conference_value"
                     style="display: none;"></textarea>
                 </div>
               </div>
               <div class="fl w-100 w-50-ns mb2">
                 <div>
-                  <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about">Other
+                  <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about" value="other" >Other
                 </div>
                 <div class="pb2"><textarea rows="1" class="w-90 mh2" id="hear_about_other_value"
                     name="hear_about_other_value" style="display: none;"></textarea>
@@ -50,9 +51,9 @@
               </div>
               <div class="fl w-100 w-50-ns mb2">
                 <div>
-                  <input class="mr2" type="checkbox" id="referral_checkbox" name="hear_about">Peer referral
+                  <input class="mr2" type="checkbox" id="hear_about_referral_checkbox" name="hear_about" value="Peer referral">Peer referral
                 </div>
-                <div class="pb2 "><textarea rows="1" class="w-90 mh2" id="referral_value" name="referral_value"
+                <div class="pb2 "><textarea rows="1" class="w-90 mh2" id="hear_about_referral_value" name="hear_about_referral_value"
                     style="display: none;"></textarea>
                 </div>
               </div>
@@ -125,9 +126,9 @@
 
 
 <script>
-  
-  const conferenceCheckbox = document.querySelector('#conference_checkbox');
-  const conferenceText = document.querySelector('#conference_value');
+
+  const conferenceCheckbox = document.querySelector('#hear_about_conference_checkbox');
+  const conferenceText = document.querySelector('#hear_about_conference_value');
   conferenceText.style.display = 'none'
 
   conferenceCheckbox.addEventListener('change', () => {
@@ -141,8 +142,8 @@
 
 
 
-  const referralCheckbox = document.querySelector('#referral_checkbox');
-  const referralText = document.querySelector('#referral_value');
+  const referralCheckbox = document.querySelector('#hear_about_referral_checkbox');
+  const referralText = document.querySelector('#hear_about_referral_value');
   referralText.style.display = 'none'
 
   referralCheckbox.addEventListener('change', () => {
