@@ -28,7 +28,8 @@ To submit your Friend of the Open Voice Network application, please take the fol
 </li>
 <li><strong>Project Participation:</strong> Friend acknowledges that any contributions or participation activities Friend chooses to undertake within the technical projects of the Project are subject to adherence to the applicable technical charter for each such project.
 </li>
-<li><strong>Display of Friend Logo:</strong> The Project is authorized to display Friend’s logo to show Friend’s participation in the Program. The Project will comply with reasonable trademark usage guidelines that Friend may supply to the Project.The Project is authorized to announce, in a blog, press release, or other disclosure, Friend’s participation in the Program</li>
+<li><strong>Display of Friend Logo:</strong> The Project is authorized to display Friend’s logo to show Friend’s participation in the Program. The Project will comply with reasonable trademark usage guidelines that Friend may supply to the Project. The Project is authorized to announce, in a blog, press release, or other disclosure, Friend’s participation in the Program
+</li>
 <li><strong>Display of Friend of the Project’s Logo:</strong> Provided that Friend at all times complies with the trademark usage guidelines <a href="https://www.linuxfoundation.org/trademark-usage/" target="_blank">located here</a>, Friend may display the provided Open Voice Network Friend Program Logo (the “Program Logo”) to demonstrate Friend’s participation in the Program. Friend will discontinue all display of the Program Logo upon the earlier to occur of (a) termination of this Agreement or (b) a request to discontinue display by the Linux Foundation.</li>
 </ul>
 </li>

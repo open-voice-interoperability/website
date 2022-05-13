@@ -29,12 +29,17 @@
                 <input class="mr2" type="checkbox" name="hear_about" value="blog">Blog or Publication
               </div>
               <div class="fl w-100 w-50-ns mb2"> <input class="mr2" type="checkbox" name="hear_about"
-                  value="event">Conference or Event
-              </div>
-              <div class="fl w-100 w-50-ns mb2"> <input class="mr2" type="checkbox" name="hear_about"
                   value="podcast">Podcast </div>
               <div class="fl w-100 w-50-ns mb2"> <input class="mr2" type="checkbox" name="hear_about" value="seo">Search
                 engine </div>
+              <div class="fl w-100 w-50-ns mb2">
+                <div>
+                  <input class="mr2" type="checkbox" id="conference_checkbox" name="hear_about">Conference or Event
+                </div>
+                <div class="pb2"><textarea rows="1" class="w-90 mh2" id="conference_value" name="conference_value"
+                    style="display: none;"></textarea>
+                </div>
+              </div>
               <div class="fl w-100 w-50-ns mb2">
                 <div>
                   <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about">Other
@@ -71,7 +76,7 @@
               </div>
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value="Europe Community">Europe Community
-              </div>   
+              </div>
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value="Education Steering Team Community">Education
                 Steering Team Community
@@ -79,13 +84,13 @@
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value="Ethical Use Task Force Community">Ethical Use
                 Task Force Community
-              </div>                    
-           
+              </div>
+
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest"
                   value="Health, Wellness, and Life Sciences Community">Health, Wellness, and Life Sciences Community
-              </div>            
-            
+              </div>
+
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value="Media & Entertainment Community">Media &
                 Entertainment Community
@@ -97,7 +102,7 @@
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value=" Synthetic Voice Study Group">Synthetic Voice
                 Study Group
-              </div>            
+              </div>
             </div>
           </fieldset>
         </div>
@@ -108,7 +113,7 @@
           </p>
         </div>
         <div>
-          <button type="submit" class="btn w-100 w-auto-ns raise">Sumbit</button>
+          <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
         </div>
       </form>
     </div>
@@ -120,6 +125,22 @@
 
 
 <script>
+  
+  const conferenceCheckbox = document.querySelector('#conference_checkbox');
+  const conferenceText = document.querySelector('#conference_value');
+  conferenceText.style.display = 'none'
+
+  conferenceCheckbox.addEventListener('change', () => {
+    if (conferenceCheckbox.checked) {
+      conferenceText.style.display = 'block'
+      conferenceText.value = '';
+    } else {
+      conferenceText.style.display = 'none'
+    }
+  });
+
+
+
   const referralCheckbox = document.querySelector('#referral_checkbox');
   const referralText = document.querySelector('#referral_value');
   referralText.style.display = 'none'
