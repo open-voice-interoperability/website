@@ -23,14 +23,13 @@ eventDescription: >-
   healthcare industry. The conference is aimed towards healthcare decision
   makers, doctors, nurses, operations, IT, and quality managers who operate
   within the healthcare space.<br></br>The Open Voice Network (OVON) is proud to
-  partner with the Intelligent Health Association (IHA) on this special Voice @
+  partner with the Intelligent Health Association (IHA) on this special Voice at
   Vitalis program. The event will feature Members, Ambassadors, and Industry
   Advisors from the Open Voice Network and the Intelligent Health Association.
   <a target="_blank" rel="noopener noreferrer"
   href="https://vitalis.nu/hem/konferens/voicevitalis/">Click here</a> for the
-  full program schedule and to register for the Vitalis 2022 Conference. If you
-  are unable to attend, you may find the recorded presentations from each
-  speaker below.
+  full program schedule for the Vitalis 2022 Conference. If you are unable to
+  attend, you may find the recorded presentations from each speaker below.
 eventInfoImage: /img/sample-event-image.png
 eventRegisterationUrl: 'https://vitalis.nu/hem/konferens/voicevitalis/'
 eventSessions:
@@ -44,6 +43,18 @@ eventSessions:
       - name: 'Maarten Lens FitzGerald, Founder, Project Zilver'
       - name: 'Hans Van Dam, CEO, Conversation Design Institute'
     timeslot: '16 May | 13:00 CET / 7:00 ET / 4:00 PT'
-    topic: Voice @ Vitalis
+    topic: Voice at Vitalis
+eventParticipantBios:
+  - bio: Presentation coming soon.
+    name: 'Jon Stine, Executive Director, Open Voice Network'
+    photoUrl: /img/jon-stine.png
+  - bio: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/JbUYWIU6iKM?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    name: 'Dr. Michael McTear, Emeritus Professor, Ulster University'
+    photoUrl: /img/dr-michael-mctear.jpeg
 ---
 
