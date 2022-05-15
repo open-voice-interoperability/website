@@ -90,66 +90,66 @@
 
 <script>
 
-  const conferenceCheckbox = document.querySelector('#hear_about_conference_checkbox');
-  const conferenceText = document.querySelector('#hear_about_conference_value');
-  conferenceText.style.display = 'none'
+  // const conferenceCheckbox = document.querySelector('#hear_about_conference_checkbox');
+  // const conferenceText = document.querySelector('#hear_about_conference_value');
+  // conferenceText.style.display = 'none'
 
-  conferenceCheckbox.addEventListener('change', () => {
-    if (conferenceCheckbox.checked) {
-      conferenceText.style.display = 'block'
-      conferenceText.value = '';
-    } else {
-      conferenceText.style.display = 'none'
-    }
-  });
+  // conferenceCheckbox.addEventListener('change', () => {
+  //   if (conferenceCheckbox.checked) {
+  //     conferenceText.style.display = 'block'
+  //     conferenceText.value = '';
+  //   } else {
+  //     conferenceText.style.display = 'none'
+  //   }
+  // });
 
 
 
-  const referralCheckbox = document.querySelector('#hear_about_referral_checkbox');
-  const referralText = document.querySelector('#hear_about_referral_value');
-  referralText.style.display = 'none'
+  // const referralCheckbox = document.querySelector('#hear_about_referral_checkbox');
+  // const referralText = document.querySelector('#hear_about_referral_value');
+  // referralText.style.display = 'none'
 
-  referralCheckbox.addEventListener('change', () => {
-    if (referralCheckbox.checked) {
-      referralText.style.display = 'block'
-      referralText.value = '';
-    } else {
-      referralText.style.display = 'none'
-    }
-  });
+  // referralCheckbox.addEventListener('change', () => {
+  //   if (referralCheckbox.checked) {
+  //     referralText.style.display = 'block'
+  //     referralText.value = '';
+  //   } else {
+  //     referralText.style.display = 'none'
+  //   }
+  // });
 
-  const otherCheckbox = document.querySelector('#hear_about_other_checkbox');
-  const otherText = document.querySelector('#hear_about_other_value');
-  otherText.style.display = 'none'
+  // const otherCheckbox = document.querySelector('#hear_about_other_checkbox');
+  // const otherText = document.querySelector('#hear_about_other_value');
+  // otherText.style.display = 'none'
 
-  otherCheckbox.addEventListener('change', () => {
-    if (otherCheckbox.checked) {
-      otherText.style.display = 'block'
-      otherText.value = '';
-    } else {
-      otherText.style.display = 'none'
-    }
-  });
+  // otherCheckbox.addEventListener('change', () => {
+  //   if (otherCheckbox.checked) {
+  //     otherText.style.display = 'block'
+  //     otherText.value = '';
+  //   } else {
+  //     otherText.style.display = 'none'
+  //   }
+  // });
 
-  function limitInterestSelections(limit) {
-    const checkboxgroup = document.getElementsByName("interest");
+  // function limitInterestSelections(limit) {
+  //   const checkboxgroup = document.getElementsByName("interest");
 
-    for (var i = 0; i < checkboxgroup.length; i++) {
-      checkboxgroup[i].onclick = function (e) {
-        if (e.target.checked) {
-          var checkedcount = 0;
-          for (var i = 0; i < checkboxgroup.length; i++) {
-            checkedcount += (checkboxgroup[i].checked) ? 1 : 0;
-          }
-          if (checkedcount > limit) {
-            alert("You can only select 2 interests!");
-            this.checked = false;
-          }
-        }
-      }
-    }
-  }
+  //   for (var i = 0; i < checkboxgroup.length; i++) {
+  //     checkboxgroup[i].onclick = function (e) {
+  //       if (e.target.checked) {
+  //         var checkedcount = 0;
+  //         for (var i = 0; i < checkboxgroup.length; i++) {
+  //           checkedcount += (checkboxgroup[i].checked) ? 1 : 0;
+  //         }
+  //         if (checkedcount > limit) {
+  //           alert("You can only select 2 interests!");
+  //           this.checked = false;
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
 
-  limitInterestSelections(2);
+  // limitInterestSelections(2);
 </script>
 {{ end }}
