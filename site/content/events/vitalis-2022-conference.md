@@ -7,7 +7,7 @@ date: 2022-05-06T16:55:14.240Z
 callToAction: Learn More
 eventDate: 2022-05-16T11:00:14.250Z
 presentersHeaderText: 'Speakers:'
-bioHeaderText: 'Speaker Presentations:'
+bioHeaderText: 'Speaker Presentations and Bios:'
 pageHeaderBckImge: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-temporary-header.png
 eventTitle: Vitalis 2022 Conference
@@ -45,15 +45,13 @@ eventSessions:
     timeslot: '16 May | 13:00 CET / 7:00 ET / 4:00 PT'
     topic: Voice at Vitalis
 eventParticipantBios:
-  - bio: Presentation coming soon.
+  - bio: Click here to view Jon Stine's Vitalis 2022 presentation.
     name: 'Jon Stine, Executive Director, Open Voice Network'
     photoUrl: /img/jon-stine.png
   - bio: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/JbUYWIU6iKM?controls=0" title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
+      <a
+      href="https://drive.google.com/file/d/1zM9QYzdZ8DzmgDWFfkEmsIA9sRVAGfId/view?usp=sharing">Click
+      here</a> to view Dr. Michael McTear's Vitalis 2022 presentation.
     name: 'Dr. Michael McTear, Emeritus Professor, Ulster University'
     photoUrl: /img/dr-michael-mctear.jpeg
 ---
