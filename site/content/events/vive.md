@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 name: vive
 listItemTitle: >-
   Voice & AI Technology Forum at ViVE 2022—Sponsored by the Open Voice Network
