@@ -29,8 +29,9 @@ eventDescription: >-
   <a target="_blank" rel="noopener noreferrer"
   href="https://vitalis.nu/hem/konferens/voicevitalis/">Click here</a> for the
   full program schedule for the Vitalis 2022 Conference.<br></br>If you are
-  unable to attend the conference, please <a href="youtube.com">click here</a>
-  to view recordings from each presentation.
+  unable to attend the conference, please <a
+  href="https://youtube.com/playlist?list=PL8PrAABsyhQedINCUdB3Jus_HEf-TTrHf">click
+  here</a> to view recordings from each presentation.
 eventInfoImage: /img/sample-event-image.png
 eventRegisterationUrl: 'https://vitalis.nu/hem/konferens/voicevitalis/'
 eventSessions:
