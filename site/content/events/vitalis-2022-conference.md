@@ -35,7 +35,10 @@ eventRegisterationUrl: 'https://vitalis.nu/hem/konferens/voicevitalis/'
 eventSessions:
   - presenters:
       - name: 'Jon Stine, Executive Director, Open Voice Network'
-      - name: 'Dr. Michael McTear, Emeritus Professor, Ulster University'
+      - name: >-
+          Dr. Michael McTear, Emeritus Professor, Ulster University | <a
+          href="https://drive.google.com/file/d/1zM9QYzdZ8DzmgDWFfkEmsIA9sRVAGfId/view?usp=sharing">Click
+          here</a> to view Dr. Michael McTear's Vitalis 2022 presentation.
       - name: >-
           Dr. Yaa Kumah-Crystal, Assistant Professor Biomedical Informatics,
           Vanderbilt University Medical Center
