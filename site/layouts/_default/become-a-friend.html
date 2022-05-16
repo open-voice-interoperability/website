@@ -19,9 +19,13 @@
           <p class="mw7 fw7 mb2">Contact Email: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db"
               type="email" name="contact_email">
           </p>
-
-        </div>
+        </div>     
         
+        <div class="mw7">
+          <p class="mw7 fw7 mb2">Contact test Email: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db"
+              type="email" name="test_email">
+          </p>
+        </div>  
 
           <fieldset class="mw7" >
             <legend class="mw7 fw7 mb2">Please choose up to two OVON Work Groups and Communities of interest:</legend>
@@ -31,7 +35,7 @@
                 Group
               </div>
               <div class="fl w-100 w-50-ns mb2">
-                <input class="mr2" type="checkbox" name="interest[]" value="Authentication Study Grou">Authentication
+                <input class="mr2" type="checkbox" name="interest[]" value="Authentication Study Group">Authentication
                 Study Group
               </div>
               <div class="fl w-100 w-50-ns mb2">
@@ -51,11 +55,11 @@
 
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest[]"
-                  value="Health, Wellness, and Life Sciences Community">Health, Wellness, and Life Sciences Community
+                  value="Health Wellness Life Sciences Community">Health, Wellness, and Life Sciences Community
               </div>
 
               <div class="fl w-100 w-50-ns mb2">
-                <input class="mr2" type="checkbox" name="interest[]" value="Media & Entertainment Community">Media &
+                <input class="mr2" type="checkbox" name="interest[]" value="Media Entertainment Community">Media &
                 Entertainment Community
               </div>
               <div class="fl w-100 w-50-ns mb2">
@@ -88,68 +92,5 @@
 </div>
 
 
-<script>
 
-  // const conferenceCheckbox = document.querySelector('#hear_about_conference_checkbox');
-  // const conferenceText = document.querySelector('#hear_about_conference_value');
-  // conferenceText.style.display = 'none'
-
-  // conferenceCheckbox.addEventListener('change', () => {
-  //   if (conferenceCheckbox.checked) {
-  //     conferenceText.style.display = 'block'
-  //     conferenceText.value = '';
-  //   } else {
-  //     conferenceText.style.display = 'none'
-  //   }
-  // });
-
-
-
-  // const referralCheckbox = document.querySelector('#hear_about_referral_checkbox');
-  // const referralText = document.querySelector('#hear_about_referral_value');
-  // referralText.style.display = 'none'
-
-  // referralCheckbox.addEventListener('change', () => {
-  //   if (referralCheckbox.checked) {
-  //     referralText.style.display = 'block'
-  //     referralText.value = '';
-  //   } else {
-  //     referralText.style.display = 'none'
-  //   }
-  // });
-
-  // const otherCheckbox = document.querySelector('#hear_about_other_checkbox');
-  // const otherText = document.querySelector('#hear_about_other_value');
-  // otherText.style.display = 'none'
-
-  // otherCheckbox.addEventListener('change', () => {
-  //   if (otherCheckbox.checked) {
-  //     otherText.style.display = 'block'
-  //     otherText.value = '';
-  //   } else {
-  //     otherText.style.display = 'none'
-  //   }
-  // });
-
-  // function limitInterestSelections(limit) {
-  //   const checkboxgroup = document.getElementsByName("interest");
-
-  //   for (var i = 0; i < checkboxgroup.length; i++) {
-  //     checkboxgroup[i].onclick = function (e) {
-  //       if (e.target.checked) {
-  //         var checkedcount = 0;
-  //         for (var i = 0; i < checkboxgroup.length; i++) {
-  //           checkedcount += (checkboxgroup[i].checked) ? 1 : 0;
-  //         }
-  //         if (checkedcount > limit) {
-  //           alert("You can only select 2 interests!");
-  //           this.checked = false;
-  //         }
-  //       }
-  //     }
-  //   }
-  // }
-
-  // limitInterestSelections(2);
-</script>
 {{ end }}
