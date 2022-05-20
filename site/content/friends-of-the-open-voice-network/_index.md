@@ -122,6 +122,15 @@ hardsell:
       - image: img/supporter_logos/tl-tech.png
         link: "https://www.tltechsmart.com/ "
         alt: "TL Tech Smart Home Solutions"         
+      - image: img/supporter_logos/cyrano-ai.svg
+        link: "https://www.cyrano.ai/"
+        alt: "Cyrano.ai"         
+      - image: img/supporter_logos/yobe-inc.svg
+        link: "https://yobeinc.com/"
+        alt: "Yobe Inc."         
+      - image: img/supporter_logos/qeema.png
+        link: "https://qeemavoice.com/"
+        alt: "Qeema"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
