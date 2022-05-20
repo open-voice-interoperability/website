@@ -24,9 +24,13 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Open Voice Network | Voice for everyone">
-	<meta property="og:url" content="/">
-	<meta property="og:image" content="/img/open-voice-network-branding.jpg">
+	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
+	<meta property="og:url" content="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}{{ .RelPermalink }}">
+	<meta property="og:image" content="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}{{ .Params.image }}">
+	<meta property="og:description" content="">
+	<!-- Twitter Graph -->
+	<meta name="twitter:card" content="summary_large_image">
+
   {{ template "_internal/google_analytics.html" . }}
   
   {{ if .IsHome }}
