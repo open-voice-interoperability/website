@@ -9,11 +9,12 @@ collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
     identifier_field: name
-    filter: {field: "enabled", value: true}
+    filter: {field: "archived", value: true}
     slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "CMS Archive", name: "archived", widget: "boolean", default: false}
       - {label: "Toggle Event", name: "enabled", widget: "boolean", default: true}
       - {label: "Unique Id Name(Once event created don't change it will break links)", name: "name", widget: "string"}  
       - {label: "List Item Title", name: "listItemTitle", widget: "string"}
@@ -401,10 +402,11 @@ collections: # A list of collections the CMS should be able to edit
     label: "Webinars"
     folder: "site/content/webinars"
     identifier_field: name
-    filter: {field: "enabled", value: true}
+    filter: {field: "archived", value: true}
     fields:      
       - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  ""}
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
+      - {label: "CMS Archive", name: "archived", widget: "boolean", default: false}
       - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
       - {label: Image, name: imageUrl, widget: image, required: false}
