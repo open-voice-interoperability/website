@@ -1,5 +1,5 @@
 ---
-enabled: false
+enabled: true
 name: Vitalis 2022 Conference
 listItemTitle: Vitalis 2022 Conference
 listItemImage: /img/sample-event-image.png

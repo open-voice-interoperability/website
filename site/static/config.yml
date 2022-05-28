@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: open-voice-network/website
-  branch: main
+  branch: bug_fix_hide_events
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 

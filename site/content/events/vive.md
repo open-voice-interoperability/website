@@ -7,7 +7,7 @@ listItemTitle: >-
 listItemImage: /img/open-voice-network-ovon-blog-join-the-open-voice-network-at-vive-2022.png
 date: 2022-02-07T19:37:19.844Z
 callToAction: Learn More
-eventDate: 'March 9, 2022'
+eventDate: '2022-03-09T11:00:14.250Z'
 presentersHeaderText: 'Presenters:'
 bioHeaderText: 'Presenter Bios:'
 pageHeaderBckImge: >-

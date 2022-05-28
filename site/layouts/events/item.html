@@ -5,11 +5,12 @@
     </div>
     <div class="tc pb4">
         <p>{{ .Params.listItemTitle }}</p>
-       
+        <p class="red"> {{ time.Format "2 January, 2006" .Params.eventDate}}</p>        
     </div>   
     <div class="tc center fixed bottom-0 pb2 w-100 " style="align-items: center;justify-content: center;" >
         <div class="static w-100"  >
             <a href="{{ .RelPermalink }}" target="_blank" rel="noopener" class="btn raise ">{{.Params.callToAction}}</a>
         </div>
+      
     </div> 
 </div>
