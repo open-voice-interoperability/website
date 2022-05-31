@@ -408,7 +408,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Webinars"
     folder: "site/content/webinars"
     identifier_field: name
-    filter: {field: "archived", value: true}
+    filter: {field: "archived", value: false}
     fields:      
       - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  ""}
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
