@@ -57,21 +57,21 @@ eventSessions:
     topic: Privacy Principles and Capabilities Unique to Voice Webinars
 eventParticipantBios:
   - bio: >-
-      Nick is the Co-Founder & CEO of RedFox AI, headquartered in Madison,
-      Wisconsin. RedFox AI is the creator of V Lab, a conversational artificial
-      intelligence (accessible via your smartphone) that facilitates at-home
-      medical tests for patients in the most accurate and efficient way
-      possible—all while offering a new level of on-demand customer support.
-      Nick is a TEDx and International Keynote Speaker, having spoken at events
-      and conferences across the U.S and around the world on artificial
-      intelligence and the future of work, data privacy, and the impact of
-      voice-enabled technologies on future human-to-machine and machine-to-human
-      interactions. Nick has been featured in publications including PR Daily,
-      In Business Madison, and the Journal of Digital and Social Media
-      Marketing. In 2019, RedFox AI was recognized as a "50 on Fire" company in
-      the state of Wisconsin by Wisconsin Inno. Nick is a "40 Under 40" award
-      winner and was nominated as Voice Commentator of The Year at the 2020
-      Project Voice Awards.
+      Nick is the [test](http:\\youtube.com) Co-Founder & CEO of RedFox AI,
+      headquartered in Madison, Wisconsin. RedFox AI is the creator of V Lab, a
+      conversational artificial intelligence (accessible via your smartphone)
+      that facilitates at-home medical tests for patients in the most accurate
+      and efficient way possible—all while offering a new level of on-demand
+      customer support. Nick is a TEDx and International Keynote Speaker, having
+      spoken at events and conferences across the U.S and around the world on
+      artificial intelligence and the future of work, data privacy, and the
+      impact of voice-enabled technologies on future human-to-machine and
+      machine-to-human interactions. Nick has been featured in publications
+      including PR Daily, In Business Madison, and the Journal of Digital and
+      Social Media Marketing. In 2019, RedFox AI was recognized as a "50 on
+      Fire" company in the state of Wisconsin by Wisconsin Inno. Nick is a "40
+      Under 40" award winner and was nominated as Voice Commentator of The Year
+      at the 2020 Project Voice Awards.
     name: Nick Myers | OVON Ambassador and Co-Founder + CEO at RedFox AI
     photoUrl: img/bio/speakers-nick-myers.png
   - bio: >-
