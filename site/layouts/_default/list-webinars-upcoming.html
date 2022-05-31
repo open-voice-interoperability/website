@@ -1,5 +1,4 @@
-<div class="w-100 center flex flex-row flex-wrap mb4">
-    
+<div class="w-100 center flex flex-row flex-wrap mb4">   
     {{$future_events := where (where .Pages "Type" "webinars") "Params.enabled" true }}
     {{ $counter := 0 }}
     {{ range sort $future_events }}

@@ -1,11 +1,13 @@
 ---
-enabled: false
+archived: false
+enabled: true
 name: ppc
 listItemTitle: Privacy Principles and Capabilities Unique to Voice Webinar
 listItemImage: /img/ovn-event-principles.png
 date: 2022-02-07T19:37:19.844Z
 callToAction: Learn More
 eventDate: '2022-04-20T11:00:14.250Z'
+eventEndDate: '2022-04-20T11:00:14.250Z'
 presentersHeaderText: 'Presenters:'
 bioHeaderText: 'Presenter Bios:'
 pageHeaderBckImge: /img/ovn-event-principles-header.png
