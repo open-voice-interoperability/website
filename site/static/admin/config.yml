@@ -9,7 +9,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
     identifier_field: name
-    filter: {field: "archived", value: true}
+    filter: {field: "archived", value: false}
     slug: "{{slug}}"
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
