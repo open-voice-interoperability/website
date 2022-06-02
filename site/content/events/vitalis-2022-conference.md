@@ -1,4 +1,5 @@
 ---
+archived: false
 enabled: true
 name: Vitalis 2022 Conference
 listItemTitle: Vitalis 2022 Conference
@@ -6,6 +7,7 @@ listItemImage: /img/sample-event-image.png
 date: 2022-05-06T16:55:14.240Z
 callToAction: Learn More
 eventDate: 2022-05-16T11:00:14.250Z
+eventEndDate: 2022-05-16T11:00:14.250Z
 presentersHeaderText: 'Speakers:'
 bioHeaderText: 'Speaker Bios:'
 pageHeaderBckImge: >-

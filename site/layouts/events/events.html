@@ -4,9 +4,31 @@
 
 <div class="mw9 bg-off-white pv4 pl2 pr2 pa4-ns cms center">
 	<div class="w-100 ph2-ns center cms">
+		{{ if .Params.heading }}
 		<h2 class="f2 b lh-title mb2">{{.Params.heading}}</h2>
+		{{ end}}
+		{{ if .Params.intro }}
 		<p class="mb4 mw6">{{.Params.intro | markdownify}}</p>
-		{{ .Render "list" }}
+		{{ end}}
+		<div>		
+			{{ if .Params.topSectionHeading  }} <h3> {{.Params.topSectionHeading }} </h3> 
+			{{end}}
+			{{ if .Params.topSectionHeadingIntro }}
+			<p class="mb4 mw7">{{.Params.topSectionHeadingIntro | markdownify}}</p>		
+			{{ end }}	
+			{{ .Render "list" }}	
+		</div>
+		<div>
+			{{ if .Params.showPastItems }}
+			{{ if .Params.bottomSectionHeading  }} <h3> {{.Params.bottomSectionHeading }} </h3> 
+			{{end}}
+			{{ if .Params.bottomSectionHeadingIntro }}
+			<p class="mb4 mw7">{{.Params.bottomSectionHeadingIntro | markdownify}}</p>
+			{{ end}}
+			{{ .Render "past"}}
+			{{ end}}
+		</div>
+
 	</div>
 
 </div>

@@ -1,0 +1,19 @@
+<div class="w-100 center flex flex-row flex-wrap mb4">
+    {{ $items := where .Pages "Type" "events" }}
+    {{ $active_items := where (where $items "Params.archived" false ) "Params.enabled" true}}
+     {{ $counter := 0 }}
+    {{ range sort $active_items }}
+    {{ $eventEndDate := time .Params.eventEndDate }}
+    {{ if lt $eventEndDate.YearDay now.YearDay }}
+    {{ $counter = add $counter 1 }}
+    <div class="w-100 w-third-l w-50-m  flex raise ">    
+        {{ .Render "item"}}
+    </div>
+    {{ end}}
+    {{ end }}  
+    {{ if eq $counter 0 }}
+    <div class="w-100 w-third-l w-50-m  flex raise ">  
+        {{ partial "coming_soon" }}
+    </div>       
+    {{ end}} 
+</div>

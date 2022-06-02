@@ -9,18 +9,19 @@ collections: # A list of collections the CMS should be able to edit
   - name: "events" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "events" # Used in the UI, ie.: "New Post"
     identifier_field: name
-    filter: {field: "enabled", value: true}
-    slug: "{{slug}}"
+    filter: {field: "archived", value: false}
     folder: "site/content/events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "CMS Archive", name: "archived", widget: "boolean", default: false}
       - {label: "Toggle Event", name: "enabled", widget: "boolean", default: true}
       - {label: "Unique Id Name(Once event created don't change it will break links)", name: "name", widget: "string"}    
       - {label: "List Item Title", name: "listItemTitle", widget: "string"}
       - {label: "List Item Image", name: "listItemImage", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "List Item Image Call to Action Text", name: "callToAction", widget: "string"}
-      - {label: "Event Date", name: "eventDate", widget: "datetime"}
+      - {label: "Event Start Date", name: "eventDate", widget: "datetime"}
+      - {label: "Event End Date", name: "eventEndDate", widget: "datetime"}
       - {label: "Presenters Section Header", name: "presentersHeaderText", widget: "string", required: false}
       - {label: "Bio Section Header", name: "bioHeaderText", widget: "string", required: false}
       - {label: "Sponsors Section Header", name: "sponsorsHeaderText", widget: "string", required: false}
@@ -48,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - {label: "Name", name: "name", widget: "string"}
-          - {label: "Bio", name: "bio", widget: "text"}
+          - {label: "Bio", name: "bio", widget: "markdown"}
           - {label: "Photo Url", name: "photoUrl", widget: "image"}
       - label: Sponsors
         name: eventSponsors
@@ -368,11 +369,16 @@ collections: # A list of collections the CMS should be able to edit
         label: "Events Page"
         name: "events"
         fields:
+          - {label: "Show Past Items", name: "showPastItems", widget: "boolean", default: false}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Image Jumbotron Style, name: jumboClass, widget: string}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: string, required: false}
+          - {label: TopSectionHeading, name: topSectionHeading, widget: string, required: false}
+          - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
+          - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
+          - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
       - file: "site/content/webinars/_index.md"
         label: "Webinars Page"
         name: "webinars"
@@ -401,10 +407,11 @@ collections: # A list of collections the CMS should be able to edit
     label: "Webinars"
     folder: "site/content/webinars"
     identifier_field: name
-    filter: {field: "enabled", value: true}
+    filter: {field: "archived", value: false}
     fields:      
       - {label: "Webinar Date", name: "endDate", widget: "datetime", default:  ""}
       - {label: "Unique Id Name(Once webinar created don't change it will break links)", name: "name", widget: "string"}
+      - {label: "CMS Archive", name: "archived", widget: "boolean", default: false}
       - {label: "Toggle Webinar", name: "enabled", widget: "boolean", default: true}
       - {label: Title, name: title, widget: string}
       - {label: Image, name: imageUrl, widget: image, required: false}
