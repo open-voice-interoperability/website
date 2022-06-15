@@ -131,6 +131,12 @@ hardsell:
       - image: img/supporter_logos/qeema.png
         link: "https://qeemavoice.com/"
         alt: "Qeema"         
+      - image: img/supporter_logos/arm.svg
+        link: "https://www.arm.com/"
+        alt: "ARM"         
+      - image: img/supporter_logos/opioid-consulting-educational-solutions.jpg
+        link: "http://www.opioid-consulting.com/"
+        alt: "Opioid Consulting Educational Solutions"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
