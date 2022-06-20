@@ -137,6 +137,12 @@ hardsell:
       - image: img/supporter_logos/opioid-consulting-educational-solutions.jpg
         link: "http://www.opioid-consulting.com/"
         alt: "Opioid Consulting Educational Solutions"         
+      - image: img/supporter_logos/moral-IT.png
+        link: "https://www.moral-it.com/"
+        alt: "Moral IT"         
+      - image: img/supporter_logos/landon-pediatric-foundation.png
+        link: "https://www.landonpediatric.org/"
+        alt: "Landon Pediatric Foundation"         
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
