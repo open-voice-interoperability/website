@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: open-voice-network/website
-  branch: cr_add_layout_prop_to_cms_join_hire
+  branch: main
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
