@@ -67,7 +67,7 @@ eventParticipantBios:
       advisor to a number of media companies and startups in voice-tech, gaming,
       TV, content, social, data security, app development and research.
     name: 'Donald Buckley – Moderator | Co-Head, Lullaboo Studios & VoiceTech Advisor'
-    photoUrl: /img/open-voice-network-ovn-ambassador-donald-buckley.jpg
+    photoUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-square.jpg
   - bio: >-
       Shyamala Prayaga is a self-driven evangelist for UX and voice technology
       who recognizes the societal and cultural benefits of voice tech evolution.
