@@ -9,9 +9,6 @@ intro: >-
   the voice industry and making a difference in the growing field. Explore our
   selection of open positions below, or contact us today to learn more about
   volunteer opportunities with the Open Voice Network.
-positions:
-  - date_posted: Posted on 6 June 2022
-    job_description: Coming Soon
-    job_title: Coming Soon
+positions: []
 ---
 
