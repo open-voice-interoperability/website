@@ -16,25 +16,27 @@ pageHeaderBckImge: >-
 eventTitle: 'Show Me the Money — Monetizing Voice: Part 1 Webinar'
 eventSubTitle: Moderated by Donald Buckley
 eventDescription: >-
-  The possibilities for voice-enabled AI are endless, and we’re seeing the
+  <p>The possibilities for voice-enabled AI are endless, and we’re seeing the
   future unfold right before our eyes. However, when we discuss ethics,
   interoperability, privacy, or any number of voice-related topics, there exists
-  one driving force that leads to a core question—where’s the money?  The Open
-  Voice Network is excited to launch our latest webinar series, “Show Me the
-  Money – Monetizing Voice.” This three-part series will explore the financial
-  component of the growing voice industry, namely where money will be found with
-  and through voice. We’ll discuss how brands and agencies can justify the
-  investment in voice with concrete examples of enterprise, B2B, and B2C use
-  cases that focus on revenue, operational efficiency, and cost reduction.  Join
-  us on 29 June, 2022 at 3PM ET for Part 1 of the series, featuring an expert
-  panel composed of prominent members of the voice community—Shyamala Prayaga,
-  Roger Kibbe, Ron Jaworski, Nick Godfrey, and Donald Buckley.  We hope to
-  inform attendees on the current landscape in voice as it pertains to
-  investing, while also providing a glimpse into the future of how organizations
-  will utilize voice to increase cash flow and redefine their business.  Click
-  here to register today for this free webinar and learn more about monetizing
-  the future of voice. Once registered, you will receive a confirmation email
-  with details on how to join the webinar.
+  one driving force that leads to a core question—where’s the money?</p><p>The
+  Open Voice Network is excited to launch our latest webinar series,
+  <strong>Show Me the Money – Monetizing Voice.</strong> This three-part series
+  will explore the financial component of the growing voice industry, namely
+  where money will be found with and through voice. We’ll discuss how brands and
+  agencies can justify the investment in voice with concrete examples of
+  enterprise, B2B, and B2C use cases that focus on revenue, operational
+  efficiency, and cost reduction.</p><p>Join us on 29 June, 2022 at 3PM ET for
+  Part 1 of the series, featuring an expert panel composed of prominent members
+  of the voice community—Shyamala Prayaga, Roger Kibbe, Ron Jaworski, Nick
+  Godfrey, and Donald Buckley.</p><p>We hope to inform attendees on the current
+  landscape in voice as it pertains to investing, while also providing a glimpse
+  into the future of how organizations will utilize voice to increase cash flow
+  and redefine their business.</p><p><a target="_blank" rel="noopener"
+  href="https://zoom.us/webinar/register/WN_naP4XcQ4Q-S36We0Hw-heg">Click
+  here</a> to register today for this free webinar and learn more about
+  monetizing the future of voice. Once registered, you will receive a
+  confirmation email with details on how to join the webinar.
 eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-1.png
 eventSessions:
