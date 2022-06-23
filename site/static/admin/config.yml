@@ -307,9 +307,10 @@ collections: # A list of collections the CMS should be able to edit
         label: "Positions to Hire Page"
         name: "positions-to-hire"
         fields:
+          - {label: Layout, name: layout, widget: hidden, default: positions-to-hire }
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
           - {label: Intro, name: intro, widget: markdown}
           - label: Positions
             name: positions
