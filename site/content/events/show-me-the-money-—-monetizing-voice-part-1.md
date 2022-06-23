@@ -26,13 +26,14 @@ eventDescription: >-
   where money will be found with and through voice. We’ll discuss how brands and
   agencies can justify the investment in voice with concrete examples of
   enterprise, B2B, and B2C use cases that focus on revenue, operational
-  efficiency, and cost reduction.</p><p>Join us on 29 June, 2022 at 3PM ET for
-  Part 1 of the series, featuring an expert panel composed of prominent members
-  of the voice community—Shyamala Prayaga, Roger Kibbe, Ron Jaworski, Nick
-  Godfrey, and Donald Buckley.</p><p>We hope to inform attendees on the current
-  landscape in voice as it pertains to investing, while also providing a glimpse
-  into the future of how organizations will utilize voice to increase cash flow
-  and redefine their business.</p><p><a target="_blank" rel="noopener"
+  efficiency, and cost reduction.</p><p>Join us on <strong>29 June, 2022 at 3PM
+  ET</strong> for Part 1 of the series, featuring an expert panel composed of
+  prominent members of the voice community—Shyamala Prayaga, Roger Kibbe, Ron
+  Jaworski, Nick Godfrey, and Donald Buckley.</p><p>We hope to inform attendees
+  on the current landscape in voice as it pertains to investing, while also
+  providing a glimpse into the future of how organizations will utilize voice to
+  increase cash flow and redefine their business.</p><p><a target="_blank"
+  rel="noopener"
   href="https://zoom.us/webinar/register/WN_naP4XcQ4Q-S36We0Hw-heg">Click
   here</a> to register today for this free webinar and learn more about
   monetizing the future of voice. Once registered, you will receive a
