@@ -66,7 +66,9 @@ positions:
 
       For more information about the **Senior Advisor, Technical Committee**
       position, including expectations, compensation, and additional position
-      details, please view the full position description here.
+      details, please <a target="_blank" rel="noopener"
+      href="https://drive.google.com/file/d/1uTpAjpMC8xZRHkXkxZLviKlcgVrHmKlv/view?usp=sharing">view
+      the full position description here</a>.
     job_title: 'Senior Advisor, Technical Committee'
 ---
 
