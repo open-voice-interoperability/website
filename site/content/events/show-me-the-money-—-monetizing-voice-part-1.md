@@ -1,7 +1,7 @@
 ---
 archived: false
 enabled: true
-name: 'Show Me the Money — Monetizing Voice: Part 1'
+name: show-me-the-money-voice-part1
 listItemTitle: 'Show Me the Money — Monetizing Voice: Part 1'
 listItemImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-1.png
