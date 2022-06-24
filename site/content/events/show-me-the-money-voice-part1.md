@@ -26,9 +26,9 @@ eventDescription: >-
   where money will be found with and through voice. We’ll discuss how brands and
   agencies can justify the investment in voice with concrete examples of
   enterprise, B2B, and B2C use cases that focus on revenue, operational
-  efficiency, and cost reduction.</p><p>Join us on <strong>29 June, 2022 at 3PM
-  ET</strong> for Part 1 of the series, featuring an expert panel composed of
-  prominent members of the voice community—Shyamala Prayaga, Roger Kibbe, Ron
+  efficiency, and cost reduction.</p><p>Join us on <strong>29 June, 2022 at
+  15:00 ET</strong> for Part 1 of the series, featuring an expert panel composed
+  of prominent members of the voice community—Shyamala Prayaga, Roger Kibbe, Ron
   Jaworski, Nick Godfrey, and Donald Buckley.</p><p>We hope to inform attendees
   on the current landscape in voice as it pertains to investing, while also
   providing a glimpse into the future of how organizations will utilize voice to
