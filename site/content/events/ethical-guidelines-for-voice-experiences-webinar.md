@@ -34,15 +34,16 @@ eventDescription: >-
   questions were used to construct a voice-specific ethical framework composed
   of six foundational principles of ethics—compliance, transparency,
   inclusivity, privacy protection, accountability, and sustainability.</p><p><a
-  href="white_papers" target=”_blank” >[Click here to find the white paper and
-  leave your feedback]</a></p><p>Join members of the Open Voice Network’s
-  Ethical Use Task Force on Wednesday, 27 July at 18:00 CET / 12:00 ET / 9:00 PT
-  as we discuss the white paper findings in our upcoming webinar. Guided by
-  moderator Oita Campbell, the session will feature a trio of acclaimed
-  panelists—Emily Banzhaf, Valeria Barbero, and Shilpi Agarwal.</p><p>Click
-  below to complete your free registration. This thirty-minute webinar will
-  include a panel discussion and Q&A session with members of the Ethical Use
-  Task Force. We look forward to sharing our findings with you!</p><p><a
+  href="https://openvoicenetwork.org/white_papers" target="_blank" >[Click here
+  to find the white paper and leave your feedback]</a></p><p>Join members of the
+  Open Voice Network’s Ethical Use Task Force on Wednesday, 27 July at 18:00 CET
+  / 12:00 ET / 9:00 PT as we discuss the white paper findings in our upcoming
+  webinar. Guided by moderator Oita Campbell, the session will feature a trio of
+  acclaimed panelists—Emily Banzhaf, Valeria Barbero, and Shilpi
+  Agarwal.</p><p>Click below to complete your free registration. This
+  thirty-minute webinar will include a panel discussion and Q&A session with
+  members of the Ethical Use Task Force. We look forward to sharing our findings
+  with you!</p><p><a
   href="https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg"
   target="_blank" ><img
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button.png"></a></p>
