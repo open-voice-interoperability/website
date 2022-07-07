@@ -395,7 +395,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
           - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
       - file: "site/content/crowd_funding/_index.md"
-        label: "Crowd Funding Page"
+        label: "Crowdfunding Page"
         name: "crowdfunding"
         fields:
           - {label: Title, name: title, widget: string}
