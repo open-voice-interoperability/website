@@ -1,7 +1,8 @@
-<div class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">  
-    <div>
+
+  <div onclick="location.href='{{ .RelPermalink }}'" class="mw7 bg-grey-1 raise pa4-s pa2 ma1 vh-auto min-vh-auto">  
+    <div>     
     <img src="{{ .Params.listItemImage }}" alt="" 
-    class="w-100 event-logo db mb1 " >
+    class="w-100 event-logo db mb1 " >`
     </div>
     <div class="tc pb4">
         <p>{{ .Params.listItemTitle }}</p>
@@ -12,4 +13,5 @@
             <a href="{{ .RelPermalink }}" target="_blank" rel="noopener" class="btn raise ">{{.Params.callToAction}}</a>
         </div>      
     </div> 
-</div>
+</div>  
+</a>
