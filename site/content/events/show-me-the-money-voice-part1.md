@@ -1,6 +1,6 @@
 ---
 archived: false
-enabled: true
+enabled: false
 name: show-me-the-money-voice-part1
 listItemTitle: 'Show Me the Money — Monetizing Voice: Part 1'
 listItemImage: >-
