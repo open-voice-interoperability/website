@@ -20,10 +20,10 @@ sections:
       The Open Voice Network is devoted to the development of technical
       standards and usage guidelines that will make voice worthy of user
       trust—open, standards based, interoperable, privacy minded, and data
-      protected. <br></br> <blockquote> "Would you prefer to shape the future of
-      voice or passively be shaped by it? If you prefer the former, the Open
-      Voice Network is the place for you. Please join us." <br></br>Jon Stine,
-      Executive Director of the Open Voice Network </blockquote>
+      protected. <br></br> <blockquote><cite> "Would you prefer to shape the
+      future of voice or passively be shaped by it? If you prefer the former,
+      the Open Voice Network is the place for you. Please join us." <br></br>Jon
+      Stine, Executive Director of the Open Voice Network </cite></blockquote>
 
       By choosing to participate in our crowdfunding efforts, you will have a
       significant impact on the future of voice through the broadening of our
