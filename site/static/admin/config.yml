@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: open-voice-network/website
-  branch: main
+  branch: featre_add_crowdfunding_page
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -394,6 +394,22 @@ collections: # A list of collections the CMS should be able to edit
           - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
           - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
           - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
+      - file: "site/content/crowd_funding/_index.md"
+        label: "Crowd Funding Page"
+        name: "crowdfunding"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}              
+              - {label: TextHTML, name: textHTML, widget: text}
+              - {label: Background Image, name: imageUrl, widget: image, required: false}
+              - {label: Call to Action Label, name: callToActionText, widget: string, required: false}
+              - {label: Call to Action Url, name: callToActionUrl, widget: string, required: false}
       - file: "site/content/white_papers/_index.md"
         label: "White Papers"
         name: "white_papers"
