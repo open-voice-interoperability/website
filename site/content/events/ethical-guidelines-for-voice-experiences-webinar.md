@@ -23,14 +23,14 @@ eventDescription: >-
   Guidelines for Voice Experiences.</p><p><a
   href="https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg"
   target="_blank" ><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button.png"></a></p>This
+  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>This
   white paper was written for enterprises and organizations who are actively
   utilizing voice technologies or plan to in the future. The Task Force set out
   to answer a multitude of questions tied to human interactions with voice,
-  including: <i>What are voice-specific issues of ethical and moral concern, and
+  including: _What are voice-specific issues of ethical and moral concern, and
   how do we define them? What are the values to be promoted for ethical
   interaction with voice technology? What are the rights to be respected for
-  successful, ethical voice experiences?</i> and many more. The answers to these
+  successful, ethical voice experiences?_ and many more. The answers to these
   questions were used to construct a voice-specific ethical framework composed
   of six foundational principles of ethics—compliance, transparency,
   inclusivity, privacy protection, accountability, and sustainability.</p><p><a
@@ -46,7 +46,7 @@ eventDescription: >-
   with you!</p><p><a
   href="https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg"
   target="_blank" ><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button.png"></a></p>
+  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>
 eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-ethical-guidelines-for-voice-experiences-webinar.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg'
