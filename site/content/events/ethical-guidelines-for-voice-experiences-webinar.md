@@ -27,20 +27,20 @@ eventDescription: >-
   white paper was written for enterprises and organizations who are actively
   utilizing voice technologies or plan to in the future. The Task Force set out
   to answer a multitude of questions tied to human interactions with voice,
-  including: _What are voice-specific issues of ethical and moral concern, and
-  how do we define them? What are the values to be promoted for ethical
+  including: <em>What are voice-specific issues of ethical and moral concern,
+  and how do we define them? What are the values to be promoted for ethical
   interaction with voice technology? What are the rights to be respected for
-  successful, ethical voice experiences?_ and many more. The answers to these
-  questions were used to construct a voice-specific ethical framework composed
-  of six foundational principles of ethics—compliance, transparency,
+  successful, ethical voice experiences?</em> and many more. The answers to
+  these questions were used to construct a voice-specific ethical framework
+  composed of six foundational principles of ethics—compliance, transparency,
   inclusivity, privacy protection, accountability, and sustainability.</p><p><a
   href="https://openvoicenetwork.org/white_papers" target="_blank" >[Click here
   to find the white paper and leave your feedback]</a></p><p>Join members of the
-  Open Voice Network’s Ethical Use Task Force on Wednesday, 27 July at 18:00 CET
-  / 12:00 ET / 9:00 PT as we discuss the white paper findings in our upcoming
-  webinar. Guided by moderator Oita Campbell, the session will feature a trio of
-  acclaimed panelists—Emily Banzhaf, Valeria Barbero, and Shilpi
-  Agarwal.</p><p>Click below to complete your free registration. This
+  Open Voice Network’s Ethical Use Task Force on <strong>Wednesday, 27 July at
+  18:00 CET / 12:00 ET / 9:00 PT</strong> as we discuss the white paper findings
+  in our upcoming webinar. Guided by moderator Oita Campbell, the session will
+  feature a trio of acclaimed panelists—Emily Banzhaf, Valeria Barbero, and
+  Shilpi Agarwal.</p><p>Click below to complete your free registration. This
   thirty-minute webinar will include a panel discussion and Q&A session with
   members of the Ethical Use Task Force. We look forward to sharing our findings
   with you!</p><p><a
