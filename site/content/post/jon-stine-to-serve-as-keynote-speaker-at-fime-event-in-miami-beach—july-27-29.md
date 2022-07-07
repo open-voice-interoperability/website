@@ -1,5 +1,5 @@
 ---
-title: Jon Stine to Serve as Keynote Speaker at FIME Event in Miami Beach—July 27-29
+title: Jon Stine to Serve as Keynote Speaker at FIME Event in Miami Beach—27-29 July
 posttype: featured
 date: 2022-07-07T17:07:52.391Z
 description: >-
