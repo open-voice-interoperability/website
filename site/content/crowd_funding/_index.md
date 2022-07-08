@@ -1,5 +1,5 @@
 ---
-title: Crowdfunding Test
+title: Crowdfunding
 image: /img/crowdfunding_header_image_1600x600.jpg
 jumboClass: pv5 pv6-l ph3
 sections:
