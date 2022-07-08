@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ partial "jumbotron_gradient" (dict "imageUrl" .Params.image "title" .Title "class" .Params.jumboClass) }}
+
+<div class="mw7 bg-off-white pv4 pl2 pr2 pa4-ns cms center">
+
+  {{ range $index, $element := .Params.sections }}
+    
+      {{ if modBool $index 2 }}
+        {{ partial "media-block" $element }}
+      {{ else }}
+        {{ partial "media-block" $element }}       
+      {{ end }}
+    
+  {{ end }}
+</div>
+
+
+
+{{ end }}

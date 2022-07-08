@@ -5,7 +5,14 @@
      {{ if .subHeading}}<sub>{{.subHeading}}</sub>{{ end }}
     </h3>
     {{ if .text }}<p>{{.text | markdownify }}</p>{{ end }}
-    {{ if .textHTML }}<div>{{.textHTML | safeHTML | markdownify }}</div>{{ end }}
+    {{ if .textHTML }}<div>{{.textHTML | safeHTML | markdownify }}</div>{{ end }}   
+    {{ if .callToActionUrl }}
+      <div class="w-100-ns tc pa2 ma1">
+      <a href="{{.callToActionUrl}}" target="_blank" rel="noopener" class="btnSecondary raise">   
+        {{.callToActionText}}
+      </a>
+     </div>
+    {{ end }}    
   </div>
 
 </div>

@@ -1,7 +1,8 @@
-import React from "react";
+// import React from "react";
 import CMS from "netlify-cms-app";
 
 // Import main site styles as a string to inject into the CMS preview pane
+// eslint-disable-next-line import/no-unresolved
 import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
 
 import HomePreview from "./cms-preview-templates/home";
@@ -20,9 +21,9 @@ import ContactPreview from "./cms-preview-templates/contact";
 import VoiceInteroperabilityPreview from "./cms-preview-templates/voice_interoperability_form";
 import VoiceChatsPreview from "./cms-preview-templates/voice-chats";
 import CalendarPreview from "./cms-preview-templates/calendar";
-import AudioReviewPreview from './cms-preview-templates/audio-reviews';
+import AudioReviewPreview from "./cms-preview-templates/audio-reviews";
 
-CMS.registerPreviewStyle(styles, { raw: true });
+CMS.registerPreviewStyle(styles, {raw: true});
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("papers", DocumentPreview);

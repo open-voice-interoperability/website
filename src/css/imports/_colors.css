@@ -40,6 +40,10 @@
   background-color: var(--primary);
 }
 
+.bg-transparent{
+  background-color: var(--transparent);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
