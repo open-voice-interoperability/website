@@ -164,10 +164,10 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
-              - {label: SubHeading, name: subHeading, widget: string}
+              - {label: SubHeading, name: subHeading, widget: string, required: false}
               - {label: Text, name: text, widget: text, required: false}
               - {label: TextHTML, name: textHTML, widget: text, required: false}
-              - {label: Image, name: imageUrl, widget: image}
+              - {label: Image, name: imageUrl, widget: image, required: false}
       - file: "site/content/ambassadors/_index.md"
         label: "Ambassadors Page"
         name: "ambassadors"
