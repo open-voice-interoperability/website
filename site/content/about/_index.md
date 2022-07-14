@@ -2,7 +2,7 @@
 title: About
 image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
 aboutsections:
-  - heading: Vision Test
+  - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       The Open Voice Network (OVON) seeks to make voice technology worthy of
