@@ -16,34 +16,23 @@ pageHeaderBckImge: >-
 eventTitle: Ethical Guidelines for Voice Experiences
 eventSubTitle: Moderated by Oita Coleman
 eventDescription: >-
-  <p>The Open Voice Network is excited to announce the second webinar in our
-  ongoing series, Global Standards for Conversational AI: a Webinar Series from
-  the Open Voice Network! This webinar will highlight the work of our Ethical
-  Use Task Force, as seen in their recently published v1.0 white paper, Ethical
-  Guidelines for Voice Experiences.</p><p><a
+  <p>Are voice assistants becoming more sexist? Should the voice of a dearly
+  departed relative be used to read a bedtime story? Are brands honoring choices
+  on how voice data is collected, used, and shared? Can voice technology be fair
+  and unbiased?</p><p><a
   href="https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg"
   target="_blank" ><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>This
-  white paper was written for enterprises and organizations who are actively
-  utilizing voice technologies or plan to in the future. The Task Force set out
-  to answer a multitude of questions tied to human interactions with voice,
-  including: <em>What are voice-specific issues of ethical and moral concern,
-  and how do we define them? What are the values to be promoted for ethical
-  interaction with voice technology? What are the rights to be respected for
-  successful, ethical voice experiences?</em> and many more. The answers to
-  these questions were used to construct a voice-specific ethical framework
-  composed of six foundational principles of ethics—compliance, transparency,
-  inclusivity, privacy protection, accountability, and sustainability.</p><p><a
+  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>Join
+  members of the Open Voice Network’s Ethical Use Task Force on Wednesday, 27
+  July at 18:00 CET / 12:00 ET / 9:00 PT for a 30-minute discussion on ethics in
+  voice technology, focusing on their recently published Ethical Guidelines for
+  Voice Experiences white paper.</p><p><a
   href="https://openvoicenetwork.org/white_papers" target="_blank" >[Click here
-  to find the white paper and leave your feedback]</a></p><p>Join members of the
-  Open Voice Network’s Ethical Use Task Force on <strong>Wednesday, 27 July at
-  18:00 CET / 12:00 ET / 9:00 PT</strong> as we discuss the white paper findings
-  in our upcoming webinar. Guided by moderator Oita Campbell, the session will
-  feature a trio of acclaimed panelists—Emily Banzhaf, Valeria Barbero, and
-  Shilpi Agarwal.</p><p>Click below to complete your free registration. This
-  thirty-minute webinar will include a panel discussion and Q&A session with
-  members of the Ethical Use Task Force. We look forward to sharing our findings
-  with you!</p><p><a
+  to find the white paper and leave your feedback]</a></p><p>This webinar will
+  include a panel discussion and Q&A session. Guided by moderator Oita Coleman,
+  the session will feature a trio of acclaimed panelists—Emily Banzhaf, Valeria
+  Barbero, and Shilpi Agarwal. We look forward to sharing our findings with
+  you!</p><p><a
   href="https://zoom.us/webinar/register/WN_R0cvs1hDQU6OCmWgEmwmEg"
   target="_blank" ><img
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>
