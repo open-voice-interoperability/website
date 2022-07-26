@@ -7,6 +7,16 @@ intro: >-
   and work.
 resources:
   - buttonLink: >-
+      https://drive.google.com/file/d/1GBrKXZZa7FXiU631-AIZft5CdaazKvXk/view?usp=sharing
+    buttonText: Learn More
+    feedBackUrl: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd1dAvz6fpknCWDqmPARHeoenxCktAKfUjxU7-97T0u3j1KHw/viewform?usp=sf_link
+    image: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-data-security-specific-to-voice-v2-white-paper-graphic.png
+    resourceType: WhitePaper
+    text: Read the v2.0 white paper created by our Privacy and Security Work Group
+    title: Read the v2.0 white paper created by our Privacy and Security Work Group
+  - buttonLink: >-
       https://drive.google.com/file/d/12gRf-NHITzSlSaveS93_jpGRn8NvMyTy/view?usp=sharing
     buttonText: Learn More
     feedBackUrl: 'https://forms.gle/WYins6oYXW9rvNNQ6'
