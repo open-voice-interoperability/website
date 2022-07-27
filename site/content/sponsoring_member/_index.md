@@ -1,19 +1,13 @@
 ---
+ctas:
+  - title: Become a Sponsoring Member
+    type: join
+    url: 'https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network '
+  - title: Become a Sponsoring Member
+    type: register
+    url: 'https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network '
 title: Sponsoring Member
 image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
-ctas:
-  - type: >-
-      join
-    title: >-
-      Become a Sponsoring Member
-    url: >-
-      https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network 
-  - type: >-
-      register
-    title: >-
-      Become a Sponsoring Member
-    url: >-
-      https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network 
 hardsell:
   - description: >-
       Is your enterprise or organization interested in contributing to the Open
@@ -22,14 +16,8 @@ hardsell:
       provide financial support and executive leadership to the Open Voice
       Network. Sponsorship is open worldwide to enterprises and public entities,
       as well as those that advise or represent such enterprises and entities.
-      <br><br>In response to the continuing growth of the Open Voice Network and
-      the desire to expand the reach of the organization even further, The Linux
-      Foundation has established a <a
-      href="https://crowdfunding.lfx.linuxfoundation.org/initiative/e1ce78fb-9ca5-4746-b6a0-310a0d81f004">crowdfunding
-      resource<a/> for our organization. Crowd-sourced funds will be directly
-      invested in OVON standards research, demo development, and
-      publication.<br><br>If you are interested in becoming a Sponsoring Member
-      of the Open Voice Network, please follow <a
+      <br><br>If you are interested in becoming a Sponsoring Member of the Open
+      Voice Network, please follow <a
       href="https://enrollment.lfx.linuxfoundation.org/?project=open-voice-network"
       target="_blank">this link<a/> or click one of the "Join" buttons below.
       The sponsorship tier breakdown for the Open Voice Network Sponsoring
