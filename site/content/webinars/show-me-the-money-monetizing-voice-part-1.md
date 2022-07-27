@@ -6,7 +6,7 @@ enabled: true
 title: 'Show Me the Money — Monetizing Voice: Part 1'
 imageUrl: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-1.png
-videoUrl: 'https://www.youtube.com/watch?v=1uMpy9JvXLU?rel=0'
+videoUrl: 'https://www.youtube.com/embed/1uMpy9JvXLU?rel=0'
 callToAction: Learn More
 callToActionEvent: show-me-the-money-voice-part1
 ---
