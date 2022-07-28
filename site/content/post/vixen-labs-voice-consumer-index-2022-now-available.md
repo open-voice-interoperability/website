@@ -7,4 +7,4 @@ description: >-
   available! The Open Voice Network is a proud sponsor of the report, and we
   look forward to learning more about the data Vixen Labs has gathered.
 ---
-<a href="https://vixenlabs.co/research/voice-consumer-index-2022" target="_blank" rel="noopener">Click here</a> to learn more about the report and download your free copy from Vixen Labs.
+<a href="https://openvoicenetwork.org/post/vixen-labs-publishes-voice-consumer-index-2022-report/" target="_blank" rel="noopener">Click here</a> to learn more about the report and download your free copy from Vixen Labs.
