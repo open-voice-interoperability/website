@@ -15,6 +15,6 @@ topSectionHeadingIntro: >-
 bottomSectionHeading: Past Webinars
 bottomSectionHeadingIntro: >-
   Did you miss one of our recent webinars? Browse our selection of webinar
-  recordings below
+  recordings below.
 ---
 
