@@ -7,9 +7,10 @@ listItemImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-isca-spsc-symposium-keynote-speaker-jon-stine.png
 date: 2022-08-01T16:40:21.067Z
 callToAction: Learn More
-eventDate: 2022-08-01T16:40:21.089Z
-eventEndDate: 2022-08-01T16:40:21.111Z
-presentersHeaderText: 'Location:'
+eventDate: 2022-09-23T16:40:21.089Z
+eventEndDate: 2022-09-24T16:40:21.111Z
+presentersHeaderText: 'Panelists:'
+bioHeaderText: 'Panelist Bios:'
 pageHeaderBckImge: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-temporary-header.png
 eventTitle: ISCA SPSC Symposium
@@ -30,6 +31,10 @@ eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-isca-spsc-symposium-keynote-speaker-jon-stine.png
 eventInfoImageLink: 'https://symposium2022.spsc-sig.org/#home'
 eventRegisterationUrl: 'https://symposium2022.spsc-sig.org/#home'
-eventSessions: []
+eventSessions:
+  - presenters:
+      - name: Jon Stine—Keynote Speaker
+    timeslot: '23-24 September, 2022'
+    topic: ISCA SPSC Symposium
 ---
 
