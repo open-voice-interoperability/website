@@ -140,11 +140,6 @@
 
   const conferenceCheckbox = document.querySelector('#conference_checkbox');
   const conferenceText = document.querySelector('#conference_value');
-  const interestsValidator = document.querySelector('#interest_validator');
-  const hearAboutValidator = document.querySelector('#hear_about_validator');
-  const interestContainer = document.querySelector('#interest_container');
-  const hearAboutContainer = document.querySelector('#hear_about_container');
-
   conferenceText.style.display = 'none'
 
   conferenceCheckbox.addEventListener('change', () => {
@@ -155,8 +150,6 @@
       conferenceText.style.display = 'none'
     }
   });
-
-
 
   const referralCheckbox = document.querySelector('#referral_checkbox');
   const referralText = document.querySelector('#referral_value');
