@@ -33,3 +33,9 @@
 .b--black {
   border-color: var(--black);
 }
+
+.b--error {
+  border-color: var(--error);
+}
+
+
