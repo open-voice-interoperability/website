@@ -143,6 +143,18 @@ hardsell:
       - image: img/supporter_logos/landon-pediatric-foundation.png
         link: "https://www.landonpediatric.org/"
         alt: "Landon Pediatric Foundation"         
+      - image: img/supporter_logos/twang.svg
+        link: "https://www.twang.io/"
+        alt: "Twang"
+      - image: img/supporter_logos/readspeaker-ai.svg
+        link: "https://www.readspeaker.com/"
+        alt: "Readspeaker AI"
+      - image: img/supporter_logos/assistent-ai.svg
+        link: "http://assistent.ai/"
+        alt: "Assistent AI"
+      - image: img/supporter_logos/outriderUX-logo.png
+        link: "https://outriderux.com/"
+        alt: "Outrider UX"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
