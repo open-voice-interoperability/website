@@ -2,6 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
+
 <div class="mw9 center bg-off-white pt4">
   <div class="mw7 center ph3 pt4 mb5">
     <div class="w-100 cms">
@@ -13,18 +14,30 @@
         method="POST" name="become_a_friend"><input type="hidden" name="form-name" value="become_a_friend">
         <div class="mw7">
           <p class="mw7 fw7 mb2">Organization Name: <input
-              class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" type="text" name="org_name"></p>
+              class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" type="text" name="org_name" required></p>
+        </div>
+        <div class="mw7">
+          <p class="mw7 fw7 mb2">Contact Name: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db"
+              type="text" name="contact_name" required>
+          </p>
         </div>
         <div class="mw7">
           <p class="mw7 fw7 mb2">Contact Email: <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db"
-              type="email" name="contact_email">
+              type="email" name="contact_email" required>
           </p>
-
+        </div>
+        <div class="mw7">
+          <p class="mw7 fw7 mb2">Contact Number(123-123-1234): <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db"
+              type="tel"
+              pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+              name="contact_number" required aria-required="true">
+          </p>
         </div>
         <div class="mw7">
           <fieldset class="mw7">
             <legend class="mw7 fw7 mb2">How did you hear about the Friends of the Open Voice Network program?</legend>
-            <div class="ph2 mw6 cf">
+            <input type="number" value="0" name="hear_about_validator" min="0" id="hear_about_validator" class="dn" />
+            <div class="ph2 mw6 cf" id="hear_about_container">
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="hear_about" value="blog">Blog or Publication
               </div>
@@ -45,7 +58,7 @@
                   <input class="mr2" type="checkbox" id="hear_about_other_checkbox" name="hear_about">Other
                 </div>
                 <div class="pb2"><textarea rows="1" class="w-90 mh2" id="hear_about_other_value"
-                    name="hear_about_other_value" style="display: none;"></textarea>
+                    name="Community Interest Value" style="display: none;"></textarea>
                 </div>
               </div>
               <div class="fl w-100 w-50-ns mb2">
@@ -62,7 +75,8 @@
         <div class="mw7">
           <fieldset class="mw7">
             <legend class="mw7 fw7 mb2">Please choose up to two OVON Work Groups and Communities of interest:</legend>
-            <div class="ph2 mw6 cf">
+            <input type="number" value="0" name="interest_validator" id="interest_validator" class="dn" />
+            <div class="ph2 mw6 cf" id="interest_container">
               <div class="fl w-100 w-50-ns mb2">
                 <input class="mr2" type="checkbox" name="interest" value="Architecture Work Group">Architecture Work
                 Group
@@ -109,25 +123,27 @@
         <div class="mw7">
           <p class="fw7 mb2"> Logo (.svg or .ai format preferred, if possible):
             <input class="input-reset w-90 bg-grey-1 ph0" type="file" name="org_logo"
-              accept="image/*,.ai,.svg,.psd,.eps">
+              accept="image/*,.ai,.svg,.psd,.eps" required>
           </p>
         </div>
         <div>
-          <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+          <button type="submit" class="btn w-100 w-auto-ns raise" name="submit" id="submit">Submit</button>
         </div>
       </form>
     </div>
-
-
-
   </div>
 </div>
 
 
 <script>
-  
+
   const conferenceCheckbox = document.querySelector('#conference_checkbox');
   const conferenceText = document.querySelector('#conference_value');
+  const interestsValidator = document.querySelector('#interest_validator');
+  const hearAboutValidator = document.querySelector('#hear_about_validator');
+  const interestContainer = document.querySelector('#interest_container');
+  const hearAboutContainer = document.querySelector('#hear_about_container');
+
   conferenceText.style.display = 'none'
 
   conferenceCheckbox.addEventListener('change', () => {
@@ -167,25 +183,81 @@
     }
   });
 
-  function limitInterestSelections(limit) {
-    const checkboxgroup = document.getElementsByName("interest");
+  function enableCheckBoxesValidation(checkboxNames, containerId, validatorId, withMaxLimitOf) {
+    const checkBoxGroup = document.getElementsByName(checkboxNames);
+    const container = document.querySelector("#" + containerId);
+    const validator = document.querySelector("#" + validatorId);
 
-    for (var i = 0; i < checkboxgroup.length; i++) {
-      checkboxgroup[i].onclick = function (e) {
+    for (var i = 0; i < checkBoxGroup.length; i++) {
+      checkBoxGroup[i].onclick = function (e) {
+        var checkedcount = 0;
+        for (var i = 0; i < checkBoxGroup.length; i++) {
+          checkedcount += (checkBoxGroup[i].checked) ? 1 : 0;
+        }
+
+        if (validator) {
+          validator.value = checkedcount;
+        }
+
         if (e.target.checked) {
-          var checkedcount = 0;
-          for (var i = 0; i < checkboxgroup.length; i++) {
-            checkedcount += (checkboxgroup[i].checked) ? 1 : 0;
-          }
-          if (checkedcount > limit) {
-            alert("You can only select 2 interests!");
-            this.checked = false;
+          runFieldCustomValidation(container, true);
+          if (withMaxLimitOf) {
+            if (checkedcount > withMaxLimitOf) {
+              alert("You can only select 2 interests!");
+              this.checked = false;
+            }
           }
         }
+
       }
     }
   }
 
-  limitInterestSelections(2);
+  function enableCheckBoxListValidations(){
+    enableCheckBoxesValidation("interest", "interest_container", "interest_validator", 2);
+    enableCheckBoxesValidation("hear_about", "hear_about_container", "hear_about_validator", null);
+  }
+
+  function runFormCustomValidation(formEvent, targetElementId, isValid) {
+    const targetElement = document.querySelector("#" + targetElementId);
+
+    formEvent.preventDefault(!isValid);
+    if (targetElement) { runFieldCustomValidation(targetElement, isValid) };
+  }
+
+  function runFieldCustomValidation(targetElement, isValid) {
+    applyValidationStyle(targetElement, !isValid);
+  }
+
+
+  function applyValidationStyle(element, apply) {
+    if (apply) {
+      element.classList.add("ba", "bw1-ns", "b--error");
+    }
+    else {
+      element.classList.remove("ba", "bw1-ns", "b--error");
+    }
+  }
+
+  function runValidation(form, validatorId, containerId, valueToCheck) {
+    const validator = document.querySelector("#" + validatorId);
+    if (validator) {
+      if (validator.value == valueToCheck) {
+        runFormCustomValidation(form, containerId, false)
+      }
+    }
+  }
+
+  function addFormValidations() {
+    const form = document.getElementsByTagName("form");
+    form[0].addEventListener('submit', (e) => {
+      runValidation(e, "interest_validator", "interest_container", "0")
+      runValidation(e, "hear_about_validator", "hear_about_container", "0")
+    });
+  }
+
+  enableCheckBoxListValidations();
+  addFormValidations();
+
 </script>
 {{ end }}
