@@ -6,6 +6,16 @@ intro: >-
   Explore a collection of resources relevant to the Open Voice Network's mission
   and work.
 resources:
+  - buttonLink: '#'
+    buttonText: Learn More
+    feedBackUrl: '#'
+    image: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v3.0-white-paper.png
+    resourceType: WhitePaper
+    text: >-
+      Read the v3.0 white paper created by our Architecture Work Group and join
+      the public discussion with your feedback.
+    title: Read the v3.0 white paper created by our Architecture Work Group
   - buttonLink: >-
       https://drive.google.com/file/d/1GBrKXZZa7FXiU631-AIZft5CdaazKvXk/view?usp=sharing
     buttonText: Learn More
