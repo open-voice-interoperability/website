@@ -14,9 +14,32 @@ fieldset
   padding: 0;
 }
 
+
+select{
+  background-color: var(--grey-2);
+  border-radius: var(--border-radius);
+  border-color: var(--black);
+  font-size: 1rem;
+  padding: 12px 16px 10px;
+  line-height: 1.25;
+  position: relative;
+  transition: var(--hover-transition);
+  z-index: 2;
+  &:focus {
+    background-color: var(--white);
+    border-color: blue;
+    border-width: 3px;
+    line-height: 1;
+    opacity: 1;
+    pointer-events: auto;
+   
+  }
+}
+
 input, textarea {
   background-color: var(--grey-2);
   border-radius: var(--border-radius);
+  border-color: var(--black);
   padding: 12px 16px 10px;
   font-size: var(--spacing-medium);
   line-height: 1.25;
