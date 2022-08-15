@@ -281,10 +281,10 @@
               </div>
               <div class="fl w-100 w-50-ns mb2">
                 <div>
-                  <input class="mr2" type="checkbox" id="hear_about_other_checkbox" value="other"
+                  <input class="mr2" type="checkbox" id="hear_about_other_checkbox" value="hear_about"
                     name="hear_about">Other
                 </div>
-                <div class="pb2"><textarea rows="1" class="w-90 mh2" id="hear_about_other_value" name="Other"
+                <div class="pb2"><textarea rows="1" class="w-90 mh2" id="hear_about_other_value" name="other_value"
                     style="display: none;"></textarea>
                 </div>
               </div>
@@ -374,8 +374,10 @@
     if (conferenceCheckbox.checked) {
       conferenceText.style.display = 'block'
       conferenceText.value = '';
+      conferenceText.setAttribute('required', '');
     } else {
       conferenceText.style.display = 'none'
+      conferenceText.removeAttribute('required');
     }
   });
 
