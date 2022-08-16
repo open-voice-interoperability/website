@@ -4,7 +4,9 @@ image: >-
   /img/artificial-intelligence-voice-open-voice-network-related-resources_optimized.jpg
 intro: >-
   Explore a collection of resources relevant to the Open Voice Network's mission
-  and work.
+  and work. Please <a href="https://openvoicenetwork.org/white_papers"
+  target="_blank" rel="noopener">click here</a> to leave feedback on our
+  selection of white papers.
 resources:
   - buttonLink: >-
       https://drive.google.com/file/d/15GEequrmi7gscHDoWy9X9pNZoLAK7OJ0/view?usp=sharing
