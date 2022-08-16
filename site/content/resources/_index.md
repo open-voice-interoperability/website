@@ -6,9 +6,11 @@ intro: >-
   Explore a collection of resources relevant to the Open Voice Network's mission
   and work.
 resources:
-  - buttonLink: '#'
+  - buttonLink: >-
+      https://drive.google.com/file/d/15GEequrmi7gscHDoWy9X9pNZoLAK7OJ0/view?usp=sharing
     buttonText: Learn More
-    feedBackUrl: '#'
+    feedBackUrl: >-
+      https://openvoicenetwork.groups.io/g/whitepapers/topic/interoperability_of/93047684?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93047684,previd%3D1660601323200073413,nextid%3D1660601323200073413&previd=1660601323200073413&nextid=1660601323200073413
     image: >-
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v3.0-white-paper.png
     resourceType: WhitePaper
