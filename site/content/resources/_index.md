@@ -17,10 +17,10 @@ resources:
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v3.0-white-paper.png
     resourceType: WhitePaper
     text: >-
-      Read the v3.0 white paper created by our Architecture Work Group and join
+      Read the v1.0 white paper created by our Architecture Work Group and join
       the public discussion with your feedback.
     title: >-
-      Read the v3.0 white paper created by our Architecture Work Group and join
+      Read the v1.0 white paper created by our Architecture Work Group and join
       the public discussion with your feedback.
   - buttonLink: >-
       https://drive.google.com/file/d/1GBrKXZZa7FXiU631-AIZft5CdaazKvXk/view?usp=sharing
