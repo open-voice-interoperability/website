@@ -13,7 +13,7 @@ bioHeaderText: 'Panelist Bios:'
 pageHeaderBckImge: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-temporary-header.png
 eventTitle: Interoperability of Conversational Assistants
-eventSubTitle: A New Approach—Moderated by Open Voice Network Executive Director Jon Stine
+eventSubTitle: Moderated by Open Voice Network Executive Director Jon Stine
 eventDescription: >-
   <p>Interoperability—the sharing of dialogs between conversational assistants
   and agents of different technological parentage—is an essential capability to
@@ -30,10 +30,7 @@ eventDescription: >-
   to find the white paper and leave your feedback]</a></p><p>This webinar will
   include a panel discussion and Q&A session. Guided by moderator Jon Stine, the
   session will feature panelists Deborah Dahl, Jim Larson, Boris Volfson, and
-  Kiran Kadekoppa. We look forward to sharing our findings with you!</p><p><a
-  href="https://zoom.us/webinar/register/WN_I3tkFiLIQve3ILMXNqGx5Q"
-  target="_blank"><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>
+  Kiran Kadekoppa. We look forward to sharing our findings with you!</p>
 eventInfoImage: /img/header.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_I3tkFiLIQve3ILMXNqGx5Q'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_I3tkFiLIQve3ILMXNqGx5Q'
