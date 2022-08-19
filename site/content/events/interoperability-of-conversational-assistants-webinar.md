@@ -31,7 +31,7 @@ eventDescription: >-
   include a panel discussion and Q&A session. Guided by moderator Jon Stine, the
   session will feature panelists Deborah Dahl, Jim Larson, Boris Volfson, and
   Kiran Kadekoppa. We look forward to sharing our findings with you!</p>
-eventInfoImage: /img/header.png
+eventInfoImage: /img/artboard_1_copy_3-2x-2-.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_I3tkFiLIQve3ILMXNqGx5Q'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_I3tkFiLIQve3ILMXNqGx5Q'
 eventSessions:
