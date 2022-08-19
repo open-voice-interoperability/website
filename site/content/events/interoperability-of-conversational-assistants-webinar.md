@@ -69,9 +69,16 @@ eventParticipantBios:
       science at the University of Pennsylvania.
     name: Deborah Dahl | Principal at Conversational Technologies
     photoUrl: /img/deborah-dahl.jpg
-  - bio: ' .'
+  - bio: >-
+      James A. Larson, Ph.D., is co-chair of the W3C Voice Browser Working Group
+      and chair of the authoring subgroup of the W3C Multimodal Interaction
+      Working Group. He writes the Forward Thinking column for Speech Technology
+      magazine, and teaches courses in the user interface design and
+      implementation at the Portland State University and the Oregon Health and
+      Sciences University. He is Vice President of Larson Technical Services, a
+      speech application consulting and training company.
     name: Jim Larson | Senior Advisor at Open Voice Network
-    photoUrl: /img/1x1-white-pixel.png
+    photoUrl: /img/maxresdefault-3-.png
   - bio: >-
       Boris Volfson is a Principle UX Designer at Nuance/Microsoft. He cares and
       thinks a lot about omnichannel and multi-model experiences. He's created
