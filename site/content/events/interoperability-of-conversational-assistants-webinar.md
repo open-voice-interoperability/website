@@ -3,7 +3,7 @@ archived: false
 enabled: true
 name: interoperability-of-conversational-assistants-webinar
 listItemTitle: Interoperability of Conversational Assistants
-listItemImage: /img/header.png
+listItemImage: /img/artboard_1_copy_3-2x-2-.png
 date: 2022-08-19T15:03:56.095Z
 callToAction: Learn More
 eventDate: 2022-08-24T16:00:00.000Z
