@@ -12,7 +12,7 @@ resources:
       https://drive.google.com/file/d/15GEequrmi7gscHDoWy9X9pNZoLAK7OJ0/view?usp=sharing
     buttonText: Learn More
     feedBackUrl: >-
-      https://openvoicenetwork.groups.io/g/whitepapers/topic/interoperability_of/93047684?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93047684,previd%3D1660601323200073413,nextid%3D1660601323200073413&previd=1660601323200073413&nextid=1660601323200073413
+      https://lists.openvoicenetwork.org/g/whitepapers/topic/interoperability_of/93124583?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93124583,previd%3D1661092695988915543,nextid%3D1661092695988915543&previd=1661092695988915543&nextid=1661092695988915543
     image: >-
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v1-white-paper-graphic.png
     resourceType: WhitePaper
