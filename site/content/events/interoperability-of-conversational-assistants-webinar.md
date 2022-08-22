@@ -70,13 +70,14 @@ eventParticipantBios:
     name: Deborah Dahl | Principal at Conversational Technologies
     photoUrl: /img/deborah-dahl.jpg
   - bio: >-
-      James A. Larson, Ph.D., is co-chair of the W3C Voice Browser Working Group
-      and chair of the authoring subgroup of the W3C Multimodal Interaction
-      Working Group. He writes the Forward Thinking column for Speech Technology
-      magazine, and teaches courses in the user interface design and
-      implementation at the Portland State University and the Oregon Health and
-      Sciences University. He is Vice President of Larson Technical Services, a
-      speech application consulting and training company.
+      Jim was chair/co-chair of the W3C Voice Browser Working Group that
+      standardized VoiceXML dialog, speech recognition grammar, speech
+      synthesis, and language lexicon pronunciation family of XML languages. He
+      as been chair/co-chair for 12 of the yearly Speech Technology conferences,
+      and he has taught courses in developing speech applications as an Adjunct
+      Professor at Portland State University. Jim has many years of industrial
+      computing experience from working at Sperry-Rand, Honeywell, and Intel. 
+      He has a pet schnauzer named Omitfo.
     name: Jim Larson | Senior Advisor at Open Voice Network
     photoUrl: /img/maxresdefault-3-.png
   - bio: >-
