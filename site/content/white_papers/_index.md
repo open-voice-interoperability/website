@@ -11,9 +11,10 @@ intro: >-
   public comments on <a
   href="https://openvoicenetwork.groups.io/g/whitepapers/topics" target="_blank"
   rel="noopener">Groups.io</a>. We look forward to hearing your thoughts,
-  questions, and criticisms on each publication.<br></br>Alternatively, visit <a
-  href=https://forms.gle/hou7wsRiom4QtV138 target="_blank" rel="noopener">this
-  link</a> to leave feedback on each paper anonymously.
+  questions, and criticisms on each publication.<br></br>Alternatively, email
+  <strong>openvoicenetwork.whitepapers@openvoicenetwork.org</strong> to leave
+  feedback on each paper anonymously. Please include the paper title in the
+  subject line of your email.
 callToAction: Read Paper
 callToActionFeedback: Leave Feedback
 ---
