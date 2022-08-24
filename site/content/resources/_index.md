@@ -19,8 +19,9 @@ resources:
       Read the v1.0 white paper created by our Architecture Work Group and join
       the public discussion with your feedback.
     title: >-
-      Read the v1.0 white paper created by our Architecture Work Group and join
-      the public discussion with your feedback.
+      Read the v1.0 white paper created by our Architecture Work Group and email
+      your public feedback to
+      <strong>whitepapers@openvoicenetwork.groups.io</strong>.
   - buttonLink: >-
       https://drive.google.com/file/d/1GBrKXZZa7FXiU631-AIZft5CdaazKvXk/view?usp=sharing
     buttonText: Learn More
