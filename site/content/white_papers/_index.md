@@ -16,6 +16,6 @@ intro: >-
   feedback on each paper anonymously. Please include the paper title in the
   subject line of your email.
 callToAction: Read Paper
-callToActionFeedback: Email Feedback (Address Above)
+callToActionFeedback: Email Feedback
 ---
 
