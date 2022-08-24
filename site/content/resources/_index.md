@@ -11,7 +11,7 @@ resources:
   - buttonLink: >-
       https://drive.google.com/file/d/15GEequrmi7gscHDoWy9X9pNZoLAK7OJ0/view?usp=sharing
     buttonText: Learn More
-    feedBackUrl: ''
+    feedBackUrl: 'mailto:whitepapers@openvoicenetwork.groups.io'
     image: >-
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v1-white-paper-graphic.png
     resourceType: WhitePaper
