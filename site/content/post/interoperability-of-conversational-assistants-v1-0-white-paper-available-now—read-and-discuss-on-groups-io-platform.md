@@ -9,4 +9,4 @@ description: >-
   paper serves as a step on the path to conversational assistance
   interoperability.
 ---
-<a href="https://openvoicenetwork.groups.io/g/whitepapers/topic/interoperability_of/93047684?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93047684,previd%3D1660601323200073413,nextid%3D1660601323200073413&previd=1660601323200073413&nextid=1660601323200073413" target="_blank">Click here</a> to find the white paper on Groups.io and offer your public feedback. Anonymous feedback can be submitted <a href="https://forms.gle/hou7wsRiom4QtV138" target="_blank">here</a>.
+<a href="https://lists.openvoicenetwork.org/g/whitepapers/topic/interoperability_of/93124583?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93124583,previd%3D1661092695988915543,nextid%3D1661092695988915543&previd=1661092695988915543&nextid=1661092695988915543" target="_blank">Click here</a> to find the white paper on Groups.io. To submit your public feedback, please <a href="mailto:whitepapers@openvoicenetwork.groups.io">email us your critiques</a>. Anonymous feedback can be submitted <a href="https://forms.gle/hou7wsRiom4QtV138" target="_blank">here</a>.
