@@ -10,3 +10,7 @@ description: >-
   interoperability.
 ---
 <a href="https://lists.openvoicenetwork.org/g/whitepapers/topic/interoperability_of/93124583?p=,,,20,0,0,0::recentpostdate/sticky,,,20,2,0,93124583,previd%3D1661092695988915543,nextid%3D1661092695988915543&previd=1661092695988915543&nextid=1661092695988915543" target="_blank">Click here</a> to find the white paper on Groups.io. To submit your public feedback, please email your critiques to whitepapers@openvoicenetwork.groups.io. Anonymous feedback can be emailed to openvoicenetwork.whitepapers@openvoicenetwork.org.
+
+
+
+<a href="mailto:whitepapers@openvoicenetwork.groups.io?Subject=Interoperability_Feedback" target="_top">Public feedback</a>
