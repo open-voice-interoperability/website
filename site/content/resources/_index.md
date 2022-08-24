@@ -17,8 +17,7 @@ resources:
     resourceType: WhitePaper
     text: >-
       Read the v1.0 white paper created by our Architecture Work Group and email
-      your public feedback to
-      <strong>whitepapers@openvoicenetwork.groups.io</strong>.
+      your public feedback to whitepapers@openvoicenetwork.groups.io.
     title: >-
       Read the v1.0 white paper created by our Architecture Work Group and email
       your public feedback to whitepapers@openvoicenetwork.groups.io.
