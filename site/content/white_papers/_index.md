@@ -13,7 +13,7 @@ intro: >-
   rel="noopener">Groups.io</a>. We look forward to hearing your thoughts,
   questions, and criticisms on each publication.<br></br>Alternatively, email <a
   href="mailto:openvoicenetwork.whitepapers@openvoicenetwork.org"
-  rel="_target"><strong>openvoicenetwork.whitepapers@openvoicenetwork.org</strong></a>
+  target="_blank"><strong>openvoicenetwork.whitepapers@openvoicenetwork.org</strong></a>
   to leave feedback on each paper anonymously. Please include the paper title in
   the subject line of your email.
 callToAction: Read Paper
