@@ -4,8 +4,8 @@ name: interoperability-of-conversational-assistants-webinar
 archived: false
 enabled: true
 title: Interoperability of Conversational Assistants
-imageUrl: /img/header.png
-videoUrl: 'https://www.youtube.com/watch?v=fSxi7mXUou4'
+imageUrl: /img/artboard_1_copy_3-2x-2-.png
+videoUrl: 'https://www.youtube.com/embed/fSxi7mXUou4'
 callToAction: Register Now
 callToActionEvent: interoperability-of-conversational-assistants-webinar
 ---
