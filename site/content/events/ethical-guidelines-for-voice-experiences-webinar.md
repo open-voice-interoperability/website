@@ -6,7 +6,7 @@ listItemTitle: Ethical Guidelines for Voice Experiences
 listItemImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-ethical-guidelines-for-voice-experiences-webinar.png
 date: 2022-07-07T14:43:25.264Z
-callToAction: Register Now
+callToAction: Learn More
 eventDate: 2022-07-27T16:00:00.000Z
 eventEndDate: 2022-07-27T16:30:25.280Z
 presentersHeaderText: 'Panelists:'
