@@ -3,7 +3,7 @@ archived: false
 enabled: true
 name: data-security-specific-to-voice-webinar
 listItemTitle: Data Security Specific to Voice
-listItemImage: /img/coming-soon-defaults.png
+listItemImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
 date: 2022-08-29T20:28:16.397Z
 callToAction: Learn More
 eventDate: 2022-09-14T16:00:16.402Z
@@ -24,7 +24,7 @@ eventDescription: >-
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a><p>This
   webinar will include a panel discussion and Q&A session guided by moderator
   Oita Coleman. We look forward to sharing our findings with you!
-eventInfoImage: /img/coming-soon-defaults.png
+eventInfoImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventSessions:
