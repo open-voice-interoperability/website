@@ -1,11 +1,10 @@
-<form class="flex-ns mb3" name="newsletter" method="POST" netlify>
-
+<form class="mw6 flex-ns mb3" name="newsletter" method="POST" netlify data-netlify-recaptcha="true">
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
     <input type="hidden" name="form-name" value="newsletter" />
-    <input type="email" name ="email" id="email" placeholder="Your email" class="w-100">
+    <input type="email" required name ="email" id="email" placeholder="Your email" class="w-100">
     <label for="email">Your email</label>
   </fieldset>
-
-  <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Submit</button>
-
+  <div>
+  <button class="btn mb3 w-auto-ns mb0-ns raise" type="submit">Submit</button>
+  </div>
 </form>
