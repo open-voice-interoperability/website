@@ -26,7 +26,8 @@
         </div>
         <!-- Message -->
         {{ partial "form-input" (dict "name" "message" "title" "Your Message" "isRequired" true "type" "textarea" ) }}
-      
+         <!-- Captcha -->
+        <div data-netlify-recaptcha="true"></div>
         <!-- Button -->
         <div>
           <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
