@@ -1,46 +1,38 @@
 <!-- Contact -->
-<div class="mb4">
-  <h4 class="f3 b lh-title mb3 tc">Drop us a line below</h4>
-
-  <form action="" name="contact" netlify data-netlify-recaptcha="true">
-    <div class="flex-l mhn1-l">
-      <!-- Name -->
-      <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="hidden" name="form-name" value="contact" />
-          <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
-          <label for="name">Name</label>
-        </fieldset>
-      </div>
-      <!-- Email -->
-      <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
-          <label for="email">Email</label>
-        </fieldset>
-      </div>
+<div class="mw7 center ph3">
+  <div class="mw7 mb5">
+    <h4 class="f3 b lh-title mb3">Drop us a line below</h4>
+    <div class="mw6 br1 bg-grey-1 pa3 ba b--grey-3">
+      <form action="" name="contact" netlify data-netlify-recaptcha="true">
+        <input type="hidden" name="form-name" value="contact" />
+        <!-- Name -->
+        {{ partial "form-input" (dict "name" "name" "title" "Name" "isRequired" true "type" "text" ) }}
+        <!-- Email -->
+        {{ partial "form-input" (dict "name" "email" "title" "Email" "isRequired" true "type" "email" ) }}
+          <!-- Interest In -->
+        <div class="mw7">
+          <p class="mw7 fw7 mb2">Interest In :          
+          <div class="fl w-100">
+            <select class="input-reset w-100 bg-off-white pa2 mb2 db" name="interested" id="interested" required>
+              <option value="">Interest In</option>
+              <option value="Become a Sponsoring Member or Supporter">Become a Sponsoring Member or Supporter</option>
+              <option value="If You're a Supporter: Join an Open Voice Network Community">If You're a Supporter: Join an
+                Open Voice Network Community</option>
+              <option value="Share Research">Share Research</option>
+              <option value="News Media Inquiry">News Media Inquiry</option>
+            </select>
+          </div>
+          </p>
+        </div>
+        <!-- Message -->
+        {{ partial "form-input" (dict "name" "message" "title" "Your Message" "isRequired" true "type" "textarea" ) }}
+         <!-- Captcha -->
+        <div class="mb2" data-netlify-recaptcha="true"></div>
+        <!-- Button -->
+        <div>
+          <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+        </div>
+      </form>
     </div>
-    <fieldset class="mb2">
-      <select class="br1 w-100 db h2 f6 bg-grey-2 b--grey-2" name="interested" id="interested">
-        <option value="">Interest In</option>
-        <option value="Become a Sponsoring Member or Supporter">Become a Sponsoring Member or Supporter</option>
-        <option value="If You're a Supporter: Join an Open Voice Network Community">If You're a Supporter: Join an Open Voice Network Community</option>
-        <option value="Share Research">Share Research</option>
-        <option value="News Media Inquiry">News Media Inquiry</option>
-      </select>
-      <label for="interested">Interest In</label>
-    </fieldset>
-
-    <!-- Message -->
-    <fieldset>
-      <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
-      <label for="message">Your message</label>
-    </fieldset>
-
-    <div data-netlify-recaptcha="true"></div>
-    <!-- Button -->
-    <div class="tc">
-      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
-    </div>
-  </form>
+  </div>
 </div>

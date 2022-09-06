@@ -1,0 +1,17 @@
+<div class="mw7">
+    <p class="mw7 fw7 mb2">{{ .title }}
+        {{ if ne .type "textarea" }}
+        <input class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" 
+        id="{{.name}}" name="{{ .name }}" {{ if .isRequired }} required {{ end}}
+         type="{{ .type }}" >
+         {{ end}}
+         {{ if eq .type "textarea"}}    
+            <textarea  class="w-100 bg-off-white input-reset ba b--black-20 pa2 mb2 db" id="{{.name}}" name="{{.name}}"
+            {{ if .isRequired }} required {{ end}}
+            type="{{ .type }}" ></textarea>       
+         {{ end}}
+    </p>
+</div>
+
+
+ 

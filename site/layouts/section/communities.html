@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
+<div class="mw9 center">
 <div class="mw7 center ph3 pt4">
 
   {{ range $index, $element := .Params.communities }}
@@ -17,7 +17,7 @@
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-<div class="mw7 center ph3 pt4">
+<div class="mw7 center ph3">
 
   {{ range $index, $element := .Params.contact_us }}
     {{ if modBool $index 2 }}
@@ -27,10 +27,12 @@
     {{ end }}
   {{ end }}
 
+  {{ partial "contact-form" . }}
+
+</div>
 </div>
 
-<div class="center mw6 pv3"></div>
-{{ partial "contact-form" . }}
-</div>
+
+
 
 {{ end }}
