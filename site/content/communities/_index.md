@@ -23,21 +23,6 @@ communities:
     text: >-
       We will see change through collaboration, advocacy, and development of
       standards.
-  - heading: Developer Community
-    imageUrl: /img/1x1-white-pixel.png
-    text: >-
-      For conversational AI developers. Primary responsibilities: developing
-      technology-neutral guidance for voice designers and strategists worldwide
-      and advising the Open Voice Network Technical Committee on the issues,
-      opportunities, and requirements for proposed conversational AI technical
-      standards.
-  - heading: Designer & Strategist Community
-    imageUrl: /img/1x1-white-pixel.png
-    text: >-
-      For conversational AI designers, linguists and strategists. Primary
-      responsibility: advising the Open Voice Network Technical and Outreach
-      Committees on enterprise use cases – the value propositions (and related
-      requirements and dependencies) of conversational AI.
   - heading: Education Steering Team Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
@@ -65,5 +50,68 @@ communities:
       and dependencies, and as to the why, the what, the how, and the legal
       requirements and ethical use of conversational AI in retail and consumer
       products.
+  - heading: 'Health, Wellness, and Life Sciences Community'
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For professionals involved in the health, wellness, and life sciences
+      industries who are using or plan to incorporate conversational assistance
+      AI into their organizations and practices. Primary responsibility:
+      advising the entirety of the Open Voice Network on the best practices to
+      improve the continuum of health through the adoption of open,
+      standards-based voice technology and privacy-protected analysis of
+      voice-based data in health.
+  - heading: Media and Entertainment Community
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For members and professionals of all formats of the media and
+      entertainment industries. Primary responsibility: advising the entirety of
+      the Open Voice Network on the growing adoption of voice technology and its
+      use in various forms of media and entertainment sectors across the globe.
+  - heading: Architecture Work Group
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For speech scientists, voice developers, and voice practitioners who can
+      collaboratively address the why, the what, and the how of voice assistant
+      interoperability. Primary responsibility: advising the entirety of the
+      Open Voice Network on how might voice agents of different platforms or
+      technical parentage share dialogs, data, context, and controls.
+  - heading: Voice Registry System Work Group
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For conversational AI practitioners and developers seeking to address the
+      needs of voice-based destination findability and discoverability that will
+      emerge in a worldwide voice web. Primary responsibility: advising the
+      entirety of the Open Voice Network on how might voice users confidently
+      find and discover preferred voice agent/application destinations in a
+      worldwide voice web, and how might organizations protect their brand names
+      and brand experiences in the same environment.
+  - heading: Privacy and Security Work Group
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For privacy and data security professionals, designers, and developers who
+      wish to guide the future of voice-based privacy and security standards.
+      Primary responsibility: advising the entirety of the Open Voice Network as
+      to how user privacy is affected by the current voice environment and
+      working towards suggestions on how data from users of voice technology can
+      stay protected.
+  - heading: Synthetic Voice Study Group
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For conversational AI practitioners and developers studying, developing,
+      and creating synthetic voice. Primary responsibility: advising the
+      entirety of the Open Voice Network on the risks and benefits of synthetic
+      voice, identifying the primary constituents and stakeholders, and
+      suggesting technical standards that will benefit creators, participants,
+      and consumers.
+  - heading: Authentication Study Group
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For conversational AI practitioners and developers studying and practicing
+      the use of voice and other biometric identifiers as a means of
+      password-free authentication. Primary responsibility: advising the
+      entirety of the Open Voice Network on the current state of password-free
+      biometric authentication, identifying a best-case authentication process,
+      and suggesting what technical standards should be created for the benefit
+      of voice-centric authentication creators, participants, and consumers.
 ---
 
