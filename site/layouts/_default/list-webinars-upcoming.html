@@ -1,7 +1,7 @@
 <div class="w-100 center flex flex-row flex-wrap mb4">   
-    {{$future_events := where (where .Pages "Type" "webinars") "Params.enabled" true }}
+    {{$items := where (where .Pages "Type" "webinars") "Params.enabled" true }}
     {{ $counter := 0 }}
-    {{ range sort $future_events }}
+    {{ range sort (first 6 $items) ".Params.enddate" "desc" }} 
     {{ $endDate := time .Params.endDate }}
     {{ if ge $endDate.YearDay now.YearDay }}
     {{ $counter = add $counter 1 }}
