@@ -6,8 +6,8 @@ listItemTitle: Data Security Specific to Voice
 listItemImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
 date: 2022-08-29T20:28:16.397Z
 callToAction: Learn More
-eventDate: 2022-09-14T16:00:16.402Z
-eventEndDate: 2022-09-14T17:00:16.407Z
+eventDate: 2022-10-05T16:00:16.402Z
+eventEndDate: 2022-10-05T17:00:16.407Z
 presentersHeaderText: 'Panelists:'
 bioHeaderText: 'Panelist Bios:'
 pageHeaderBckImge: >-
@@ -16,7 +16,7 @@ eventTitle: Data Security Specific to Voice
 eventSubTitle: Moderated by Oita Coleman
 eventDescription: >-
   <p>Join members of the Open Voice Network’s Security Work Group on Wednesday,
-  14 September at 18:00 CET / 12:00 ET / 9:00 PT for a 30-minute discussion on
+  5 October at 18:00 CET / 12:00 ET / 9:00 PT for a 30-minute discussion on
   maintaining data security for voice users, focusing on their recently
   published white paper, Data Security Specific to Voice.</p><p><a
   href="https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw"
@@ -30,7 +30,7 @@ eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTR
 eventSessions:
   - presenters:
       - name: Oita Coleman – Moderator | Senior Advisor at Open Voice Network
-    timeslot: '14 September | 18:00 CET / 12:00 ET / 9:00 PT'
+    timeslot: '5 October | 18:00 CET / 12:00 ET / 9:00 PT'
     topic: Data Security Specific to Voice
 eventParticipantBios:
   - bio: >-
