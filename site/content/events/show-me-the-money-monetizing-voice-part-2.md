@@ -27,30 +27,30 @@ eventDescription: >-
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><p>Join
   us on <strong>Wednesday, 28 September at 21:00 CET // 15:00 ET // 12:00
   PT</strong> for Part 2 of the series, featuring a new panel of prominent
-  experts from the voice industry:</p><p><ul><li>- Rupal Patel, VP of Voice and
-  Accessibility at Veritone</li><li>- Brandon Kaplan, CEO at Skilled Creative &
-  Chief Innovation Officer and Co-Founder at Journey</li><li>- Allen S.
-  Firstenberg, Project Guru at Objective Consulting, Inc.</li><li>- Donald
-  Buckley – Moderator, Co-Head at Lullaboo Studios & VoiceTech
-  Advisor</li></p><p>We look forward to sharing our knowledge on the current
-  landscape of voice as it pertains to investing, increasing cash flow, and
-  redefining business. Register today for this free webinar to learn more about
-  monetizing the future of voice.</p>
+  experts from the voice industry:</p><p><ul><li>Rupal Patel, VP of Voice and
+  Accessibility, Veritone; Founder, VocaliD; Professor, Northeastern
+  University</li><li>Brandon Kaplan, CEO, Skilled Creative; Chief Innovation
+  Officer and Co-Founder, Journey</li><li>Allen S. Firstenberg, Project Guru,
+  Objective Consulting, Inc.</li><li>Donald Buckley – Moderator, Co-Head,
+  Lullaboo Studios; VoiceTech Advisor</li></p><p>We look forward to sharing our
+  knowledge on the current landscape of voice as it pertains to investing,
+  increasing cash flow, and redefining business. Register today for this free
+  webinar to learn more about monetizing the future of voice.</p>
 eventInfoImage: /img/coming-soon-defaults.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventSessions:
   - presenters:
       - name: >-
-          Donald Buckley – Moderator | Co-Head at Lullaboo Studios & VoiceTech
+          Donald Buckley – Moderator | Co-Head, Lullaboo Studios; VoiceTech
           Advisor
       - name: >-
           Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
           VocaliD; Professor, Northeastern University
       - name: >-
-          Brandon Kaplan | CEO at Skilled Creative & Chief Innovation Officer
-          and Co-Founder at Journey
-      - name: 'Allen S. Firstenberg | Project Guru at Objective Consulting, Inc.'
+          Brandon Kaplan | CEO, Skilled Creative; Chief Innovation Officer and
+          Co-Founder, Journey
+      - name: 'Allen S. Firstenberg | Project Guru, Objective Consulting, Inc.'
     timeslot: '28 September | 21:00 CET / 15:00 ET / 12:00 PT'
     topic: 'Show Me the Money – Monetizing Voice: Part 2'
 eventParticipantBios:
@@ -66,9 +66,7 @@ eventParticipantBios:
       Sciences and the Television Academy of Arts and Sciences and currently
       advisor to a number of media companies and startups in voice-tech, gaming,
       TV, content, social, data security, app development and research.
-    name: >-
-      Donald Buckley – Moderator | Co-Head at Lullaboo Studios & VoiceTech
-      Advisor
+    name: 'Donald Buckley – Moderator | Co-Head, Lullaboo Studios; VoiceTech Advisor'
     photoUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-square.jpg
   - bio: >-
       Dr. Rupal Patel is an internationally renowned speech scientist turned
