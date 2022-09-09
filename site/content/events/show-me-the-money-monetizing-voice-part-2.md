@@ -53,5 +53,38 @@ eventSessions:
       - name: 'Allen S. Firstenberg | Project Guru at Objective Consulting, Inc.'
     timeslot: '28 September | 21:00 CET / 15:00 ET / 12:00 PT'
     topic: 'Show Me the Money – Monetizing Voice: Part 2'
+eventParticipantBios:
+  - bio: >-
+      As Chief Marketing Officer of Showtime Networks Inc., Donald Buckley led
+      marketing for series including Homeland, Billions and Shameless, Showtime
+      Sports and Showtime Documentary Films. He created and led the marketing
+      organization that launched Showtime’s Streaming OTT service in 2015.
+      Previously, as Warner Bros.’ SVP, Interactive Marketing, Buckley founded
+      its Interactive Marketing department. Among the hundreds of movies
+      released during Buckley’s tenure were the Harry Potter and The Dark Knight
+      franchises. He is a member of the Academy of Motion Picture Arts and
+      Sciences and the Television Academy of Arts and Sciences and currently
+      advisor to a number of media companies and startups in voice-tech, gaming,
+      TV, content, social, data security, app development and research.
+    name: >-
+      Donald Buckley – Moderator | Co-Head at Lullaboo Studios & VoiceTech
+      Advisor
+    photoUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-square.jpg
+  - bio: >-
+      Dr. Rupal Patel is an internationally renowned speech scientist turned
+      entrepreneur, bringing decades of clinical, academic, scientific and
+      social entrepreneurship experience to Veritone. As Vice President of Voice
+      & Accessibility, Rupal leads strategy and innovation efforts in the use of
+      voice AI for media and entertainment, in addition to expanding the reach
+      and impact of Veritone’s voice solutions for those living with
+      disabilities or inequities. A preeminent thought leader in voice AI, Dr.
+      Patel advocates for ethical, transparent, and fair use policies that can
+      broaden the monetization capabilities for voiceover artists by leveraging
+      AI.
+    name: >-
+      Rupal Patel | VP of Voice and Accessibility at Veritone & Founder at
+      VocaliD & Professor at Northeastern University
+    photoUrl: >-
+      /img/open-voice-network-voice-worthy-of-user-trust-dr-rupal-patel-headshot.jpg
 ---
 
