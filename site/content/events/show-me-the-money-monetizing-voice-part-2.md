@@ -45,8 +45,8 @@ eventSessions:
           Donald Buckley – Moderator | Co-Head at Lullaboo Studios & VoiceTech
           Advisor
       - name: >-
-          Rupal Patel | VP of Voice and Accessibility at Veritone & Founder at
-          VocaliD & Professor at Northeastern University
+          Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
+          VocaliD; Professor, Northeastern University
       - name: >-
           Brandon Kaplan | CEO at Skilled Creative & Chief Innovation Officer
           and Co-Founder at Journey
