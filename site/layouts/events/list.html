@@ -2,8 +2,7 @@
     {{ $items := where .Pages "Type" "events" }}
     {{ $active_items := where (where $items "Params.archived" false ) "Params.enabled" true}}
     {{ $counter := 0 }}
-
-    {{ range first 6 $active_items}}
+    {{ range sort (first 9 $active_items) ".Params.eventdate" "asc" }} 
     {{ $eventEndDate := time .Params.eventEndDate }}
     {{ if ge $eventEndDate.YearDay now.YearDay }}
     {{ $counter = add $counter 1 }}    
