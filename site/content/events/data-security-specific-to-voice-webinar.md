@@ -3,7 +3,8 @@ archived: false
 enabled: true
 name: data-security-specific-to-voice-webinar
 listItemTitle: Data Security Specific to Voice
-listItemImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
+listItemImage: >-
+  /img/open-voice-network-voice-worthy-of-user-trust-events-data-security-specific-to-voice-webinar-thumbnail.png
 date: 2022-08-29T20:28:16.397Z
 callToAction: Learn More
 eventDate: 2022-10-05T16:00:16.402Z
