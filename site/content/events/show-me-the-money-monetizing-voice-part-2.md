@@ -82,8 +82,8 @@ eventParticipantBios:
       broaden the monetization capabilities for voiceover artists by leveraging
       AI.
     name: >-
-      Rupal Patel | VP of Voice and Accessibility at Veritone & Founder at
-      VocaliD & Professor at Northeastern University
+      Rupal Patel | VP of Voice and Accessibility, Veritone; Founder, VocaliD;
+      Professor, Northeastern University
     photoUrl: >-
       /img/open-voice-network-voice-worthy-of-user-trust-dr-rupal-patel-headshot.jpg
 ---
