@@ -16,15 +16,24 @@ pageHeaderBckImge: >-
 eventTitle: Data Security Specific to Voice
 eventSubTitle: Moderated by Oita Coleman
 eventDescription: >-
-  <p>Join members of the Open Voice Network’s Security Work Group on Wednesday,
-  5 October at 18:00 CET / 12:00 ET / 9:00 PT for a 30-minute discussion on
-  maintaining data security for voice users, focusing on their recently
-  published white paper, Data Security Specific to Voice.</p><p><a
+  <p>Voices can now be cloned and “synthesized;” well-recognized voices can be
+  taken apart and re-assembled to speak new scripts and even new languages.
+  Gamers who assume new online identities with avatars can also obtain a new,
+  unique, human-like voice – created, uniquely, to a desired tone, range, and
+  accent.</p><p>All this opens new worlds of data analysis, of potentially
+  significant benefits and risks to business and society. It also opens new
+  areas of opportunity for cybercriminals, and new data security concerns for
+  enterprise leaders.</p><p>Join members of the Open Voice Network’s Security
+  Work Group on Wednesday, 5 October at 18:00 CET / 12:00 ET / 9:00 PT for a
+  30-minute discussion on maintaining data security for voice users, focusing on
+  their recently published white paper, Data Security Specific to
+  Voice.</p><p><a
   href="https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw"
   target="_blank" ><img
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a><p>This
-  webinar will include a panel discussion and Q&A session guided by moderator
-  Oita Coleman. We look forward to sharing our findings with you!
+  webinar will include a panel discussion and Q&A session. Guided by moderator
+  Oita Coleman, the session will feature panelists Ed Sewell and Dr. Birgit
+  Popp. We look forward to sharing our findings with you!
 eventInfoImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
