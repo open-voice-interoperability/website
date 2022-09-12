@@ -3,7 +3,8 @@ archived: false
 enabled: true
 name: show-me-the-money-monetizing-voice-part-2
 listItemTitle: 'Show Me the Money – Monetizing Voice: Part 2'
-listItemImage: /img/coming-soon-defaults.png
+listItemImage: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2-placeholder.png
 date: 2022-09-09T18:40:45.266Z
 callToAction: Register Now
 eventDate: 2022-09-28T19:00:00.000Z
@@ -36,7 +37,8 @@ eventDescription: >-
   knowledge on the current landscape of voice as it pertains to investing,
   increasing cash flow, and redefining business. Register today for this free
   webinar to learn more about monetizing the future of voice.</p>
-eventInfoImage: /img/coming-soon-defaults.png
+eventInfoImage: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2-placeholder.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventSessions:
