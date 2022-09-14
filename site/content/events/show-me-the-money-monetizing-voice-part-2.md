@@ -86,5 +86,26 @@ eventParticipantBios:
       Professor, Northeastern University
     photoUrl: >-
       /img/open-voice-network-voice-worthy-of-user-trust-dr-rupal-patel-headshot.jpg
+  - bio: "When I was a kid, I used to take apart all of the electronics in the house to see what was inside. Problem is, I didn't know how to put them back together. Remote controls, trashed, vacuum cleaners, thrashed. It was then that I realized I was not going to be an engineer, but I knew that I wanted to work in technology. From there I have held different roles and started companies that have allowed me to explore technology and creativity. Skilled Creative is my latest venture, where we help our partners explore how emerging technologies like VOICE can impact their business and marketing strategies. We've worked with PepsiCo, Pfizer, Wall Street Journal, Entertainment Weekly, All Recipes, Simon & Schuster, ABI-INBEV, and a number of other great brands. \rOur Skills: Voice Experiences (Alexa/Google), Mobile AR, Computer Vision, Data Visualizations, Projection Mapping, Thermal Imaging, Robotics, RFID, Data driven experiential, and Emerging technology strategy"
+    name: >-
+      Brandon Kaplan | CEO, Skilled Creative; Chief Innovation Officer and
+      Co-Founder, Journey
+    photoUrl: /img/brandon-kaplan.jpeg
+  - bio: >-
+      By day, Allen is a Senior Project Engineer at http://spiders.com/ where
+      he's been instrumental in creating websites and mobile apps for companies
+      and organizations, ranging from the American Booksellers Association to
+      the National Science Foundation. By night he dons his super-coder cloak
+      and creates tools, software, and tutorials to help people share their
+      stories and improve their digital lives. He's also the co-author of the
+      O'Reilly book called "Designing and Developing for Google Glass." Allen is
+      both a Developer Expert for Google+ and Wearables. He was inspired to join
+      the Glass Explorers program when he realized how intimate and personal –
+      yet inherently social – Glass would be. His goal is to help people use
+      Glass to find experiences that can be achieved in no other way – whether
+      it's how they interact, play games, or just record precious moments in
+      time with their families.
+    name: 'Allen S. Firstenberg | Project Guru, Objective Consulting, Inc.'
+    photoUrl: /img/allen-s.-firstenberg.jpeg
 ---
 
