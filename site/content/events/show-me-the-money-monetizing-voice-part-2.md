@@ -28,8 +28,8 @@ eventDescription: >-
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><p>Join
   us on <strong>Wednesday, 28 September at 21:00 CET // 15:00 ET // 12:00
   PT</strong> for Part 2 of the series, featuring a new panel of prominent
-  experts from the voice industry:</p><p><ul><li>Rupal Patel, VP of Voice and
-  Accessibility, Veritone; Founder, VocaliD; Professor, Northeastern
+  experts from the voice industry:</p><p><ul><li>Dr. Rupal Patel, VP of Voice
+  and Accessibility, Veritone; Founder, VocaliD; Professor, Northeastern
   University</li><li>Brandon Kaplan, CEO, Skilled Creative; Chief Innovation
   Officer and Co-Founder, Journey</li><li>Allen S. Firstenberg, Project Guru,
   Objective Consulting, Inc.</li><li>Donald Buckley – Moderator, Co-Head,
@@ -47,7 +47,7 @@ eventSessions:
           Donald Buckley – Moderator | Co-Head, Lullaboo Studios; VoiceTech
           Advisor
       - name: >-
-          Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
+          Dr. Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
           VocaliD; Professor, Northeastern University
       - name: >-
           Brandon Kaplan | CEO, Skilled Creative; Chief Innovation Officer and
@@ -82,8 +82,8 @@ eventParticipantBios:
       broaden the monetization capabilities for voiceover artists by leveraging
       AI.
     name: >-
-      Rupal Patel | VP of Voice and Accessibility, Veritone; Founder, VocaliD;
-      Professor, Northeastern University
+      Dr. Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
+      VocaliD; Professor, Northeastern University
     photoUrl: >-
       /img/open-voice-network-voice-worthy-of-user-trust-dr-rupal-patel-headshot.jpg
   - bio: "When I was a kid, I used to take apart all of the electronics in the house to see what was inside. Problem is, I didn't know how to put them back together. Remote controls, trashed, vacuum cleaners, thrashed. It was then that I realized I was not going to be an engineer, but I knew that I wanted to work in technology. From there I have held different roles and started companies that have allowed me to explore technology and creativity. Skilled Creative is my latest venture, where we help our partners explore how emerging technologies like VOICE can impact their business and marketing strategies. We've worked with PepsiCo, Pfizer, Wall Street Journal, Entertainment Weekly, All Recipes, Simon & Schuster, ABI-INBEV, and a number of other great brands. \rOur Skills: Voice Experiences (Alexa/Google), Mobile AR, Computer Vision, Data Visualizations, Projection Mapping, Thermal Imaging, Robotics, RFID, Data driven experiential, and Emerging technology strategy"
