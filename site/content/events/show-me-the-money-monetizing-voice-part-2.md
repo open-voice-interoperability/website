@@ -38,7 +38,7 @@ eventDescription: >-
   increasing cash flow, and redefining business. Register today for this free
   webinar to learn more about monetizing the future of voice.</p>
 eventInfoImage: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2-placeholder.png
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
 eventSessions:
