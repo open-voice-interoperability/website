@@ -34,7 +34,8 @@ eventDescription: >-
   webinar will include a panel discussion and Q&A session. Guided by moderator
   Oita Coleman, the session will feature panelists Ed Sewell and Dr. Birgit
   Popp. We look forward to sharing our findings with you!
-eventInfoImage: /img/security-guidelines-specific-to-voice-webinar-temporary.png
+eventInfoImage: >-
+  /img/open-voice-network-voice-worthy-of-user-trust-events-data-security-specific-to-voice-webinar-thumbnail.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventSessions:
