@@ -37,7 +37,7 @@ eventDescription: >-
   panelists:</p><p><ul><li><strong>Dr. Birgit Popp</strong> – Group Manager,
   Team Leader User Experience, and Senior Scientist for Privacy in Speech
   Technology, Fraunhofer IIS</li><li><strong>Ed Sewell</strong> – Founder,
-  Velocity AI; Strategic Advisor at The Linux Foundation</li></p><p>We look
+  Velocity AI; Strategic Advisor, The Linux Foundation</li></p><p>We look
   forward to sharing our findings with you! Don’t miss this unique webinar
   experience.</p>
 eventInfoImage: >-
@@ -46,12 +46,12 @@ eventInfoImageLink: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventSessions:
   - presenters:
-      - name: Oita Coleman – Moderator | Senior Advisor at Open Voice Network
+      - name: 'Oita Coleman – Moderator | Senior Advisor, Open Voice Network'
       - name: >-
           Dr. Birgit Popp | Group Manager, Team Leader User Experience, and
           Senior Scientist for Privacy in Speech Technology, Fraunhofer IIS
       - name: >-
-          Ed Sewell | Founder, Velocity AI; Strategic Advisor at The Linux
+          Ed Sewell | Founder, Velocity AI; Strategic Advisor, The Linux
           Foundation
     timeslot: '5 October | 18:00 CET / 12:00 ET / 9:00 PT'
     topic: Data Security Specific to Voice
@@ -78,7 +78,7 @@ eventParticipantBios:
       women leaders from the FORTUNE 100 Best Companies to Work For. Her efforts
       were also recognized by US Black Engineer & IT Magazine as “Women Who Make
       a Difference in Technology.”
-    name: Oita Coleman – Moderator | Senior Advisor at Open Voice Network
+    name: 'Oita Coleman – Moderator | Senior Advisor, Open Voice Network'
     photoUrl: /img/open-voice-network-voice-worthy-of-user-trust-oita-coleman.jpg
   - bio: >-
       Dr. Birgit Popp is a senior scientist, an Oxford graduate with 10+years of
@@ -106,9 +106,7 @@ eventParticipantBios:
       Initiative which was launched to provide access to healthcare for mothers
       and newborns in emerging markets. He is also the founder and chief
       architect of Virtual DNA—a global cyber AI security innovation firm.
-    name: >-
-      Ed Sewell | Founder, Velocity AI; Strategic Advisor at The Linux
-      Foundation
+    name: 'Ed Sewell | Founder, Velocity AI; Strategic Advisor, The Linux Foundation'
     photoUrl: /img/ed.jpeg
 ---
 
