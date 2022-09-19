@@ -23,24 +23,36 @@ eventDescription: >-
   accent.</p><p>All this opens new worlds of data analysis, of potentially
   significant benefits and risks to business and society. It also opens new
   areas of opportunity for cybercriminals, and new data security concerns for
-  enterprise leaders.</p><p>Join members of the Open Voice Network’s Security
-  Work Group on Wednesday, 5 October at 18:00 CET / 12:00 ET / 9:00 PT for a
-  30-minute discussion on maintaining data security for voice users, focusing on
-  their recently published white paper, Data Security Specific to
-  Voice.</p><p><a
+  enterprise leaders.</p><p><a
   href="https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw"
   target="_blank" ><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a><p>This
-  webinar will include a panel discussion and Q&A session. Guided by moderator
-  Oita Coleman, the session will feature panelists Ed Sewell and Dr. Birgit
-  Popp. We look forward to sharing our findings with you!
+  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a><p>Join
+  members of the Open Voice Network’s Security Work Group on Wednesday, 5
+  October at 18:00 CET / 12:00 ET / 9:00 PT for a 30-minute discussion on
+  maintaining data security for voice users, focusing on their recently
+  published <a href="https://openvoicenetwork.org/white_papers"
+  target="_blank">white paper</a>, Data Security Specific to Voice. This webinar
+  will include a panel discussion and Q&A session. Guided by moderator Oita
+  Coleman, the webinar features a duo of esteemed
+  panelists:</p><p><ul><li><strong>Dr. Birgit Popp</strong> – Group Manager,
+  Team Leader User Experience, and Senior Scientist for Privacy in Speech
+  Technology, Fraunhofer IIS</li><li><strong>Ed Sewell</strong> – Founder,
+  Velocity AI; Strategic Advisor at The Linux Foundation</li></p><p>We look
+  forward to sharing our findings with you! Don’t miss this unique webinar
+  experience.</p>
 eventInfoImage: >-
-  /img/open-voice-network-voice-worthy-of-user-trust-events-data-security-specific-to-voice-webinar-thumbnail.png
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-data-security-specific-to-voice.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventRegisterationUrl: 'https://zoom.us/webinar/register/WN_u_sMyfZ2RkeofBEZJKTRqw'
 eventSessions:
   - presenters:
       - name: Oita Coleman – Moderator | Senior Advisor at Open Voice Network
+      - name: >-
+          Dr. Birgit Popp | Group Manager, Team Leader User Experience, and
+          Senior Scientist for Privacy in Speech Technology, Fraunhofer IIS
+      - name: >-
+          Ed Sewell | Founder, Velocity AI; Strategic Advisor at The Linux
+          Foundation
     timeslot: '5 October | 18:00 CET / 12:00 ET / 9:00 PT'
     topic: Data Security Specific to Voice
 eventParticipantBios:
@@ -68,5 +80,35 @@ eventParticipantBios:
       a Difference in Technology.”
     name: Oita Coleman – Moderator | Senior Advisor at Open Voice Network
     photoUrl: /img/open-voice-network-voice-worthy-of-user-trust-oita-coleman.jpg
+  - bio: >-
+      Dr. Birgit Popp is a senior scientist, an Oxford graduate with 10+years of
+      research experience in Psychology, Neuroscience, User Experience and
+      Privacy and 3+ years of project management experience in an industry
+      environment. She has a track record in innovation, being awarded for
+      innovative research by National Instruments and founding and evangelizing
+      new R&D activities at her company. In addition, Dr. Popp has an
+      entrepreneurial mindset: she founded a digital health start-up during her
+      PhD, and she successfully negotiated funding of R&D activities. She is
+      interested in roles such as research manager and senior scientist.
+    name: >-
+      Dr. Birgit Popp | Group Manager, Team Leader User Experience, and Senior
+      Scientist for Privacy in Speech Technology, Fraunhofer IIS
+    photoUrl: /img/birgit.jpeg
+  - bio: >-
+      Ed Sewell is an AI technology pioneer. He is also a thought leader in
+      sustainable growth market development and investments. He is the Founder
+      of Velocity AI, a global artificial intelligence network services company
+      and data marketplace. Velocity AI's mission is to build trust in AI to
+      accelerate economic growth for everyone. Ed is on the board of advisors
+      for the Voice Summit sponsored by Amazon Alexa and Google. He is also a
+      member of the NVIDIA Inception community for founders creating
+      revolutionary AI companies. Ed is the Founder of the Mobile Health ID
+      Initiative which was launched to provide access to healthcare for mothers
+      and newborns in emerging markets. He is also the founder and chief
+      architect of Virtual DNA—a global cyber AI security innovation firm.
+    name: >-
+      Ed Sewell | Founder, Velocity AI; Strategic Advisor at The Linux
+      Foundation
+    photoUrl: /img/ed.jpeg
 ---
 
