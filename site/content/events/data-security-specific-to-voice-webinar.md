@@ -81,15 +81,14 @@ eventParticipantBios:
     name: 'Oita Coleman – Moderator | Senior Advisor, Open Voice Network'
     photoUrl: /img/open-voice-network-voice-worthy-of-user-trust-oita-coleman.jpg
   - bio: >-
-      Dr. Birgit Popp is a senior scientist, an Oxford graduate with 10+years of
-      research experience in Psychology, Neuroscience, User Experience and
-      Privacy and 3+ years of project management experience in an industry
-      environment. She has a track record in innovation, being awarded for
-      innovative research by National Instruments and founding and evangelizing
-      new R&D activities at her company. In addition, Dr. Popp has an
-      entrepreneurial mindset: she founded a digital health start-up during her
-      PhD, and she successfully negotiated funding of R&D activities. She is
-      interested in roles such as research manager and senior scientist.
+      Dr. Birgit Popp is a multidisciplinary researcher, with an interest in
+      communication and a passion for measuring elusive phenomena. She studied
+      communication, linguistics, psychology, maths and graduated with a
+      doctorate in Neuroscience from the University of Oxford. Birgit leads a
+      team on Human-Machine Interaction at the Fraunhofer Institute and is an
+      expert on Privacy in conversational AI. Birgit has been awarded with
+      several research and career awards including grants by the Wellcome Trust,
+      Fraunhofer and the Friedrich-Ebert Foundation.
     name: >-
       Dr. Birgit Popp | Group Manager, Team Leader User Experience, and Senior
       Scientist for Privacy in Speech Technology, Fraunhofer IIS
