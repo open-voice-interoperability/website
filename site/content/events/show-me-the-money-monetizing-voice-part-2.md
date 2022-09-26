@@ -28,15 +28,15 @@ eventDescription: >-
   src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><p>Join
   us on <strong>Wednesday, 28 September at 21:00 CET // 15:00 ET // 12:00
   PT</strong> for Part 2 of the series, featuring a new panel of prominent
-  experts from the voice industry:</p><p><ul><li>Dr. Rupal Patel, VP of Voice
-  and Accessibility, Veritone; Founder, VocaliD; Professor, Northeastern
-  University</li><li>Brandon Kaplan, CEO, Skilled Creative; Chief Innovation
-  Officer and Co-Founder, Journey</li><li>Allen S. Firstenberg, Project Guru,
-  Objective Consulting, Inc.</li><li>Donald Buckley – Moderator, Co-Head,
-  Lullaboo Studios; VoiceTech Advisor</li></p><p>We look forward to sharing our
-  knowledge on the current landscape of voice as it pertains to investing,
-  increasing cash flow, and redefining business. Register today for this free
-  webinar to learn more about monetizing the future of voice.</p>
+  experts from the voice industry:</p><p><ul><li>Dr. Rupal Patel, Vice
+  President, Voice & Accessibility, Veritone</li><li>Brandon Kaplan, CEO,
+  Skilled Creative; Chief Innovation Officer and Co-Founder,
+  Journey</li><li>Allen S. Firstenberg, Project Guru, Objective Consulting,
+  Inc.</li><li>Donald Buckley – Moderator, Co-Head, Lullaboo Studios; VoiceTech
+  Advisor</li></p><p>We look forward to sharing our knowledge on the current
+  landscape of voice as it pertains to investing, increasing cash flow, and
+  redefining business. Register today for this free webinar to learn more about
+  monetizing the future of voice.</p>
 eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2.png
 eventInfoImageLink: 'https://zoom.us/webinar/register/WN_bQ1bcua7SY2nqvnmHR-lRg'
@@ -46,9 +46,7 @@ eventSessions:
       - name: >-
           Donald Buckley – Moderator | Co-Head, Lullaboo Studios; VoiceTech
           Advisor
-      - name: >-
-          Dr. Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
-          VocaliD; Professor, Northeastern University
+      - name: 'Dr. Rupal Patel | Vice President, Voice & Accessibility, Veritone'
       - name: >-
           Brandon Kaplan | CEO, Skilled Creative; Chief Innovation Officer and
           Co-Founder, Journey
@@ -70,20 +68,8 @@ eventParticipantBios:
       TV, content, social, data security, app development and research.
     name: 'Donald Buckley – Moderator | Co-Head, Lullaboo Studios; VoiceTech Advisor'
     photoUrl: /img/open-voice-network-ovn-ambassador-donald-buckley-square.jpg
-  - bio: >-
-      Dr. Rupal Patel is an internationally renowned speech scientist turned
-      entrepreneur, bringing decades of clinical, academic, scientific and
-      social entrepreneurship experience to Veritone. As Vice President of Voice
-      & Accessibility, Rupal leads strategy and innovation efforts in the use of
-      voice AI for media and entertainment, in addition to expanding the reach
-      and impact of Veritone’s voice solutions for those living with
-      disabilities or inequities. A preeminent thought leader in voice AI, Dr.
-      Patel advocates for ethical, transparent, and fair use policies that can
-      broaden the monetization capabilities for voiceover artists by leveraging
-      AI.
-    name: >-
-      Dr. Rupal Patel | VP of Voice and Accessibility, Veritone; Founder,
-      VocaliD; Professor, Northeastern University
+  - bio: "Dr. Rupal Patel is an internationally renowned speech scientist turned entrepreneur, bringing decades of clinical, academic, scientific and social entrepreneurship experience to Veritone. As Vice President of Voice & Accessibility, Dr. Patel is responsible for setting strategy and leading innovation efforts in the voice AI space, in addition to expanding the reach and impact of Veritone’s voice solutions for those living with disabilities or inequities. A preeminent thought leader in voice AI, Dr. Patel advocates for ethical transparent and fair use policies that can broaden the monetization capabilities for voice-over artists by leveraging AI. \r\n\n\r\n\n\r\n\n\r\n\nPrior to Veritone, Dr. Patel was the Founder and CEO of VocaliD, a voice AI company acquired by Veritone in 2022, that creates synthetic voices with personality for discerning brands that understand the power of customized voice and for individuals living with speechlessness who want to be heard in a voice that is uniquely theirs. VocaliD was a spinout from Dr. Patel’s research lab at Northeastern University, where she is a tenured Full Professor with interdisciplinary appointments in the Bouve College of Health Science and Khoury College of Computer Science. Named one of Fast Company’s 100 Most Creative People in Business, she has been featured on TED, NPR, WIRED, and in major international news and technology publications."
+    name: 'Dr. Rupal Patel | Vice President, Voice & Accessibility, Veritone'
     photoUrl: >-
       /img/open-voice-network-voice-worthy-of-user-trust-dr-rupal-patel-headshot.jpg
   - bio: "When I was a kid, I used to take apart all of the electronics in the house to see what was inside. Problem is, I didn't know how to put them back together. Remote controls, trashed, vacuum cleaners, thrashed. It was then that I realized I was not going to be an engineer, but I knew that I wanted to work in technology. From there I have held different roles and started companies that have allowed me to explore technology and creativity. Skilled Creative is my latest venture, where we help our partners explore how emerging technologies like VOICE can impact their business and marketing strategies. We've worked with PepsiCo, Pfizer, Wall Street Journal, Entertainment Weekly, All Recipes, Simon & Schuster, ABI-INBEV, and a number of other great brands. \rOur Skills: Voice Experiences (Alexa/Google), Mobile AR, Computer Vision, Data Visualizations, Projection Mapping, Thermal Imaging, Robotics, RFID, Data driven experiential, and Emerging technology strategy"
