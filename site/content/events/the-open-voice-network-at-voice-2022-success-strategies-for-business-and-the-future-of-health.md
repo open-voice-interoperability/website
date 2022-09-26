@@ -35,22 +35,23 @@ eventDescription: >-
   companies. Join us on <strong>10 October from 1:00 - 5:00PM ET</strong> for an
   afternoon about making money.</p><p><h3>Voice Technology in Health & Wellness
   – What's Now, New & Trustworthy: A Seminar for Providers, Clinicians, Payer,
-  and Advocates<br></br>Wednesday, 12 October | 1:00 – 3:00PM ET | Washington
-  Room</h3></p><p>Join clinicians, entrepreneurs, providers, academicians, and
-  payers to learn how this transformative speaking and listening digital
-  technology is being applied (today and tomorrow) to improve patient outcomes
-  and clinical efficiencies. Learn how voice and conversational AI is being
-  applied to the rapidly growing realm of remote patient monitoring and
-  management.</p><p>Some of the things you’ll learn include:</p><p><ul><li>Why,
-  where, and how conversational AI technologies are reshaping patient care and
-  clinical workflows</li><li>Voice, data, and data privacy; biometrics,
-  biomarkers, and third-party data collectors, and what you must do about
-  it</li><li>The multiple levels of conversational AI value in remote and
-  continuous care; where and how to get started</li><li>The people and the
-  organizations you need to know, and how to get involved</li></ul></p><p>Don’t
-  miss these unique events hosted by the Open Voice Network and others at the
-  VOICE 2022 summit. <a href=https://www.voicesummit.ai/tickets
-  target="_blank">Click here> to purchase your conference tickets now.
+  and Advocates</h3><br><h4>Wednesday, 12 October | 1:00 – 3:00PM ET |
+  Washington Room</h4></p><p>Join clinicians, entrepreneurs, providers,
+  academicians, and payers to learn how this transformative speaking and
+  listening digital technology is being applied (today and tomorrow) to improve
+  patient outcomes and clinical efficiencies. Learn how voice and conversational
+  AI is being applied to the rapidly growing realm of remote patient monitoring
+  and management.</p><p>Some of the things you’ll learn
+  include:</p><p><ul><li>Why, where, and how conversational AI technologies are
+  reshaping patient care and clinical workflows</li><li>Voice, data, and data
+  privacy; biometrics, biomarkers, and third-party data collectors, and what you
+  must do about it</li><li>The multiple levels of conversational AI value in
+  remote and continuous care; where and how to get started</li><li>The people
+  and the organizations you need to know, and how to get
+  involved</li></ul></p><p>Don’t miss these unique events hosted by the Open
+  Voice Network and others at the VOICE 2022 summit. <a
+  href=https://www.voicesummit.ai/tickets target="_blank">Click here to purchase
+  your conference tickets now.</a>
 eventInfoImage: >-
   /img/the-open-voice-network-at-voice-2022-success-strategies-for-business-and-the-future-of-health-thumbnail.png
 eventInfoImageLink: 'https://www.voicesummit.ai/ovon-at-voice-22'
