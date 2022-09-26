@@ -10,7 +10,7 @@ date: 2022-09-26T20:30:57.957Z
 callToAction: Learn More
 eventDate: 2022-10-10T17:00:57.974Z
 eventEndDate: 2022-10-12T23:00:57.991Z
-presentersHeaderText: 'Sessions:'
+presentersHeaderText: 'Speakers:'
 bioHeaderText: ''
 pageHeaderBckImge: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-temporary-header.png
@@ -23,8 +23,8 @@ eventDescription: >-
   discussion will shed light on how conversational AI can become worthy of user
   trust in business and in the ever-evolving future of patient care and
   experience.</p><p><h3>Bootcamp: Voice in Business Strategies You Can Take to
-  the Bank<br></br>Monday, 10 October | 1:00 – 5:00PM ET | Ballroom
-  A</h3></p><p>The big question—one asked by CFOs, brand marketers, and
+  the Bank</h3><br><h4>Monday, 10 October | 1:00 – 5:00PM ET | Ballroom
+  A</h4></p><p>The big question—one asked by CFOs, brand marketers, and
   independent voice developers and strategists—where and how does voice create
   quantifiable and sustainable value? Where and how will an investment in voice
   bring greater returns than an investment in something else?</p><p>These and
@@ -56,9 +56,35 @@ eventInfoImage: >-
 eventInfoImageLink: 'https://www.voicesummit.ai/ovon-at-voice-22'
 eventRegisterationUrl: 'https://www.voicesummit.ai/ovon-at-voice-22'
 eventSessions:
-  - timeslot: 'Bootcamp: Voice in Business Strategies You Can Take to the Bank'
+  - presenters:
+      - name: Hans van Dam
+      - name: Shyamala Prayaga
+      - name: Dr. Deborah Dahl
+      - name: Oita Coleman
+      - name: Gwen Morrison
+      - name: Christian Wuttke
+      - name: Olga Howard
+      - name: Sean King
+      - name: Boris Volfson
+      - name: Susan Westwater
+      - name: Otto Söderlund
+      - name: John Campbell
+      - name: Michael Novak
+      - name: Jon Stine
+      - name: Heath Leigh Flannery
+      - name: Joseph Pagano
+    timeslot: 'Bootcamp: Voice in Business Strategies You Can Take to the Bank'
     topic: 'Monday, 10 October | 1:00 – 5:00PM ET | Ballroom A'
-  - timeslot: >-
+  - presenters:
+      - name: Dr. Yaa Kumah-Crystal
+      - name: Dr. Emre Sezgin
+      - name: Shaun Mitra
+      - name: Freddie Feldman
+      - name: Dr. David Metcalf
+      - name: Audrie Arbeeny
+      - name: Dr. Yared Alemu
+      - name: Harry P. Pappas
+    timeslot: >-
       Voice Technology in Health & Wellness – What's Now, New & Trustworthy: A
       Seminar for Providers, Clinicians, Payer, and Advocates
     topic: 'Wednesday, 12 October | 1:00 – 3:00PM ET | Washington Room'
