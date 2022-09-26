@@ -73,8 +73,8 @@ eventSessions:
       - name: Jon Stine
       - name: Heath Leigh Flannery
       - name: Joseph Pagano
-    timeslot: 'Bootcamp: Voice in Business Strategies You Can Take to the Bank'
-    topic: 'Monday, 10 October | 1:00 – 5:00PM ET | Ballroom A'
+    timeslot: 'Monday, 10 October | 1:00 – 5:00PM ET | Ballroom A'
+    topic: 'Bootcamp: Voice in Business Strategies You Can Take to the Bank'
   - presenters:
       - name: Dr. Yaa Kumah-Crystal
       - name: Dr. Emre Sezgin
@@ -84,9 +84,9 @@ eventSessions:
       - name: Audrie Arbeeny
       - name: Dr. Yared Alemu
       - name: Harry P. Pappas
-    timeslot: >-
+    timeslot: 'Wednesday, 12 October | 1:00 – 3:00PM ET | Washington Room'
+    topic: >-
       Voice Technology in Health & Wellness – What's Now, New & Trustworthy: A
       Seminar for Providers, Clinicians, Payer, and Advocates
-    topic: 'Wednesday, 12 October | 1:00 – 3:00PM ET | Washington Room'
 ---
 
