@@ -155,6 +155,15 @@ hardsell:
       - image: img/supporter_logos/outriderUX-logo.png
         link: "https://outriderux.com/"
         alt: "Outrider UX"
+      - image: img/supporter_logos/briocare-inc.png
+        link: "https://www.briocare.us/"
+        alt: "BrioCare"
+      - image: img/supporter_logos/intelligent-futures-research-lab.png
+        link: "https://emresezg.wixsite.com/ifrl"
+        alt: "Intelligent Futures Research Lab"
+      - image: img/supporter_logos/giantleap-industries.jpg
+        link: "https://www.giantleapindustries.com"
+        alt: "Giantleap Industries"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
