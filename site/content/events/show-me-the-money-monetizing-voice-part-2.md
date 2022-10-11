@@ -6,7 +6,7 @@ listItemTitle: 'Show Me the Money – Monetizing Voice: Part 2'
 listItemImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-webinar-show-me-the-money-monetizing-voice-part-2-placeholder.png
 date: 2022-09-09T18:40:45.266Z
-callToAction: Register Now
+callToAction: Learn More
 eventDate: 2022-09-28T19:00:00.000Z
 eventEndDate: 2022-09-28T19:45:45.280Z
 presentersHeaderText: 'Panelists:'
