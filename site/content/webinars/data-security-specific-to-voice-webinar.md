@@ -6,7 +6,8 @@ enabled: true
 title: Data Security Specific to Voice
 imageUrl: >-
   /img/open-voice-network-voice-worthy-of-user-trust-events-data-security-specific-to-voice-webinar-thumbnail.png
-callToAction: Register Now
+videoUrl: 'https://www.youtube.com/embed/lmbxdyCJxhs?rel=0'
+callToAction: ''
 callToActionEvent: data-security-specific-to-voice-webinar
 ---
 
