@@ -164,6 +164,9 @@ hardsell:
       - image: img/supporter_logos/giantleap-industries.jpg
         link: "https://www.giantleapindustries.com"
         alt: "Giantleap Industries"
+      - image: img/supporter_logos/universite-de-montreal.png
+        link: "https://www.umontreal.ca/"
+        alt: "Université de Montréal"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
