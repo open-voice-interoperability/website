@@ -9,7 +9,7 @@ date: 2022-10-28T20:46:27.736Z
 callToAction: Register Now
 eventDate: 2022-11-09T15:00:27.745Z
 eventEndDate: 2022-11-09T18:00:27.753Z
-presentersHeaderText: 'Presenters:'
+presentersHeaderText: ''
 bioHeaderText: 'Presenter Bios:'
 pageHeaderBckImge: /img/ovn-event-principles-header.png
 eventTitle: 2022 Interoperability Workshop
@@ -34,9 +34,9 @@ eventDescription: >-
   into-the-woods discussion of foundational architectural patterns and
   terms.</i></li><li><strong>What’s next:</strong><i> where it’s going, and how
   you can get involved.</i></li></ul></p><p><a
-  href=https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR
-  target=”_blank”><img src
-  =”/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><h3>DRAFT
+  href="https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR"
+  target="_blank"><img src
+  ="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><h3>DRAFT
   AGENDA</h3><br></br><img src="/img/table.png">
 eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-interoperability-workshop.png
