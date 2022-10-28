@@ -24,7 +24,7 @@ eventDescription: >-
   what,</i></strong> and <strong><u><i>into-the-details how</u></i></strong>
   (including a first look at proposed core architectural patterns and
   terms).</p><h3>The Open Voice Network 2022 Interoperability
-  Workshop<h3><br></br>Wednesday 9 November 16:00 CET / 10:00 EST / 07:00
+  Workshop<h3><br>Wednesday 9 November 16:00 CET / 10:00 EST / 07:00
   PST</h3><p>Open to all. Especially those who dream of a worldwide voice web.
   Of building once and using in multiple places. Of freely reaching all
   customers and constituents. Of data respect and data protection.</p><p>We’ll
