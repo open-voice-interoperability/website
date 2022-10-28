@@ -36,8 +36,8 @@ eventDescription: >-
   you can get involved.</i></li></ul></p><p><a
   href=https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR
   target=”_blank”><img src
-  =”/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><h3>WEDNESDAY
-  9 NOVEMBER 2022</h3>
+  =”/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><h3>DRAFT
+  AGENDA</h3><br></br><img src="/img/table.png">
 eventInfoImage: >-
   /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-interoperability-workshop.png
 eventInfoImageLink: 'https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR'
