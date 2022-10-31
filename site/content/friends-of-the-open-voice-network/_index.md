@@ -167,6 +167,9 @@ hardsell:
       - image: img/supporter_logos/universite-de-montreal.png
         link: "https://www.umontreal.ca/"
         alt: "Université de Montréal"
+      - image: img/supporter_logos/david-gilbert-voice-over-ltd.png
+        link: "https://www.davidgilbertvoiceover.com/"
+        alt: " David Gilbert Voice Over"
   - description: >-
       The world of voice assistance is rapidly growing. So must opportunities
       for voice entrepreneurs and innovations.  Bringing choice, openness, and
