@@ -13,7 +13,7 @@ resources:
     buttonText: Learn More
     feedBackUrl: 'mailto:whitepapers@openvoicenetwork.groups.io'
     image: >-
-      /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v1-white-paper-graphic.png
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-white-papers-interoperability-of-conversational-assistants-v1.1-white-paper-graphic.png
     resourceType: WhitePaper
     text: >-
       Read the v1.0 white paper created by our Architecture Work Group and email
