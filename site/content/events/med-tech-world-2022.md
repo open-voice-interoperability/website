@@ -27,16 +27,17 @@ eventDescription: >-
   Monitoring, and drive down healthcare costs. Furthermore, the seminar will
   touch upon regulation regarding voice, data privacy, and what healthcare
   providers must do about biometrics, biomarkers, and third-party data
-  collectors.</p><p>Speaking and listening digital technology is being applied
-  to medical systems across the world, revolutionizing patient outcomes and
-  clinical efficiencies. A topic of major importance is its application to the
-  rapidly growing realm of Remote Patient Monitoring and
-  Management.</p><p>Visitors are invited to join the discussions and absorb the
-  latest insights on how new technologies are improving workflow efficiencies
-  and patient outcomes for all. This event remains the premier opportunity to
-  network with the thought leaders in the field.</p><p><a
-  href="https://med-tech.world/open-voice-network/" target="_blank"><img
-  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p>
+  collectors.</p><p><a href="https://med-tech.world/open-voice-network/"
+  target="_blank"><img
+  src="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><p>Speaking
+  and listening digital technology is being applied to medical systems across
+  the world, revolutionizing patient outcomes and clinical efficiencies. A topic
+  of major importance is its application to the rapidly growing realm of Remote
+  Patient Monitoring and Management.</p><p>Visitors are invited to join the
+  discussions and absorb the latest insights on how new technologies are
+  improving workflow efficiencies and patient outcomes for all. This event
+  remains the premier opportunity to network with the thought leaders in the
+  field.</p>
 eventInfoImage: /img/med-tech-world-social-graphic.png
 eventInfoImageLink: 'https://med-tech.world/open-voice-network/'
 eventRegisterationUrl: 'https://med-tech.world/open-voice-network/'
