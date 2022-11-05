@@ -11,7 +11,8 @@ resources:
   - buttonLink: >-
       https://drive.google.com/file/d/1w8IdEvEtwUZsdh_U5TTjOu9jzHpCKjJl/view?usp=sharing
     buttonText: Learn More
-    image: /img/coming-soon-defaults.png
+    image: >-
+      /img/open-voice-network-ovon-voice-worthy-of-user-trust-resources-interoperability-architectural-patterns-initial-thoughts-publication-document.png
     text: Interoperability Architectural Patterns - Initial Thoughts
     title: Interoperability Architectural Patterns - Initial Thoughts
   - buttonLink: >-
