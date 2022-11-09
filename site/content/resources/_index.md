@@ -9,7 +9,7 @@ intro: >-
   selection of white papers.
 resources:
   - buttonLink: >-
-      https://drive.google.com/file/d/1w8IdEvEtwUZsdh_U5TTjOu9jzHpCKjJl/view?usp=sharing
+      https://docs.google.com/document/d/1EU0qLlSjJXwBofVfVkN5xTjok8aoDxji/edit?usp=sharing&ouid=111114552633776702467&rtpof=true&sd=true
     buttonText: Learn More
     image: >-
       /img/open-voice-network-ovon-voice-worthy-of-user-trust-resources-interoperability-architectural-patterns-initial-thoughts-publication-document.png
