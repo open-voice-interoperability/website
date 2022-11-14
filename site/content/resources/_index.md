@@ -9,13 +9,6 @@ intro: >-
   selection of white papers.
 resources:
   - buttonLink: >-
-      https://docs.google.com/document/d/1EU0qLlSjJXwBofVfVkN5xTjok8aoDxji/edit?usp=sharing&ouid=111114552633776702467&rtpof=true&sd=true
-    buttonText: Learn More
-    image: >-
-      /img/open-voice-network-ovon-voice-worthy-of-user-trust-resources-interoperability-architectural-patterns-initial-thoughts-publication-document.png
-    text: Interoperability Architectural Patterns - Initial Thoughts
-    title: Interoperability Architectural Patterns - Initial Thoughts
-  - buttonLink: >-
       https://drive.google.com/file/d/15GEequrmi7gscHDoWy9X9pNZoLAK7OJ0/view?usp=sharing
     buttonText: Learn More
     feedBackUrl: 'mailto:whitepapers@openvoicenetwork.groups.io'
