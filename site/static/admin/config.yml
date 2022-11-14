@@ -173,6 +173,30 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/publications/_index.md"
+        label: "Publications Page"
+        name: "publications"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Jumbotron Style, name: jumboClass, widget: string}
+          - {label: Heading, name: heading, widget: string, required: false}
+          - {label: Intro, name: intro, widget: string, required: false}
+          - {label: TopSectionHeading, name: topSectionHeading, widget: string, required: false}
+          - {label: TopSectionHeadingIntro, name: topSectionHeadingIntro, widget: string, required: false}
+          - {label: BottomSectionHeading, name: bottomSectionHeading, widget: string, required: false}
+          - {label: BottomSectionHeadingIntro, name: bottomSectionHeadingIntro, widget: string, required: false}
+          - label: Publications
+            name: publications
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: image, widget: image}
+              - {label: Button Text, name: buttonText, widget: string, required: false} 
+              - {label: Button Link, name: buttonLink, widget: string}
+              - {label: Type, name: resourceType, widget: select, options: ["WhitePaper", "Video"], required: false} 
+              - {label: Feedback Url, name: feedBackUrl, widget: string, required: false} 
       - file: "site/content/resources/_index.md"
         label: "Resources Page"
         name: "resources"

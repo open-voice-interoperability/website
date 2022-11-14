@@ -1,0 +1,28 @@
+{{ define "main" }} 
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="bg-off-white pt4">
+	<div class="mw7 center">
+		<h2 class="f2 b lh-title mb2">{{.Params.heading}}</h2>
+		<p class="mb4 mw6">{{.Params.intro | markdownify}}</p>
+	</div>
+</div>
+
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .Params.publications }}
+				<div class="ph2-ns w-50-ns mb4">
+					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 500px; height: 300px">
+					<div class="tc">
+					  <p>{{ .text }}</p>
+						<a href="{{.buttonLink}}" target="_blank"  rel= "noopener" class="btn raise">{{.buttonText}}</a>
+					</div>
+				</div>
+			{{ end }}
+		</div>
+  </div>
+</div>
+
+{{ end }}
