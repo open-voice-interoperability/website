@@ -3,17 +3,17 @@ archived: false
 enabled: true
 name: 2022-interoperability-workshop
 listItemTitle: 2022 Interoperability Workshop
-listItemImage: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-ovon-interoperability-workshop-graphic-1.png
+listItemImage: /img/table.png
 date: 2022-10-28T20:46:27.736Z
 callToAction: Register Now
 eventDate: 2022-11-09T15:00:27.745Z
 eventEndDate: 2022-11-09T18:00:27.753Z
 presentersHeaderText: ''
 bioHeaderText: 'Presenter Bios:'
-pageHeaderBckImge: /img/ovn-event-principles-header.png
-eventTitle: 2022 Interoperability Workshop
-eventSubTitle: Interoperability of Conversational Assistants
+pageHeaderBckImge: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-ovon-interoperability-workshop-graphic-1.png
+eventTitle: ''
+eventSubTitle: ''
 eventDescription: >-
   <h3>One day, two+ hours. A deep-dive look into the open, interoperable future
   of voice.</h3><p>This is for developers, for content owners, for consumer IOT
