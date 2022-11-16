@@ -3,9 +3,10 @@ archived: false
 enabled: true
 name: 2022-interoperability-workshop
 listItemTitle: 2022 Interoperability Workshop
-listItemImage: /img/table.png
+listItemImage: >-
+  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-ovon-interoperability-workshop-graphic-1.png
 date: 2022-10-28T20:46:27.736Z
-callToAction: Register Now
+callToAction: Learn More
 eventDate: 2022-11-09T15:00:27.745Z
 eventEndDate: 2022-11-09T18:00:27.753Z
 presentersHeaderText: ''
@@ -38,8 +39,7 @@ eventDescription: >-
   target="_blank"><img src
   ="/img/open-voice-network-ovon-voice-worthy-of-user-trust-webinars-register-now-button-1.png"></a></p><h3>DRAFT
   AGENDA</h3><br><img src="/img/table.png">
-eventInfoImage: >-
-  /img/open-voice-network-ovon-voice-worthy-of-user-trust-events-2022-ovon-interoperability-workshop-graphic-1.png
+eventInfoImage: /img/table.png
 eventInfoImageLink: 'https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR'
 eventRegisterationUrl: 'https://zoom.us/meeting/register/tJIscuCrrjgrHtwC67_lbODl0vz9prO4Y1vR'
 eventParticipantBios:
