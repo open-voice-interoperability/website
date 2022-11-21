@@ -11,4 +11,4 @@ description: >-
   achieving interoperability. It also builds upon their initial white paper,
   "Interoperability of Conversational Assistants."
 ---
-<a href="https://openvoicenetwork.org/resources" target="_blank">Click here</a> to find the document and other informative resources from the Open Voice Network.
+<a href="https://openvoicenetwork.org/publications" target="_blank">Click here</a> to find the document and other recent publications from the Open Voice Network.
